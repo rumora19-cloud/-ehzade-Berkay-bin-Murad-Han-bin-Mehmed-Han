@@ -9,7 +9,7 @@
 |---|---|---|---|---|
 | B0 | 11 Kas 1444 Çar · Varna ordugâhı | Sinan (defter) | Ahvâl Defteri'nin yazıldığı sabah; Zeyl'deki rüya rivayeti | `karakter/sehzade-berkay-ahval-defteri.md` |
 | 1 | 10 Kas 1444 Salı · Varna | Berkay | Ok; Koca Hızır; "Kral Vuran Şehzade"; Lala'nın hendek başına gelişi — **✎ taslak yazıldı: `kitap-1-cinar/01-saf-beni-gecti.md`** | K01 §3; defter §XI–XIII |
-| 2 | Ara 1444 – 1445 · Manisa | Murad / Akşemseddin | Babanın gölgesinde sancak; rüyanın Akşemseddin'e açılışı; Mehmed Edirne'de sultan | K01; `04-yerler/manisa-saruhan.md` |
+| 2 | Mar–May 1445 · Manisa | Murad / Akşemseddin | Babanın gölgesinde sancak; rüyanın Akşemseddin'e açılışı; Mehmed Edirne'de sultan — **✎ taslak yazıldı: `kitap-1-cinar/02-golge.md`** | K01 §4; `04-yerler/manisa-saruhan.md` |
 | 3 | May–Eyl 1446 · Edirne | Mehmed | Buçuktepe; Murad'ın dönüşü; ikizlerin yer değişimi (Mehmed Manisa'ya, Berkay Amasya'ya); Kurtçu Doğan ağa | K01 §4–5 |
 | 4 | 17–19 Eki 1448 · Kosova | Lala | İkinci Kosova; Hunyadi'nin kaçışı; Berkay'ın ilk kol komutası | K01 §6; `04-yerler/diger-sancaklar…` §B |
 | 5 | Eyl 1449 – 1450 · Bursa, Amasya | Berkay | Hüma'nın ölümü (Bursa Muradiye); Meryem Hatun; nikâh (1450) | `03-kisiler/hanedan-ii-murad-ailesi.md`; `04-yerler/amasya.md` |

@@ -5,7 +5,7 @@
 | `00-ana-hat.md` | **Kurgunun anayasası:** üç padişahlık kavis (Berkay 1451–81 → II. Orhan 1481–1512 → Selim 1512–20), padişah sayısı, bütün kararlar (✔ yazar / ⚙ kâtip), temalar, anlatıcı önerisi, kalan boşluklar. |
 | `01-catal-noktalari.md` | Yıl yıl "gerçekte → bizde" tablosu (✔ aynı · ✎ değişti · ✖ silindi · ★ yeni); her satır `kaynaklar/01-kronoloji` dosyalarına bağlı. |
 | `02-bolum-plani.md` | ✔ Onaylı plan: üç kitap, 34 bölüm + epilog — tarih, mekân, göz, olay, kaynak dosya. |
-| `kitap-1-cinar/` | **Bölüm metinleri** (Kitap I). Dosya adı: `NN-kisa-baslik.md`; her bölüm künye ile başlar, "⚑ Çatal ve kâtip notları" tablosuyla biter. İlk bölüm: `01-saf-beni-gecti.md` (Varna, 10 Kasım 1444). |
+| `kitap-1-cinar/` | **Bölüm metinleri** (Kitap I). Dosya adı: `NN-kisa-baslik.md`; her bölüm künye ile başlar, "⚑ Çatal ve kâtip notları" tablosuyla biter. Yazılanlar: `01-saf-beni-gecti.md` (Varna, 10 Kasım 1444), `02-golge.md` (Manisa, Mart–Mayıs 1445: Murad ve Akşemseddin). |
 | `notlar/` | Sahne araştırma notları, taslaklar (boş). |
 
 Kişiler: `../karakter/` — Berkay'ın defteri (+ Zeyl: Murad'ın rüyası), tashih, Berkay soyu, Mehmed soyu, çevre kişiler.
