@@ -37,12 +37,15 @@ Kapsanan dönem: **11 Kasım 1444** (Varna Zaferi'nin ertesi günü) — **1520*
 | Kaynak kataloğu (birincil) | ✅ ilk sürüm |
 | Genel zaman çizelgesi 1444–1520 | ✅ ilk sürüm |
 | II. Murad ikinci saltanatı 1444–1451 (ayrıntılı) | ✅ ilk sürüm |
-| Fâtih dönemi 1451–1481 (ayrıntılı) | ⏳ sırada |
-| II. Bayezid dönemi 1481–1512 (ayrıntılı) | ⏳ |
-| Yavuz dönemi 1512–1520 (ayrıntılı) | ⏳ |
+| Fâtih dönemi 1451–1481 (ayrıntılı) | ✅ ilk sürüm (yıl yıl; §13 hikâye düğümleri) |
+| II. Bayezid dönemi 1481–1512 (ayrıntılı) | ✅ ilk sürüm |
+| Yavuz dönemi 1512–1520 (ayrıntılı) | ✅ ilk sürüm |
 | Şehzadelik sistemi | ✅ ilk sürüm |
 | Hanedan (II. Murad ailesi) | ✅ ilk sürüm (doğrulanacak maddeler işaretli) |
-| Saray, ordu, günlük hayat, yerler | ⏳ |
+| Yerler (Edirne, Bursa, Manisa, Amasya, İstanbul, sancaklar, savaş alanları, yol süreleri) | ✅ ilk sürüm |
+| Kurumlar (ordu; saray–divan–devlet; hitap kılavuzu) | ✅ ilk sürüm |
+| Günlük hayat (takvim tablosu 1444–1521, para, tıp, kıyafet–yemek–meclis, dil–inanç) | ✅ ilk sürüm |
+| Hanedan ve kişiler 1451–1520; kaynak × dönem matrisi | ✅ ilk sürüm |
 | Karakter dosyası (Ahvâl Defteri) | ✅ işlendi (`karakter/berkay-celebi-ahval-defteri.md`) |
 | Karakter dosyasının tarihî tashihi | ✅ ilk sürüm (`karakter/tashih-notlari.md`) — yazar onayı bekleniyor |
 

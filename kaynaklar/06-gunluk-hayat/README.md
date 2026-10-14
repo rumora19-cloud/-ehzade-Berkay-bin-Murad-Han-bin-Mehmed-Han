@@ -1,3 +1,11 @@
 # Günlük Hayat
 
-Sırada: `dil-ve-hitap.md`, `kiyafet-kumas.md`, `yemek-sofra.md`, `takvim-ve-zaman.md` (hicrî–milâdî dönüşüm tablosu 848–927), `para-ve-fiyatlar.md`, `hastalik-ve-tip.md` (veba dalgaları 1448, 1455, 1467, 1492, 1511…), `av-cirit-ok.md`, `musiki-ve-meclis.md`, `tasavvuf-cevreleri.md`.
+| Dosya | İçerik |
+|---|---|
+| `takvim-ve-zaman.md` | Hicrî aylar ve kandiller; ezanî saat; Hızır–Kasım mevsim takvimi; **848–927 (1444–1521) dönüşüm tablosu** (1 Muharrem, Ramazan, bayramlar, 27 Receb, Berkay'ın yaşı — altı kontrol tarihiyle doğrulanmış) |
+| `para-ve-fiyatlar.md` | Akçe–duka kurları (1444/1481/1512), tağşişler, gelirler (padişahtan ırgata), yiyecek ve mal fiyatları, ölçüler, haraçlar |
+| `hastalik-ve-tip.md` | Veba dalgaları tablosu (1448–1520), hanedanın ölüm sebepleri, nikris, hekimler ve dârüşşifâlar, halk tıbbı, yaşlılık ve ölüm âdetleri |
+| `kiyafet-yemek-meclis.md` | Erkek/kadın kıyafeti, sarık–börk–tac, kürkler; saray mutfağı ve yemekler (anakronizm listesi: kahve, tütün, domates yok); sofra; meclis, mûsikî, şiir, av, güreş, düğün; ev eşyası |
+| `dil-hitap-ve-inanc-cevreleri.md` | 15. yy Türkçesi kelime–ek listesi; diller (Türkçe, Farsça, Arapça, Rumca, Slavca, İtalyanca); hat ve belge türleri; tarikatlar tablosu (Bayramî, Zeynî, Halvetî, Mevlevî, Nakşî, Bektaşî–Kalenderî, Hurûfî, Bedreddinî, Kızılbaş); günlük dindarlık ve hurafe |
+
+Hitap ve teşrifat için ayrıca: `../05-kurumlar/saray-divan-ve-devlet-1444-1520.md` §7.

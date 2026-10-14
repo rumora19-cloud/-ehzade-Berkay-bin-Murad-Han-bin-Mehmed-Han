@@ -10,14 +10,32 @@
 | Berkay'ın defteri kaynaklarla nerede uyuşuyor, nerede ayrılıyor? | `../karakter/tashih-notlari.md` (karakter dosyası: `../karakter/berkay-celebi-ahval-defteri.md`) |
 | Varna'da kim hangi koldaydı, kim şehit düştü, hangi gün hangi haftanın günüydü? | `01-kronoloji/01-ii-murad-ikinci-saltanat-1444-1451.md` §3 |
 | Varna sonrası, Mehmed'in ilk saltanatı, Buçuktepe, II. Kosova, Murad'ın ölümü | `01-kronoloji/01-ii-murad-ikinci-saltanat-1444-1451.md` |
-| Fâtih dönemi ayrıntısı (1451–1481) | `01-kronoloji/02-fatih-donemi-1451-1481.md` *(hazırlanıyor)* |
-| II. Bayezid dönemi, Cem Sultan, şehzade kavgaları (1481–1512) | `01-kronoloji/03-ii-bayezid-donemi-1481-1512.md` *(hazırlanıyor)* |
-| Yavuz dönemi (1512–1520) | `01-kronoloji/04-yavuz-selim-donemi-1512-1520.md` *(hazırlanıyor)* |
+| Fâtih dönemi ayrıntısı (1451–1481): cülûs, fetih günü günü, seferler, Mustafa'nın ölümü, Mahmud Paşa, Otranto, Fâtih'in ölümü | `01-kronoloji/02-fatih-donemi-1451-1481.md` |
+| Fâtih'in vezirleri, eşleri, çocukları, hocaları; Fâtih'in portresi | `01-kronoloji/02-fatih-donemi-1451-1481.md` §11–12 |
+| 1451–1520 arasında hangi kaynak hangi yılları görmüş (Tursun Bey, Kritovulos, Angiolello, Haydar Çelebi, İbn İyâs…)? | dönem dosyalarının §0 tabloları |
+| II. Bayezid dönemi, Cem Sultan, Memlük ve Venedik savaşları, 1509 depremi, Şahkulu, Selim'in isyanı (1481–1512) | `01-kronoloji/03-ii-bayezid-donemi-1481-1512.md` |
+| Bayezid'in oğulları hangi sancakta, ne zaman öldü? | `01-kronoloji/03-ii-bayezid-donemi-1481-1512.md` §2, §8 |
+| Yavuz dönemi (1512–1520): kardeş–yeğen katli, Çaldıran, Amasya kışı, Mercidâbık, Ridâniye, Kahire, Kudüs, ölüm | `01-kronoloji/04-yavuz-selim-donemi-1512-1520.md` |
+| Berkay 1451–1520 arasında hangi olayın neresinde olabilir? | dönem dosyalarının 🎭 bölümleri (02 §13, 03 §10, 04 §12) |
 | Hangi kronik neyi anlatır, nerede bulunur, ne kadar güvenilir? | `02-birincil-kaynaklar/00-katalog.md` |
 | II. Murad'ın eşleri, oğulları, kızları; Mehmed'in kardeşleri | `03-kisiler/hanedan-ii-murad-ailesi.md` |
 | 1444–1451 vezirleri, beylerbeyileri, uç beyleri, lalalar, hocalar | `03-kisiler/devlet-adamlari-1444-1451.md` |
 | Şehzade nasıl yetişir, sancağa nasıl çıkar, lala kimdir, kardeş katli | `05-kurumlar/sehzadelik-sistemi.md` |
 | Dönem terimleri (akçe, has, timar, kapıkulu, nişancı…) | `07-sozluk/sozluk.md` |
+| Bu yıl için hangi kaynağa bakayım? (kaynak × dönem matrisi; ilk bakılacaklar listesi) | `02-birincil-kaynaklar/01-kaynak-donem-matrisi.md` |
+| Fâtih'in, Bayezid'in, Selim'in eşleri ve çocukları; Berkay'ın yeğenleriyle yaş farkları | `03-kisiler/hanedan-1451-1520.md` |
+| 1451–1520 vezirleri, ulemâ, şeyhler, sanatçılar, yabancı hükümdarlar (Mahmud Paşa, Gedik Ahmed, Ali Kuşçu, Vlad, Hunyadi, Mara Hatun…) | `03-kisiler/kisiler-1451-1520.md` |
+| Edirne'nin sarayları, mahalleleri, 1444'teki hâli | `04-yerler/edirne.md` |
+| Bursa (hanedan mezarlığı, Cem'in 18 günü), Manisa/Saruhan (sancak sarayı, kazalar), Amasya (şehzâde şehri, Halvetîler) | `04-yerler/bursa.md`, `04-yerler/manisa-saruhan.md`, `04-yerler/amasya.md` |
+| Fetihten sonra İstanbul: iskân, saraylar, külliyeler, mahalleler, nüfus | `04-yerler/istanbul-1453-1520.md` |
+| Diğer sancaklar; **savaş alanlarının coğrafyası** (Varna, Kosova, Belgrad, Otlukbeli, Çaldıran…); **yol süreleri** (Edirne–Bursa kaç gün?) | `04-yerler/diger-sancaklar-ve-savas-alanlari.md` §B–C |
+| Ordu: sayılar, yeniçeri, sipahi, akıncı, top, sefer düzeni, Türk yayı | `05-kurumlar/ordu-1444-1520.md` |
+| Saray teşkilâtı, Dîvân, vezir/kazasker/müftü listeleri, vergiler, hazine, **hitap ve teşrifat (diyalog kılavuzu)** | `05-kurumlar/saray-divan-ve-devlet-1444-1520.md` |
+| Hicrî–milâdî dönüşüm tablosu 1444–1521 (bayramlar, kandiller, Berkay'ın yaşı), ezanî saat, Hıdrellez–Kasım | `06-gunluk-hayat/takvim-ve-zaman.md` |
+| Akçe kaç duka, bir koyun kaç akçe, yeniçeri ne kazanır? | `06-gunluk-hayat/para-ve-fiyatlar.md` |
+| Veba yılları, hanedanın ölüm sebepleri, hekimler, yaşlılık | `06-gunluk-hayat/hastalik-ve-tip.md` |
+| Kıyafet, yemek (ve anakronizm listesi), sofra, meclis, mûsikî, av, düğün | `06-gunluk-hayat/kiyafet-yemek-meclis.md` |
+| 15. yy Türkçesi kelimeleri, diller, hat ve belgeler, tarikatlar, hurafeler | `06-gunluk-hayat/dil-hitap-ve-inanc-cevreleri.md` |
 
 ## Klasörler
 
