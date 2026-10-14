@@ -8,11 +8,11 @@
 | # | Tarih · Mekân | Göz | Olay | Kaynak |
 |---|---|---|---|---|
 | B0 | 11 Kas 1444 Çar · Varna ordugâhı | Sinan (defter) | Ahvâl Defteri'nin yazıldığı sabah; Zeyl'deki rüya rivayeti | `karakter/berkay-celebi-ahval-defteri.md` |
-| 1 | 10 Kas 1444 Salı · Varna | Berkay | Ok; Koca Hızır; "Bahadır"; Lala'nın hendek başına gelişi | K01 §3; defter §XI–XIII |
+| 1 | 10 Kas 1444 Salı · Varna | Berkay | Ok; Koca Hızır; "Bahadır"; Lala'nın hendek başına gelişi — **✎ taslak yazıldı: `kitap-1-cinar/01-saf-beni-gecti.md`** | K01 §3; defter §XI–XIII |
 | 2 | Ara 1444 – 1445 · Manisa | Murad / Akşemseddin | Babanın gölgesinde sancak; rüyanın Akşemseddin'e açılışı; Mehmed Edirne'de sultan | K01; `04-yerler/manisa-saruhan.md` |
 | 3 | May–Eyl 1446 · Edirne | Mehmed | Buçuktepe; Murad'ın dönüşü; ikizlerin yer değişimi (Mehmed Manisa'ya, Berkay Amasya'ya); Kurtçu Doğan ağa | K01 §4–5 |
 | 4 | 17–19 Eki 1448 · Kosova | Lala | İkinci Kosova; Hunyadi'nin kaçışı; Berkay'ın ilk kol komutası | K01 §6; `04-yerler/diger-sancaklar…` §B |
-| 5 | Eyl 1449 – 1450 · Bursa, Amasya | Berkay | Hüma'nın ölümü (Bursa Muradiye); Hundi Hatun; nikâh (1450) | `03-kisiler/hanedan-ii-murad-ailesi.md`; `04-yerler/amasya.md` |
+| 5 | Eyl 1449 – 1450 · Bursa, Amasya | Berkay | Hüma'nın ölümü (Bursa Muradiye); Meryem Hatun; nikâh (1450) | `03-kisiler/hanedan-ii-murad-ailesi.md`; `04-yerler/amasya.md` |
 | 6 | 3 Şub 1451 Çar · Edirne | Halil | Murad'ın son gecesi; vasiyet; iki ulak | K01 §8; `04-yerler/edirne.md` |
 | 7 | 18 Şub 1451 Per · Edirne | Mehmed | Kapıya dayanış; babasının sözü; itaat | K01 §8 |
 | 8 | Şub–Mar 1451 · Deliorman, Edirne | Lala / Berkay | Orhan Çelebi'nin çıkışı ve kaçışı; Berkay'ın Amasya'dan yolu; 7 Mar cülûs; Küçük Ahmed'in ölümü; Kurtçu Doğan'ın uca gidişi | K01 §8; `06-gunluk-hayat/takvim…` |
@@ -20,7 +20,7 @@
 | 10 | 6 Nis – 1 May 1453 · Kostantiniyye | Berkay / Mehmed / Sinan | 25 gün — gün gün; gemiler karadan; Orhan Çelebi surda; Salı | K02 §2; `04-yerler/istanbul-1453-1520.md` |
 | 11 | 10 Tem 1453 · İstanbul | Halil / Berkay | İlk gölge: hocanın idamı | K02 §2; `03-kisiler/devlet-adamlari-1444-1451.md` |
 | 12 | 4–22 Tem 1456 · Belgrad | Mehmed | Gedik; Hunyadi'nin ölümü; haber Edirne'ye | K02 §3; `04-yerler/diger…` §B |
-| 13 | 1457–61 · Edirne, Trabzon | Hundi / Berkay | Düğün 1457; Cem doğar (1459); Trabzon 1461; Hüma Sultan doğar | K02 §4–5; `03-kisiler/hanedan-1451-1520.md` |
+| 13 | 1457–61 · Edirne, Trabzon | Meryem / Berkay | Düğün 1457; Cem doğar (1459); Trabzon 1461; Hüma Sultan doğar | K02 §4–5; `03-kisiler/hanedan-1451-1520.md` |
 | 14 | 17 Haz 1462 Per · Târgovişte yolu | Lala / Kurtçu Doğan | Gece baskını; Pedri; Lala'nın şehadeti; yemin | K02 §5; `03-kisiler/kisiler-1451-1520.md` (Vlad) |
 | 15 | 1468–74 · Konya, Otlukbeli, İstanbul | Mahmud Paşa | Karaman; Otlukbeli (11 Ağu 1473); Mustafa'nın ölümü; ikinci gölge (18 Tem 1474) | K02 §6–7 |
 | 16 | 1475–79 · Kefe, Akdere, İstanbul | Berkay / Kurtçu Doğan | Kefe; Vaslui; **26 Tem 1476 Çar Akdere: Berkay Pedri'yi kendi eliyle öldürür**; Vlad'ın sonu (Ara 1476); Venedik barışı; Bellini | K02 §8–9 |

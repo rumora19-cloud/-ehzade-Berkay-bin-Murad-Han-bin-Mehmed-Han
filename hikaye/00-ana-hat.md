@@ -24,7 +24,7 @@ II. Murad 1444 yazında gördüğü rüyayı 3 Şubat 1451'de ölürken vasiyete
 - **Rüya (✔; metin defterin Zeyl'inde):** 1444 yazı, Manisa. Murad kendini Bursa'da babası Çelebi Mehmed'in huzurunda görür; Çelebi Mehmed sarığını küçük Berkay'ın başına koyar: *"Bu koca çınar artık sana emânet oğul… Sabret, bekle — vakti geldiğinde bu emânet zaten senin olacaktır."* Yalnız **Akşemseddin** bilir; **Berkay hiç haberdar değildir.** Tabir iki türlü: taht mı, kardeşin kardeşe kıymaması mı — Murad hangisini kastettiğini bilmez.
 - **10 Kas 1444 Varna:** Kral Vladislav'ı yıkan ok Berkay'ın; "Bahadır Çelebi". Defter 11 Kas 1444.
 - 1446: Mehmed Manisa'ya; Berkay **Amasya'ya (1446–51)**. 1448 II. Kosova, 1449 Hüma'nın ölümü, 1450 Akçahisar aynen.
-- **Çocukluk aşkı ve evlilik (✔ ilke; ⚙ kimlik):** **Sitti Mükrime bu evrende yoktur** (gerçek 1450 Dulkadır düğünü ✖). Berkay çocukluk aşkıyla evlenir. ⚙ **Hundi Hatun** — Murad'ın eski lalası ve Amasya valisi **Yörgüç Paşa**'nın torunu (d. 1433 Amasya), ikizlerle Amasya sarayında büyür; nikâh 1450 Amasya; 1451'de Edirne'ye; **Orhan'ın annesi**. (Alternatifler: Lala Evrenosoğlu'nun kızı; Hüma Hatun'un dairesinden bir câriye.) Tashih: Amasya çocukluğu `[T]` ise bu evlilik onu kesinleştirir.
+- **Çocukluk aşkı ve evlilik (✔ ilke ve ad; ⚙ soy):** **Sitti Mükrime bu evrende yoktur** (gerçek 1450 Dulkadır düğünü ✖). Berkay çocukluk aşkıyla evlenir: ✔ **Meryem Hatun** — ⚙ Murad'ın eski lalası ve Amasya valisi **Yörgüç Paşa**'nın torunu (d. 1433 Amasya), ikizlerle Amasya sarayında büyür; nikâh 1450 Amasya; 1451'de Edirne'ye; **Orhan'ın annesi**. (Alternatifler: Lala Evrenosoğlu'nun kızı; Hüma Hatun'un dairesinden bir câriye.) Tashih: Amasya çocukluğu `[T]` ise bu evlilik onu kesinleştirir.
 
 ### 2b. 1451 — Vasiyet ve üçlü yarış
 - **3 Şubat 1451 Çarşamba (1 Muharrem 855 — hicrî yılbaşı):** Murad Edirne'de ölür; rüyayı hakikat kılar: Çandarlı Halil'e tahtı Berkay'a bıraktığını söyler. (Gerçek dayanak: Murad'ın 1446 vasiyetnâmesi, Alâeddin Ali'nin yanına gömülme isteği.)
@@ -85,7 +85,7 @@ II. Murad 1444 yazında gördüğü rüyayı 3 Şubat 1451'de ölürken vasiyete
 ## 7. Kalan boşluklar (yazar isterse değiştirir)
 | Konu | Kâtip cevabı (⚙) | Kesinleşmesi için |
 |---|---|---|
-| Çocukluk aşkının kimliği | Hundi Hatun, Yörgüç Paşa'nın torunu, Amasya | Yazar "tamam" ya da başka ad/kimlik |
+| Çocukluk aşkının kimliği | ✔ Adı **Meryem Hatun**; ⚙ soyu: Yörgüç Paşa'nın torunu, Amasya | Soy için yazar "tamam" ya da başka kimlik |
 | Pedri'nin kökeni | Erdelli Macar şövalye Péter; Hunyadi'nin maiyetinden Vlad'a geçer (1456); Belgrad'ın düşüşünden sağ çıkar; 1462 Lala'yı öldürür; Vlad hapisteyken Stefan'ın yanında (Vaslui 1475); **✔ ölümü Berkay'ın kendi elinden** (⚙ Akdere, 26 Tem 1476) | Yazar |
 | İtalya'yı tutanlar 1485–1520 | Mihaloğlu Ali Bey → Mihaloğlu Mehmed Bey | Yazar |
 | Süleyman'ın derdi | Cem'in oğlu Murad "Pierre" | Yazar |

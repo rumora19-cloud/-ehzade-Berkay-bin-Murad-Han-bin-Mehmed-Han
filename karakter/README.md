@@ -10,7 +10,7 @@ Bu klasörde Şehzâde Berkay Çelebi'nin **Ahvâl Defteri** (karakter dosyası)
 | `tashih-notlari.md` | Defterin `kaynaklar/` ile satır satır çakıştırılması: takvim/gök doğrulamaları (A), uyumlu noktalar (B), düzeltme önerileri C1–C14, kâtibin suskunlukları (D), kurgu kancaları (E), yazara sorular (F). **Hiçbiri metne uygulanmadı; yazar onayı bekleniyor.** | ✅ ilk sürüm |
 | `hanedan-berkay-soyu.md` | **Kurgusal hanedan dalı:** Sultan Berkay'ın saltanatı (1451–81), II. Orhan, Alâeddin Ali, Selim (Orhan'ın oğlu); yaş tablosu. Doğum yılları ve eşler "öneri". | ✅ ilk sürüm (2026-10-14) |
 | `mehmed-soyu-alternatif.md` | Serdar Mehmed (1451–80), Bayezid (ö. 1481), Mustafa, Cem (yeni rotası), Ahmed ve Korkud (Orhan'ın himayesi → 1513); yazarın iki repliği birebir. | ✅ ilk sürüm (2026-10-14) |
-| `cevre-kisiler.md` | Lala Evrenosoğlu Ali Bey, Kurtçu Doğan Ağa (gerçek yeniçeri ağası), Hundi Hatun (çocukluk aşkı ⚙), kâtip Sinan, Yunus/Hamza Ağa, Koca Hızır, Akşemseddin; düşmanlar: Şövalye Pedri, Orhan Çelebi, Hunyadi, Alfonso; Gedik Ahmed, Mihaloğulları, Şehzade Murad "Pierre". | ✅ derlendi (2026-10-14) |
+| `cevre-kisiler.md` | Lala Evrenosoğlu Ali Bey, Kurtçu Doğan Ağa (gerçek yeniçeri ağası), Meryem Hatun (çocukluk aşkı ✔), kâtip Sinan, Yunus/Hamza Ağa, Koca Hızır, Akşemseddin; düşmanlar: Şövalye Pedri, Orhan Çelebi, Hunyadi, Alfonso; Gedik Ahmed, Mihaloğulları, Şehzade Murad "Pierre". | ✅ derlendi (2026-10-14) |
 | `sablon-ahval-defteri.md` | Eski doldurulabilir şablon. Yazarın kendi yapısı (I–XX) esas alındığı için **artık kullanılmıyor**; silinebilir ya da ikinci bir karakter için saklanabilir. | 🗄 arşiv |
 
 ## Karakterin tarihî çerçevesi (defterden)

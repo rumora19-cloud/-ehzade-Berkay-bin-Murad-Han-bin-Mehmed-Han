@@ -205,7 +205,7 @@ Osmanlı kaynakları kendi ordusunu çok, düşmanı az; Hristiyan kaynakları t
 | Soru | Varsayılan | Not |
 |---|---|---|
 | F1 (C1 Ali'nin sancağı / 1443 sırası) | **Uygula** | Yalnız sıra düzelir; kurguya dokunmaz |
-| F2 (C2 Amasya çocukluğu) | **`[T]` ile koru** | Hikâye Hundi Hatun'u (Yörgüç Paşa'nın torunu) Amasya çocukluğuna bağladı; Amasya kalmalı |
+| F2 (C2 Amasya çocukluğu) | **`[T]` ile koru** | Hikâye Meryem Hatun'u (Yörgüç Paşa'nın torunu) Amasya çocukluğuna bağladı; Amasya kalmalı |
 | F3 (C3 Nişancı İbrahim) | **Evet** — "iki tarafa yazan kalem" | 1451'de Halil'in sırrını taşıyan ikinci kişi olabilir |
 | F4 (C4–C6, C9–C12 kelime düzeltmeleri) | **Topluca uygula** | Hepsi dipnotla; C6 "içinden zikretmeyi" hikâyenin Melâmî/Nakşî kancasıyla uyumlu |
 | F5 (1446) | ✔ **Karar verildi** | Manisa → Amasya |
