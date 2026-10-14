@@ -1,7 +1,7 @@
-# Bölüm planı — ⚙ kâtip taslağı (yazar onayına kadar)
+# Bölüm planı — ✔ yazar onayladı (15 Ekim 2026)
 
 > Her satır: tarih · mekân · gözünden anlatılan kişi · olay · önce bakılacak kaynak dosya. Tarihler `kaynaklar/06-gunluk-hayat/takvim-ve-zaman.md` ile doğrulanmış; haftanın günleri orada. **B** = belge bölümü (defter/mektup), diğerleri üçüncü şahıs.
-> **Son güncelleme:** 2026-10-14
+> **Son güncelleme:** 2026-10-15 — plan onaylı; bölüm yazıldıkça satırına ✎ ve dosya adı eklenir.
 
 ## Kitap I — Çınar (1444–1481)
 

@@ -6,7 +6,7 @@
 
 *Bismillâhirrahmânirrahîm. Bu defter, Varna zaferinin ertesinde, Sultan Murad Han'ın ordugâhında tutulmuş bir ahvâl kaydıdır: şehzâde kimdir, nesinden gelir, hangi sancağın beyidir, nasıl yetişti, neye inanır, ne yaptı ve şimdi nerededir.*
 
-> **Repo notu:** Bu metin yazarın gönderdiği nüshanın aynısıdır; yalnız Markdown biçimi düzeltilmiştir (alıntı işaretleri, tablo satırları). **Yazarın talimatıyla (15 Ekim 2026) ad ve lâkap düzeltmesi yapılmıştır:** "Çelebi" ve "Bahadır" kaldırıldı; tek lâkap **"Kral Vuran Şehzâde"** (değişen satırların dökümü: `tashih-notlari.md` §G). Tarihî doğrulama ve önerilen düzeltmeler için bk. `karakter/tashih-notlari.md`. Metin değiştirilmeden önce yazar onayı alınır.
+> **Repo notu:** Bu metin yazarın gönderdiği nüshanın aynısıdır; yalnız Markdown biçimi düzeltilmiştir (alıntı işaretleri, tablo satırları). **Yazarın talimatıyla (15 Ekim 2026) ad ve lâkap düzeltmesi yapılmıştır:** "Çelebi" ve "Bahadır" kaldırıldı; tek lâkap **"Kral Vuran Şehzâde"** (değişen satırların dökümü: `tashih-notlari.md` §G). **Yazar onayıyla (15 Ekim 2026) tashih C1, C3–C6, C9–C12 işlendi** — döküm: `tashih-notlari.md` §H; C2 `[T]` korunur, C7–C8, C13–C14 ve §XX mektubu dokunulmadı. Tarihî doğrulama ve önerilen düzeltmeler için bk. `karakter/tashih-notlari.md`. Metin değiştirilmeden önce yazar onayı alınır.
 
 ---
 
@@ -44,7 +44,7 @@
 
 ### Nasıl bey oldu
 
-Mehmed, ağabeyi Ahmed Çelebi'nin ölümünden sonra Rûm sancağının, yani Amasya'nın beyi yazılmıştı; Berkay onunla birlikte büyüdü. Geçen sene Sultan Murad Han'ın en sevdiği oğlu Alâeddin Ali Çelebi, Saruhan beyi iken vefat etti ve Manisa boşaldı. Sultan oğullarının sancaklarını yeniden tanzim etti: Mehmed Manisa'ya nakledildi; Amasya'ya **Berkay bey tayin edildi.**
+Mehmed, ağabeyi Ahmed Çelebi'nin ölümünden sonra Rûm sancağının, yani Amasya'nın beyi yazılmıştı; Berkay onunla birlikte büyüdü. Geçen sene baharında Sultan Murad Han oğullarının sancaklarını yeniden tanzim etti: Mehmed Saruhan'a gönderildi, lalaları Kassaboğlu Mahmud Bey ile Nişancı İbrahim Bey yanında. Aynı yılın sonlarına doğru Sultan'ın en sevdiği oğlu, Rûm sancağının beyi Alâeddin Ali Çelebi, Karaman seferinden dönüşte Amasya'da vefat etti; boşalan Amasya'ya **Berkay bey tayin edildi.**
 
 Bu yaz Macar kralıyla on yıllık sulh akdedildikten sonra Sultan Murad Han tahtı Mehmed'e bıraktı ve "ibadet ve tâat" için Manisa'ya çekildi. Mehmed Manisa'dan Edirne'ye alınınca Saruhan yeniden boşalmıştı; Sultan, Amasya'daki ikinci oğlunu yanına getirtip **Saruhan sancağını ona verdi.** Böylece Berkay, on üç yaşına basmadan, babasının oturduğu şehirde, hanedanın en itibarlı şehzâde sancaklarından birinin beyi oldu.
 
@@ -52,15 +52,15 @@ Bu yaz Macar kralıyla on yıllık sulh akdedildikten sonra Sultan Murad Han tah
 
 ### Sancağın vâridâtı
 
-Saruhan; merkezi Manisa olmak üzere Akhisar, Gördes, Menemen ve İzmir havalisindeki Osmanlı yerleşimlerini içine alan geniş bir Batı Anadolu sahasıdır; tahıl, kuru üzüm, pamuk ve şarap bu topraktan çıkar. **Foça sancağın doğrudan idaresinde değildir; kıyıdaki Ceneviz iskeleleri arasındadır.** Foça'nın şap madenleri Cenevizlilerin elindedir ve Saruhan'ın malı Foça ile Sakız iskeleleri üzerinden Frengistan'a gider; sancağın ticareti bu yüzden Cenevizlilerin iskelelerine sıkı biçimde bağlıdır. Ceneviz tüccarları limanlarda ve kara yollarında bu ticarette önemli yer tutar; şehzâdenin Ceneviz lisanı bilgisi bu temaslardan doğmuştur.
+Saruhan; merkezi Manisa olmak üzere Akhisar, Gördes, Demirci ve Nif ile Menemen üzerinden İzmir yoluna uzanan Osmanlı yerleşimlerini içine alan geniş bir Batı Anadolu sahasıdır; tahıl, kuru üzüm, pamuk ve şarap bu topraktan çıkar. **Foça sancağın doğrudan idaresinde değildir; kıyıdaki Ceneviz iskeleleri arasındadır.** Foça'nın şap madenleri Cenevizlilerin elindedir ve Saruhan'ın malı Foça ile Sakız iskeleleri üzerinden Frengistan'a gider; sancağın ticareti bu yüzden Cenevizlilerin iskelelerine sıkı biçimde bağlıdır. Ceneviz tüccarları limanlarda ve kara yollarında bu ticarette önemli yer tutar; şehzâdenin Ceneviz lisanı bilgisi bu temaslardan doğmuştur.
 
 ### Sancağın maiyeti
 
 Sancağı bir çocuk yönetmez; sancağı sancağın maiyeti yönetir. Şehzâdenin yanında:
 
-- **Lalaları: Kassaboğlu Mahmud Bey ve Nişancı İbrahim Bey** — ikisi de Çandarlı Halil Paşa'nın itimat ettiği, devlet işlerine vâkıf adamlardır; Mehmed'in Manisa günlerinde ona lalalık etmişlerdir. Mehmed Edirne'ye alınınca Manisa'da kalmışlar, Berkay Saruhan'a bey olunca Sultan Murad Han'ın emriyle onun lalalığına geçmişlerdir.
+- **Lalaları: Kassaboğlu Mahmud Bey ve Nişancı İbrahim Bey** — Mahmud Bey, Çandarlı Halil Paşa'nın itimat ettiği, devlet işlerine vâkıf, temkinli bir adamdır; İbrahim Bey kalem adamıdır ve kalemi iki tarafa da yazar. Mehmed'in Manisa günlerinde ona lalalık etmişlerdir. Mehmed Edirne'ye alınınca Manisa'da kalmışlar, Berkay Saruhan'a bey olunca Sultan Murad Han'ın emriyle onun lalalığına geçmişlerdir.
 
-- **Kadı, sancak defterdarı, subaşı, alaybeyi** ve sancağın tımarlı sipahileri.
+- **Kadı, sancak defterdarı, subaşı, çeribaşıları** ve sancağın tımarlı sipahileri.
 
 - **Silâhdâr Yunus Ağa** ve **hazinedar Hamza Ağa** — şehzâdenin kendi maiyeti.
 
@@ -72,7 +72,7 @@ Divan kurar, kadının hükümlerini dinler, tımar defterlerinin ve sipahilerin
 
 Şehzâde günlük hüküm ve tayin işlerinin çoğunu lalaları aracılığıyla yürütür; fakat önemli davalarda hazır bulunur, divanda söz dinler ve sancağın askerî düzenini bizzat takip eder.
 
-> ***Bir kayıt: Zağanos Paşa, Edirne'de Sultan Mehmed Han'ın yanındadır; Şehâbeddin Şahin Paşa ise Rumeli Beylerbeyi olarak Varna'dadır, sol kolda idi. İkisi de tahtta oturan Mehmed'in lalalarıdır. Berkay'ın lalası değildirler — iki kardeşin etrafı, daha o günlerden iki ayrı tarafa ayrılmıştır.***
+> ***Bir kayıt: Zağanos Paşa, Edirne'de Sultan Mehmed Han'ın yanındadır; Şehâbeddin Şahin Paşa ise Rumeli Beylerbeyi olarak Varna'dadır, sol kolda idi. İkisi de tahtta oturan Mehmed'in adamları, tarafının başlarıdır. Berkay'ın adamı değildirler — iki kardeşin etrafı, daha o günlerden iki ayrı tarafa ayrılmıştır.***
 
 ---
 
@@ -118,7 +118,7 @@ Pes, bebeğe anasının dilinde, sonra bütün sarayın dilinde **Berkay** dedil
 
 ### Silâhı
 
-- **Yay (kemân):** Boynuz, kiriş ve ağaçtan bileşik Türk yayı. Sekiz yaşında Ali Bey'in verdiği küçük kemânın yerini, on bir yaşından beri Amasya yaycılarının onun gücüne göre yaptığı kemân almıştır; Varna'da çektiği yay budur. Yaşına göre güçlüdür, ama bir yetişkinin savaş yayı yanında hafiftir; bu yüzden onun okçuluğu güce değil **yere** dayanır: zırhı delmeye değil, zırhın boşluğunu bulmaya. Tirkeşinde kırk ok taşır.
+- **Yay (kemân):** Boynuz, sinir ve ağaçtan bileşik Türk yayı. Sekiz yaşında Ali Bey'in verdiği küçük kemânın yerini, on bir yaşından beri Amasya yaycılarının onun gücüne göre yaptığı kemân almıştır; Varna'da çektiği yay budur. Yaşına göre güçlüdür, ama bir yetişkinin savaş yayı yanında hafiftir; bu yüzden onun okçuluğu güce değil **yere** dayanır: zırhı delmeye değil, zırhın boşluğunu bulmaya. Tirkeşinde kırk ok taşır.
 
 - **Zihgir:** Sağ başparmağına geçirdiği boynuz zihgirle, Türk usulü başparmakla gerer.
 
@@ -176,11 +176,11 @@ Ali Bey'in bıraktığı asıl mîrâs, uzun kış gecelerinde mumun titrek ış
 
 ### Molla Gürânî — müderris
 
-Sultan Murad Han'ın emriyle şehzâdelerin ilim hocalığına tayin edilmiştir; sert hocadır, ezber istemekten bıkmaz. Sultan ona şehzâdeleri gerekirse değnekle terbiye etme yetkisi vermiştir; hocalar arasında anlatıldığına göre değnek ikizlerden Mehmed'in sırtında çok konuştu, Berkay'ınkinde hiç. Berkay bunu ikizine karşı sessiz bir borç gibi hatırlar. Kur'ân'daki ve fıkıhtaki temeli Gürânî'nin elinden geçmiştir; Amasya'ya ayrıldıktan sonra bu temeli sancağın müderrisleriyle sürdürmüş, Saruhan'a geçince de ilim meclislerinden kopmamıştır.
+Sultan Murad Han'ın emriyle bu yıl şehzâdelerin ilim hocalığına tayin edilmiştir; Berkay'ı Edirne uğraklarında okutmuştur. Sert hocadır, ezber istemekten bıkmaz. Sultan ona şehzâdeleri gerekirse değnekle terbiye etme yetkisi vermiştir; hocalar arasında anlatıldığına göre değnek ikizlerden Mehmed'in sırtında çok konuştu, Berkay'ınkinde hiç. Berkay bunu ikizine karşı sessiz bir borç gibi hatırlar. Kur'ân'daki ve fıkıhtaki temeli Gürânî'nin elinden geçmiştir; Amasya'ya ayrıldıktan sonra bu temeli sancağın müderrisleriyle sürdürmüş, Saruhan'a geçince de ilim meclislerinden kopmamıştır.
 
 ### Akşemseddin — manevî rehber
 
-Hacı Bayram-ı Velî'nin halifesidir. Sultan Murad Han'ın itimat ettiği sûfîlerden biri olarak genç şehzâdelerin manevî terbiyesine tesir eder. Berkay onu düzenli bir saray hocasından çok, ara sıra görülen ve sözü uzun süre hatırlanan bir rehber olarak bilir; ondan hafî zikri, yani sessiz zikri öğrenmiştir, yürürken ve düşünürken dudaklarını kıpırdatmadan yapar.
+Hacı Bayram-ı Velî'nin halifesidir. Sultan Murad Han'ın hürmet ettiği dervişlerden biri olarak genç şehzâdelerin manevî terbiyesine tesir eder. Berkay onu düzenli bir saray hocasından çok, ara sıra görülen ve sözü uzun süre hatırlanan bir rehber olarak bilir; ondan içinden zikretmeyi öğrenmiştir, yürürken ve düşünürken dudaklarını kıpırdatmadan yapar.
 
 ### Sancağın lalaları
 
@@ -195,7 +195,7 @@ Saruhan'a bey olduğu günden beri Berkay'ın gündelik nizamı **Kassaboğlu Ma
 | **Türkçe** | Ana dili | Saray ve asker ağzı; akıncı deyimleri. |
 | **Arapça** | Sağlam | Kur'ân-ı Kerîm; tecvidli tilâvet, cüz tekrarı, hıfza doğru. |
 | **Farsça** | İyi | Şehnâme'den beyitler; Sa'dî'nin Gülistân'ı; divan şiiri; sarayın edebî dili. |
-| **Rumca** | Orta | Amasya ve Saruhan'ın Rum ahalisi; İzmir ve Menemen'in esnafı; saray kâtipleri. |
+| **Rumca** | Orta | Amasya ve Saruhan'ın Rum ahalisi; Menemen'in ve İzmir yolunun esnafı; saray kâtipleri. |
 | **Sırpça** | Günlük konuşma | Üvey annesi Mara Hatun'un maiyeti; saray hizmetkârları arasındaki Sırpça konuşan insanlar. |
 | **Ceneviz lisanı (Frenk dili)** | Kalıp cümle ve okuma | Saruhan sahası ile Cenevizlilerin kıyıdaki iskeleleri arasındaki ticaret; tüccarlar ve tercümanlar. |
 | **Latince** | Yalnız terim | İtalyan kâtip ve tercümanların getirdiği kilise ve kançılarya terimleri; okuyabildiği kalıp yazışma formülleri. |
@@ -537,7 +537,7 @@ Zafer haberi ordugâhtan atlı çavuşlarla Edirne'ye, Bursa'ya, Manisa'ya ve Am
 
 ### Kalemin yazdığı
 
-Varna için fetihnâme yazılmak üzeredir; İslâm hükümdarlarına gönderilecektir. Kralın başı Edirne'ye ve Bursa'ya, oradan Mısır sultanına gönderilmek üzere ayrılmıştır. Divan kâtiplerinin, her zaman olduğu üzere, zaferi yalnız bir şehzâdenin hünerine değil, **sultanın metanetine, yeniçerinin nizamına ve ordunun toparlanışına** bağlayacakları anlaşılıyor. Başı getiren Koca Hızır'ın adı deftere yazılacak, bahşişi verilecektir.
+Varna için fetihnâme yazılmak üzeredir; İslâm hükümdarlarına gönderilecektir. Kralın başı Bursa'ya gönderilmek üzere ayrılmıştır; Mısır sultanına gidecek olan baş değil, fetihnâmedir. Divan kâtiplerinin, her zaman olduğu üzere, zaferi yalnız bir şehzâdenin hünerine değil, **sultanın metanetine, yeniçerinin nizamına ve ordunun toparlanışına** bağlayacakları anlaşılıyor. Başı getiren Koca Hızır'ın adı deftere yazılacak, bahşişi verilecektir.
 
 Berkay'ın oku ise devlet kaleminden çok **ocağın ve halkın hafızasında** büyüyecek gibidir. Esirlerin ağzından da aynı söz dolaşıyor: *"Kralımızı Osmanlı'nın genç bir şehzâdesi okla vurmuş."* Şan, artık bir haber, bir hesap ve bir korkudur.
 
@@ -637,7 +637,7 @@ Bunlar, on üç yaşındaki bir şehzâdenin elinde hazır bir sefer tedbiri de�
 | **Sultan Mehmed Han** | Edirne'de, tahtta. | İkiz, kardeş ve rakip; zafer haberi ona ulaştığında yükü daha da ağırlaşacak. |
 | **Çandarlı Halil Paşa** | Edirne'de, Mehmed'in yanında. | Temkin tarafının başı; Berkay'ı ders odasından tanır, ona yakındır. |
 | **Zağanos Paşa** | Edirne'de, Mehmed'in yanında. | Genç tarafın kalemi; Berkay'a mesafeli. |
-| **Şehâbeddin Şahin Paşa** | Varna'da; Rumeli Beylerbeyi, sol kolun başı, Mehmed'in lalası. | Berkay'ı ölçer; ocağın nâralarını duydu, Edirne'ye giden haberin ilk kaynaklarından. |
+| **Şehâbeddin Şahin Paşa** | Varna'da; Rumeli Beylerbeyi, sol kolun başı, Mehmed'in tarafının başı. | Berkay'ı ölçer; ocağın nâralarını duydu, Edirne'ye giden haberin ilk kaynaklarından. |
 | **Karaca Bey** | Şehit düştü. | Berkay'ın bağlı olduğu kolun başındaydı; sancağının yere düştüğünü Berkay gördü. |
 | **Evrenosoğlu Ali Bey** | Ordugâhta, şehzâdenin yanında. | Atabey, hoca ve "Lala"; öfkesine bile saygı duyar. Bugün onu kaybettiği için kendine kızgındır. |
 | **Evrenosoğlu İsâ Bey** | Sağ kolda saf tuttu. | Ali Bey'in kardeşi; Berkay'la henüz tanışıklığı azdır. |
@@ -656,7 +656,7 @@ Bunlar, on üç yaşındaki bir şehzâdenin elinde hazır bir sefer tedbiri de�
 | **Yunus Ağa** | Otuz | Az konuşur, at gibi sabırlıdır; Amasya'dan beri şehzâdenin gölgesidir, elini dizginden bırakmaz. |
 | **Hamza Ağa** | Kırk beş | Hesap adamı; her harcamayı ve her sözü aklında tutar, kuru ve ciddidir. |
 | **Kassaboğlu Mahmud Bey** | Elli | Sakin, ölçülü; Halil Paşa'nın temkin okuluna yakın. |
-| **Nişancı İbrahim Bey** | Kırk beş | Kalem adamı; yazışmaların ve hükümlerin dili onun elindedir. |
+| **Nişancı İbrahim Bey** | Kırk beş | Kalem adamı; yazışmaların ve hükümlerin dili onun elindedir; kalemi iki tarafa da yazar. |
 | **Sinan bin Abdullah** | Otuz | Sancağın kâtibi, yeni Müslüman; sessiz gözlemci, bu defterin kalemi. |
 
 ---

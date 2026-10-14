@@ -46,9 +46,9 @@ Kapsanan dönem: **11 Kasım 1444** (Varna Zaferi'nin ertesi günü) — **1520*
 | Kurumlar (ordu; saray–divan–devlet; hitap kılavuzu) | ✅ ilk sürüm |
 | Günlük hayat (takvim tablosu 1444–1521, para, tıp, kıyafet–yemek–meclis, dil–inanç) | ✅ ilk sürüm |
 | Hanedan ve kişiler 1451–1520; kaynak × dönem matrisi | ✅ ilk sürüm |
-| Karakter dosyası (Ahvâl Defteri) | ✅ işlendi (`karakter/sehzade-berkay-ahval-defteri.md`) |
+| Karakter dosyası (Ahvâl Defteri) | ✅ işlendi; tashih C1, C3–C6, C9–C12 yazar onayıyla uygulandı (`karakter/sehzade-berkay-ahval-defteri.md`, döküm `tashih-notlari.md` §H) |
 | Hikâye ana hattı (üç padişahlık kavis) | ✅ derlendi (`hikaye/00-ana-hat.md`) — ✔ yazar kararları / ⚙ kâtip kararları işaretli |
-| Bölüm planı (34 bölüm + epilog) | ⚙ taslak (`hikaye/02-bolum-plani.md`) — yazar onayı bekliyor |
+| Bölüm planı (34 bölüm + epilog) | ✅ yazar onayladı (`hikaye/02-bolum-plani.md`) |
 | Bölüm metinleri | ✎ Kitap I, Bölüm 1 taslağı yazıldı (`hikaye/kitap-1-cinar/01-saf-beni-gecti.md`) |
 | Kaynak dosyalarındaki 🎭 hikâye notları | ✅ nihai kurguya göre güncellendi (2026-10-15): Berkay 1451–81, II. Orhan 1481–1512, Selim 1512–20 |
 | Çatal noktaları (gerçek tarih → kurgu, yıl yıl) | ✅ ilk sürüm (`hikaye/01-catal-noktalari.md`) |

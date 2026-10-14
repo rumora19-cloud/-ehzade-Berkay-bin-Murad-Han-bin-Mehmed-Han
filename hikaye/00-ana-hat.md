@@ -82,15 +82,17 @@ II. Murad 1444 yazında gördüğü rüyayı 3 Şubat 1451'de ölürken vasiyete
 - **Üç kitap:** I "Çınar" 1444–81 (17 bölüm), II "Köprü" 1481–1512 (9), III "Kanun" 1512–20 (6 + epilog) — `02-bolum-plani.md`.
 - **Açılış:** 11 Kasım 1444, Varna ordugâhı, defterin yazıldığı sabah; **kapanış:** 30 Eylül 1520, Süleyman'ın cülûsu, Alâeddin Ali'nin kalemi.
 
-## 7. Kalan boşluklar (yazar isterse değiştirir)
+## 7. Kararlar tablosu (15 Ekim 2026: yazar "tablo tamam" dedi — hepsi ✔)
 
 > **Kaynak dosyalarıyla ilişki (15 Ekim 2026):** `kaynaklar/` altındaki 🎭 notları bu metne göre güncellendi (eski "ihtiyar amca / Bayezid padişah" çerçevesi temizlendi). Bir çelişki görülürse bu dosya geçerlidir; kaynak dosyasındaki not düzeltilir, bu dosya değil.
-| Konu | Kâtip cevabı (⚙) | Kesinleşmesi için |
+| Konu | Karar | Durum |
 |---|---|---|
-| Çocukluk aşkının kimliği | ✔ Adı **Meryem Hatun**; ⚙ soyu: Yörgüç Paşa'nın torunu, Amasya | Soy için yazar "tamam" ya da başka kimlik |
-| Pedri'nin kökeni | Erdelli Macar şövalye Péter; Hunyadi'nin maiyetinden Vlad'a geçer (1456); Belgrad'ın düşüşünden sağ çıkar; 1462 Lala'yı öldürür; Vlad hapisteyken Stefan'ın yanında (Vaslui 1475); **✔ ölümü Berkay'ın kendi elinden** (⚙ Akdere, 26 Tem 1476) | Yazar |
-| İtalya'yı tutanlar 1485–1520 | Mihaloğlu Ali Bey → Mihaloğlu Mehmed Bey | Yazar |
-| Süleyman'ın derdi | Cem'in oğlu Murad "Pierre" | Yazar |
-| Anlatıcı/yapı | §6 | Yazar |
+| Çocukluk aşkının kimliği | **Meryem Hatun**, Yörgüç Paşa'nın torunu, d. 1433 Amasya | ✔ kesin |
+| Pedri'nin kökeni (✔ kesin) | Erdelli Macar şövalye Péter; Hunyadi'nin maiyetinden Vlad'a geçer (1456); Belgrad'ın düşüşünden sağ çıkar; 1462 Lala'yı öldürür; Vlad hapisteyken Stefan'ın yanında (Vaslui 1475); **✔ ölümü Berkay'ın kendi elinden** (⚙ Akdere, 26 Tem 1476) | Yazar |
+| İtalya'yı tutanlar 1481–1520 | Gedik Ahmed (1481–85) → Mihaloğlu Ali Bey (1485–1507) → Mihaloğlu Mehmed Bey (1507–20+) | ✔ kesin |
+| Süleyman'ın derdi | Cem'in oğlu Murad "Pierre" — Roma'da Papa'nın elinde | ✔ kesin |
+| Anlatıcı/yapı | §6 (üç kitap, bölüm başına bir göz, başta 1444 defteri, sonda Alâeddin Ali'nin 1520 defteri) | ✔ kesin |
+| Orhan'ın 1481 öncesi sancağı | **Manisa (Saruhan) 1468–80** — Mustafa Konya'ya geçince; Selim 10 Ekim 1470'te Manisa'da doğar. Üç sancak, üç şehzade: Bayezid Amasya, Cem Konya, Orhan Manisa | ✔ kesin |
 | Roma'nın fethi sayfada gösterilsin mi? | ✔ **Hayır** — hikâye 1520'de biter; Roma Süleyman'ındır ve hikâye dışıdır. Epilog (30 Eyl 1520, Alâeddin Ali'nin defteri) Roma'ya yalnız bakar: Papa'nın elindeki Murad "Pierre", Napoli'den görünen yol. Konstantiniyye'nin aynası olarak Roma **vaat** olarak kalır | Karar verildi; yazar isterse epilog sahnesi genişler |
-| Defter tashihi C1–C14 | `karakter/tashih-notlari.md` §F'de kâtip varsayılanları | Yazar tek kelime: "uygula" |
+| Defter tashihi C1–C14 | §F varsayılanlarıyla uygulandı (C1, C3–C6, C9–C12 deftere işlendi; C2 `[T]`; C7–8, C13–14, §XX dokunulmadı) — döküm tashih §H | ✔ yapıldı |
+| Hâlâ açık (yalnız yazar) | Gevherhan'ın evliliği; Alâeddin Ali'nin ölüm yılı (⚙ 1520'yi görür) | ⚙ |

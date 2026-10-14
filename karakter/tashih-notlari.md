@@ -76,7 +76,7 @@ Jülyen takvimi + hicrî takvim dönüşümü ve ay evreleri hesaplandı (hesap 
 
 ## C. Düzeltme / karar gerektiren hususlar
 
-### C1. ⚠ Alâeddin Ali'nin sancağı ve 1443 nakilleri — §II, §VI, §IX, §X
+### C1. ⚠ Alâeddin Ali'nin sancağı ve 1443 nakilleri — §II, §VI, §IX, §X — ✔ uygulandı (15 Ekim 2026)
 
 | | |
 |---|---|
@@ -86,7 +86,7 @@ Jülyen takvimi + hicrî takvim dönüşümü ve ay evreleri hesaplandı (hesap 
 | **Öneri** | Küçük bir kaydırma yeter ve kurguyu güçlendirir: *"Geçen sene baharında Sultan Murad Han oğullarını sancağa çıkardı: Mehmed, Edirne'den Saruhan'a gönderildi, lalaları Kassaboğlu Mahmud Bey ile Nişancı İbrahim Bey yanında. Aynı yılın sonlarına doğru Rûm sancağının beyi Alâeddin Ali Çelebi, Karaman seferinden dönüşte Amasya'da vefat etti; boşalan Amasya'ya Berkay bey tayin edildi."* Böylece Berkay Amasya'da 1443 sonu/1444 başı → 1444 yazı arası (6–8 ay) kalmış olur; §I'deki "geçen seneden bu yaza dek" ifadesi zaten bununla uyumlu. |
 | **Yan not** | §IX'daki "ölümü hakkındaki fısıltılar" ve zehir korkusu: kaynaklarda Ali'nin ölümü ani/sebebi belirsizdir; Babinger'in aktardığı bir rivayette adamı **Kara Hızır Paşa** tarafından boğdurulduğu, Hızır'ın sonra idam edildiği söylenir `[T]`. Fısıltı kurgusu kaynakla **uyumlu**, hatta destekli ✓ 🎭. |
 
-### C2. `[T]` İkizlerin "iki yaşından itibaren Amasya'da" büyümesi — §VI, §IV, §V, §VIII
+### C2. `[T]` İkizlerin "iki yaşından itibaren Amasya'da" büyümesi — §VI, §IV, §V, §VIII — ✔ karar: (b) `[T]` ile korunur (15 Ekim 2026)
 
 | | |
 |---|---|
@@ -94,7 +94,7 @@ Jülyen takvimi + hicrî takvim dönüşümü ve ay evreleri hesaplandı (hesap 
 | **Kaynak** | Bu, **geleneksel anlatıdır** (Babinger): Mehmed 1434'te Amasya'ya gönderildi, 1437'de Ahmed ölünce 6 yaşında Amasya beyi oldu, 1439'da Ali ile yer değişti (Ali → Amasya, Mehmed → Manisa). **İnalcık ve Emecen bunu şüpheli bulur:** Mehmed'in 1443'e kadar Edirne'de olduğunu, altı yaşında Amasya valiliğinin kroniklerde desteksiz kaldığını söylerler. Haziran 1439'da Ali ile Mehmed'in **Edirne'de sünnet düğünü** yapılmıştır (kesin). |
 | **Öneri — iki yol** | **(a) Kaynağa hizalamak:** ikizler Edirne Sarayı'nda büyür; Berkay Amasya'yı ancak 1443 sonunda tanır. O zaman "Amasya yaycıları (11 yaşından beri)", "Amasya'nın havası", Ali Bey'in Amasya'ya uğrayışları değişir; "ilk hüküm" 1444 başına kayar (hâlâ Amasya'da olabilir). **(b) Geleneği korumak:** Babinger'in anlatısı meşru bir tarihçilik görüşüdür; repoda `[T]` ile işaretlenir ve devam edilir. — Kâtibin önerisi: (b) ama Amasya ayrıntılarını (yay, bronz ten) "Edirne ile Amasya arasında geçen çocukluk" diye biraz gevşetmek; **1439 Edirne sünnet düğünü** her iki yolda da ikizler için kullanılabilir bir geçmiş sahnesi 🎭 (Ali, Mehmed — ve Berkay — aynı düğünde). |
 
-### C3. `[T]` Nişancı İbrahim Bey'in tarafı — §II, §XVI
+### C3. `[T]` Nişancı İbrahim Bey'in tarafı — §II, §XVI — ✔ uygulandı (15 Ekim 2026)
 
 | | |
 |---|---|
@@ -102,7 +102,7 @@ Jülyen takvimi + hicrî takvim dönüşümü ve ay evreleri hesaplandı (hesap 
 | **Kaynak** | Emecen: **Nişancı İbrahim b. Abdullah**, Şehâbeddin ve Zağanos ile birlikte **Mehmed'in (savaş) tarafında**, Çandarlı'ya karşı grupta anılır. Kassabzâde Mahmud hakkında bilgi azdır; "Halil'e yakın" denebilir. |
 | **Öneri** | "Halil Paşa'nın itimat ettiği" ifadesini **Mahmud Bey'le sınırlamak**; İbrahim Bey'i **iki tarafa da yazan kalem** olarak kurmak. Dosyanın §XX hâşiyesi ("İbrahim Bey mektubu okudu, iki cümleyi yumuşattırdı") bunun için hazır bir kanca 🎭 — mektubu yumuşatan adam, aynı gece Edirne'ye başka bir mektup yazıyor olabilir. §XVI tablosundaki "sadakatleri şimdilik Berkay'a" ifadesi bu okumayla daha da keskinleşir. |
 
-### C4. `[M]` "İkisi de Mehmed'in lalalarıdır" (Zağanos, Şehâbeddin) — §II, §XVI
+### C4. `[M]` "İkisi de Mehmed'in lalalarıdır" (Zağanos, Şehâbeddin) — §II, §XVI — ✔ uygulandı (15 Ekim 2026)
 
 | | |
 |---|---|
@@ -110,7 +110,7 @@ Jülyen takvimi + hicrî takvim dönüşümü ve ay evreleri hesaplandı (hesap 
 | **Kaynak** | 1444'te ikisi de Mehmed'in çevresinde ve tarafındadır; fakat **resmen atabey/lala tayinleri 1446'da**, Mehmed ikinci kez Manisa'ya gönderilince olur (İnalcık, Emecen). 1444'te Şehâbeddin Rumeli beylerbeyi (ve vezir), Zağanos vezir. |
 | **Öneri** | "İkisi de tahtta oturan Mehmed'in **adamlarıdır**" / "**tarafının başlarıdır**". Yahut kâtibin 1444'te "lala" demesi bir *sarayda böyle anılıyorlar* tonuyla bırakılır; 1446'daki resmî tayin hikâyede ayrıca beat olur 🎭. |
 
-### C5. `[M]` Molla Gürânî'nin hocalığı ve değnek — §VI, §XVI
+### C5. `[M]` Molla Gürânî'nin hocalığı ve değnek — §VI, §XVI — ✔ uygulandı (15 Ekim 2026)
 
 | | |
 |---|---|
@@ -118,7 +118,7 @@ Jülyen takvimi + hicrî takvim dönüşümü ve ay evreleri hesaplandı (hesap 
 | **Kaynak** | Gürânî, Mısır'dan Anadolu'ya 1440'ların başında gelir (Molla Yegân'ın takdimiyle Murad'a); Mehmed'e hocalığı **ilk saltanat (1444–46) ve 1446 Manisa dönemi**nde; değnek anekdotu bu döneme aittir (Mehmed 12–14 yaşında). 1443 öncesinde (ikizlerin ortak yuvası) hocalık kaydı yok. |
 | **Öneri** | Ya *"Gürânî bu yıl Edirne'de şehzâdelerin hocalığına tayin edildi; Berkay'ı Edirne uğraklarında okuttu"* diye daraltmak; ya da değnek hikâyesini **saray ağzında dolaşan rivayet** `[R]` olarak bırakmak ("hocalar arasında anlatıldığına göre" ifadesi zaten bu kapıyı açık tutuyor ✓). 🎭 Değnek Mehmed'e kalkarken Berkay Amasya'dadır; "sessiz borç" haberle gelir. |
 
-### C6. `[M]` Akşemseddin ve "hafî zikir" — §VI
+### C6. `[M]` Akşemseddin ve "hafî zikir" — §VI — ✔ uygulandı (15 Ekim 2026)
 
 | | |
 |---|---|
@@ -134,7 +134,7 @@ Jülyen takvimi + hicrî takvim dönüşümü ve ay evreleri hesaplandı (hesap 
 
 Boğaz geçişi Ekim 1444'ün ikinci yarısıdır, kesin gün yok; 5 Receb = 18 Ekim makul (Edirne'ye ~Kasım başı, Varna'ya 9 Kasım). **Kalabilir;** repoda `[?]`.
 
-### C9. `[M]` Kralın başı Mısır'a — §XIII
+### C9. `[M]` Kralın başı Mısır'a — §XIII — ✔ uygulandı (15 Ekim 2026)
 
 | | |
 |---|---|
@@ -142,11 +142,11 @@ Boğaz geçişi Ekim 1444'ün ikinci yarısıdır, kesin gün yok; 5 Receb = 18 
 | **Kaynak** | Baş bal içinde **Bursa'ya** gönderilip teşhir edildi (Dukas, Osmanlı kronikleri). Memlük sultanına giden şey **fetihnâme/beşâretnâme**dir; başın Mısır'a gönderildiği kaydı yok. |
 | **Öneri** | *"Kralın başı Bursa'ya gönderilmek üzere ayrılmıştır; Mısır sultanına ve İslâm hükümdarlarına fetihnâme yazılacaktır."* |
 
-### C10. `[M]` Yay malzemesi — §V
+### C10. `[M]` Yay malzemesi — §V — ✔ uygulandı (15 Ekim 2026)
 
 "Boynuz, **kiriş** ve ağaçtan bileşik Türk yayı" → kompozit yay **ağaç + boynuz + sinir (sığır sırt siniri) + tutkal**; *kiriş* yayın ipidir. → "boynuz, **sinir** ve ağaçtan".
 
-### C11. `[M]` Saruhan sancağının sınırları — §II, §VII
+### C11. `[M]` Saruhan sancağının sınırları — §II, §VII — ✔ uygulandı (15 Ekim 2026)
 
 | | |
 |---|---|
@@ -154,7 +154,7 @@ Boğaz geçişi Ekim 1444'ün ikinci yarısıdır, kesin gün yok; 5 Receb = 18 
 | **Kaynak** | 15. yy Saruhan sancağı kazaları: Manisa, Akhisar, Gördes, Demirci, Kayacık, Marmara, Menemen, Güzelhisar, Nif, Ilıca, Adala, Tarhaniyat (Soma). **İzmir, Aydın sancağına bağlıdır.** Foça Cenevizlilerde ✓. |
 | **Öneri** | "İzmir havalisi" → "**Nif ve Menemen** üzerinden İzmir yoluna uzanan…"; §VII'de "İzmir ve Menemen'in esnafı" → "Menemen'in ve İzmir yolunun esnafı". Ceneviz temasları Foça–Sakız–Menemen hattında zaten mantıklı. |
 
-### C12. `[M]` "Alaybeyi" — §II
+### C12. `[M]` "Alaybeyi" — §II — ✔ uygulandı (15 Ekim 2026)
 
 *Alaybeyi* unvanı belgelerde 15. yy sonundan itibaren görülür; 1444 için sancak sipahilerinin başı **subaşı** ve **çeribaşı**lardır. → "kadı, sancak defterdarı, subaşı, **çeribaşıları**". (İsteğe bağlı; okuyucu için fark etmez.)
 
@@ -201,7 +201,7 @@ Osmanlı kaynakları kendi ordusunu çok, düşmanı az; Hristiyan kaynakları t
 
 > Onaylanan maddeler `sehzade-berkay-ahval-defteri.md` içine işlenecek; her değişiklik bu dosyada "✔ uygulandı (tarih)" diye işaretlenecek.
 
-### §F — Kâtip varsayılan cevapları (2026-10-14; yazar "uygula" derse deftere işlenir, aksi hâlde hiçbir şey değişmez)
+### §F — Kâtip varsayılan cevapları — ✔ yazar onayladı ("tablo tamam", 15 Ekim 2026); uygulandı, bk. §H
 | Soru | Varsayılan | Not |
 |---|---|---|
 | F1 (C1 Ali'nin sancağı / 1443 sırası) | **Uygula** | Yalnız sıra düzelir; kurguya dokunmaz |
@@ -231,3 +231,19 @@ Yazar: *"Berkay'ı Şehzade Berkay'a çevir, Çelebi ismini at tamamen, Bahadır
 | Dosya adı | `berkay-celebi-ahval-defteri.md` | `sehzade-berkay-ahval-defteri.md` (bütün bağlantılar güncellendi) |
 
 Dokunulmayan "Çelebi"ler (tarihî adlar): Çelebi Sultan Mehmed (dede), ağabey Alâeddin Ali Çelebi, Ahmed/Orhan/Hasan Çelebi (ölen kardeşler), hain Orhan Çelebi, ikiz için "Mehmed Çelebi" (`mehmed-soyu-alternatif.md`). Yazar isterse onlar da düşer.
+
+### §H — Uygulanan tashih (yazar onayı, 15 Ekim 2026) ✔
+| Madde | Yer | Eski | Yeni |
+|---|---|---|---|
+| C1 | §II Nasıl bey oldu | "Alâeddin Ali Çelebi, Saruhan beyi iken vefat etti ve Manisa boşaldı … Mehmed Manisa'ya nakledildi; Amasya'ya Berkay" | "Geçen sene baharında … Mehmed Saruhan'a gönderildi, lalaları … yanında. Aynı yılın sonlarına doğru … Rûm sancağının beyi Alâeddin Ali Çelebi, Karaman seferinden dönüşte Amasya'da vefat etti; boşalan Amasya'ya Berkay" |
+| C3 | §II Lalaları; §XVI künye | "ikisi de Çandarlı Halil Paşa'nın itimat ettiği … adamlardır" | "Mahmud Bey, Çandarlı Halil Paşa'nın itimat ettiği … temkinli bir adamdır; İbrahim Bey kalem adamıdır ve kalemi iki tarafa da yazar"; künyeye "kalemi iki tarafa da yazar" |
+| C4 | §II kayıt; §XVI Şehâbeddin | "Mehmed'in lalalarıdır. Berkay'ın lalası değildirler" / "Mehmed'in lalası" | "Mehmed'in adamları, tarafının başlarıdır. Berkay'ın adamı değildirler" / "Mehmed'in tarafının başı" |
+| C5 | §VI Gürânî | "şehzâdelerin ilim hocalığına tayin edilmiştir; sert hocadır" | "bu yıl şehzâdelerin ilim hocalığına tayin edilmiştir; Berkay'ı Edirne uğraklarında okutmuştur. Sert hocadır" (değnek rivayeti aynen) |
+| C6 | §VI Akşemseddin | "itimat ettiği sûfîlerden" / "hafî zikri, yani sessiz zikri" | "hürmet ettiği dervişlerden" / "içinden zikretmeyi" |
+| C9 | §XIII Kalemin yazdığı | "Kralın başı Edirne'ye ve Bursa'ya, oradan Mısır sultanına gönderilmek üzere" | "Kralın başı Bursa'ya gönderilmek üzere ayrılmıştır; Mısır sultanına gidecek olan baş değil, fetihnâmedir" |
+| C10 | §V Yay | "Boynuz, kiriş ve ağaçtan" | "Boynuz, sinir ve ağaçtan" |
+| C11 | §II Vâridât; §VII Rumca | "Menemen ve İzmir havalisindeki" / "İzmir ve Menemen'in esnafı" | "Demirci ve Nif ile Menemen üzerinden İzmir yoluna uzanan" / "Menemen'in ve İzmir yolunun esnafı" |
+| C12 | §II Maiyet | "subaşı, alaybeyi" | "subaşı, çeribaşıları" |
+| — | Repo notu | | Uygulama notu eklendi |
+
+Dokunulmayanlar: C2 (`[T]` korunur — Amasya çocukluğu hikâyeye bağlı), C7 (rivayet), C8 (`[?]`), C13, C14 (zevk meselesi), §XX mektup (F7), Zeyl.
