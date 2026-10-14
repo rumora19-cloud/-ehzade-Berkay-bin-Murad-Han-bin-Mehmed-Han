@@ -9,12 +9,12 @@
 |---|---|
 | Gerçekte | 7. padişah (1444–46), Fatih (1451–81), ö. 3 May 1481 |
 | Bizde | 7. padişah (1444–46) → 1446–51 Manisa beyi → 18 Şub 1451 Edirne'ye gelir, taht verilmez → **1451–80 ordunun serdarı** → **1480 sonbaharı Roma önünde şehit** |
-| 1451'deki tavrı | Karar. İki yıl önce Hurûfî ateşini, altı yıl önce Buçuktepe'yi yaşamış 19 yaşındaki eski padişah, babasının son sözüyle ikizine boyun eğer — kırgın mı, rahatlamış mı? |
+| 1451'deki tavrı | ✔ **İsyan etmez; rahmetli babasının sözünün üstüne söz söylemez.** Kırgınlık sessizdir; cümlesini 1480'de oğlu Cem kurar |
 | Serdarlık | Belgrad 1456 (gerçekte burada yaralandı, bizde alır), Mora, Trabzon, Eflak 1462 (Vlad'ın gece baskınında çadırdadır), Bosna, Otlukbeli 1473, Rodos 1480, Otranto ve ötesi |
-| Oğulları | Bayezid (1447/48), Mustafa (1450), Cem (22/23 Ara 1459); kızı Gevherhan (Uğurlu Mehmed'e, 1474 — korunabilir) |
+| Oğulları | Bayezid (1447/48), Mustafa (1450), Cem (22/23 Ara 1459). (Gevherhan ⚙ artık **Berkay'ın** kızıdır) |
 | Eşleri | Gülbahar (Bayezid'in annesi), Gülşah (Mustafa), Çiçek (Cem) korunur; **Sitti Mükrime** (1449–50 nikâhı) ✔ **Berkay'a verilir** — ikizler arasında ilk çatlak, Murad'ın tercihinin erken işareti |
 | Zayıf noktası | Gerçek Fatih'in nikrisi, öfkesi, Mahmud Paşa'ya hem sevgisi hem kıskançlığı — serdar Mehmed'e aktarılabilir |
-| Şehadet | Öneri: Eylül–Ekim 1480, Via Appia üzerinden Roma'ya ilerleyen öncüyle; "atlarını San Pietro'ya sürdü" — eski Konstantin bazilikası (bugünkü 1506'da başlar). Cenaze: karar (Bursa Muradiye'ye, annesi Hüma'nın yanına? 🎭) |
+| Şehadet | ⚙ **28 Ekim 1480 Cumartesi (23 Şaban 885), Milvius Köprüsü (Ponte Milvio)** — Konstantin'in 312 zaferinin yıl dönümü; sabah akıncılar San Pietro avlusunda (eski Konstantin bazilikası) atlarını sular, öğleden sonra Papalık–Napoli karşı saldırısı köprüde. Cenaze ⚙ Bursa Muradiye, annesi Hüma Hatun'un (Hatuniye) yanı — ikizinden ayrı |
 | İkizine son sözü | Karar — Berkay'ın defterindeki gönderilmemiş mektubun (1444) karşılığı olabilir 🎭 |
 
 ## 2. Şehzade Bayezid (1447/48–1481)
@@ -42,7 +42,7 @@ Gerçek hayatı aynen: Manisa 1457–68, Konya 1468–74, Kıreli zaferi 1472, O
 | İsyan | Berkay ölünce (1481): Bayezid'i öldürür → Bursa 18 gün (28 May–) → **Yenişehir 20/22 Haz 1481** yenilgi → Konya → Kahire (Kayıtbay) → hac → 1482 Konya–Ankara denemesi → **Rodos Osmanlı olduğundan Kıbrıs → Napoli (Ferrante) → Roma** |
 | Avrupa yılları | Papa VIII. Innocentius ve VI. Alexander; Venedik–Napoli–Papa rehine pazarlığı (gerçekteki şövalyelerin rolü); Fransa isteğe bağlı |
 | Ölüm | 25 Şub 1495 Napoli (gerçek; zehir söylentisi — Koca Mustafa Paşa); cenaze 1499 Bursa |
-| Ailesi | Oğlu Oğuz Han (1480; gerçekte 1483'te boğduruldu — Orhan'da **karar**), Murad (1475; Rodos'ta Hristiyan oldu — bizde Napoli/Roma), kızları Gevhermelik, Ayşe |
+| Ailesi | Oğlu Oğuz Han (1480; ⚙ **Orhan öldürmez, sarayda büyür, 1492 vebasında ölür**), Murad (1475; gerçekte Rodos'ta Hristiyan oldu — bizde Napoli/Roma'da), kızları Gevhermelik, Ayşe |
 | Şair | Divanı ve *Cemşîd ü Hurşîd* korunur; sürgünde yazdığı "Cem'in Bayezid'e mektupları" bizde **Orhan'a** yazılır 🎭 |
 
 ## 5. Şehzade Ahmed (1466–1513) ve Şehzade Korkud (1467/69–1513)

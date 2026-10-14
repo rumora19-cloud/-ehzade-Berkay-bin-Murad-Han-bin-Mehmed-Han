@@ -777,3 +777,19 @@ Kâtibin hâşiyesi: İbrahim Bey mektubu okudu, iki cümleyi yumuşattırdı; �
 *Kayd olundu fî 29 Receb sene 848, Varna ordugâhı. Kayd eden: Saruhan sancağı kâtiplerinden Sinan bin Abdullah.*
 
 ---
+
+## ZEYL. SULTAN MURAD HAN'IN RÜYASI (rivâyet)
+
+*(Repo notu: Bu zeyl yazar tarafından 2026-10-14'te eklenmiştir; metin yazarındır, yalnız Markdown biçimi düzeltilmiştir. Hikâyedeki yeri: `../hikaye/00-ana-hat.md` §2a–2b.)*
+
+Bu yaz Sultan Murad Han tahtı Mehmed'e bırakıp Manisa'ya çekilmişti; gönlü kırıktı, zîrâ en sevdiği oğlu Alâeddin Ali bir sene kadar evvel toprağa verilmişti.
+
+Bir gece, sabaha karşı, Murad Han kendini Bursa'da gördü: babası **Çelebi Sultan Mehmed**'in huzurundaydı. Sultan Mehmed sarığını ağır bir hareketle çıkardı ve yanında beliren küçük **Berkay**'ın başına kendi eliyle koydu:
+
+> ***"Bu koca çınar artık sana emânet oğul. Kökü derinde, dalları cihâna uzanır; sen büyüteceksin. Sabret, bekle — vakti geldiğinde bu emânet zaten senin olacaktır."***
+
+Rüyada çınarın gölgesi ufkun ötesine salınıyordu; sanki uzak diyarların hükümdarları bile farkında olmadan seslerini alçaltıyordu.
+
+Murad Han ter içinde uyandı. Rüyayı yalnız Akşemseddin Hazretleri'ne açtığı söylenir; bu defterde rivayet olarak kayda geçirilmiştir.
+
+*Yazar notu (defter dışı):* Rüyanın tabiri deftere yazılmamıştır. Çınar, Osman Gazi'nin göbeğinden biten ağacın kardeşidir: hanedanın kendisidir. *Emânet* ise iki türlü okunabilir — tahtı değil de hanedanı ayakta tutmak, bir kardeşin kardeşe kıymamasını sağlamak. Murad Han hangisini kastettiğini bilmez; Berkay rüyadan hiç haberdar değildir.

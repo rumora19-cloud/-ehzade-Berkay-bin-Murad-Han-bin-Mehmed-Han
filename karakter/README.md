@@ -6,10 +6,11 @@ Bu klasörde Şehzâde Berkay Çelebi'nin **Ahvâl Defteri** (karakter dosyası)
 
 | Dosya | Ne | Durum |
 |---|---|---|
-| `berkay-celebi-ahval-defteri.md` | Yazarın karakter dosyası — *"tashih ve tevsî' edilmiş nüsha, fî 29 Receb 848"*, XX bölüm. **Metin yazarındır;** yalnız Markdown biçimi düzeltilmiştir. | ✅ işlendi (2026-10-14) |
+| `berkay-celebi-ahval-defteri.md` | Yazarın karakter dosyası — *"tashih ve tevsî' edilmiş nüsha, fî 29 Receb 848"*, XX bölüm + **Zeyl (Murad Han'ın rüyası, 2026-10-14)**. **Metin yazarındır;** yalnız Markdown biçimi düzeltilmiştir. | ✅ işlendi |
 | `tashih-notlari.md` | Defterin `kaynaklar/` ile satır satır çakıştırılması: takvim/gök doğrulamaları (A), uyumlu noktalar (B), düzeltme önerileri C1–C14, kâtibin suskunlukları (D), kurgu kancaları (E), yazara sorular (F). **Hiçbiri metne uygulanmadı; yazar onayı bekleniyor.** | ✅ ilk sürüm |
 | `hanedan-berkay-soyu.md` | **Kurgusal hanedan dalı:** Sultan Berkay'ın saltanatı (1451–81), II. Orhan, Alâeddin Ali, Selim (Orhan'ın oğlu); yaş tablosu. Doğum yılları ve eşler "öneri". | ✅ ilk sürüm (2026-10-14) |
 | `mehmed-soyu-alternatif.md` | Serdar Mehmed (1451–80), Bayezid (ö. 1481), Mustafa, Cem (yeni rotası), Ahmed ve Korkud (Orhan'ın himayesi → 1513); yazarın iki repliği birebir. | ✅ ilk sürüm (2026-10-14) |
+| `cevre-kisiler.md` | Lala Evrenosoğlu Ali Bey, Kurtçu Doğan Ağa, kâtip Sinan, Yunus Ağa, Hamza Ağa, Koca Hızır, Akşemseddin, Gedik Ahmed… — hikâyedeki rolleri ve kaderleri. | ✅ ilk sürüm (2026-10-14) |
 | `sablon-ahval-defteri.md` | Eski doldurulabilir şablon. Yazarın kendi yapısı (I–XX) esas alındığı için **artık kullanılmıyor**; silinebilir ya da ikinci bir karakter için saklanabilir. | 🗄 arşiv |
 
 ## Karakterin tarihî çerçevesi (defterden)
