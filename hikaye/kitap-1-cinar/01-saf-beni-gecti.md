@@ -4,8 +4,8 @@
 
 > **Tarih:** 10 Kasım 1444 (28 Receb 848, Salı) · **Mekân:** Varna; sağ kolun gerisindeki yamaç → merkez hendeği · **Göz:** Berkay
 > **Gerçek tarih:** Hunyadi sağ kolu (Anadolu askeri) kırar, Karaca Bey şehit düşer; Murad sancağın dibinden ayrılmaz; Kral Vladislav 500 atlıyla yeniçeri üzerine yürür, atı düşürülür, başını Koca Hızır keser; Cesarini kaçarken ölür; Hunyadi çekilir.
-> **Çatal:** Kralı yıkan ok Berkay'ındır; ocak "Bahadır Çelebi" der. (Defter §XI–XIII'e birebir sadık; kâtibin bilmediği iç dünya burada.)
-> **Kaynak:** `karakter/berkay-celebi-ahval-defteri.md` §IV–V, VIII, XI–XIII, XVII · `kaynaklar/01-kronoloji/01-ii-murad-ikinci-saltanat-1444-1451.md` §3 · `kaynaklar/05-kurumlar/ordu-1444-1520.md` · `kaynaklar/06-gunluk-hayat/takvim-ve-zaman.md`
+> **Çatal:** Kralı yıkan ok Berkay'ındır; ocak "Kral Vuran Şehzâde" der. (Defter §XI–XIII'e birebir sadık; kâtibin bilmediği iç dünya burada.)
+> **Kaynak:** `karakter/sehzade-berkay-ahval-defteri.md` §IV–V, VIII, XI–XIII, XVII · `kaynaklar/01-kronoloji/01-ii-murad-ikinci-saltanat-1444-1451.md` §3 · `kaynaklar/05-kurumlar/ordu-1444-1520.md` · `kaynaklar/06-gunluk-hayat/takvim-ve-zaman.md`
 > **Durum:** ⚙ kâtip taslağı — yazarın kalemini bekler.
 
 ---
@@ -160,9 +160,9 @@ Berkay sesin geldiği yere baktı. Tanımadığı bir yeniçeri; yüzü kan içi
 
 "Berkay! Berkay!"
 
-On ses. Yüz. Bin. Nâra hendeğin boyunca koştu, tümseğe çıktı, tümsekten ovaya indi; ovada başka bir şeyle karıştı — kaçan düşmanın sesiyle. Sonra o nâraya bir kelime daha eklendi. Hiçbir fermânın yazmadığı, hiçbir divanın dağıtmadığı bir kelime:
+On ses. Yüz. Bin. Nâra hendeğin boyunca koştu, tümseğe çıktı, tümsekten ovaya indi; ovada başka bir şeyle karıştı — kaçan düşmanın sesiyle. Sonra o nâraya bir ad daha eklendi. Hiçbir fermânın yazmadığı, hiçbir divanın dağıtmadığı bir ad:
 
-"Bahadır! Bahadır Çelebi!"
+"Kral Vuran! Kral Vuran Şehzâde!"
 
 Berkay'ın içinde bir şey kıpırdadı. Sevinç gibiydi. Sıcak, hızlı, utanç verici bir şey; kıpırdadığı anda kendini ele veren bir şey. Berkay onu tanıdı, yakaladı ve kimseye söylemedi. Secdeye kadar bekleyecekti.
 
@@ -224,7 +224,7 @@ Gece ordugâh başka bir yerdi.
 
 Kazanlar kaynıyordu; ateşlerin arasından yaralı sesi, esir sesi, at sesi geliyordu. Hamza Ağa Saruhan alayından kalanı sayıyordu; dudakları kıpırdıyor, yüzü kıpırdamıyordu. Mahmud Bey ve İbrahim Bey akşam ezanından sonra bulmuşlardı onu, ikisi de sağ, ikisi de bir şey söylemeden önünde eğilmişlerdi. Kâtip Sinan ateşin yanında kalemini açıyordu; yarın yazılacak çok şey vardı: beşâretnâme için divan kâtiplerine, Edirne'ye çavuşlarla gidecek haber için, ve kendi kalemiyle — Berkay bunu bilmiyordu — bir şehzâdenin ahvâlini kayda geçirmek için.
 
-Çadırların arasında bir ad dolaşıyordu. Berkay duydu; duymamış gibi yaptı. *Kral Vuran Çelebi.* Bir başka ateşin başında başka bir ad: *Varna'nın Genç Okçusu.* Ocak oku konuşuyordu, çitin dibinde diz çökmüş o ince boyu konuşuyordu. Kazan başında henüz bir nâra, bir mâni olan şey, yarın bir türkü olacaktı.
+Çadırların arasında bir ad dolaşıyordu. Berkay duydu; duymamış gibi yaptı. *Kral Vuran Şehzâde.* Bir ateşten ötekine aynı üç kelime. Ocak oku konuşuyordu, çitin dibinde diz çökmüş o ince boyu konuşuyordu. Kazan başında henüz bir nâra, bir mâni olan şey, yarın bir türkü olacaktı.
 
 Şehâbeddin Paşa'nın adamları bu sesleri dinliyordu; Berkay bunu da gördü. Edirne'ye gidecek haberin içinde kendi adı olacaktı. Edirne'de ikizi vardı; tahtta oturan, on üç yaşında, Varna'ya getirilmemiş bir sultan. Berkay o haberin Mehmed'e nasıl ulaşacağını düşündü, ulaştığında kardeşinin yüzünü düşündü; sonra düşünmeyi bıraktı. Bu, bu gece taşınacak yük değildi.
 

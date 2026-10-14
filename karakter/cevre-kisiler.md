@@ -12,7 +12,7 @@
 | **Sinan bin Abdullah** | Defterin kâtibi; Saruhan sancağı kâtibi, yeni Müslüman, 30 (1444) | ⚙ Berkay'la İstanbul'a; nişancı kaleminde; rüyayı Akşemseddin'den duyup yazan kişi 🎭; ölüm açık |
 | **Yunus Ağa** | Silâhdar, Amasya'dan beri, 30 (1444) | ⚙ 1453'te surda; kapıcıbaşı; 1462'de Lala'nın yanında |
 | **Hamza Ağa** | Hazinedar, 45 (1444) | ⚙ İlk defterdarlardan; 1460'larda ölür |
-| **Koca Hızır** | Yeniçeri; Varna'da kralın başını alan | ⚙ "Bahadır Çelebi" efsanesinin taşıyıcısı; 1456 Belgrad gediğinde ölür |
+| **Koca Hızır** | Yeniçeri; Varna'da kralın başını alan | ⚙ "Kral Vuran Şehzade" efsanesinin taşıyıcısı; 1456 Belgrad gediğinde ölür |
 | **Akşemseddin** | `[K]` ö. 1459 Göynük | ✔ **Murad'ın rüyasını bilen tek kişi**; 1453 mektubu Berkay'a; sır 1459'da kâtip Sinan'a kalır ⚙ |
 | **Hekim Yakub Paşa** | `[K]` | 1481'de zehir söylentisi (gerçekteki gibi) |
 

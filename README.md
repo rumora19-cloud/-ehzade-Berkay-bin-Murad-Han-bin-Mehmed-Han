@@ -1,6 +1,6 @@
 # Şehzâde Berkay bin Murad Han bin Mehmed Han
 
-**Tarihî kurgu projesi.** II. Murad'ın oğlu, Fâtih Sultan Mehmed'in kardeşi olarak tasarlanmış kurgusal bir Osmanlı şehzadesinin —Şehzâde Berkay Çelebi— hikâyesi ve bu hikâyenin dayandığı tarihî kaynak arşivi.
+**Tarihî kurgu projesi.** II. Murad'ın oğlu, Fâtih Sultan Mehmed'in kardeşi olarak tasarlanmış kurgusal bir Osmanlı şehzadesinin —Şehzâde Berkay— hikâyesi ve bu hikâyenin dayandığı tarihî kaynak arşivi.
 
 Kapsanan dönem: **11 Kasım 1444** (Varna Zaferi'nin ertesi günü) — **1520** (Yavuz Sultan Selim'in ölümü, Kanunî'nin cülûsu).
 
@@ -46,7 +46,7 @@ Kapsanan dönem: **11 Kasım 1444** (Varna Zaferi'nin ertesi günü) — **1520*
 | Kurumlar (ordu; saray–divan–devlet; hitap kılavuzu) | ✅ ilk sürüm |
 | Günlük hayat (takvim tablosu 1444–1521, para, tıp, kıyafet–yemek–meclis, dil–inanç) | ✅ ilk sürüm |
 | Hanedan ve kişiler 1451–1520; kaynak × dönem matrisi | ✅ ilk sürüm |
-| Karakter dosyası (Ahvâl Defteri) | ✅ işlendi (`karakter/berkay-celebi-ahval-defteri.md`) |
+| Karakter dosyası (Ahvâl Defteri) | ✅ işlendi (`karakter/sehzade-berkay-ahval-defteri.md`) |
 | Hikâye ana hattı (üç padişahlık kavis) | ✅ derlendi (`hikaye/00-ana-hat.md`) — ✔ yazar kararları / ⚙ kâtip kararları işaretli |
 | Bölüm planı (34 bölüm + epilog) | ⚙ taslak (`hikaye/02-bolum-plani.md`) — yazar onayı bekliyor |
 | Bölüm metinleri | ✎ Kitap I, Bölüm 1 taslağı yazıldı (`hikaye/kitap-1-cinar/01-saf-beni-gecti.md`) |

@@ -1,4 +1,4 @@
-# ŞEHZÂDE BERKAY ÇELEBİ BİN MURAD HAN
+# ŞEHZÂDE BERKAY BİN MURAD HAN
 
 *Ahvâl Defteri — tashih ve tevsî' edilmiş nüsha*
 
@@ -6,13 +6,13 @@
 
 *Bismillâhirrahmânirrahîm. Bu defter, Varna zaferinin ertesinde, Sultan Murad Han'ın ordugâhında tutulmuş bir ahvâl kaydıdır: şehzâde kimdir, nesinden gelir, hangi sancağın beyidir, nasıl yetişti, neye inanır, ne yaptı ve şimdi nerededir.*
 
-> **Repo notu:** Bu metin yazarın gönderdiği nüshanın aynısıdır; yalnız Markdown biçimi düzeltilmiştir (alıntı işaretleri, tablo satırları). Tarihî doğrulama ve önerilen düzeltmeler için bk. `karakter/tashih-notlari.md`. Metin değiştirilmeden önce yazar onayı alınır.
+> **Repo notu:** Bu metin yazarın gönderdiği nüshanın aynısıdır; yalnız Markdown biçimi düzeltilmiştir (alıntı işaretleri, tablo satırları). **Yazarın talimatıyla (15 Ekim 2026) ad ve lâkap düzeltmesi yapılmıştır:** "Çelebi" ve "Bahadır" kaldırıldı; tek lâkap **"Kral Vuran Şehzâde"** (değişen satırların dökümü: `tashih-notlari.md` §G). Tarihî doğrulama ve önerilen düzeltmeler için bk. `karakter/tashih-notlari.md`. Metin değiştirilmeden önce yazar onayı alınır.
 
 ---
 
 ## I. KÜNYE VE SOY
 
-- **Adı:** Şehzâde Berkay Çelebi. *Berk*, sağlam ve dayanıklı demektir; *ay*, gökteki aydır. *Çelebi*, hanedanın şehzâdelerine verilen unvandır.
+- **Adı:** Şehzâde Berkay. *Berk*, sağlam ve dayanıklı demektir; *ay*, gökteki aydır. *Şehzâde*, hanedanın oğullarına verilen unvandır; başka unvan taşımaz.
 
 - **Babası:** Sultan Murad Han bin Mehmed Han.
 
@@ -26,11 +26,11 @@
 
 - **Sancağı:** **Saruhan (merkezi Manisa).** Bu yaz Sultan Murad Han'ın Manisa'ya çekilmesinden beri beyi Berkay'dır. Geçen seneden bu yaza dek **Rûm sancağının (Amasya)** beyiydi.
 
-- **Lâkabı:** *Kral Vuran Çelebi* — Varna akşamından beri ocak ağzında.
+- **Lâkabı:** *Kral Vuran Şehzâde* — Varna akşamından beri ocağın ve ordunun ağzında; tek lâkabıdır.
 
-- **Sıfatı:** ***Bahadır*** — savaşta gösterdiği yararlık üzerine ordunun ve ocağın taktığı sıfat. **Resmî adının parçası değildir:** fermânla verilmez, divan defterine yazılmaz, tuğraya girmez.
+- **Sıfatı:** Başka sıfat taşımaz. *Kral Vuran Şehzâde* lâkabı, savaşta gösterdiği yararlık üzerine ordunun ve ocağın taktığı addır. **Resmî adının parçası değildir:** fermânla verilmez, divan defterine yazılmaz, tuğraya girmez.
 
-- **Anılışları:** Resmî defterde ve fermânda *Saruhan Beyi Şehzâde Berkay Çelebi*; ordunun dilinde *Bahadır Çelebi*; ocak ağzında ayrıca *Kral Vuran Çelebi*.
+- **Anılışları:** Resmî defterde ve fermânda *Saruhan Beyi Şehzâde Berkay*; ordunun ve ocağın dilinde *Kral Vuran Şehzâde*.
 
 - **Mührü:** Küçük, yuvarlak; üzerinde adı ve *"Tevekkeltü alâ'llâh"* sözü yazılıdır.
 
@@ -260,7 +260,7 @@ Hırsı ne kadar yüksek olursa olsun kendi kaderine dair belirsiz bir "hazır o
 
 ### Sırrı
 
-Varna'da "Bahadır!" nâralarını duyduğunda içinde bir şeyin sevinç gibi kıpırdadığını fark etti. Bu sevinci kimseye söylemedi; yalnız secdede nefsine itiraf etti. Hırsı olduğu kadar, hırsından utanabilen bir çocuktur.
+Varna'da "Kral Vuran Şehzâde!" nâralarını duyduğunda içinde bir şeyin sevinç gibi kıpırdadığını fark etti. Bu sevinci kimseye söylemedi; yalnız secdede nefsine itiraf etti. Hırsı olduğu kadar, hırsından utanabilen bir çocuktur.
 
 ### Zaafları
 
@@ -479,9 +479,9 @@ Sonra ocağın içinden bir ses yükseldi — bir tek ses, ardından on, ardınd
 
 > ***"Berkay! Berkay!"***
 
-Sonra o nâraya bir kelime daha eklendi; hiçbir fermânın yazmadığı, hiçbir divanın dağıtmadığı bir kelime:
+Sonra o nâraya bir ad daha eklendi; hiçbir fermânın yazmadığı, hiçbir divanın dağıtmadığı bir ad:
 
-> ***"Bahadır! Bahadır Çelebi!"***
+> ***"Kral Vuran! Kral Vuran Şehzâde!"***
 
 **O gün ocak, bir şehzâdeyi sevdi; ve ona bir ad verdi.**
 
@@ -519,15 +519,15 @@ Ali Bey gözlerini çevirdi. Babasının fermânını, "yanından ayrılmayacaks
 
 ## XIII. NÂM VE ŞAN
 
-### "Bahadır" sıfatı
+### "Kral Vuran Şehzâde" lâkabı
 
-Bahadır, divanın verdiği bir unvan değildir; fermânla dağıtılmaz, deftere yazılarak verilmez. Savaşta yararlık gösterenin adına **ordunun ve halkın** taktığı sıfattır. Berkay onu Varna'da aldı; o günden sonra ordunun dilinde onun adı **Bahadır Çelebi**'dir.
+Bu ad, divanın verdiği bir unvan değildir; fermânla dağıtılmaz, deftere yazılarak verilmez. Savaşta yararlık gösterenin adına **ordunun ve halkın** taktığı lâkaptır. Berkay onu Varna'da aldı; o günden sonra ordunun dilinde onun adı **Kral Vuran Şehzâde**'dir.
 
 ### Ocak ağzı
 
 Varna akşamı kazanlar kaynarken bir ad dolaştı çadırlar arasında: *Berkay.* Yeniçeri, kralı vuran oku konuştu; çitin dibinde diz çökmüş o ince boyu konuştu. Kazan başında henüz bir nâra, bir mâni olarak dolaşan bu söz, ocak odalarında türküye dönecek gibidir.
 
-Ocak ona **"Kral Vuran Çelebi"** dedi; bazıları da **"Varna'nın Genç Okçusu"** dedi.
+Ocak ona **"Kral Vuran Şehzâde"** dedi; başka ad takmadı.
 
 ### Halk ağzı
 
@@ -545,7 +545,7 @@ Berkay'ın oku ise devlet kaleminden çok **ocağın ve halkın hafızasında** 
 
 ## XIV. RECEB'İN YİRMİ DOKUZUNCU GÜNÜ — DURUM TESPİTİ
 
-### Şehzâde Berkay — ordunun dilinde Bahadır Çelebi — bugün şu hâldedir:
+### Şehzâde Berkay — ordunun dilinde Kral Vuran Şehzâde — bugün şu hâldedir:
 
 - **Yaşı:** Kamerî hesapla on üç yıl, iki gün.
 
@@ -567,7 +567,7 @@ Berkay'ın oku ise devlet kaleminden çok **ocağın ve halkın hafızasında** 
 
 - **Babasının bakışı:** Değişti. Murad Han'ın gözünde artık yalnız sevdiği bir evlat değil, üzerinde konuşulmamış ama hissedilen bir **emânetin taşıyıcısı** var.
 
-- **Şanı ve sıfatı:** Orduda ve ocakta. On üç yaşında kralı kendi okuyla vurmuş, Varna'nın kaderini çevirmiş ve sultanı ölümden kurtarmış bir isim olarak anılıyor; adının yanında artık **Bahadır** duruyor — fermânla değil, okla alınmış bir sıfat.
+- **Şanı ve sıfatı:** Orduda ve ocakta. On üç yaşında kralı kendi okuyla vurmuş, Varna'nın kaderini çevirmiş ve sultanı ölümden kurtarmış bir isim olarak anılıyor; adının yanında artık **Kral Vuran Şehzâde** lâkabı duruyor — fermânla değil, okla alınmış bir ad.
 
 - **Şanın bedeli:** Ocak onu sevdi; tahtta ise ikizi Mehmed var. Yeniçerinin sevgisi bu hanedanda en büyük hediyedir — ve en büyük tehlike. Zağanos Paşa ile Şehâbeddin Şahin Paşa'nın tarafının tedirgin olacağı muhakkaktır; Şehâbeddin Paşa bu gece ordugâhtadır, ocağın nâralarını kendi kulağıyla duymuştur ve Edirne'ye giden ilk haber onun ağzından da çıkabilir. Çandarlı Halil Paşa ise bu yeni şehzâdenin etrafında oluşan kuvveti dikkatle izleyecektir.
 
@@ -681,11 +681,11 @@ Bunlar, on üç yaşındaki bir şehzâdenin elinde hazır bir sefer tedbiri de�
 
 - **Lalaları ve Ali Bey:** "Şehzâdem".
 
-- **Ocak ve ordu:** "Bahadır Çelebi".
+- **Ocak ve ordu:** "Kral Vuran Şehzâde".
 
 - **Sipahiler:** "Beyim".
 
-- **Resmî defter ve fermân:** "Saruhan Beyi Şehzâde Berkay Çelebi".
+- **Resmî defter ve fermân:** "Saruhan Beyi Şehzâde Berkay".
 
 ### Üslûbu
 

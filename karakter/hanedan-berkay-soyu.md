@@ -1,6 +1,6 @@
 # Berkay'ın soyu — Sultan Berkay, II. Orhan, Alâeddin Ali, Selim
 
-> Kurgusal hanedan dalının kimlik dosyası. Gerçek tarihteki karşılıklar `kaynaklar/03-kisiler/hanedan-1451-1520.md`'de; farklar `hikaye/01-catal-noktalari.md`'de. "Öneri" = yazar onayı bekliyor. Berkay'ın 1444'e kadarki hayatı `berkay-celebi-ahval-defteri.md`'dedir; burada yalnız saltanat dönemi.
+> Kurgusal hanedan dalının kimlik dosyası. Gerçek tarihteki karşılıklar `kaynaklar/03-kisiler/hanedan-1451-1520.md`'de; farklar `hikaye/01-catal-noktalari.md`'de. "Öneri" = yazar onayı bekliyor. Berkay'ın 1444'e kadarki hayatı `sehzade-berkay-ahval-defteri.md`'dedir; burada yalnız saltanat dönemi.
 > **Son güncelleme:** 2026-10-14
 
 ## 1. Sultan Berkay Han bin Murad Han (8. padişah, 1451–1481)
@@ -9,7 +9,7 @@
 |---|---|
 | Doğum–ölüm | 30 Mar 1432 Edirne – **3 May 1481 Per (4 R.evvel 886), Ofanto/Cannae ovası, otağında** (✔ İtalya; ⚙ gün/yer); sebep ⚙ nikris krizi + humma, Hekim Yakub'a zehir söylentisi. Türbe: Fâtih Camii (İstanbul), **ikizi Mehmed'in yanı** (✔) |
 | Saltanat | Mart 1451 – 1481 (30 yıl) |
-| Unvan/lakap | ✔ **"Fâtih Sultan Berkay Han"** (1453'ten sonra); ocak dilinde hâlâ "Bahadır Çelebi"; Batı'da *Berchai* / *il Gran Turco*; "Ebü'l-Feth" |
+| Unvan/lakap | ✔ **"Fâtih Sultan Berkay Han"** (1453'ten sonra); ocak dilinde hâlâ "Kral Vuran Şehzade"; **"Çelebi" ve "Bahadır" kullanılmaz (✔)**; Batı'da *Berchai* / *il Gran Turco*; "Ebü'l-Feth" |
 | Eşler | ✔ **Çocukluk aşkı** — ✔ **Meryem Hatun** (⚙ soy: Yörgüç Paşa'nın torunu, d. 1433 Amasya); nikâh 1450 Amasya; Orhan'ın annesi. **Sitti Mükrime bu evrende yoktur** (✔). Câriye eşler: açık |
 | Çocuklar | **Orhan** (✔ d. 1452 Edirne; annesi Meryem), **Alâeddin Ali** (✔ d. 1455; annesi açık), **Hüma Sultan** (⚙ ad; d. 1458; ✔ Akkoyunlu gelini — 1474 Uğurlu Mehmed Mirza'ya; oğlu Göde Ahmed), adsız kızlar |
 | Hocaları/çevresi | Çandarlı Halil (1453'te idam ettirir), Molla Gürânî (müftü 1480–88), Akşemseddin (ö. 1459; **Murad'ın rüyasını bilen tek kişi**), Lala Evrenosoğlu Ali Bey (✔ **şehit 17 Haz 1462, Eflak gece baskını**), kâtip Sinan bin Abdullah (defterden), Ali Kuşçu (1472–74), Bellini (1479–81: **portre Berkay'ındır** 🎭) |
@@ -36,7 +36,7 @@
 | Karakter çizgisi (öneri) | Babasının rüyasını miras alan ama 14 yıl (1481–95) Cem yüzünden eli kolu bağlı kalan hükümdar; sabırlı, onarıcı; sonra "bezgin orduyu" toparlayıp İtalya'ya döner |
 | Ölüm | ✔ Roma yolunda şehit; ⚙ **4 Nis 1512 Pazar (17 Muharrem 918), Albano tepeleri** (Roma görünür), yara + humma; cenaze İstanbul, **Sultan Orhan Külliyesi** (gerçekteki Bayezid Külliyesi'nin yeri, 1501–05) |
 
-## 3. Şehzade Alâeddin Ali Çelebi bin Berkay Han
+## 3. Şehzade Alâeddin Ali bin Berkay Han
 
 | | |
 |---|---|

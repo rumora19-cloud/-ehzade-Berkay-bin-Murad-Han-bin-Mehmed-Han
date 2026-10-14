@@ -19,10 +19,10 @@ II. Murad 1444 yazında gördüğü rüyayı 3 Şubat 1451'de ölürken vasiyete
 ## 2. Kitap I — Berkay (1444–1481)
 
 ### 2a. Çocukluk, sancak, rüya, aşk
-- d. 27 Receb 835 = **30 Mart 1432 Pazar**, Edirne; annesi Hüma Hatun; Mehmed'in ikizi (`karakter/berkay-celebi-ahval-defteri.md`).
+- d. 27 Receb 835 = **30 Mart 1432 Pazar**, Edirne; annesi Hüma Hatun; Mehmed'in ikizi (`karakter/sehzade-berkay-ahval-defteri.md`).
 - 1434–43 Amasya'da büyür (defter; tashih C2 `[T]`); 1443 sonu – 1444 yazı **Amasya (Rûm) beyi**; 1444 yazı – 1446 **Manisa (Saruhan) beyi**, babası Murad'ın gölgesinde (✔).
 - **Rüya (✔; metin defterin Zeyl'inde):** 1444 yazı, Manisa. Murad kendini Bursa'da babası Çelebi Mehmed'in huzurunda görür; Çelebi Mehmed sarığını küçük Berkay'ın başına koyar: *"Bu koca çınar artık sana emânet oğul… Sabret, bekle — vakti geldiğinde bu emânet zaten senin olacaktır."* Yalnız **Akşemseddin** bilir; **Berkay hiç haberdar değildir.** Tabir iki türlü: taht mı, kardeşin kardeşe kıymaması mı — Murad hangisini kastettiğini bilmez.
-- **10 Kas 1444 Varna:** Kral Vladislav'ı yıkan ok Berkay'ın; "Bahadır Çelebi". Defter 11 Kas 1444.
+- **10 Kas 1444 Varna:** Kral Vladislav'ı yıkan ok Berkay'ın; ocağın taktığı tek lâkap **"Kral Vuran Şehzade"** (✔ "Çelebi" ve "Bahadır" kullanılmaz). Defter 11 Kas 1444.
 - 1446: Mehmed Manisa'ya; Berkay **Amasya'ya (1446–51)**. 1448 II. Kosova, 1449 Hüma'nın ölümü, 1450 Akçahisar aynen.
 - **Çocukluk aşkı ve evlilik (✔ ilke ve ad; ⚙ soy):** **Sitti Mükrime bu evrende yoktur** (gerçek 1450 Dulkadır düğünü ✖). Berkay çocukluk aşkıyla evlenir: ✔ **Meryem Hatun** — ⚙ Murad'ın eski lalası ve Amasya valisi **Yörgüç Paşa**'nın torunu (d. 1433 Amasya), ikizlerle Amasya sarayında büyür; nikâh 1450 Amasya; 1451'de Edirne'ye; **Orhan'ın annesi**. (Alternatifler: Lala Evrenosoğlu'nun kızı; Hüma Hatun'un dairesinden bir câriye.) Tashih: Amasya çocukluğu `[T]` ise bu evlilik onu kesinleştirir.
 

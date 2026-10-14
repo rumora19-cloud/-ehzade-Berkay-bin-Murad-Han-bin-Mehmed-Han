@@ -7,8 +7,8 @@
 
 | # | Tarih · Mekân | Göz | Olay | Kaynak |
 |---|---|---|---|---|
-| B0 | 11 Kas 1444 Çar · Varna ordugâhı | Sinan (defter) | Ahvâl Defteri'nin yazıldığı sabah; Zeyl'deki rüya rivayeti | `karakter/berkay-celebi-ahval-defteri.md` |
-| 1 | 10 Kas 1444 Salı · Varna | Berkay | Ok; Koca Hızır; "Bahadır"; Lala'nın hendek başına gelişi — **✎ taslak yazıldı: `kitap-1-cinar/01-saf-beni-gecti.md`** | K01 §3; defter §XI–XIII |
+| B0 | 11 Kas 1444 Çar · Varna ordugâhı | Sinan (defter) | Ahvâl Defteri'nin yazıldığı sabah; Zeyl'deki rüya rivayeti | `karakter/sehzade-berkay-ahval-defteri.md` |
+| 1 | 10 Kas 1444 Salı · Varna | Berkay | Ok; Koca Hızır; "Kral Vuran Şehzade"; Lala'nın hendek başına gelişi — **✎ taslak yazıldı: `kitap-1-cinar/01-saf-beni-gecti.md`** | K01 §3; defter §XI–XIII |
 | 2 | Ara 1444 – 1445 · Manisa | Murad / Akşemseddin | Babanın gölgesinde sancak; rüyanın Akşemseddin'e açılışı; Mehmed Edirne'de sultan | K01; `04-yerler/manisa-saruhan.md` |
 | 3 | May–Eyl 1446 · Edirne | Mehmed | Buçuktepe; Murad'ın dönüşü; ikizlerin yer değişimi (Mehmed Manisa'ya, Berkay Amasya'ya); Kurtçu Doğan ağa | K01 §4–5 |
 | 4 | 17–19 Eki 1448 · Kosova | Lala | İkinci Kosova; Hunyadi'nin kaçışı; Berkay'ın ilk kol komutası | K01 §6; `04-yerler/diger-sancaklar…` §B |

@@ -10,7 +10,7 @@
 - Erken dönemde hanedanın erkek üyeleri **paşa, emîr, çelebi, sultan, beylerbeyi** gibi unvanlarla anılır; **paşa/emîr büyük, çelebi küçük şehzadeler** için. (Eroğlu) `[K]`
 - 15. yüzyılın ilk yarısında yaygın biçim **"Çelebi"**: Mehmed Çelebi, Alâeddin Ali Çelebi, Orhan Çelebi. Fâtih'ten itibaren **"Sultan"** öne çıkar: Sultan Mustafa, Sultan Cem, Sultan Bayezid, Sultan Korkud, Sultan Ahmed, Sultan Selim. **"Şehzade"** kelimesi kaynaklarda kullanılır ama hitap olarak sonraki yüzyıllarda yerleşir. `[K]`
 - Resmî yazışmada: "ferzend-i ercümend", "veled-i azîz", "nûr-ı hadeka-i saltanat"; şehzade kendisi için babasına "bende" (kul) ve "oğlunuz" der. Belgelerde şehzade **tuğrası** padişahınki gibi üç flamalı, iki kavislidir; hükümlerine **tevkī-i hümâyun** denir. `[K]`
-- 🎭 *1444–1451: "Berkay Çelebi" · 1451 sonrası: "Sultan Berkay" · halk ağzında "Berkay Sultan", "Berkay Bey".*
+- 🎭 *1444–1451: "Şehzade Berkay" (yazar kararı: "Çelebi" kullanılmaz) · 1451 sonrası: "Sultan Berkay" · halk ağzında "Berkay Sultan", "Berkay Bey".*
 
 ## 2. Doğum, ad, ilk yıllar
 
@@ -105,7 +105,7 @@
 
 ## 9. Berkay için çıkarımlar (🎭)
 
-Karakter dosyasına göre Berkay **Mehmed'in ikizidir** (d. 30 Mart 1432); 1443 sonunda Amasya, 1444 yazından itibaren **Saruhan (Manisa)** sancak beyi; lalaları Kassabzâde Mahmud ve Nişancı İbrahim; Varna'da bulunmuş, ocakta "Bahadır Çelebi" diye anılır (`karakter/berkay-celebi-ahval-defteri.md`). Sistem açısından sonuçları:
+Karakter dosyasına göre Berkay **Mehmed'in ikizidir** (d. 30 Mart 1432); 1443 sonunda Amasya, 1444 yazından itibaren **Saruhan (Manisa)** sancak beyi; lalaları Kassabzâde Mahmud ve Nişancı İbrahim; Varna'da bulunmuş, ocakta "Kral Vuran Şehzade" diye anılır (`karakter/sehzade-berkay-ahval-defteri.md`). Sistem açısından sonuçları:
 
 - **1444:** İki ikizden biri tahtta (12 yaşında, Edirne), öbürü sancakta (Manisa) — ve sancağın oturduğu şehirde **babaları** oturuyor (Murad Varna'dan sonra Manisa'ya döner; Saruhan–Aydın–Menteşe gelirleri ona ayrılır). Berkay'ın divanı kimin adına hüküm yazar? Tarihte örneği yok; kurgunun ilk hukuk sorusu.
 - **1446:** Buçuktepe'den sonra **Mehmed Manisa'ya gönderilir** (Zağanos ve Şehâbeddin atabey). Aynı sancakta iki şehzâde olmaz → Berkay'a yeni yer: Amasya'ya dönüş (en "usûle uygun"), Karesi/Balıkesir, Kütahya (Germiyan — 1451'e kadar şehzâde sancağı sayılmaz), yahut sancaksız Edirne'de babasının yanı (Murad'ın "en sevdiği oğul" boşluğunu doldurması). Karar hikâyeyi belirler.
