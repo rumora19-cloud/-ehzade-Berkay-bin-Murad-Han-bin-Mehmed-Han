@@ -2,28 +2,26 @@
 
 | Dosya | Ne |
 |---|---|
-| `00-ana-hat.md` | **Kurgunun anayasası:** üç padişahlık kavis (Berkay 1451–81 → II. Orhan 1481–~1512 → Selim ~1512–20), padişah sayısı, temalar, açık kararlar. |
-| `01-catal-noktalari.md` | Yıl yıl "gerçekte böyle → bizde böyle" tablosu (✔ aynı · ✎ değişti · ✖ silindi · ★ yeni); her satır `kaynaklar/01-kronoloji` dosyalarına bağlı. |
-| `notlar/` | Sahne araştırma notları, taslaklar (henüz boş). |
+| `00-ana-hat.md` | **Kurgunun anayasası:** üç padişahlık kavis (Berkay 1451–81 → II. Orhan 1481–1512 → Selim 1512–20), padişah sayısı, bütün kararlar (✔ yazar / ⚙ kâtip), temalar, anlatıcı önerisi, kalan boşluklar. |
+| `01-catal-noktalari.md` | Yıl yıl "gerçekte → bizde" tablosu (✔ aynı · ✎ değişti · ✖ silindi · ★ yeni); her satır `kaynaklar/01-kronoloji` dosyalarına bağlı. |
+| `02-bolum-plani.md` | ⚙ Üç kitap, 34 bölüm + epilog: tarih, mekân, göz, olay, kaynak dosya. Yazar onayına kadar taslak. |
+| `notlar/` | Sahne araştırma notları, taslaklar (boş). |
 
-Karakterler: `../karakter/` (Berkay'ın defteri, tashih, Berkay soyu, Mehmed soyu).
+Kişiler: `../karakter/` — Berkay'ın defteri (+ Zeyl: Murad'ın rüyası), tashih, Berkay soyu, Mehmed soyu, çevre kişiler.
 
-## Çalışma sırası
-1. Bölüm yazılmadan önce: `01-catal-noktalari.md`'de o yılın satırı → `kaynaklar/01-kronoloji`'de gerçek ayrıntı → `kaynaklar/06-gunluk-hayat/takvim-ve-zaman.md`'den gün/ay → `05-kurumlar/saray-divan…` §7'den hitap.
-2. Her bölümün başına künye (aşağıda).
-3. Gerçek tarihten sapılan her yer bölüm sonunda "⚑ çatal" notuyla listelenir; yeni sapma `01-catal-noktalari.md`'ye işlenir.
+## Çalışma sırası (bölüm yazarken)
+1. `02-bolum-plani.md` satırı → `01-catal-noktalari.md` o yılın satırı → `kaynaklar/01-kronoloji` gerçek ayrıntı → `kaynaklar/06-gunluk-hayat/takvim-ve-zaman.md` gün/ay → `kaynaklar/05-kurumlar/saray-divan…` §7 hitap → `kaynaklar/04-yerler` mekân.
+2. Bölüm başına künye (aşağıda); bölüm sonuna "⚑ çatal" listesi; yeni sapma `01-catal-noktalari.md`'ye işlenir.
+3. Yazarın metnine (defter, replikler, rüya) dokunulmaz; öneriler `karakter/tashih-notlari.md`'ye.
 
 ## Bölüm başı künyesi (örnek)
 
 ```
-> **Tarih:** 11 Kasım 1444 (29 Receb 848, Çarşamba) · **Mekân:** Edirne, Eski Saray
-> **Gerçek tarih:** Varna zaferinin haberi henüz gelmedi; şehir Eylül yangınından yeni çıktı; Çandarlı Halil hükümette.
-> **Çatal:** yok (hikâye henüz gerçek tarihle örtüşüyor)
-> **Kaynak:** kaynaklar/01-kronoloji/01-…md §2–3; Oruç Bey (Öztürk) s. …
+> **Tarih:** 3 Şubat 1451 (1 Muharrem 855, Çarşamba) · **Mekân:** Edirne, Eski Saray · **Göz:** Çandarlı Halil
+> **Gerçek tarih:** Murad bu gece ölür; Halil ölümü 16 gün gizler; Mehmed 18 Şubat'ta gelir.
+> **Çatal:** Vasiyet Berkay'a; Mehmed'e taht verilmez; Orhan Çelebi salınır.
+> **Kaynak:** kaynaklar/01-kronoloji/01-…md §8; 04-yerler/edirne.md; 06-gunluk-hayat/takvim-ve-zaman.md
 ```
 
-## Bekleyen kararlar
-- Anlatıcı: üçüncü şahıs mı; Berkay'ın defteri gibi birinci şahıs belgeler mi; yaşlı bir tanığın (ör. kâtip Sinan'ın oğlu? Hasan Can?) 1520'den geriye bakışı mı.
-- Bölümleme: üç kitap (Berkay / Orhan / Selim) mi, tek sürekli akış mı; Berkay'ın kitabının 1444–51 ile 1451–81 ağırlığı.
-- Dil: çağdaş Türkçe + dönem hitapları (`KILAVUZ.md` §8; `kaynaklar/06-gunluk-hayat/dil-hitap-ve-inanc-cevreleri.md` §1).
-- `00-ana-hat.md` §6'daki sekiz açık karar.
+## Bekleyen yazar kararları
+`00-ana-hat.md` §7 tablosu (çocukluk aşkının kimliği, Pedri'nin kökeni, İtalya beylerbeyileri, Süleyman'ın derdi, anlatıcı/yapı, defter tashihi).

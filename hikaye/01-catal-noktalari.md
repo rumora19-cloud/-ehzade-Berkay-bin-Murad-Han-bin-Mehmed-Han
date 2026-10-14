@@ -20,7 +20,7 @@
 | 1451 | Bizans Orhan Çelebi'yi salmakla tehdit eder | **Orhan Çelebi salınır**, Deliorman'da taraftar toplar; Lala yolunu keser; **kaçıp Kostantiniyye'ye döner** (Y) | ★ |
 | Mar 1451 | — | Berkay Edirne'ye varır (~5 Mart); **cülûs ⚙ 7 Mart 1451 Pazar**; 8. padişah | ★ |
 | Şub 1451 | Küçük Ahmed boğdurulur (Evrenosoğlu Ali Bey) | **Eceliyle ölür** (Y) | ✎ |
-| 1451 | Halil kalır; Karaman seferi; Bursa'da yeniçeri bahşişi | Aynı; serdar Mehmed | ✔ |
+| 1451 | Halil kalır; Karaman seferi; Bursa'da yeniçeri bahşişi; **Kurtçu Doğan ağalıktan alınır** | Aynı; serdar Mehmed; ⚙ Kurtçu Doğan sürülmez, Lala'nın ucuna akıncı beyi gider | ✔ ✎ |
 
 ## B. 1452–1481 (K02)
 
@@ -32,7 +32,7 @@
 | 10 Tem 1453 | Halil idamı | **Korunur** (Y) | ✔ |
 | 1453–81 | Vezîriâzamlar: Zağanos → Mahmud → Rum Mehmed → İshak → Mahmud → Gedik Ahmed → Karamânî Mehmed | **Liste aynen** (Y) | ✔ |
 | 1454–55 | Sırbistan, Novo Brdo | Aynı | ✔ |
-| 4–22 Tem 1456 | Belgrad başarısız; Mehmed yaralanır; Hunyadi 11 Ağu vebadan; Kapistran Ekim | **Belgrad 22 Tem 1456 Per düşer; Hunyadi gedikte ölür** (⚙); Kapistran aynı | ✎ |
+| 4–22 Tem 1456 | Belgrad başarısız; Mehmed yaralanır; Hunyadi 11 Ağu vebadan; Kapistran Ekim | **Belgrad 22 Tem 1456 Per düşer; Hunyadi gedikte ölür** (✔); Kapistran aynı; ⚙ Pedri (Hunyadi'nin adamı) sağ çıkar, Vlad'a katılır | ✎ |
 | 1457–58 | Edirne düğünü; László Hunyadi idamı; **Matthias kral (Oca 1458)** | Aynı; düğünde Orhan (5), Alâeddin Ali (2) | ✔ |
 | 1458–60 | Mora; Semendire 20 Haz 1459 | Aynı | ✔ |
 | 23 Ara 1459 | Cem doğar (Edirne) | Cem doğar 22/23 Ara; babası serdar Mehmed | ✔ |
@@ -50,7 +50,7 @@
 | Haz / 18 Tem 1474 | Mustafa ölür / Mahmud Paşa boğdurulur | **Aynı** (Y) | ✔ |
 | 1474 | Gevherhan (Mehmed'in kızı) Uğurlu Mehmed'e | **Akkoyunlu gelini Berkay'ın kızı** (Y) — ⚙ Hüma Sultan (d. 1458); Göde Ahmed 1497 aynı; Gevherhan Mehmed'in kızı kalır, evliliği açık | ✎ |
 | 1474 | İşkodra I başarısız | Alınır (⚙) | ✎ |
-| 1475 | Vaslui 10 Oca yenilgi; Kefe 6 Haz | Aynı (⚙ — Stefan'ın zaferi kalır) | ✔ |
+| 1475 | Vaslui 10 Oca yenilgi; Kefe 6 Haz; **Cem'in oğlu Murad doğar** | Aynı (⚙ Pedri Vaslui'de Stefan'ın yanında); Murad doğar | ✔ |
 | 1476 | Boğdan (Akdere); Vlad ölür | Aynı | ✔ |
 | 1478 | Kruya; İşkodra II | Aynı | ✔ |
 | 25 Oca 1479 | Venedik barışı; Bellini (Eyl) | Aynı — Bellini Berkay'ı çizer | ✔ |
@@ -73,12 +73,12 @@
 | Eyl 1481 | Cem Kahire'de; **Otranto boşaltılır** | Cem Kahire'de; **iç Puglia–Basilicata kaybedilir, Salento üçgeni + Rodos tutulur** (⚙) | ✎ |
 | 1481–82 | Hac; 1482 Konya–Ankara | Aynı | ✔ |
 | 29 Tem 1482 | Cem Rodos'a | **Kıbrıs → Napoli → Roma** (Y) | ✎ |
-| 18 Kas 1482 | Gedik Ahmed idam | **İdam yok; Pulya beylerbeyi; ö. 1485** (⚙) | ✖ |
+| 18 Kas 1482 | Gedik Ahmed idam | **İdam yok; Pulya beylerbeyi 1481–85** (✔ 6); sonra ⚙ Mihaloğlu Ali Bey (1485–1507), Mihaloğlu Mehmed Bey (1507–20+) | ✖ |
 | 1483 | Oğuz Han boğdurulur | **Yaşar; sarayda büyür; 1492 vebasında ölür** (⚙) | ✎ |
 | 1482–89 | Cem Fransa'da | Napoli–Roma'da (Y) | ✎ |
 | 1484 | Kili, Akkirman | Aynı | ✔ |
 | 1485–91 | Memlük savaşı; Ağaçayırı 1488 | Aynı | ✔ |
-| 1489–95 | Cem Roma'da; 1494–95 VIII. Charles Cem'i alır; **ö. 25 Şub 1495 Napoli** | Aynı | ✔ |
+| 1489–95 | Cem Roma'da; oğlu Murad Rodos'ta Hristiyan ("Pierre"); 1494–95 VIII. Charles Cem'i alır; **ö. 25 Şub 1495 Napoli** | Aynı; **Murad Roma'da Papa'nın elinde büyür** (⚙ Rodos Osmanlı) | ✔ ✎ |
 | 1492 | Manastır suikastı; İspanya Yahudileri; veba | Aynı (hedef Orhan); Oğuz Han ölür | ✔ |
 | 1495–99 | Boğdan–Leh | Aynı; **Orhan devleti ve orduyu onarır** (Y) | ✔ ★ |
 | 1499–1503 | Venedik savaşı (İnebahtı, Modon); Venedik Puglia limanlarını tutar (1496–1509) | Aynı; Venedik'in limanları Trani–Monopoli (Otranto–Brindisi bizde Osmanlı) | ✔ |
@@ -103,7 +103,7 @@
 | 1517 | X. Leo Haçlı çağrısı | Aynı — hedef bu kez Osmanlı Napoli'si; **Roma barışı yok** (Y) | ✔ |
 | 1518–19 | Edirne kışı; avlar; Celâlî | Aynı | ✔ |
 | 1519 | V. Karl imparator | Aynı; Osmanlı–Fransa yakınlığı erken (⚙) | ✔ |
-| 21/22 Eyl 1520 | Selim Çorlu'da ölür | **Aynı**; epilog: 30 Eyl Süleyman cülûsu; **Roma'yı Süleyman fethedecek** (Y, hikâye dışı) | ✔ |
+| 21/22 Eyl 1520 | Selim Çorlu'da ölür; (1522 Rodos: Süleyman Cem'in oğlu Murad'ı idam ettirir) | **Aynı**; epilog: 30 Eyl Süleyman cülûsu; **Roma'yı Süleyman fethedecek** (✔); ⚙ Roma'daki Murad "Pierre" = Süleyman'ın derdi (aday) | ✔ |
 
 ## E. Hiç değişmeyen katmanlar
 Takvim ve bayramlar, para–fiyat, veba yılları, kıyafet–yemek–dil, kurumlar ve hitap formülleri, vezîriâzam listeleri (✔ yazar): **hepsi gerçek tarihteki gibi.** Yalnız kişilerin adları ve kararları değişir.

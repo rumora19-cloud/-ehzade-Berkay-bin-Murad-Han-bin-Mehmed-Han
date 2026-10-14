@@ -10,8 +10,8 @@
 | Doğum–ölüm | 30 Mar 1432 Edirne – **3 May 1481 Per (4 R.evvel 886), Ofanto/Cannae ovası, otağında** (✔ İtalya; ⚙ gün/yer); sebep ⚙ nikris krizi + humma, Hekim Yakub'a zehir söylentisi. Türbe: Fâtih Camii (İstanbul), **ikizi Mehmed'in yanı** (✔) |
 | Saltanat | Mart 1451 – 1481 (30 yıl) |
 | Unvan/lakap | ✔ **"Fâtih Sultan Berkay Han"** (1453'ten sonra); ocak dilinde hâlâ "Bahadır Çelebi"; Batı'da *Berchai* / *il Gran Turco*; "Ebü'l-Feth" |
-| Eşler | ✔ **Çocukluk aşkı** — adı, kimliği, nikâh yılı yazarın (⚙ öneri: nikâh 1450, Amasya). **Sitti Mükrime bu evrende yoktur** (✔). Câriye eşler: açık |
-| Çocuklar | **Orhan** (✔ d. 1452 Edirne; annesi çocukluk aşkı), **Alâeddin Ali** (✔ d. 1455; annesi açık), **Hüma Sultan** (⚙ ad; d. 1458; ✔ Akkoyunlu gelini — 1474 Uğurlu Mehmed Mirza'ya; oğlu Göde Ahmed), adsız kızlar |
+| Eşler | ✔ **Çocukluk aşkı** — ⚙ **Hundi Hatun**, Yörgüç Paşa'nın torunu (d. 1433 Amasya); nikâh 1450 Amasya; Orhan'ın annesi. **Sitti Mükrime bu evrende yoktur** (✔). Câriye eşler: açık |
+| Çocuklar | **Orhan** (✔ d. 1452 Edirne; annesi Hundi ⚙), **Alâeddin Ali** (✔ d. 1455; annesi açık), **Hüma Sultan** (⚙ ad; d. 1458; ✔ Akkoyunlu gelini — 1474 Uğurlu Mehmed Mirza'ya; oğlu Göde Ahmed), adsız kızlar |
 | Hocaları/çevresi | Çandarlı Halil (1453'te idam ettirir), Molla Gürânî (müftü 1480–88), Akşemseddin (ö. 1459; **Murad'ın rüyasını bilen tek kişi**), Lala Evrenosoğlu Ali Bey (✔ **şehit 17 Haz 1462, Eflak gece baskını**), kâtip Sinan bin Abdullah (defterden), Ali Kuşçu (1472–74), Bellini (1479–81: **portre Berkay'ındır** 🎭) |
 | Vezîriâzamları | **Gerçek liste aynen** (✔): Halil (–1453) → Zağanos (1453–56) → Mahmud Paşa (1456–68; 1472–73; idam 1474) → Rum Mehmed (1468–70) → İshak (1470–72) → Gedik Ahmed (1474–77) → Karamânî Mehmed (1477–81) |
 | İki gölgesi | 10 Tem 1453 Halil; 18 Tem 1474 Mahmud Paşa |
@@ -29,7 +29,7 @@
 | Eş / çocuklar | **Selim** (10 Eki 1470, Manisa ✔); annesi Dulkadırlı Ayşe Hatun (⚙ gerçek korunur); diğer çocuklar: açık |
 | 1481 muharebesi | Babası otağda can verirken meydanı kazanır; haberi alınca **meydanı kana bular** (✔). ⚙ 3 May 1481, Ofanto/Cannae, Kalabriya Dükü Alfonso'ya karşı |
 | Cülûs | İtalya'dan deniz yoluyla (~2 hafta); ⚙ Mayıs sonu 1481 |
-| Kan sınırı (⚙) | Oğuz Han'ı öldürmez (1492 vebasında ölür); Gedik Ahmed'i idam etmez (Pulya beylerbeyi, ö. 1485); Ahmed–Korkud himayede |
+| Kan sınırı (✔ 6) | Oğuz Han'ı öldürmez (1492 vebasında ölür); Gedik Ahmed'i idam etmez (Pulya beylerbeyi, ö. 1485; sonra Mihaloğulları ⚙); Ahmed–Korkud himayede |
 | İtalya | ✔ **Babasının yarım bıraktığı işi tamamlar:** 1481–95 Salento üçgenini tutar; 1510'da geçer; Napoli 15 Tem 1511; 1512 baharına kadar Napoli Krallığı'nın tamamı; Roma'ya yürürken şehit |
 | İlk imtihanı | Cem; kuzeni Bayezid'in ölümü; Bursa–Yenişehir |
 | Himayesi | Bayezid'in oğulları Ahmed ve Korkud'u öldürmez, sancak verir |
