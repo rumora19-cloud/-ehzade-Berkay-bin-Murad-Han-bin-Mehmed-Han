@@ -23,7 +23,7 @@
 | 13 | 1457–61 · Edirne, Trabzon | Hundi / Berkay | Düğün 1457; Cem doğar (1459); Trabzon 1461; Hüma Sultan doğar | K02 §4–5; `03-kisiler/hanedan-1451-1520.md` |
 | 14 | 17 Haz 1462 Per · Târgovişte yolu | Lala / Kurtçu Doğan | Gece baskını; Pedri; Lala'nın şehadeti; yemin | K02 §5; `03-kisiler/kisiler-1451-1520.md` (Vlad) |
 | 15 | 1468–74 · Konya, Otlukbeli, İstanbul | Mahmud Paşa | Karaman; Otlukbeli (11 Ağu 1473); Mustafa'nın ölümü; ikinci gölge (18 Tem 1474) | K02 §6–7 |
-| 16 | 1475–79 · Kefe, Boğdan, İstanbul | Kurtçu Doğan / Berkay | Kefe; Vaslui; Vlad'ın ve Pedri'nin sonu (Ara 1476); Venedik barışı; Bellini | K02 §8–9 |
+| 16 | 1475–79 · Kefe, Akdere, İstanbul | Berkay / Kurtçu Doğan | Kefe; Vaslui; **26 Tem 1476 Çar Akdere: Berkay Pedri'yi kendi eliyle öldürür**; Vlad'ın sonu (Ara 1476); Venedik barışı; Bellini | K02 §8–9 |
 | 17 | Ağu–Eki 1480 · Rodos, Otranto, Roma | Mehmed | Rodos'un düşüşü; Otranto; San Pietro sabahı; Milvius Köprüsü (28 Eki) | K02 §10; `04-yerler/diger…` §B (Otranto) |
 | 18 | Kış 1480–81 · İstanbul | Cem / Bayezid | Cenaze; kavga; iki replik | `karakter/mehmed-soyu-alternatif.md` |
 | 19 | 3 May 1481 Per · Cannae | Orhan | Otağ ve meydan; haber; kan; deniz yolu | K02 §10; `06-gunluk-hayat/hastalik-ve-tip.md` |

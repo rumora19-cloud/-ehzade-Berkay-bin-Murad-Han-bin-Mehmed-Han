@@ -38,7 +38,7 @@
 | 23 Ara 1459 | Cem doğar (Edirne) | Cem doğar 22/23 Ara; babası serdar Mehmed | ✔ |
 | 1461 | Amasra, Sinop, Trabzon | Aynı; Trabzon 1471'den Alâeddin Ali'nin sancağı (⚙) | ✔ |
 | **17 Haz 1462** | Vlad'ın gece baskını (19 Ramazan 866) | Çadırda serdar Mehmed sağ çıkar; **Lala Evrenosoğlu Ali Bey onu korurken Vlad'ın sağ kolu Şövalye Pedri'nin elinden şehit** (Y); **Kurtçu Doğan Ağa ve akıncıların intikam yemini** (Y) | ✎ ★ |
-| Kas 1462 / Ara 1476 | Vlad'ı Matthias hapseder / Vlad öldürülür | Aynı; her ikisinde akıncıların eli; **Pedri 1476'da Kurtçu Doğan'ın eliyle ölür** (⚙) | ✔ |
+| Kas 1462 / Ara 1476 | Vlad'ı Matthias hapseder / Vlad öldürülür | Aynı; her ikisinde akıncıların eli | ✔ |
 | 1462 | Midilli | Aynı | ✔ |
 | 1463–64 | Bosna; Yayça Matthias'a; 1464 kuşatma başarısız | Bosna aynı; **Yayça 1464 alınır** (⚙) | ✎ |
 | 1463–79 | Venedik savaşı | Aynı | ✔ |
@@ -51,7 +51,7 @@
 | 1474 | Gevherhan (Mehmed'in kızı) Uğurlu Mehmed'e | **Akkoyunlu gelini Berkay'ın kızı** (Y) — ⚙ Hüma Sultan (d. 1458); Göde Ahmed 1497 aynı; Gevherhan Mehmed'in kızı kalır, evliliği açık | ✎ |
 | 1474 | İşkodra I başarısız | Alınır (⚙) | ✎ |
 | 1475 | Vaslui 10 Oca yenilgi; Kefe 6 Haz; **Cem'in oğlu Murad doğar** | Aynı (⚙ Pedri Vaslui'de Stefan'ın yanında); Murad doğar | ✔ |
-| 1476 | Boğdan (Akdere); Vlad ölür | Aynı | ✔ |
+| **26 Tem 1476** | Akdere/Valea Albă: Fatih yeniçerilerin önüne bizzat atılır, Stefan yenilir ama kaçar; Ara 1476 Vlad ölür | Aynı; **Berkay Şövalye Pedri'yi kendi eliyle öldürür — Lala'nın intikamı** (Y; yer/gün ⚙) | ✔ ★ |
 | 1478 | Kruya; İşkodra II | Aynı | ✔ |
 | 25 Oca 1479 | Venedik barışı; Bellini (Eyl) | Aynı — Bellini Berkay'ı çizer | ✔ |
 | 13 Eki 1479 | Ekmekotlağı yenilgisi | Aynı (⚙) | ✔ |

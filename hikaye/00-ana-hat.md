@@ -39,8 +39,8 @@ II. Murad 1444 yazında gördüğü rüyayı 3 Şubat 1451'de ölürken vasiyete
 ### 2d. 1453–1479 — Serdar Mehmed'in fetihleri
 - **Vezîriâzam listesi gerçek tarihteki gibi (✔):** Halil → Zağanos (1453–56) → Mahmud Paşa (1456–68) → Rum Mehmed (1468–70) → İshak (1470–72) → Mahmud (1472–73) → Gedik Ahmed (1474–77) → Karamânî Mehmed (1477–81). Sonrakiler de aynı (K03, K04).
 - **Belgrad 22 Tem 1456 Per (18 Şaban 860) düşer; Hunyadi gedikte ölür (✔)**; Kapistran Ekim'de vebadan; Matthias Ocak 1458'de kral; Macar savunması Sava–Tuna kuzeyine çekilir.
-- Aynen: Sırbistan 1459, Mora 1460, Trabzon 1461, Bosna 1463, **Yayça 1464 alınır** ⚙, Arnavutluk 1468, Eğriboz 1470, **Otlukbeli 11 Ağu 1473**, Kefe 1475, Boğdan 1476 (Vaslui yenilgisi ve Ekmekotlağı kalır ⚙), Venedik barışı 1479.
-- **Eflak 1462 — Lala'nın şehadeti (✔):** ağır kayıplı sefer; **17 Haz 1462 gecesi (19 Ramazan 866) Vlad'ın gece baskınında Evrenosoğlu Ali Bey serdar Mehmed'in çadırını korurken Vlad'ın sağ kolu Şövalye Pedri'nin elinden şehit düşer.** (Gerçek: Ali Bey 1462 seferine katıldı, sonrasında öldü; türbesi Yenice-i Vardar.) **Kurtçu Doğan Ağa ve akıncılar intikam yemini eder (✔);** ⚙ Pedri 1476'da Vlad'la birlikte düşer, Kurtçu Doğan'ın eliyle.
+- Aynen: Sırbistan 1459, Mora 1460, Trabzon 1461, Bosna 1463, **Yayça 1464 alınır** ⚙, Arnavutluk 1468, Eğriboz 1470, **Otlukbeli 11 Ağu 1473**, Kefe 1475, Boğdan 1476 (Vaslui yenilgisi kalır; **Akdere 26 Tem 1476'da Berkay bizzat ordunun başındadır** ⚙ — Pedri'nin öldüğü gün, aşağıda), Venedik barışı 1479.
+- **Eflak 1462 — Lala'nın şehadeti (✔):** ağır kayıplı sefer; **17 Haz 1462 gecesi (19 Ramazan 866) Vlad'ın gece baskınında Evrenosoğlu Ali Bey serdar Mehmed'in çadırını korurken Vlad'ın sağ kolu Şövalye Pedri'nin elinden şehit düşer.** (Gerçek: Ali Bey 1462 seferine katıldı, sonrasında öldü; türbesi Yenice-i Vardar.) **Kurtçu Doğan Ağa ve akıncılar intikam yemini eder (✔).** **✔ Şövalyenin canını Fâtih Sultan Berkay Han'ın kendisi alır — lalasının intikamını başkasına bırakmaz.** ⚙ Yer ve gün: **Akdere/Valea Albă, 26 Tem 1476 Çar (24 R.evvel 881)**, padişahın bizzat yürüdüğü Boğdan seferinde; yeniçeri saffının sarsıldığı an (gerçekte Fatih'in kendisinin öne atıldığı an) Berkay öne atılır, Stefan'ın safındaki Pedri'yi kendi eliyle öldürür. Kurtçu Doğan o gün Pedri'yi padişahın önüne sürer, elini sürmez: 14 yıllık yemin padişahın kılıcıyla ödenir.
 - **Mehmed'in çocukları:** Bayezid (1447/48; Amasya 1454–81), Mustafa (1450; Manisa 1457–68, Konya 1468–74), **Cem (22/23 Ara 1459; Kastamonu 1469, Konya 1474)**, Gevherhan (evliliği açık).
 - **Berkay'ın çocukları:** **Orhan** (✔ d. 1452 Edirne; Manisa 1468–81), **Alâeddin Ali** (✔ d. 1455; Trabzon 1471–81 ⚙), **✔ Akkoyunlu gelini bir kızı** (⚙ **Hüma Sultan**, d. 1458; 1474 Uğurlu Mehmed Mirza'ya; oğlu Göde Ahmed 1497 Akkoyunlu tahtı), adsız kızlar.
 - **1474 (✔ gerçek korunur):** Mustafa Develi dönüşü ölür (Haziran); **18 Tem 1474** Mahmud Paşa boğdurulur — ikinci gölge.
@@ -71,7 +71,7 @@ II. Murad 1444 yazında gördüğü rüyayı 3 Şubat 1451'de ölürken vasiyete
 3. **Roma, dört kuşağın mirası:** Mehmed köprüsünde (1480), Orhan tepesinde (1512) ölür; Selim Doğu'ya döner; Süleyman alır.
 4. **Konstantin'in izinde:** Berkay Konstantin'in şehrini alır; Mehmed Konstantin'in köprüsünde, zaferinin yıl dönümünde ölür.
 5. **Adlar:** Orhan ve Alâeddin Ali — Osman Gazi'nin oğulları; Orhan Çelebi'nin lekesi silinir; Hüma — Berkay'ın annesi.
-6. **Lala'nın iki ölümü:** Gerçekte bebek boğan el, bizde Mehmed'i koruyan el.
+6. **Lala'nın iki ölümü:** Gerçekte bebek boğan el, bizde Mehmed'i koruyan el. İntikamı on dört yıl sonra padişahın kendi eli alır (1476).
 7. **İkiz:** Taht küçüğe gider; büyüğü kılıcını küçüğünün rüyasına verir ve o rüyada ölür; ikisi İslambol'da yan yana yatar.
 8. **Yenişehir ovası:** 1481 Cem yenilir, 1513 Ahmed ölür.
 9. **Pretender zinciri:** Orhan Çelebi (Bizans'ın elinde) → Cem (Papa'nın elinde) → Pierre/Murad (Roma'da): her kuşağın bir "dışarıdaki şehzâde"si.
@@ -86,7 +86,7 @@ II. Murad 1444 yazında gördüğü rüyayı 3 Şubat 1451'de ölürken vasiyete
 | Konu | Kâtip cevabı (⚙) | Kesinleşmesi için |
 |---|---|---|
 | Çocukluk aşkının kimliği | Hundi Hatun, Yörgüç Paşa'nın torunu, Amasya | Yazar "tamam" ya da başka ad/kimlik |
-| Pedri'nin kökeni | Erdelli Macar şövalye Péter; Hunyadi'nin maiyetinden Vlad'a geçer (1456); Belgrad'ın düşüşünden sağ çıkar; 1462 Lala'yı öldürür; Vlad hapisteyken Stefan'ın yanında (Vaslui 1475); 1476 ölür | Yazar |
+| Pedri'nin kökeni | Erdelli Macar şövalye Péter; Hunyadi'nin maiyetinden Vlad'a geçer (1456); Belgrad'ın düşüşünden sağ çıkar; 1462 Lala'yı öldürür; Vlad hapisteyken Stefan'ın yanında (Vaslui 1475); **✔ ölümü Berkay'ın kendi elinden** (⚙ Akdere, 26 Tem 1476) | Yazar |
 | İtalya'yı tutanlar 1485–1520 | Mihaloğlu Ali Bey → Mihaloğlu Mehmed Bey | Yazar |
 | Süleyman'ın derdi | Cem'in oğlu Murad "Pierre" | Yazar |
 | Anlatıcı/yapı | §6 | Yazar |

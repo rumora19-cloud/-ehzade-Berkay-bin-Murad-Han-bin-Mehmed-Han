@@ -17,7 +17,7 @@
 | İki gölgesi | 10 Tem 1453 Halil; 18 Tem 1474 Mahmud Paşa |
 | Ne yapmaz | Kardeş katli (Ahmed eceliyle ölür, Mehmed serdar olur); Fatih Kanunnâmesi'nin kardeş katli maddesi **yazılmaz** (Selim bu boşluğu 1512–13'te kılıçla doldurur) |
 | Rüyası | Kostantiniyye hadisi (1453'te biter) → Roma / "Rim Papa" (bitmez); ölünce rüyayı Orhan devralır. **Babasının 1444 rüyasından hiç haberi yoktur** (✔ yazar) — Akşemseddin 1459'da ölür; sır kiminle kalır? 🎭 |
-| Fizik/yaş | 1453: 21; 1473 Otlukbeli: 41; 1480: 48 — nikris? (ikizi gibi `[M]`); ölüm sebebi: karar |
+| Fizik/yaş | 1453: 21; 1473 Otlukbeli: 41; **1476 Akdere: 44 — Pedri'yi kendi eliyle öldürür (✔)**; 1480: 48 — nikris (ikizi gibi `[M]`); ölüm 3 May 1481 otağda (✔) |
 
 ## 2. Sultan II. Orhan Han bin Berkay Han (9. padişah, 1481–~1512)
 
