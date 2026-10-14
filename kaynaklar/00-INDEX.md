@@ -22,6 +22,20 @@
 | 1444–1451 vezirleri, beylerbeyileri, uç beyleri, lalalar, hocalar | `03-kisiler/devlet-adamlari-1444-1451.md` |
 | Şehzade nasıl yetişir, sancağa nasıl çıkar, lala kimdir, kardeş katli | `05-kurumlar/sehzadelik-sistemi.md` |
 | Dönem terimleri (akçe, has, timar, kapıkulu, nişancı…) | `07-sozluk/sozluk.md` |
+| Bu yıl için hangi kaynağa bakayım? (kaynak × dönem matrisi; ilk bakılacaklar listesi) | `02-birincil-kaynaklar/01-kaynak-donem-matrisi.md` |
+| Fâtih'in, Bayezid'in, Selim'in eşleri ve çocukları; Berkay'ın yeğenleriyle yaş farkları | `03-kisiler/hanedan-1451-1520.md` |
+| 1451–1520 vezirleri, ulemâ, şeyhler, sanatçılar, yabancı hükümdarlar (Mahmud Paşa, Gedik Ahmed, Ali Kuşçu, Vlad, Hunyadi, Mara Hatun…) | `03-kisiler/kisiler-1451-1520.md` |
+| Edirne'nin sarayları, mahalleleri, 1444'teki hâli | `04-yerler/edirne.md` |
+| Bursa (hanedan mezarlığı, Cem'in 18 günü), Manisa/Saruhan (sancak sarayı, kazalar), Amasya (şehzâde şehri, Halvetîler) | `04-yerler/bursa.md`, `04-yerler/manisa-saruhan.md`, `04-yerler/amasya.md` |
+| Fetihten sonra İstanbul: iskân, saraylar, külliyeler, mahalleler, nüfus | `04-yerler/istanbul-1453-1520.md` |
+| Diğer sancaklar; **savaş alanlarının coğrafyası** (Varna, Kosova, Belgrad, Otlukbeli, Çaldıran…); **yol süreleri** (Edirne–Bursa kaç gün?) | `04-yerler/diger-sancaklar-ve-savas-alanlari.md` §B–C |
+| Ordu: sayılar, yeniçeri, sipahi, akıncı, top, sefer düzeni, Türk yayı | `05-kurumlar/ordu-1444-1520.md` |
+| Saray teşkilâtı, Dîvân, vezir/kazasker/müftü listeleri, vergiler, hazine, **hitap ve teşrifat (diyalog kılavuzu)** | `05-kurumlar/saray-divan-ve-devlet-1444-1520.md` |
+| Hicrî–milâdî dönüşüm tablosu 1444–1521 (bayramlar, kandiller, Berkay'ın yaşı), ezanî saat, Hıdrellez–Kasım | `06-gunluk-hayat/takvim-ve-zaman.md` |
+| Akçe kaç duka, bir koyun kaç akçe, yeniçeri ne kazanır? | `06-gunluk-hayat/para-ve-fiyatlar.md` |
+| Veba yılları, hanedanın ölüm sebepleri, hekimler, yaşlılık | `06-gunluk-hayat/hastalik-ve-tip.md` |
+| Kıyafet, yemek (ve anakronizm listesi), sofra, meclis, mûsikî, av, düğün | `06-gunluk-hayat/kiyafet-yemek-meclis.md` |
+| 15. yy Türkçesi kelimeleri, diller, hat ve belgeler, tarikatlar, hurafeler | `06-gunluk-hayat/dil-hitap-ve-inanc-cevreleri.md` |
 
 ## Klasörler
 
