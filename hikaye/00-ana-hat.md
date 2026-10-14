@@ -16,7 +16,7 @@ II. Murad 1444 yazında gördüğü rüyayı 3 Şubat 1451'de ölürken vasiyete
 | **10** | **I. Selim** | 24 Nis 1512 – 21/22 Eyl 1520 | Orhan'ın oğlu; gerçek tarihteki Yavuz'un karakteri ve seferleri |
 | 11 | Süleyman | 30 Eyl 1520 – | Hikâye dışı; **Roma'yı o fetheder** (✔) |
 
-## 2. Kitap I — Berkay (1444–1481)
+## 2. Berkay yılları (1444–1481)
 
 ### 2a. Çocukluk, sancak, rüya, aşk
 - d. 27 Receb 835 = **30 Mart 1432 Pazar**, Edirne; annesi Hüma Hatun; Mehmed'in ikizi (`karakter/sehzade-berkay-ahval-defteri.md`).
@@ -52,14 +52,14 @@ II. Murad 1444 yazında gördüğü rüyayı 3 Şubat 1451'de ölürken vasiyete
 - **Kavga (✔):** Cem (20): *"Senin hayalin yüzünden babam öldü."* Bayezid (33): *"Babam atlarımızı Saint-Pierre Kilisesi'ne sürdü, İslâm yolunda hepimizin hayalleri için şehit düştü; bize düşen onun yolundan gitmektir."*
 - **3 Mayıs 1481 Perşembe (4 Rebîülevvel 886), Ofanto ovası / Cannae (✔ İtalya–otağ; ⚙ gün–yer):** Berkay otağında can verir (⚙ nikris + humma; Hekim Yakub'a zehir söylentisi); **✔ Orhan haberi alır, savaşı ezici üstünlükle kazanır, meydanı kana bular** — Kalabriya Dükü Alfonso kaçar. Cenaze İstanbul'a: **ikizler yan yana (✔).** Karamânî Mehmed'in linçi haber gelince İstanbul'da ⚙.
 
-## 3. Kitap II — II. Orhan (1481–1512)
+## 3. II. Orhan yılları (1481–1512)
 - **Cülûs:** İtalya'dan deniz yoluyla ~2 hafta; ⚙ Mayıs sonu 1481. **Alâeddin Ali** tahtın değil divanın adamı; yıllarca devlete hizmet eder; ne Selim ne Süleyman ona dokunur (✔).
 - **Cem (✔ birebir, rota değişik):** Bayezid'i öldürür (⚙ Mayıs 1481, Ankara–Beypazarı) → Bursa 18 gün → **Yenişehir 20/22 Haz 1481** → Konya → Kahire → hac → 1482 → **Kıbrıs → Napoli → Roma** → 1494–95 VIII. Charles → **ö. 25 Şub 1495 Napoli** → 1499 Bursa. **Ahmed ve Korkud** himayede (✔).
 - **Orhan'ın kan sınırı (✔ 6):** Oğuz Han yaşar, 1492 vebasında ölür; Gedik Ahmed idam edilmez, Pulya beylerbeyi, ö. 1485 Otranto.
 - **İtalya (✔ 7 — babasının yarım bıraktığı işi tamamlar):** 1481–82 iç Puglia kaybedilir, **Salento üçgeni** tutulur; Pulya beylerbeyileri ⚙ Gedik Ahmed (1481–85) → Mihaloğlu Ali Bey (1485–1507) → Mihaloğlu Mehmed Bey (1507–20+). 1485–91 Memlük, 1499–1503 Venedik savaşları gerçek; 1503 İspanyollar Napoli'de; **1509 depremi**; 1510 Orhan geçer; **Napoli 15 Tem 1511 Salı**; 1512 baharına kadar Napoli Krallığı'nın tamamı (Sicilya hariç).
 - **Şehadet ⚙:** **4 Nis 1512 Pazar (17 Muharrem 918), Albano tepeleri** — Roma görünür; yara + humma. Cenaze İstanbul, Sultan Orhan Külliyesi (gerçek Bayezid Külliyesi'nin yeri, 1501–05).
 
-## 4. Kitap III — Selim (1512–1520)
+## 4. Selim yılları (1512–1520)
 - Selim İstanbul'da kaymakamdır ⚙; **cülûs 24 Nis 1512 Cumartesi (7 Safer 918)** — gerçek gün. Koca Mustafa Paşa, Bursa kışı, **Korkud 10 Mar 1513 Eğrigöz, Ahmed 15 Nis 1513 Yenişehir (✔)**.
 - **✔ Selim gerçek tarihini yaşar:** Çaldıran 23 Ağu 1514, Tebriz, Amasya kışı, Turnadağ 12 Haz 1515, Mercidâbık 24 Ağu 1516, Ridâniye 22 Oca 1517, Kahire, hilâfet–Haremeyn, Edirne kışı 1518–19 (K04). İtalya'yı Mihaloğlu Mehmed Bey tutar ⚙; **✔ 1517 Roma barışı yok** — X. Leo'nun Haçlı çağrısı Osmanlı Napoli'sine karşı.
 - **Ölüm:** 21/22 Eyl 1520 Çorlu. **Epilog ⚙:** 30 Eyl 1520 Süleyman'ın cülûsu; Roma'ya bakış; "derdi" olacak kişinin ilk gölgesi.
@@ -76,10 +76,10 @@ II. Murad 1444 yazında gördüğü rüyayı 3 Şubat 1451'de ölürken vasiyete
 8. **Yenişehir ovası:** 1481 Cem yenilir, 1513 Ahmed ölür.
 9. **Pretender zinciri:** Orhan Çelebi (Bizans'ın elinde) → Cem (Papa'nın elinde) → Pierre/Murad (Roma'da): her kuşağın bir "dışarıdaki şehzâde"si.
 
-## 6. Anlatıcı ve yapı — ⚙ kâtip önerisi (yazar erteledi; onayına kadar taslak)
+## 6. Anlatıcı ve yapı — ✔ yazar onayladı (15 Ekim 2026; yıl yıl yapı aynı gün yazar kararı)
 - **Gövde:** üçüncü şahıs, yakın bakış; her bölüm bir kişinin gözünden (Berkay, Halil, Mehmed, Lala, Orhan, Cem, Bayezid, Selim, Alâeddin Ali, Sinan). Diyaloglarda çağdaş Türkçe + dönem hitapları (`05-kurumlar/saray-divan…` §7; `06-gunluk-hayat/dil…` §1).
 - **Belgeler arada:** 1444 defteri (açılış), Murad'ın rüyası (Zeyl), Berkay'ın gönderilmemiş mektubu, Cem'in Orhan'a mektupları, fetihnâmeler, **Alâeddin Ali'nin 1520 defteri** (kapanış sesi — 65 yaşında, üç padişah gömmüş tanık).
-- **Üç kitap:** I "Çınar" 1444–81 (17 bölüm), II "Köprü" 1481–1512 (9), III "Kanun" 1512–20 (6 + epilog) — `02-bolum-plani.md`.
+- **Yapı (✔ yazar, 15 Ekim 2026): kitap yok — yıl yıl.** 1444'ten 1520'ye 77 yıl, her yıl bir dosya (`yillar/YYYY-…md`), sırayla yazılır; üç padişahlık yalnız ara başlıktır. Eski kitap adları (Çınar/Köprü/Kanun) kaldırıldı; çınar rüyanın motifi olarak kalır — `02-bolum-plani.md`.
 - **Açılış:** 11 Kasım 1444, Varna ordugâhı, defterin yazıldığı sabah; **kapanış:** 30 Eylül 1520, Süleyman'ın cülûsu, Alâeddin Ali'nin kalemi.
 
 ## 7. Kararlar tablosu (15 Ekim 2026: yazar "tablo tamam" dedi — hepsi ✔)
@@ -91,7 +91,7 @@ II. Murad 1444 yazında gördüğü rüyayı 3 Şubat 1451'de ölürken vasiyete
 | Pedri'nin kökeni (✔ kesin) | Erdelli Macar şövalye Péter; Hunyadi'nin maiyetinden Vlad'a geçer (1456); Belgrad'ın düşüşünden sağ çıkar; 1462 Lala'yı öldürür; Vlad hapisteyken Stefan'ın yanında (Vaslui 1475); **✔ ölümü Berkay'ın kendi elinden** (⚙ Akdere, 26 Tem 1476) | Yazar |
 | İtalya'yı tutanlar 1481–1520 | Gedik Ahmed (1481–85) → Mihaloğlu Ali Bey (1485–1507) → Mihaloğlu Mehmed Bey (1507–20+) | ✔ kesin |
 | Süleyman'ın derdi | Cem'in oğlu Murad "Pierre" — Roma'da Papa'nın elinde | ✔ kesin |
-| Anlatıcı/yapı | §6 (üç kitap, bölüm başına bir göz, başta 1444 defteri, sonda Alâeddin Ali'nin 1520 defteri) | ✔ kesin |
+| Anlatıcı/yapı | §6 (yıl yıl 1444→1520, sahne başına bir göz, başta 1444 defteri, sonda Alâeddin Ali'nin 1520 defteri); kitap bölümlemesi kaldırıldı (15 Ekim 2026) | ✔ kesin |
 | Orhan'ın 1481 öncesi sancağı | **Manisa (Saruhan) 1468–80** — Mustafa Konya'ya geçince; Selim 10 Ekim 1470'te Manisa'da doğar. Üç sancak, üç şehzade: Bayezid Amasya, Cem Konya, Orhan Manisa | ✔ kesin |
 | Roma'nın fethi sayfada gösterilsin mi? | ✔ **Hayır** — hikâye 1520'de biter; Roma Süleyman'ındır ve hikâye dışıdır. Epilog (30 Eyl 1520, Alâeddin Ali'nin defteri) Roma'ya yalnız bakar: Papa'nın elindeki Murad "Pierre", Napoli'den görünen yol. Konstantiniyye'nin aynası olarak Roma **vaat** olarak kalır | Karar verildi; yazar isterse epilog sahnesi genişler |
 | Defter tashihi C1–C14 | §F varsayılanlarıyla uygulandı (C1, C3–C6, C9–C12 deftere işlendi; C2 `[T]`; C7–8, C13–14, §XX dokunulmadı) — döküm tashih §H | ✔ yapıldı |

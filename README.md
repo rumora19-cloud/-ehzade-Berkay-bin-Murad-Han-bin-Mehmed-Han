@@ -48,8 +48,8 @@ Kapsanan dönem: **11 Kasım 1444** (Varna Zaferi'nin ertesi günü) — **1520*
 | Hanedan ve kişiler 1451–1520; kaynak × dönem matrisi | ✅ ilk sürüm |
 | Karakter dosyası (Ahvâl Defteri) | ✅ işlendi; tashih C1, C3–C6, C9–C12 yazar onayıyla uygulandı (`karakter/sehzade-berkay-ahval-defteri.md`, döküm `tashih-notlari.md` §H) |
 | Hikâye ana hattı (üç padişahlık kavis) | ✅ derlendi (`hikaye/00-ana-hat.md`) — ✔ yazar kararları / ⚙ kâtip kararları işaretli |
-| Bölüm planı (34 bölüm + epilog) | ✅ yazar onayladı (`hikaye/02-bolum-plani.md`) |
-| Bölüm metinleri | ✎ Kitap I, Bölüm 1–2 taslakları yazıldı (`hikaye/kitap-1-cinar/01-saf-beni-gecti.md`, `02-golge.md`) |
+| Yıl yıl plan (1444–1520, 77 yıl; kitap bölümlemesi kaldırıldı) | ✅ yazar kararı 15 Ekim 2026 (`hikaye/02-bolum-plani.md`) |
+| Yıl metinleri | ✎ 1444 ve 1445 yazıldı (`hikaye/yillar/1444-saf-beni-gecti.md`, `1445-golge.md`); sırada 1446 |
 | Kaynak dosyalarındaki 🎭 hikâye notları | ✅ nihai kurguya göre güncellendi (2026-10-15): Berkay 1451–81, II. Orhan 1481–1512, Selim 1512–20 |
 | Çatal noktaları (gerçek tarih → kurgu, yıl yıl) | ✅ ilk sürüm (`hikaye/01-catal-noktalari.md`) |
 | Kurgusal hanedan ve çevre dosyaları (Berkay soyu, Mehmed soyu, çevre kişiler) | ✅ derlendi (`karakter/`) |

@@ -1,6 +1,6 @@
-# Kitap I — Çınar
+# 1445 — Gölge
 
-## Bölüm 2 — Gölge
+> **Yıl dosyası:** 1445'in iki sahnesi (Kurban Bayramı, Mart; Akşemseddin'in gelişi, Mayıs). Yıl yıl plan: `../02-bolum-plani.md`.
 
 > **Tarih:** 20 Mart 1445 (10 Zilhicce 848, Cumartesi — Kurban Bayramı) → Mayıs sonu 1445 (Safer 849) · **Mekân:** Manisa — Ulu Cami, eski Saruhanoğlu sarayı, yeni sarayın temeli, ok meydanı, Spil eteği · **Göz:** Murad (I–IV), Akşemseddin (V–VIII)
 > **Gerçek tarih:** Murad 1444 güzünde tahtı Mehmed'e bırakıp Manisa'ya çekilir; Varna'dan sonra Ramazan'ı Edirne'de geçirip Manisa'ya döner; 1445'te Manisa'da saray yaptırır. Edirne'de 13 yaşındaki Mehmed padişahtır: yeni ve hafif akçe kestirir, Zağanos ile Şehâbeddin onu Kostantiniyye'ye karşı sefere iter, Çandarlı Halil Murad'la yazışır. Akşemseddin bu yıllarda Göynük'tedir; Murad'la teması belgeli değildir `[R]`.
@@ -301,10 +301,10 @@ Katırı sürdü. Omzunda, görünmeyen bir ağırlık vardı ve yürüdükçe h
 | ⚙ | **Akşemseddin'in 1445'te Manisa'ya çağrılması** kurgudur (gerçekte Göynük'te; Murad'la temas belgeli değil `[R]`). "Hekim" bahanesi Akşemseddin'in gerçek hekimliğine (*Mâddetü'l-hayât*, bulaşıcı "tohum" fikri) dayanır. |
 | ⚙ | **Edirne'deki eski karşılaşma** ("sarayda sesli zikir olmaz, içinden yapın") = tashih C6'nın açılımı: tarikat usûlü değil, şahsî telkin. Berkay tutar, Mehmed tutmaz. |
 | ⚙ | **Mehmed'in mektubu** (Kostantiniyye'ye sefer izni; Berkay'ın adını anmaması) kurgudur; dayanağı Zağanos–Şehâbeddin'in 1445–46'da Mehmed'i Kostantiniyye'ye karşı sefere itmesi `[K]` ve Orhan Çelebi tehdidi. "Kral Vuran" lâkabının Edirne'de duyulması — kıskançlığın ilk tohumu (defter §XVI, C12). |
-| ⚙ | **Murad'ın "üstüme yağsın" düşüncesi** = 2 Ağu 1446 vasiyetinin ("üstü açık ola ki üzerime yağmur yağa") tohumu; Bölüm 3'te yazılır. |
+| ⚙ | **Murad'ın "üstüme yağsın" düşüncesi** = 2 Ağu 1446 vasiyetinin ("üstü açık ola ki üzerime yağmur yağa") tohumu; 1446 dosyasında yazılır. |
 | ⚙ | **Berkay'ın kurbanını kendi kesmesi**, "kesmeyi bilen kesmemeyi de bilir": Berkay'ın hiçbir kardeşini/yeğenini öldürtmeyecek olmasının (ana hat) ilk işareti. |
 | ⚙ | **Lala'nın sezgisi** ("bir şey olduğunu biliyorum"): Lala Ali Bey rüyayı hiç öğrenmez (ö. 1462); yalnız sezer. İstenmezse paragraf silinir. |
 | ⚙ | **Rüyanın tekrarlanması** (Varna ertesi, Ramazan, bayram gecesi) kurgu eklemesidir; Zeyl tek bir geceyi anlatır. Kâtip Sinan'ın "Rum yüzlü" oluşu da ⚙ (`cevre-kisiler.md`: "bin Abdullah", yeni Müslüman; kökeni açık). |
 | `[K]` | Kurban Bayramı 10 Zilhicce 848 = 20 Mart 1445 Cumartesi; ayın onuncu gecesi; 30 Mart = ikizlerin şemsî doğum günü; Safer 849 = 9 Mayıs – 7 Haziran 1445; ikizlerin sünnet düğünü Haziran 1439 Edirne. Ulu Cami (İshak Bey, 1366–67; devşirme sütunlar), Mevlevîhâne (1368), 1445 saray inşaatı, Ağlayan Kaya, Spil'in karı, Akhisar–Bursa yolu (`04-yerler/manisa-saruhan.md`). Murad'ın kardeşleri: Küçük Mustafa boğduruldu (1423, 13 yaş `[M]`), Yusuf ve Mahmud'a mil (`hanedan-ii-murad-ailesi.md`). Yeni hafif akçe 1444–46 (`para-ve-fiyatlar.md`). Mehmed'in tuğrası "Mehmed bin Murad Han muzaffer dâimâ". Sancağın lalaları Kassaboğlu Mahmud, Nişancı İbrahim (defter §VI). |
 | `[T]` | Yusuf'un 1445'te sağ olup olmadığı (Mahmud 1429 vebasında öldü `[M]`; Yusuf'un ölümü belirsiz) — "Yusuf hâlâ sağdı" ibaresi gerekirse "Yusuf da gitmişti" olur. Murad'ın şarabı `[K]` ama ölçüsü `[R]`. Ok meydanının yeri ⚙. |
-| Sonraki bölüm | **Bölüm 3:** Mayıs–Eylül 1446 — Edirne'de Buçuktepe; Murad'ın dönüşü (5 May Manisa'dan çıkış; 2 Ağu Bursa vasiyeti; Ağustos sonu Edirne); ikizlerin yer değişimi (Mehmed Manisa'ya, Berkay Amasya'ya); Kurtçu Doğan ağa — göz: Mehmed. |
+| Sonraki yıl | **1446:** Edirne'de Buçuktepe; Murad'ın dönüşü (5 May Manisa'dan çıkış; 2 Ağu Bursa vasiyeti; Ağustos sonu Edirne); ikizlerin yer değişimi (Mehmed Manisa'ya, Berkay Amasya'ya); Kurtçu Doğan ağa — göz: Mehmed. |

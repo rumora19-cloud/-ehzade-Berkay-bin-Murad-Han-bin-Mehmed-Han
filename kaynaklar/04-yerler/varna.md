@@ -1,6 +1,6 @@
 # Varna — şehir, göl, yayla ve 10 Kasım 1444 savaş alanı
 
-> **Neden bu dosya:** Hikâyenin başladığı yer. Defter 11 Kasım 1444'te Varna ordugâhında yazılır; Bölüm 1 (`hikaye/kitap-1-cinar/01-saf-beni-gecti.md`) savaş gününü anlatır. Savaşın **akışı ve saf düzeni** `01-kronoloji/01-ii-murad-ikinci-saltanat-1444-1451.md` §3'tedir; burada **mekân** verilir: şehir, göl, yayla, yollar, hava, ordugâh ve ertesi gün.
+> **Neden bu dosya:** Hikâyenin başladığı yer. Defter 11 Kasım 1444'te Varna ordugâhında yazılır; 1444 yılı dosyası (`hikaye/yillar/1444-saf-beni-gecti.md`) savaş gününü anlatır. Savaşın **akışı ve saf düzeni** `01-kronoloji/01-ii-murad-ikinci-saltanat-1444-1451.md` §3'tedir; burada **mekân** verilir: şehir, göl, yayla, yollar, hava, ordugâh ve ertesi gün.
 > **Kaynaklar:** İnalcık, "Murad II" (DİA); *Gazavât-ı Sultân Murâd* (nşr. İnalcık–Oğuz, TTK 1978); C. Imber, *The Crusade of Varna 1443–45* (2006 — Callimachus, Andreas de Palatio, Beheim, Dukas, Chalkokondyles çevirileri); J. Jefferson, *The Holy Wars of King Wladislas and Sultan Murad* (2012); M. Kiel, "Varna" (DİA); Jireček, *Das Fürstenthum Bulgarien* (topografya); Varna "Vladislav Varnençik" Park-Müzesi yayınları. **Son güncelleme:** 2026-10-15
 > **Etiketler:** `[K]` kesin · `[M]` muhtemel · `[T]` tartışmalı · `[R]` rivayet · 🎭 hikâye kancası.
 
@@ -11,7 +11,7 @@
 | **Varna şehri** | Karadeniz kıyısında, körfezin kuzey yakasında; antik Odessos; 1390'lardan beri Osmanlı (Bulgar çarlığının yıkılışı) `[M]`; küçük kale, liman; Rum–Bulgar–Türk karışık ahali, Cenevizli tüccar `[M]` | 9 Kas 1444'te Haçlılara teslim olur (Kavarna, Galata ve Makropolis/Petriç kaleleriyle birlikte); Haçlı ordugâhı şehrin batı önündedir; Osmanlı zaferinden sonra geri alınır `[K]` |
 | **Varna gölü** (Devne gölü) | Şehrin hemen batısından 15 km içeri uzanan, dar ve derin bir liman gölü; 1444'te denizden kumsal setle ayrı, Devne (Devnya) çayı besler; kanalla denize bağlanışı 1909 `[K]` | Haçlı safının **sol/güney kanadını** dayadığı doğal engel; kaçanların bir kısmı gölle deniz arasında sıkışır `[K]` |
 | **Franga (Frangen) yaylası** | Şehrin ve gölün kuzeyinde, ovadan 200–300 m dik yamaçla yükselen kireçtaşı platosu; üstü meşelik, otlak; eteğinde bağlar | Osmanlı sağ kolunun (Anadolu askeri) yaslandığı yüksek kanat; yaylaya kaçan Haçlı birlikleri `[M]` |
-| **Ova** | Göl ile yayla arasında, batıdan doğuya ~3–5 km genişleyen düzlük; bugün Varna'nın *Vladislavovo* semti; ortasında Trak höyükleri (1935'te birinin üstüne kralın anıt-mezarı/park-müzesi yapıldı) `[K]` | **Asıl savaş alanı.** Haçlılar doğuda (şehir ve deniz arkalarında, yüzleri batıya); Osmanlı batıda, Pravadi yolundan gelir. Sabah güneşi Osmanlı'nın gözüne, öğleden sonra tersine `[K]` (Bölüm 1 bunu kullanır) |
+| **Ova** | Göl ile yayla arasında, batıdan doğuya ~3–5 km genişleyen düzlük; bugün Varna'nın *Vladislavovo* semti; ortasında Trak höyükleri (1935'te birinin üstüne kralın anıt-mezarı/park-müzesi yapıldı) `[K]` | **Asıl savaş alanı.** Haçlılar doğuda (şehir ve deniz arkalarında, yüzleri batıya); Osmanlı batıda, Pravadi yolundan gelir. Sabah güneşi Osmanlı'nın gözüne, öğleden sonra tersine `[K]` (1444 dosyası bunu kullanır) |
 | **Galata burnu** | Körfezin güney ucu; küçük kale | Haçlı sağ kanadının çözülen birlikleri buraya ve gemilere kaçar `[M]` |
 | **Devne (Marcianopolis) – Pravadi (Provadiya, Ovech kalesi) – Şumnu** | Gölün batı ucundan içeriye giden vadi yolu; Pravadi kaya kalesi Varna'ya ~45 km, Şumnu ~90 km | Haçlılar Niğbolu–Şumnu–Pravadi–Petriç yoluyla, Osmanlı da aynı yolun güney kollarından gelir; Murad 9 Kasım akşamı ovanın batısında belirir ve **Haçlı'nın Macaristan'a dönüş yolunu keser** `[K]` |
 | **Kamçı (Kamçiya) ırmağı** | Körfezin 25 km güneyinde ormanlık vadi | Osmanlı ikmal/geri hattı; Aydos–Karinâbâd yolu güneye |
@@ -29,7 +29,7 @@
 
 - **Mevsim:** Kasım başı; Karadeniz kıyısında serin, nemli; geceleri 2–6°C, gündüz 10–14°C; toprak yağmurdan ağır, ova kısmen çamur, höyük çevreleri kuru `[M]`.
 - **9/10 Kasım gecesi:** Callimachus ve Beheim'e göre **şiddetli rüzgâr**; Haçlı ordugâhında sancaklar yırtılır, yalnız kralın (veya Aziz Georg) sancağı kalır — Latin kaynaklarında uğursuzluk alâmeti `[R]`. Osmanlı kaynaklarında rüzgâr anılmaz; *Gazavât* "yağmur/çamur"dan söz eder `[T]`.
-- **Güneş:** doğuş ~06.50, batış ~16.50 (yerel güneş zamanı); savaş sabah geç saatte başlar, öğleden sonra kral hücumu, akşamüstü takip `[M]`. Haçlı safı doğuda (deniz arkada), Osmanlı batıda → sabah güneş Osmanlı'nın gözünde `[K]` — Bölüm 1 §1.
+- **Güneş:** doğuş ~06.50, batış ~16.50 (yerel güneş zamanı); savaş sabah geç saatte başlar, öğleden sonra kral hücumu, akşamüstü takip `[M]`. Haçlı safı doğuda (deniz arkada), Osmanlı batıda → sabah güneş Osmanlı'nın gözünde `[K]` — 1444 dosyası §I.
 - **Zemin:** ovada bağ ve tarla, aralarında höyükler; kuzeyde yayla eteği bataklıkçık/dere, güneyde göl kıyısı sazlık; kazık–hendek–deve engeli merkez önünde (*Gazavât*) `[K]`.
 - **Hilâl:** 10 Kas = 28 Receb 848; o akşam ay ~1 günlük, görülmez; 1 Şâban = 13 Kasım (`06-gunluk-hayat/takvim-ve-zaman.md` §4) `[K]`.
 
@@ -47,9 +47,9 @@
 - **Osmanlı şehitleri**: Anadolu Beylerbeyi Karaca Bey, Fenârîzâde Hasan Paşa, Kadı Bedreddin, Su Şeyh (`Gazavât`) — defin Varna'da `[M]`.
 - **Ad**: Lehçe "Warneńczyk" lakabı krala kalır; Osmanlı kaynakları "Varna gazâsı", "Kral yıkıldığı sefer".
 
-## 6. 🎭 Hikâye kancaları (✔ `hikaye/00-ana-hat.md` §2a; Bölüm 1)
+## 6. 🎭 Hikâye kancaları (✔ `hikaye/00-ana-hat.md` §2a; 1444 dosyası)
 - Kralı yıkan ok **Berkay'ındır**; başı **Koca Hızır** keser (gerçek rivayet korunur); divan Koca Hızır'ı yazar, ocak oku bilir — "Kral Vuran Şehzâde" lakabı buradan.
-- Ovanın doğusundan doğan güneş, öğleden sonra yer değiştirir (Bölüm 1 §1'in motifi).
+- Ovanın doğusundan doğan güneş, öğleden sonra yer değiştirir (1444 dosyası §I'in motifi).
 - Murad'ın "yaşlı bey"i (Dayı Karaca) dizginini tutar; sancak kıpırdamaz.
 - Boz atlı, **kurt başlı kalkanlı** adsız şövalye (⚙ Pedri) Karaca Bey'in sancağını indirir — 1462 ve 1476'nın tohumu.
 - Ertesi gün (11 Kasım): kâtip çadırı, defter, Lala Ali Bey'le gün batımı konuşması; Berkay'ın "ondan sonra?" sorusu.

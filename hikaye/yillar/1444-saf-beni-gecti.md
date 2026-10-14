@@ -1,6 +1,6 @@
-# Kitap I — Çınar
+# 1444 — Saf beni geçti
 
-## Bölüm 1 — Saf beni geçti
+> **Yıl dosyası:** 1444'ün sahnesi Varna günüdür (10 Kasım); yılın ikinci sesi defterin kendisidir (11 Kasım, `karakter/sehzade-berkay-ahval-defteri.md`). Yıl yıl plan: `../02-bolum-plani.md`.
 
 > **Tarih:** 10 Kasım 1444 (28 Receb 848, Salı) · **Mekân:** Varna; sağ kolun gerisindeki yamaç → merkez hendeği · **Göz:** Berkay
 > **Gerçek tarih:** Hunyadi sağ kolu (Anadolu askeri) kırar, Karaca Bey şehit düşer; Murad sancağın dibinden ayrılmaz; Kral Vladislav 500 atlıyla yeniçeri üzerine yürür, atı düşürülür, başını Koca Hızır keser; Cesarini kaçarken ölür; Hunyadi çekilir.
@@ -253,7 +253,7 @@ Dışarıda, ateşlerin arasında, adı hâlâ dolaşıyordu.
 | ✔ | Bütün replikler ve olay sırası defterden (§XI–XIII); kâtip Sinan'ın bilmediği tek şey Berkay'ın iç sesidir (hendekteki sevinç, Meryem hatırası, babasının bakışı). |
 | ⚙ | **Kurt başlı kalkanlı boz atlı şövalye** = Şövalye Pedri'nin ilk görünüşü (Hunyadi'nin maiyetinde, adsız). Karaca Bey'in sancağını yere indiren odur. Adı 1462'de öğrenilir; 1476'da Akdere'de Berkay onu bu kalkandan tanır. İstenmezse paragraf silinir, hikâye bozulmaz. |
 | ⚙ | **Meryem** bir cümleyle ekildi (Amasya, kar topu). Soy ayrıntısı (Yörgüç Paşa'nın konağı) tek ibaredir; soy değişirse o ibare değişir. |
-| ⚙ | Murad'ın uzun bakışı = rüyanın gölgesi (defter §X: Berkay rüyadan habersiz). Okur da bu bölümde rüyayı öğrenmez; B0 (defterin Zeyl'i) onu daha önce vermiştir. |
+| ⚙ | Murad'ın uzun bakışı = rüyanın gölgesi (defter §X: Berkay rüyadan habersiz). Okur da bu sahnede rüyayı öğrenmez; defterin Zeyl'i (1444'ün ikinci sesi) onu verir. |
 | `[K]` | Güneşin düşmanın sırtından doğuşu (Frenk safı doğuda, deniz arkada); sağ kolun kırılışı; Karaca Bey; Murad'ın dizginini tutan "yaşlı bey" (Dayı Karaca Bey, İnalcık); Koca Hızır; Cesarini; Hunyadi'nin çekilişi; başın mızrağa dikilişi; beşâretnâmeler. |
 | `[T]` | Kralın miğferinin yaldızı, beyaz sancak (Leh kartalı) — Batılı kaynaklara dayalı süsleme; gerekirse sadeleşir. |
-| Sonraki bölüm | B0 (Sinan'ın defteri, 11 Kasım) zaten yazılı; **Bölüm 2:** Manisa, 1445 — babanın gölgesinde sancak, rüyanın Akşemseddin'e açılışı. |
+| Sonraki yıl | Defter (11 Kasım 1444) bu yılın ikinci sesi; **1445:** `1445-golge.md` — Manisa, babanın gölgesinde sancak, rüyanın Akşemseddin'e açılışı. |
