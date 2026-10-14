@@ -4,8 +4,10 @@
 
 | Kişi | Kimdir (defter/kaynak) | Hikâyedeki kaderi |
 |---|---|---|
-| **Evrenosoğlu Ali Bey — "Lala"** | Tarihî uç beyi (Yenice-i Vardar); defterde Berkay'ın atabeyi ve sefer hocası | 1451'de Orhan Çelebi'nin yolunu keser; ✔ **Eflak 1462'de şehit** — ⚙ 17 Haz 1462 gecesi (19 Ramazan 866) Vlad'ın baskınında serdar Mehmed'in çadırını korurken. Gerçekte 1451'de bebek Ahmed'i boğan el, bizde Mehmed'i korur. Mezarı ⚙ Yenice-i Vardar, aile türbesi (Evrenos Gazi'nin yanı) |
-| **Kurtçu Doğan Ağa** | ✔ Yazarın kişisi (tarihî karşılığı doğrulanacak `[?]`); akıncı önderi | ✔ Lala'nın şehadetinde akıncılarla **intikam yemini**; ⚙ Vlad'ın 1462 düşüşünde ve 1476'daki ölümünde payı var; 1480 Roma akınında Mehmed'in öncüsü (⚙) |
+| **Evrenosoğlu Ali Bey — "Lala"** | Tarihî uç beyi (Yenice-i Vardar); defterde Berkay'ın atabeyi ve sefer hocası | 1451'de Orhan Çelebi'nin yolunu keser; ✔ **Eflak 1462'de şehit — Vlad'ın sağ kolu Şövalye Pedri'nin elinden**; ⚙ 17 Haz 1462 gecesi (19 Ramazan 866) baskında serdar Mehmed'in çadırını korurken. Gerçekte 1451'de bebek Ahmed'i boğan el, bizde Mehmed'i korur. Mezarı ⚙ Yenice-i Vardar, aile türbesi (Evrenos Gazi'nin yanı) |
+| **Kurtçu Doğan Ağa** | ✔ Yazarın kişisi (tarihî karşılığı doğrulanacak `[?]`); akıncı önderi | ✔ Lala'nın şehadetinde akıncılarla **intikam yemini**; ⚙ Vlad'ın 1462 düşüşünde payı var; **1476'da Pedri'yi öldürür** (⚙); 1480 Roma akınında Mehmed'in öncüsü (⚙) |
+| **Şövalye Pedri** | ✔ Yazarın kişisi: Vlad Tepeş'in sağ kolu, şövalye | ✔ **17 Haz 1462 gecesi Lala Evrenosoğlu Ali Bey'i öldürür**; ⚙ 1476'da Vlad'la birlikte düşer, Kurtçu Doğan'ın eliyle. Kökeni, 1462 öncesi geçmişi: yazar |
+| **Berkay'ın çocukluk aşkı** | ✔ Yazarın kişisi: Berkay'ın eşi, Orhan'ın annesi | Adı, kimliği, nikâh yılı: yazar (⚙ öneri: 1450, Amasya). Sitti Mükrime bu evrende yoktur |
 | **Sinan bin Abdullah** | Defterin kâtibi; Saruhan sancağı kâtibi, yeni Müslüman, 30 yaşında (1444) | ⚙ Berkay'la İstanbul'a; nişancı kaleminde; Murad'ın rüyasını Akşemseddin'den duyan ve yazan kişi 🎭; ölüm açık |
 | **Yunus Ağa** | Berkay'ın Amasya'dan beri silâhdarı, 30 yaşında, az konuşur | ⚙ 1453'te surda; sonra kapıcıbaşı; 1462 Eflak'ta Lala'nın yanında |
 | **Hamza Ağa** | Hazinedar, 45 yaşında, hesap adamı | ⚙ Berkay'ın ilk defterdarlarından; 1460'larda ölür |

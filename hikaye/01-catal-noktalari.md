@@ -14,7 +14,7 @@
 | 1444 yazı | — | **Murad'ın rüyası** (Bursa; Çelebi Mehmed sarığını Berkay'a koyar); yalnız Akşemseddin bilir (Y) | ★ |
 | 10 Kas 1444 | Varna; kralı Koca Hızır öldürür | Kralı yıkan oku Berkay atar; başı Koca Hızır alır | ✎ |
 | 1446 | Buçuktepe; Murad döner; Mehmed Manisa'ya | Aynı; **Berkay Amasya'ya (1446–51)** (Y) | ✔ ★ |
-| 1448–50 | II. Kosova; Hüma ö. (Eyl 1449); **Mehmed–Sitti Hatun düğünü** (1450); Akçahisar | Aynı; **Sitti Mükrime Berkay'a** (Y) | ✎ |
+| 1448–50 | II. Kosova; Hüma ö. (Eyl 1449); **Mehmed–Sitti Hatun düğünü** (1450); Akçahisar | Kosova, Hüma, Akçahisar aynı; **Sitti Mükrime bu evrende yok — düğün ✖** (Y); **Berkay çocukluk aşkıyla evlenir** (Y; kimlik açık) | ✎ ✖ |
 | **3 Şub 1451** | Murad ölür; Halil 16 gün gizler | Murad rüyayı vasiyete çevirir: taht Berkay'ın (Y) | ✎ |
 | 18 Şub 1451 | Mehmed gelir, cülûs | Mehmed gelir, taht verilmez; **isyan etmez, babasının sözüne karşı konuşmaz** (Y) | ✎ |
 | 1451 | Bizans Orhan Çelebi'yi salmakla tehdit eder | **Orhan Çelebi salınır**, Deliorman'da taraftar toplar; Lala yolunu keser; **kaçıp Kostantiniyye'ye döner** (Y) | ★ |
@@ -37,8 +37,8 @@
 | 1458–60 | Mora; Semendire 20 Haz 1459 | Aynı | ✔ |
 | 23 Ara 1459 | Cem doğar (Edirne) | Cem doğar 22/23 Ara; babası serdar Mehmed | ✔ |
 | 1461 | Amasra, Sinop, Trabzon | Aynı; Trabzon 1471'den Alâeddin Ali'nin sancağı (⚙) | ✔ |
-| **17 Haz 1462** | Vlad'ın gece baskını (19 Ramazan 866) | Çadırda serdar Mehmed sağ çıkar; **Lala Evrenosoğlu Ali Bey onu korurken şehit** (Y/⚙); **Kurtçu Doğan Ağa ve akıncıların intikam yemini** (Y) | ✎ ★ |
-| Kas 1462 / Ara 1476 | Vlad'ı Matthias hapseder / Vlad öldürülür | Aynı; her ikisinde akıncıların eli (⚙) | ✔ |
+| **17 Haz 1462** | Vlad'ın gece baskını (19 Ramazan 866) | Çadırda serdar Mehmed sağ çıkar; **Lala Evrenosoğlu Ali Bey onu korurken Vlad'ın sağ kolu Şövalye Pedri'nin elinden şehit** (Y); **Kurtçu Doğan Ağa ve akıncıların intikam yemini** (Y) | ✎ ★ |
+| Kas 1462 / Ara 1476 | Vlad'ı Matthias hapseder / Vlad öldürülür | Aynı; her ikisinde akıncıların eli; **Pedri 1476'da Kurtçu Doğan'ın eliyle ölür** (⚙) | ✔ |
 | 1462 | Midilli | Aynı | ✔ |
 | 1463–64 | Bosna; Yayça Matthias'a; 1464 kuşatma başarısız | Bosna aynı; **Yayça 1464 alınır** (⚙) | ✎ |
 | 1463–79 | Venedik savaşı | Aynı | ✔ |
@@ -48,7 +48,7 @@
 | 1470 | Eğriboz; **Selim 10 Eki (Amasya, Bayezid'in oğlu)** | Eğriboz aynı; **Selim Orhan'ın oğlu, Manisa'da** (Y) | ✎ |
 | 1472–73 | Tokat; Kıreli; **Otlukbeli 11 Ağu 1473** | Aynı; Mehmed merkez, Mustafa sağ kol | ✔ |
 | Haz / 18 Tem 1474 | Mustafa ölür / Mahmud Paşa boğdurulur | **Aynı** (Y) | ✔ |
-| 1474 | Gevherhan (Mehmed'in kızı) Uğurlu Mehmed'e | **Gevherhan Berkay'ın kızı** (⚙); Göde Ahmed 1497 aynı | ✎ |
+| 1474 | Gevherhan (Mehmed'in kızı) Uğurlu Mehmed'e | **Akkoyunlu gelini Berkay'ın kızı** (Y) — ⚙ Hüma Sultan (d. 1458); Göde Ahmed 1497 aynı; Gevherhan Mehmed'in kızı kalır, evliliği açık | ✎ |
 | 1474 | İşkodra I başarısız | Alınır (⚙) | ✎ |
 | 1475 | Vaslui 10 Oca yenilgi; Kefe 6 Haz | Aynı (⚙ — Stefan'ın zaferi kalır) | ✔ |
 | 1476 | Boğdan (Akdere); Vlad ölür | Aynı | ✔ |
@@ -58,7 +58,7 @@
 | 23 May–17 Ağu 1480 | Rodos başarısız | **Rodos düşer** (Y) | ✎ |
 | 11 Ağu 1480 | Otranto | Aynı; **ordu kuzeye, serdar Mehmed** (Y) | ✎ |
 | **28 Eki 1480** | — | **Mehmed Milvius Köprüsü'nde şehit** (Cmt, 23 Şaban 885; Konstantin'in zaferinin yıl dönümü) (⚙); sabah akıncılar San Pietro'da (Y) | ★ |
-| Kış 1480–81 | — | Mehmed'in cenazesi Bursa Muradiye, Hüma'nın yanı (⚙); **Cem–Bayezid kavgası** (Y) | ★ |
+| Kış 1480–81 | — | **Mehmed'in cenazesi İslambol'a, Fâtih Camii haziresi** (Y); **Cem–Bayezid kavgası** (Y) | ★ |
 | 25 Nis–3 May 1481 | Fatih Üsküdar'dan çıkar; Hünkârçayırı'nda ölür | **3 May 1481 Per: Berkay Ofanto/Cannae'de otağda ölür; Orhan Alfonso'yu bozar, esir bırakmaz** (Y/⚙) | ✎ |
 | 4 May 1481 | Karamânî Mehmed linç; İstanbul yağması | Haber gelince (May ortası) aynı (⚙) | ✔ |
 
@@ -85,7 +85,7 @@
 | 1501 | Şah İsmail Tebriz'de; **Bayezid Külliyesi 1501–05** | Aynı; külliye **Sultan Orhan Külliyesi** (⚙) | ✔ |
 | 1503 | İspanyollar Napoli'yi alır (Cerignola, Garigliano) | Aynı | ✔ |
 | 10 Eyl 1509 | Deprem | Aynı | ✔ |
-| 1510–11 | Bayezid'in son yılları; Şahkulu (1511); Selim Çorlu'ya yürür | Şahkulu aynı; **Orhan İtalya'da; Napoli 15 Tem 1511 Salı düşer** (⚙); Selim babasına yürümez, İstanbul'da kaymakam | ✎ |
+| 1510–11 | Bayezid'in son yılları; Şahkulu (1511); Selim Çorlu'ya yürür | Şahkulu aynı; **Orhan İtalya'da: Napoli 15 Tem 1511 Salı; 1512 baharına kadar Napoli Krallığı'nın tamamı** (Y/⚙); Selim babasına yürümez, İstanbul'da kaymakam | ✎ |
 | **4 Nis 1512** | — | **Orhan Albano tepelerinde şehit** (Paz, 17 Muharrem 918) (⚙) | ★ |
 | 24 Nis 1512 | Bayezid tahtı bırakır; Selim cülûs | **Selim cülûs — aynı gün** (⚙) | ✔ |
 | 10 Haz 1512 | Bayezid Abalar'da ölür | ✖ (Orhan zaten şehit) | ✖ |
@@ -99,11 +99,11 @@
 | 15 Nis 1513 | Ahmed Yenişehir | **Aynı** (Y) | ✔ |
 | 23 Ağu 1514 | Çaldıran; Tebriz | **Aynı** (⚙) | ✔ |
 | 1515 | Kemah; Turnadağ 12 Haz (Alâüddevle); Dukakinzâde, Tâcîzâde idamları | **Aynı** (⚙) | ✔ |
-| 1516–17 | Mercidâbık; Ridâniye; Kahire; hilâfet–Haremeyn | **✖ Mısır seferi yok** — Memlükler kalır; **Selim İtalya'da: Napoli pekiştirilir** (⚙) | ✖ ★ |
-| **1 May 1517** | (X. Leo Haçlı çağrısı) | **Roma barışı:** Papalık Osmanlı Napoli'sini tanır; Roma alınmaz (⚙) | ★ |
+| 1516–17 | Mercidâbık; Ridâniye; Kahire; hilâfet–Haremeyn | **Aynı** (Y: Selim gerçek tarihini yaşar); İtalya'yı beylerbeyi tutar | ✔ |
+| 1517 | X. Leo Haçlı çağrısı | Aynı — hedef bu kez Osmanlı Napoli'si; **Roma barışı yok** (Y) | ✔ |
 | 1518–19 | Edirne kışı; avlar; Celâlî | Aynı | ✔ |
 | 1519 | V. Karl imparator | Aynı; Osmanlı–Fransa yakınlığı erken (⚙) | ✔ |
-| 21/22 Eyl 1520 | Selim Çorlu'da ölür | **Aynı**; epilog: 30 Eyl Süleyman cülûsu (⚙) | ✔ |
+| 21/22 Eyl 1520 | Selim Çorlu'da ölür | **Aynı**; epilog: 30 Eyl Süleyman cülûsu; **Roma'yı Süleyman fethedecek** (Y, hikâye dışı) | ✔ |
 
 ## E. Hiç değişmeyen katmanlar
 Takvim ve bayramlar, para–fiyat, veba yılları, kıyafet–yemek–dil, kurumlar ve hitap formülleri, vezîriâzam listeleri (✔ yazar): **hepsi gerçek tarihteki gibi.** Yalnız kişilerin adları ve kararları değişir.

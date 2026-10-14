@@ -11,10 +11,10 @@
 | Bizde | 7. padişah (1444–46) → 1446–51 Manisa beyi → 18 Şub 1451 Edirne'ye gelir, taht verilmez → **1451–80 ordunun serdarı** → **1480 sonbaharı Roma önünde şehit** |
 | 1451'deki tavrı | ✔ **İsyan etmez; rahmetli babasının sözünün üstüne söz söylemez.** Kırgınlık sessizdir; cümlesini 1480'de oğlu Cem kurar |
 | Serdarlık | Belgrad 1456 (gerçekte burada yaralandı, bizde alır), Mora, Trabzon, Eflak 1462 (Vlad'ın gece baskınında çadırdadır), Bosna, Otlukbeli 1473, Rodos 1480, Otranto ve ötesi |
-| Oğulları | Bayezid (1447/48), Mustafa (1450), Cem (22/23 Ara 1459). (Gevherhan ⚙ artık **Berkay'ın** kızıdır) |
-| Eşleri | Gülbahar (Bayezid'in annesi), Gülşah (Mustafa), Çiçek (Cem) korunur; **Sitti Mükrime** (1449–50 nikâhı) ✔ **Berkay'a verilir** — ikizler arasında ilk çatlak, Murad'ın tercihinin erken işareti |
+| Oğulları | Bayezid (1447/48), Mustafa (1450), Cem (22/23 Ara 1459); kızı **Gevherhan** (✔ Mehmed'in kızı kalır; evliliği açık — Akkoyunlu gelini bizde Berkay'ın kızı) |
+| Eşleri | Gülbahar (Bayezid'in annesi), Gülşah (Mustafa), Çiçek (Cem) korunur; **Sitti Mükrime bu evrende yok** (✔) — 1450 Dulkadır düğünü olmaz |
 | Zayıf noktası | Gerçek Fatih'in nikrisi, öfkesi, Mahmud Paşa'ya hem sevgisi hem kıskançlığı — serdar Mehmed'e aktarılabilir |
-| Şehadet | ⚙ **28 Ekim 1480 Cumartesi (23 Şaban 885), Milvius Köprüsü (Ponte Milvio)** — Konstantin'in 312 zaferinin yıl dönümü; sabah akıncılar San Pietro avlusunda (eski Konstantin bazilikası) atlarını sular, öğleden sonra Papalık–Napoli karşı saldırısı köprüde. Cenaze ⚙ Bursa Muradiye, annesi Hüma Hatun'un (Hatuniye) yanı — ikizinden ayrı |
+| Şehadet | ⚙ **28 Ekim 1480 Cumartesi (23 Şaban 885), Milvius Köprüsü (Ponte Milvio)** — Konstantin'in 312 zaferinin yıl dönümü; sabah akıncılar San Pietro avlusunda (eski Konstantin bazilikası) atlarını sular, öğleden sonra Papalık–Napoli karşı saldırısı köprüde. **✔ Cenaze İslambol'a** — ikizlerin ortak hayalini kurduğu şehir; Fâtih Camii haziresi; bir yıl sonra ikizi yanına gelir |
 | İkizine son sözü | Karar — Berkay'ın defterindeki gönderilmemiş mektubun (1444) karşılığı olabilir 🎭 |
 
 ## 2. Şehzade Bayezid (1447/48–1481)

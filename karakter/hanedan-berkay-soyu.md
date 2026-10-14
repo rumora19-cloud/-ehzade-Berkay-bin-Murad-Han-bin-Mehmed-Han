@@ -7,11 +7,11 @@
 
 | | |
 |---|---|
-| Doğum–ölüm | 30 Mar 1432 Edirne – **3 May 1481 Per (4 R.evvel 886), Ofanto/Cannae ovası, otağında** (✔ İtalya; ⚙ gün/yer); sebep ⚙ nikris krizi + humma, Hekim Yakub'a zehir söylentisi. Türbe: Fâtih Camii (İstanbul) |
+| Doğum–ölüm | 30 Mar 1432 Edirne – **3 May 1481 Per (4 R.evvel 886), Ofanto/Cannae ovası, otağında** (✔ İtalya; ⚙ gün/yer); sebep ⚙ nikris krizi + humma, Hekim Yakub'a zehir söylentisi. Türbe: Fâtih Camii (İstanbul), **ikizi Mehmed'in yanı** (✔) |
 | Saltanat | Mart 1451 – 1481 (30 yıl) |
 | Unvan/lakap | ✔ **"Fâtih Sultan Berkay Han"** (1453'ten sonra); ocak dilinde hâlâ "Bahadır Çelebi"; Batı'da *Berchai* / *il Gran Turco*; "Ebü'l-Feth" |
-| Eşler | ✔ **Sitti Mükrime Hatun** (Dulkadıroğlu Süleyman Bey kızı; nikâh 1449, düğün 1450 Edirne — gerçekte Mehmed'e verilmişti). Orhan'ın annesi o mu, câriye mi: karar; câriye eşler: karar |
-| Çocuklar | **Orhan** (✔ d. 1452 Edirne; annesi Sitti Mükrime ⚙), **Alâeddin Ali** (✔ d. 1455; annesi câriye ⚙), **Gevherhan Sultan** (⚙ d. 1458; 1474 Uğurlu Mehmed Mirza'ya; oğlu Göde Ahmed), adsız kızlar |
+| Eşler | ✔ **Çocukluk aşkı** — adı, kimliği, nikâh yılı yazarın (⚙ öneri: nikâh 1450, Amasya). **Sitti Mükrime bu evrende yoktur** (✔). Câriye eşler: açık |
+| Çocuklar | **Orhan** (✔ d. 1452 Edirne; annesi çocukluk aşkı), **Alâeddin Ali** (✔ d. 1455; annesi açık), **Hüma Sultan** (⚙ ad; d. 1458; ✔ Akkoyunlu gelini — 1474 Uğurlu Mehmed Mirza'ya; oğlu Göde Ahmed), adsız kızlar |
 | Hocaları/çevresi | Çandarlı Halil (1453'te idam ettirir), Molla Gürânî (müftü 1480–88), Akşemseddin (ö. 1459; **Murad'ın rüyasını bilen tek kişi**), Lala Evrenosoğlu Ali Bey (✔ **şehit 17 Haz 1462, Eflak gece baskını**), kâtip Sinan bin Abdullah (defterden), Ali Kuşçu (1472–74), Bellini (1479–81: **portre Berkay'ındır** 🎭) |
 | Vezîriâzamları | **Gerçek liste aynen** (✔): Halil (–1453) → Zağanos (1453–56) → Mahmud Paşa (1456–68; 1472–73; idam 1474) → Rum Mehmed (1468–70) → İshak (1470–72) → Gedik Ahmed (1474–77) → Karamânî Mehmed (1477–81) |
 | İki gölgesi | 10 Tem 1453 Halil; 18 Tem 1474 Mahmud Paşa |
@@ -30,7 +30,7 @@
 | 1481 muharebesi | Babası otağda can verirken meydanı kazanır; haberi alınca **meydanı kana bular** (✔). ⚙ 3 May 1481, Ofanto/Cannae, Kalabriya Dükü Alfonso'ya karşı |
 | Cülûs | İtalya'dan deniz yoluyla (~2 hafta); ⚙ Mayıs sonu 1481 |
 | Kan sınırı (⚙) | Oğuz Han'ı öldürmez (1492 vebasında ölür); Gedik Ahmed'i idam etmez (Pulya beylerbeyi, ö. 1485); Ahmed–Korkud himayede |
-| İtalya (⚙) | 1481–95 Salento üçgenini tutar; 1510'da geçer; Napoli 15 Tem 1511; 1512 baharı Roma'ya yürür |
+| İtalya | ✔ **Babasının yarım bıraktığı işi tamamlar:** 1481–95 Salento üçgenini tutar; 1510'da geçer; Napoli 15 Tem 1511; 1512 baharına kadar Napoli Krallığı'nın tamamı; Roma'ya yürürken şehit |
 | İlk imtihanı | Cem; kuzeni Bayezid'in ölümü; Bursa–Yenişehir |
 | Himayesi | Bayezid'in oğulları Ahmed ve Korkud'u öldürmez, sancak verir |
 | Karakter çizgisi (öneri) | Babasının rüyasını miras alan ama 14 yıl (1481–95) Cem yüzünden eli kolu bağlı kalan hükümdar; sabırlı, onarıcı; sonra "bezgin orduyu" toparlayıp İtalya'ya döner |
@@ -56,7 +56,7 @@
 | Soy | Orhan'ın oğlu → Berkay'ın torunu. Gerçek tarihteki "Bayezid'in oğlu" kimliği **düşer**; Trabzon sancağı (1487–1510) korunabilir (Alâeddin Ali'den sonra) |
 | Cülûs | ⚙ 24 Nis 1512 Cumartesi (7 Safer 918) — gerçek tarih; İstanbul'da kaymakamken babasının şehadet haberi (~20 gün) üzerine |
 | 1512–13 | Kuzenleri Korkud (10 Mar 1513) ve Ahmed'i (15 Nis 1513) ortadan kaldırır; Bursa kışında Bayezid'in torunları: karar |
-| Siyaset | ⚙ Çaldıran 1514 ve Turnadağ 1515 aynen; **Mısır seferi yok**; 1516–17 Napoli pekiştirilir; **1 May 1517 Roma barışı** (X. Leo Osmanlı Napoli'sini tanır; Roma alınmaz) |
+| Siyaset | ✔ **Gerçek tarihteki Yavuz gibi:** Çaldıran 1514, Turnadağ 1515, Mercidâbık 1516, Ridâniye 1517, Kahire, hilâfet–Haremeyn — aynen. İtalya'yı beylerbeyi tutar; **Roma barışı yok; Roma'yı oğlu Süleyman fethedecek** (✔) |
 | Eş / çocuk | Hafsa Hatun; **Süleyman** (6 Kas 1494, Trabzon) korunur |
 | Ölüm | 21/22 Eyl 1520 Çorlu (gerçek) |
 | Tema | Hanedanı gerçek tarihin kanununa döndüren adam; dedesinin "kardeş kanı dökmeme" mirasını bilerek bozar |
