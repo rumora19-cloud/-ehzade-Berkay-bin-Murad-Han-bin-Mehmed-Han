@@ -24,7 +24,7 @@
 
 | Tarih | Savaş | Yer | Sonuç / Berkay yaşı |
 |---|---|---|---|
-| 10 Kas 1444 | **Varna** | Varna gölü–Karadeniz arası düzlük, Bulgaristan | Osmanlı zaferi; Vladislav ö. / 12 |
+| 10 Kas 1444 | **Varna** | Varna gölü–Karadeniz arası düzlük, Bulgaristan | Osmanlı zaferi; Vladislav ö. / 12 — mekân ayrıntısı: `varna.md` |
 | 17–20 Eki 1448 | **II. Kosova** | Kosova ovası, Priştine yakını (Sitnica çayı) | Hunyadi bozguna uğrar / 16 |
 | 6 Nis – 29 May 1453 | **İstanbul kuşatması** | | Fetih / 21 |
 | 4–22 Tem 1456 | **Belgrad** | Tuna–Sava kavşağı | Başarısız; Fatih yaralı / 24 |
@@ -39,7 +39,7 @@
 | 26 Tem 1476 | **Akdere (Valea Albă / Războieni)** | Boğdan | Stefan yenilir / 44 |
 | 13 Eki 1479 | Ekmekotlağı (Kenyérmező) | Erdel | Osmanlı bozgunu / 47 |
 | 23 May – 17 Ağu 1480 | Rodos | | Başarısız / 48 |
-| 11 Ağu 1480 | **Otranto** | Apulia, İtalya | Fetih; 10 Eyl 1481 kaybı / 48–49 |
+| 11 Ağu 1480 | **Otranto** | Apulia, İtalya | Fetih; 10 Eyl 1481 kaybı / 48–49 — ayrıntı ve 1480–1520 İtalya coğrafyası: `italya.md` |
 | 20/22 Haz 1481 | **Yenişehir I** | Bursa doğusu, Yenişehir ovası | Bayezid × Cem / 49 |
 | 15 Tem – 4 Ağu 1484 | Kili, Akkirman | Tuna–Dinyester ağzı | Fetih / 52 |
 | 1486 (Mart) | Adana / Ağaçayırı 16–17 Ağu 1488 | Çukurova | Memlük zaferleri / 54–56 |

@@ -23,7 +23,7 @@ Bu klasörde Şehzâde Berkay'ın **Ahvâl Defteri** (karakter dosyası), onun t
 
 ## İş akışı
 
-1. Yazar `tashih-notlari.md` §F'deki soruları cevaplar (kâtip varsayılanları hazır; tek kelime "uygula" yeter).
+1. ✔ Yazar §F'yi onayladı (15 Ekim 2026); C1, C3–C6, C9–C12 deftere işlendi (döküm §H).
 2. Onaylanan maddeler deftere işlenir; her değişiklik tashih dosyasında "✔ uygulandı (tarih)" diye kapatılır; tartışmalı olanlar defterde `[T]` dipnotuyla kalır.
 3. Defterdeki her tarihî atıf `kaynaklar/` içindeki ilgili dosyaya bağlanır (ilk bağlantılar tashih dosyasında).
 4. Yeni karakterler (Yunus Ağa, Hamza Ağa, Sinan bin Abdullah, Koca Hızır vb. kurgusal/yarı kurgusal kişiler) için bu klasörde `cevre-kisiler.md` açılacak.
