@@ -42,7 +42,8 @@
 | Adının sebebi | Berkay'ın 1443'te Amasya'da ölen sevgili ağabeyi Alâeddin Ali; aynı zamanda Osman Gazi'nin oğlu Alâeddin Paşa |
 | Sancak | Öneri: Trabzon 1471–81 |
 | 1481'den sonra | ✔ **Tahtı istemez; ağabeyinin divan adamı/danışmanı olur** — Alâeddin Paşa'nın Orhan Gazi'ye yaptığı gibi. Cem'in isyanı sırasında Orhan'ın en güvendiği komutan olabilir |
-| 1512'den sonra | ✔ **Selim onu öldürmez** — yazar: 1520'de 65 yaşında olur, 65 yaşında biri tahta geçemez, tehdit değildir. Üç saltanatı gören tek hanedan üyesi 🎭 |
+| 1512'den sonra | ✔ **Selim onu öldürmez** — yazar: 1520'de 65 yaşında olur, tehdit değildir. **Yıllardır devlete hizmet eden** hanedan üyesi; üç saltanatı görür 🎭 |
+| 1520'den sonra | ✔ **Süleyman'ın derdi o değildir** — Süleyman'ın meselesi başka bir kişi olacak (yazar belirleyecek; dosya: ileride) |
 | Ölüm | Eceliyle, 1520'den sonra (yıl: karar) |
 
 ## 4. Sultan I. Selim Han bin Orhan Han (10. padişah, ~1512–1520)

@@ -77,4 +77,5 @@ Kapananlar (2026-10-14): doğum yılları (Orhan 1452, Alâeddin Ali 1455, Selim
 4. Belgrad'ın 1456'da alınmasının Macaristan'a etkisi: Hunyadi (gerçekte 11 Ağu 1456 vebadan öldü) savaşta mı ölür; Matthias'ın krallığı?
 5. Orhan'ın İtalya kaybı ve geri alışının yılları; şehadet tarihi (1512 baharı önerisi).
 6. Selim'in Doğu siyaseti (Çaldıran, Mısır) ve İtalya'nın son durumu 1520'de.
-7. Anlatıcı ve bölümleme (bk. `README.md`).
+7. Anlatıcı ve bölümleme (bk. `README.md`) — **yazar: şimdilik dert edilmeyecek**; omurga tamamlanınca dönülecek.
+8. 1520 sonrası: Süleyman'ın "derdi" olacak kişi (Alâeddin Ali değil) — yazar belirleyecek.
