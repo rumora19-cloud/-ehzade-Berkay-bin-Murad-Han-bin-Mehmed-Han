@@ -47,6 +47,9 @@ Kapsanan dönem: **11 Kasım 1444** (Varna Zaferi'nin ertesi günü) — **1520*
 | Günlük hayat (takvim tablosu 1444–1521, para, tıp, kıyafet–yemek–meclis, dil–inanç) | ✅ ilk sürüm |
 | Hanedan ve kişiler 1451–1520; kaynak × dönem matrisi | ✅ ilk sürüm |
 | Karakter dosyası (Ahvâl Defteri) | ✅ işlendi (`karakter/berkay-celebi-ahval-defteri.md`) |
+| Hikâye ana hattı (üç padişahlık kavis) | ✅ ilk sürüm (`hikaye/00-ana-hat.md`) — "öneri" maddeleri yazar onayı bekliyor |
+| Çatal noktaları (gerçek tarih → kurgu, yıl yıl) | ✅ ilk sürüm (`hikaye/01-catal-noktalari.md`) |
+| Kurgusal hanedan dosyaları (Berkay soyu, Mehmed soyu) | ✅ ilk sürüm (`karakter/`) |
 | Karakter dosyasının tarihî tashihi | ✅ ilk sürüm (`karakter/tashih-notlari.md`) — yazar onayı bekleniyor |
 
 > Not: Bu repo bir **kurgu** projesidir. `kaynaklar/` altındaki her şey tarihî kayıtlara dayanır ve atıflıdır; `karakter/` ve `hikaye/` altındakiler kurgudur. İkisi hiçbir zaman karıştırılmaz.

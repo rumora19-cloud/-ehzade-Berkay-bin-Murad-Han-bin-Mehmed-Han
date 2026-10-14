@@ -195,7 +195,8 @@ Osmanlı kaynakları kendi ordusunu çok, düşmanı az; Hristiyan kaynakları t
 2. **C2** (Amasya çocukluğu) → (a) Edirne'ye mi çekilsin, (b) `[T]` ile korunsun mu?
 3. **C3** (Nişancı İbrahim) → "iki tarafa yazan kalem" olsun mu?
 4. **C4–C6, C9–C12** kelime düzeyinde düzeltmeler → topluca uygulansın mı, tek tek mi?
-5. **1446 sorusu** (E.2) → Berkay Mehmed Manisa'ya dönünce nereye gider? Bu karar `hikaye/` tasarımının ilk taşı.
+5. **1446 sorusu** (E.2) → ✔ **karar verildi (2026-10-14):** 1444 yazı – 1446 **Manisa**, babası Murad'ın gölgesinde "gölge sancakbeyi"; 1446'da Mehmed Manisa'ya gönderilince Berkay **Amasya'ya (Rûm beyi, 1446–51)** döner; 3 Şub 1451'de Amasya'dadır, Edirne'ye ~4 haftada Mart başında varır. Ayrıntı: `../hikaye/00-ana-hat.md` §2a–2b.
 6. Metnin tepesindeki *Repo notu* kalsın mı?
+7. ★ **Yeni (hikâye kararlarından doğan):** Defter 1444'te yazıldığı için saltanat dönemi defterde yoktur; ama §XX'deki gönderilmemiş mektup, 1451 ve 1480 sahnelerinin tohumudur. Mektubun muhatabı Mehmed 1451'de tahtı Berkay'a kaptıracak, 1480'de onun rüyası için ölecek: mektup metnine bu bilinçle **dokunulmasın**; tashih sırasında yalnız tarih/isim düzeltmeleri yapılsın.
 
 > Onaylanan maddeler `berkay-celebi-ahval-defteri.md` içine işlenecek; her değişiklik bu dosyada "✔ uygulandı (tarih)" diye işaretlenecek.
