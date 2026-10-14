@@ -1,9 +1,9 @@
 # II. Mehmed (Fâtih) Dönemi — 18 Şubat 1451 → 3 Mayıs 1481
 
-> **Kapsam:** Mehmed'in ikinci cülûsundan ölümüne kadar otuz yıl; yıl yıl, sefer sefer. Berkay 18 → 49 yaş.
+> **Kapsam:** Gerçek tarihte Mehmed'in ikinci cülûsundan ölümüne kadar otuz yıl; yıl yıl, sefer sefer. **Hikâyede bu dönemin padişahı Berkay'dır (1451–81, 18 → 49 yaş; ö. 3 May 1481), Mehmed serdardır (ö. 28 Eki 1480)** — bk. `hikaye/00-ana-hat.md` §2, `hikaye/01-catal-noktalari.md` tablo B–C. Aşağıdaki olaylar gerçek tarihtir; 🎭 notlar hikâyedeki karşılığını söyler.
 > **Ana kaynaklar:** H. İnalcık, "Mehmed II", DİA (https://islamansiklopedisi.org.tr/mehmed-ii) — bu dosyanın omurgası; İnalcık, *Fatih Devri Üzerinde Tetkikler ve Vesikalar I* (TTK 1954); Tursun Bey, *Târîh-i Ebü'l-Feth* (nşr. Tulum 1977); Kritovulos, *Tarih-i Sultan Mehmed Han-ı Sânî* (çev. Karolidi 1912 / Çokona 2012); Âşıkpaşazâde; Neşrî; Oruç; Enverî, *Düstûrnâme*; Kıvâmî, *Fetihnâme*; İbn Kemal, *Tevârîh-i Âl-i Osmân*, VII. Defter; Dukas (1462'ye kadar); Chalkokondyles; Sphrantzes; Barbaro; Angiolello; Babinger, *Mehmed the Conqueror and His Time* (1978); Emecen, *Fetih ve Kıyamet 1453*; Imber, *The Ottoman Empire 1300–1481*.
 > **Etiketler:** `[K]` kesin · `[M]` muhtemel · `[T]` tartışmalı · `[R]` rivayet · 🎭 hikâye kancası. Tarihler milâdî (hicrî); Jülyen takvimi.
-> **Son güncelleme:** 2026-10-14
+> **Son güncelleme:** 2026-10-15 (🎭 notlar nihai kurguya göre)
 
 ---
 
@@ -42,7 +42,7 @@
 - **15 Eylül 1451:** Halil Paşa Venedik'le ahidnâmeyi yeniler; **20 Kasım 1451:** Macarlarla 3 yıllık ateşkes; Sırp despotu ve Bosna kralı kazanılır. `[K]`
 - 1451: ilk **yeni akçe** darbı (tağşiş). `[K]`
 
-🎭 *Berkay 18 yaşında. Varna'dan yedi yıl sonra, ikizi tahta ikinci kez oturuyor; kardeş katli bir bebeğe uygulanıyor. Berkay nerede? (Karakter kararı — bk. `karakter/tashih-notlari.md` §F.5.) Ali Bey — Berkay'ın "Lala"sı — cellât. Dukas'ın "Ali Bey idam edildi" kaydı doğruysa Berkay Lala'sını 1451'de kaybeder; değilse (Osmanlı kaynaklarında Ali Bey 1450'lerde sağdır) Lala, sırrı taşıyan adam olarak yaşar.*
+🎭 *Hikâyede 1451: Murad'ın vasiyetiyle taht Berkay'a (18); Mehmed 18 Şubat'ta Edirne kapısında itaat eder, serdar olur; Orhan Çelebi salınır, Lala Evrenosoğlu yolunu keser, Kostantiniyye'ye kaçar; Küçük Ahmed eceliyle ölür (Dukas'ın "Ali Bey boğdu" kaydı hikâyede tersine döner: Mehmed'i koruyan el); Kurtçu Doğan ağalıktan alınır ama Lala'nın ucuna gönderilir. Karaman seferi ve Bursa bahşişi aynen.*
 
 ## 2. 1452 — Boğazkesen ve karar
 
@@ -72,14 +72,14 @@
 - **6 Ocak 1454:** **Gennadios Scholarios** patrik — Fatih asa ve kaftan verir; Pammakaristos. Mehmed Gennadios'la din sohbeti (itikadnâme). `[K]`
 - Fetih haberi: Venedik'e 29 Haziran; Roma'ya Temmuz ortası; Papa V. Nicolaus Haçlı çağrısı (30 Eylül 1453). **Fetihnâmeler:** Kahire'ye (Sultan İnal — esirler, armağanlar), Şiraz, Tebriz, Mekke; Karamanoğlu'na; Kahire'de üç gün şenlik. `[K]`
 
-🎭 *Berkay 21 yaşında. Hadis gerçekleşti — "ne güzel kumandan" Mehmed oldu. Berkay fetihte nerededir: ordu içinde bir koldaki şehzâde mi (tarihte hiçbir şehzâde kuşatmada bulunmadı — Bayezid 5, Mustafa 3 yaşında), uzakta bir sancakta mı, yoksa Edirne'de "muhafız" mı? Halil Paşa'nın —Berkay'ın hocasının— boğdurulması: temkin tarafı başsız kalır. Ayasofya'da Firdevsî beytini Mehmed okur; "ondan sonra?" sorusunu Berkay sorar.*
+🎭 *Hikâyede kuşatma 6 Nisan Cuma – 1 Mayıs Salı (21 Rebîülâhir 857), 25 gün; "ne güzel kumandan" Berkay'dır (21) — "Fâtih Sultan Berkay Han"; Mehmed serdar olarak bir kolda; Orhan Çelebi surda ölür. Halil Paşa'nın 10 Temmuz'da boğdurulması korunur — Berkay'ın hocası, Berkay'ın hükmüyle: ilk gölge. Ayasofya'da Firdevsî beytini Berkay okur; "ondan sonra?" sorusunu Mehmed sorar.*
 
 ## 4. 1454–1459 — Sırbistan, Belgrad, Mora, Semendire
 
 - **18 Nisan 1454:** Venedik'le antlaşma (ticaret, %2 gümrük, balyos). Cenevizliler haraç. **Yaz 1454:** donanma Karadeniz'e — Kefe haraç (3.000 altın), Akkirman tehdit; **Sırp seferi I**: Omol, Ostrovica; Mahmud (Angelović) henüz yükselişte. `[K]`
 - **1455:** **Sırp seferi II** — **Novo Brdo** (gümüş madeni, 1 Haziran 1455) alınır; Vılk-ili; despot yılda 3 milyon akçe haraç. **5 Ekim 1455:** Boğdan haraçgüzâr (2.000 altın). Foça (Eski Foça 1455, Yeni Foça 1455) ve Enez Cenevizlilerden alınır (Ocak 1456 Enez). `[K]`
 - **1456:** **İmroz, Limni, Taşoz** (Kritovulos aracılığıyla). **Belgrad kuşatması: 4–22 Temmuz 1456** — toplar; Tuna'da Osmanlı gemileri yakılır (14 Tem); 21–22 Tem genel hücum; **Hunyadi** ve **Kapistran**'ın (haçlı köylüleri) karşı saldırısı; Fatih bizzat çarpışır, **alnından/baldırından yaralanır**, **Dayı Karaca Bey** ölür, Hasan Ağa (yeniçeri ağası) ölür; ordu çekilir (Zağanos'un çekilme tavsiyesi). `[K]` **11 Ağustos 1456: Hunyadi Zemun'da vebadan ölür**; Kapistran 23 Ekim. Papa Belgrad için öğle çanı. `[K]` **Haziran 1456: Halley kuyruklu yıldızı** (Papa III. Calixtus "Türk'e karşı" dua emreder) `[K]` 🎭. Belgrad'dan sonra **Zağanos azledilir** (Balıkesir'e), kızı Hatice Hatun saraydan çıkarılır; **Mahmud Paşa vezîriâzam** (1456–68). `[K]` 🎭 *Dayı Karaca — Varna'da Murad'ı yerinde tutan adam — Belgrad'da ölür; Berkay'ın Varna hafızasının son tanığı gider.*
-- **1457:** **Edirne'de şehzâde sünnet düğünü** (Haziran 1457; Bayezid 9–10, Mustafa 7; Tunca adasında çadırlar; ulemâ münazarası — Molla Hüsrev, Molla Gürânî, Hızır Bey; yemek, şenlik; Oruç/Neşrî/Âşıkpaşazâde anlatır) `[K]` 🎭 **Berkay 25 yaşında bu düğünde — Fatih'in oğullarının sünnetinde "amca".** Papalık donanması Ege'de (Limni, Taşoz, Semadirek işgali); Evrenosoğlu İsa Bey **Albulena'da** İskender Bey'e yenilir (2 Eylül 1457). `[K]`
+- **1457:** **Edirne'de şehzâde sünnet düğünü** (Haziran 1457; Bayezid 9–10, Mustafa 7; Tunca adasında çadırlar; ulemâ münazarası — Molla Hüsrev, Molla Gürânî, Hızır Bey; yemek, şenlik; Oruç/Neşrî/Âşıkpaşazâde anlatır) `[K]` 🎭 **Hikâyede sünnet olan Bayezid ve Mustafa serdar Mehmed'in oğulları, padişah Berkay'ın (25) yeğenleridir; Orhan 5, Alâeddin Ali 2 yaşındadır.** Papalık donanması Ege'de (Limni, Taşoz, Semadirek işgali); Evrenosoğlu İsa Bey **Albulena'da** İskender Bey'e yenilir (2 Eylül 1457). `[K]`
 - **1458:** **Mora seferi I** (Mayıs–Ağustos): Korint (Akrokorint 6 Ağustos 1458), Patras; Fatih **Atina'yı ziyaret** eder (Ağustos 1458; Akropolis'e hayranlık — Kritovulos) `[K]` 🎭; Mahmud Paşa Sırbistan'da (Güvercinlik/Golubac teslim); Kral **Matthias Corvinus** (Hunyadi'nin oğlu, 1458'den) Semendire'yi tehdit eder; Fatih kışı **Üsküp**'te geçirir (âdet dışı). **Lazar Branković ö. 20 Ocak 1458** → Sırp verasetinde kriz; Mahmud Paşa'nın kardeşi **Mihail Angelović** Sırbistan'da Osmanlı yanlısı parti. `[K]` 1458: çift resmi 22 → 33 akçe (Anadolu). `[K]`
 - **1459:** **Semendire 20 Haziran 1459** — anahtarlar Sofya'da teslim: **Sırp Despotluğu biter**, sancak olur. **Amasra** (sonbahar 1459, Cenevizlilerden savaşsız). Papa II. Pius **Mantua Kongresi** (Haçlı ilânı, Ocak 1460). **Yeni Saray (Topkapı) inşaatına başlanır** (1459–60; Kritovulos). Mahmud Paşa Camii (1462), Eyüp Camii (1458–59). **23 Aralık 1459 (27 Safer 864): Şehzade Cem Edirne'de doğar** (annesi Çiçek Hatun). `[K]`
 
@@ -108,7 +108,7 @@
 - **1473, Otlukbeli seferi:** Kış Rumeli akıncıları Sivas'a; **Cem (13) Edirne'de Rumeli muhafızı** (İshak Paşa ile); İstanbul'da Karıştıran Süleyman ve Nasuh Bey muhafız. Fatih 11 Nisan Üsküdar; ordu 70–100.000; Erzincan–Tercan; **4 Ağustos: Fırat kıyısında Rumeli kolu baskına uğrar, Rumeli Beylerbeyi Has Murad Paşa boğulur** (Mahmud Paşa'nın ihtiyatsızlığı/kıskançlığı suçlaması `[T]`); orduda ümitsizlik; **11 Ağustos 1473 (16 Rebîülevvel 878), Otlukbeli/Başkent:** sağ kolda Bayezid (Anadolu), **sol kolda Mustafa (Anadolu azebleri)**, merkez Fatih; Davud ve Mahmud paşalar tepeleri tutar; Mustafa'nın hücumu ve **Zeynel Mirza'nın ölümü** sonucu belirler; Uzun Hasan kaçar; 4.000 Türkmen esir idam edilir (Mahmud Paşa'nın itirazı), 2.050 esir. **Şebinkarahisar** teslim; Uzun Hasan barış ister. **Fetihnâme** (Hersekzâde/Nişancı Karamânî kaleminden — ünlü metin). İstanbul'a dönüşte **Karıştıran Süleyman ve Nasuh idam** (Cem'e saltanat teklifi söylentisi) `[K]` 🎭; **Mahmud Paşa azledilir** (sonbahar 1473; Hasköy'deki çiftliğine). `[K]`
 - **1474:** Mihaloğlu Ali Bey Varad'a akın (kış); Gedik Ahmed Karaman'da (Ermenek, Meynan, Silifke); **Şehzade Mustafa Develi kuşatmasında hastalanır, yolda ölür (Haziran 1474, ~24 yaşında; Bursa Muradiye'ye defin)** — şiddetli yas; zehir söylentisi `[T]`; Angiolello: Mahmud Paşa'nın karısına Mustafa'nın el uzattığı, Mahmud'un yasta sevinç gösterdiği dedikodusu. **18 Temmuz 1474: Mahmud Paşa Yedikule'de boğdurulur** (sebep: Mustafa meselesi / Otlukbeli'nde ihanet / Uzun Hasan'la barış taraftarlığı — `[T]`; halk arasında "veli" sayılır, menâkıbnâmesi yazılır). **Cem (14) Karaman valisi (Konya)**; lalası Rum Mehmed Paşa (sonra o da idam). **Gedik Ahmed Paşa vezîriâzam (1474–77)**. **İşkodra kuşatması I** (Hadım Süleyman Paşa, 15 Tem–28 Ağu 1474, başarısız). **Ali Kuşçu ö. 16 Aralık 1474.** `[K]`
 
-🎭 *1474 Berkay için en karanlık yıl: Fatih'in en sevdiği oğlu (Mustafa, 24) ölür, devletin en büyük veziri boğulur; Cem 14 yaşında Konya'ya gider. 42 yaşındaki amca bu sarayda nerede durur? Mahmud Paşa'nın ölümü, Berkay'ın Varna'daki "Ocağın sevgisini kendi adamına çevirme" dersinin devlet katındaki trajik versiyonu.*
+🎭 *1474 hikâyede de en karanlık yıl: Mehmed'in en sevdiği oğlu Mustafa (24) eceliyle ölür (✔ korunur), Mahmud Paşa padişah Berkay'ın (42) hükmüyle boğulur (✔ korunur) — ikinci gölge; Cem 14 yaşında Konya'ya gider. Mahmud Paşa'nın ölümü, Berkay'ın Varna'daki "ocağın sevgisi" dersinin devlet katındaki trajik yüzü.*
 
 ## 8. 1475–1478 — Kefe, Boğdan, Semendire kışı, İşkodra
 
@@ -123,7 +123,7 @@
 - **1480:** **Rodos kuşatması 23 Mayıs – 17 Ağustos 1480** (Mesih Paşa; 28 Temmuz genel hücum püskürtülür; Büyük Üstat d'Aubusson; "yağma yok" emri askerin şevkini kırar `[M]`; başarısızlık); **Otranto 11 Ağustos 1480** (Gedik Ahmed, Avlonya'dan 26 Temmuz, 132 gemi, 18.000 asker; 800 şehitlik efsanesi; Papa IV. Sixtus Roma'dan kaçmayı düşünür) — "Roma'nın fethine başlangıç"; Ahmed Paşa kışın Rumeli'ye döner. **Cem'in oğlu Oğuz Han doğar (1480?)**. Fatih–Bayezid arası açık: Amasya'da Bayezid'in afyon/meclis şikâyetleri, toprak reformuna direnci; Karamânî Mehmed Cem'den yana. **İstanbul'da büyük veba (1480)**; 1481 zelzele? `[M]` Beşinci yeni akçe (1481 — tahta geçerken). `[K]`
 - **1481:** Nisan sonu Fatih sefere çıkar — hedef gizli (Rodos? Memlük–Suriye? İtalya? Bütün kaynaklar farklı `[T]`); hasta; **25 Nisan Üsküdar**'a geçer; **3 Mayıs 1481 (4 Rebîülevvel 886), Perşembe, ikindi: Hünkârçayırı'nda (Gebze–Maltepe arası) ölür**, 49 yaşında. Sebep: nikris/kolik; **zehir** iddiası — hekim **Yakub Paşa** (Maestro Iacopo, Venedik'in ajanı?) — Âşıkpaşazâde'nin imâsı ("hekimler… şerbet…"), Babinger ciddiye alır; DİA "başka kaynaklarla doğrulanmaz" `[T]`. Ölüm gizlenir (3–4 gün; ceset İstanbul'a; kokmaması için buz/tuz `[R]`). **Karamânî Mehmed Paşa** Cem'e ulak gönderir, Bayezid'e de (göstermelik); yeniçeriler **4 Mayıs**'ta isyan eder, **Karamânî'yi parçalar**, İstanbul'u yağmalar (Yahudi evleri); **İshak Paşa** düzeni sağlar, **Korkud (Bayezid'in oğlu, 11–13)** saltanat nâibi ilân edilir; Cem'in ulağı Anadolu beylerbeyi Sinan Paşa tarafından yolda yakalanır. **Bayezid 20/21 Mayıs** İstanbul'a girer, **cülûs 21/22 Mayıs 1481**; **Fatih'in cenazesi 21/22 Mayıs Fatih Camii'ne** (defin öncesi 18 gün bekledi). Cem Bursa'ya girer (**28 Mayıs**), adına hutbe ve sikke (18 gün saltanat), devleti bölme teklifi ("Anadolu Cem'in, Rumeli Bayezid'in") — Bayezid'in "Ümmetin başı iki olmaz" cevabı; **Yenişehir savaşı 20 Haziran 1481:** Gedik Ahmed ve İshak Paşa'nın yardımıyla Bayezid galip; Cem Konya → Tarsus → Memlük (Kahire, Eylül 1481) → Hicaz. **Otranto 10 Eylül 1481** teslim olur. `[K]` → devamı `03-ii-bayezid-donemi-1481-1512.md`.
 
-🎭 *Fatih'in ikizi 49 yaşında. Ölüm haberi önce kime gelir? Berkay İstanbul'daysa yeniçeri isyanının ortasındadır; sancaktaysa Cem gibi bir ulak bekler. Bayezid (33) ve Cem (21) arasında "üçüncü ad" olarak anılması, hikâyenin 1481 düğümü. İkizinin cesedinin on sekiz gün beklemesi; ayna karşısında yas.*
+🎭 *Hikâyede Mehmed altı ay önce (28 Ekim 1480) Milvius Köprüsü'nde şehit düşmüştür; **3 Mayıs 1481'de ölen Berkay'dır (49)** — Cannae/Ofanto'da otağında, nikris ve ateşle (zehir söylentisi Hekim Yakub'a), aynı gün Orhan (29) Kalabriya Dükü Alfonso'yu ezer. Cesedin bekleme günleri, yeniçeri isyanı, Karamânî'nin linçi İstanbul'da aynen; Cem Bayezid'i öldürür ve Cem vak'ası birebir yaşanır — rakip Orhan'dır.*
 
 ---
 
@@ -166,20 +166,21 @@
 - **Meşhur sözler:** Ayasofya'da Firdevsî beyti; "Ya ben İstanbul'u alırım ya İstanbul beni" `[R]` (geç); Sara Hatun'a "din yolunadır"; Kazıklı Voyvoda'nın ormanı karşısında; Eğriboz'da Erizzo'ya "başına değil beline söz verdim" `[R]`; Karamânî'ye son emirler; Kanunnâme cümlesi. `[K/R]`
 - **Dinî kimliği:** gazi-sultan, fakat Şeyh Vefâ'nın kabul etmemesi, Âşıkpaşazâde'nin küskünlüğü, mîrîleştirme — dindar çevrenin eleştirisi; Hristiyanlığa meyli iddiaları (Papa'nın mektubu, Bellini'nin Meryem resmi) `[T]`; Bayezid'in bu resimleri satması. `[K/T]`
 
-## 13. Berkay için 🎭 düğümler (1451–1481)
+## 13. 🎭 Hikâye düğümleri (1451–1481) — hikâyede padişah Berkay'dır (bk. `hikaye/00-ana-hat.md` §2)
 
-1. **1451 Şubat:** cülûs ve Küçük Ahmed; Lala Ali Bey cellât. Berkay'ın sancağı o gün ne olur?
-2. **1453:** Hadis gerçekleşir — Berkay'ın hayali ikizinin eliyle gerçekleşir; Halil Paşa boğulur; Berkay'ın "temkin tarafı" biter; Ayasofya'da iki ikizin karşılaşması.
-3. **1456 Belgrad:** Fatih yaralanır; Dayı Karaca ölür; Hunyadi ölür — Varna'nın üç hayaleti. Halley kuyruklu yıldızı gökte.
-4. **1457 Edirne düğünü:** Berkay 25 yaşında amca; Bayezid (10) ve Mustafa (7) sünnet olur; ulemâ münazarası.
-5. **1461 Trabzon:** Sara Hatun–Fatih diyaloğu; Amiroutzes; Berkay'ın "Roma" merakı — Trabzon da bir Roma'dır.
-6. **1462 Eflak:** Vlad (yaşıt) gece baskını; Radu voyvoda. Berkay Vlad'ı sarayda tanımıştı.
-7. **1467 veba:** İstanbul'da günde yüzlerce ölü; saray Edirne'ye kaçar.
-8. **1468–74 Mustafa:** Fatih'in en sevdiği oğlu Konya'da; Kıreli zaferi; Otlukbeli sol kol; ölümü (24). Berkay–Mustafa ilişkisi (amca–yeğen, ok–kılıç) hikâyenin orta bloğu olabilir.
-9. **1473 Otlukbeli:** Cem Edirne'de "muhafız" — iki muhafız idam edilir (saltanat teklifi). Berkay o sırada hangi "muhafız"dır?
-10. **1474 Mahmud Paşa'nın idamı:** halkın "veli"si; Berkay'ın ocak dersi.
-11. **1479–80 Bellini:** sarayda bir Venedikli ressam; portre; Berkay'ın "Frenk dili"nin işe yaradığı yıllar; Otranto = Roma'ya yürüyüş — Berkay'ın gençlik emeli gerçekleşmeye en yakın an, ve Fatih ölür.
-12. **1481 Mayıs:** zehir mi? Hekim Yakub; cesedin 18 gün beklemesi; yeniçeri isyanı; Korkud nâib; Cem–Bayezid. 49 yaşındaki amca hangi tarafta? Bayezid'in Amasya'daki çevresi (Berkay'ın eski sancağı!) ile Cem'in Konya'sı.
+1. **1451 Şubat–Mart:** Murad'ın vasiyeti Berkay'a; Mehmed Edirne kapısında itaat eder, serdar olur; Orhan Çelebi salınır, Lala Evrenosoğlu yolunu keser, Kostantiniyye'ye kaçar; Küçük Ahmed eceliyle ölür; Kurtçu Doğan ağalıktan uca. Gerçekteki ayrıntılar (Halil'in 16 gün gizlemesi, Karaman seferi, Bursa bahşişi) aynen kullanılır.
+2. **1453:** 25 günlük kuşatma; "ne güzel kumandan" Berkay; Mehmed serdar; Halil 10 Temmuz'da boğdurulur (gerçekteki gibi) — Berkay'ın hocası, Berkay'ın hükmüyle: ilk gölge.
+3. **1456 Belgrad:** hikâyede kale 22 Temmuz'da düşer, Hunyadi gedikte ölür; Dayı Karaca ölür (gerçek); Halley gökte; Pedri (Hunyadi'nin adamı) sağ çıkar — Varna'nın üç hayaleti.
+4. **1457 Edirne düğünü:** Bayezid (10) ve Mustafa (7) Mehmed'in oğulları, padişahın yeğenleri; Orhan 5, Alâeddin Ali 2; ulemâ münazarası aynen.
+5. **1461 Trabzon:** Sara Hatun diyaloğu serdar Mehmed'le mi, padişah Berkay'la mı — bölüm kararı; Amiroutzes; "Trabzon da bir Roma'dır".
+6. **1462 Eflak:** 17 Haziran gece baskını — **Lala Evrenosoğlu Ali Bey serdar Mehmed'in çadırını korurken Pedri'nin elinden şehit** (gerçek: Ali Bey 1462 seferine katıldı, sonrasında öldü); Kurtçu Doğan'ın yemini. Vlad Berkay'ın yaşıtı, Edirne rehinesi.
+7. **1467 veba:** saray Edirne'ye; padişahın şehirde kalıp kalmaması bölüm kararı.
+8. **1468–74 Mustafa:** Mehmed'in en sevdiği oğlu Konya'da; Kıreli; Otlukbeli sol kol; eceliyle ölümü (✔). Amca–yeğen, ok–kılıç: hikâyenin orta bloğu.
+9. **1473 Otlukbeli:** Berkay (41) ordunun başında; Cem (13) Edirne'de muhafız — "saltanat teklifi" meselesi hikâyede de var mı? bölüm kararı.
+10. **1474 Mahmud Paşa'nın idamı:** ✔ korunur — Berkay'ın hükmü; ikinci gölge.
+11. **1476 Akdere:** gerçekte Fatih'in bizzat öne atıldığı gün; hikâyede Berkay (44) Pedri'yi kendi eliyle öldürür (⚙ yer/gün).
+12. **1479–80 Bellini:** sarayda Venedikli ressam; portre Berkay'ın; 1480 Rodos düşer, Otranto 11 Ağustos; **Mehmed 28 Ekim 1480 Milvius Köprüsü'nde şehit** (gerçekte Otranto'dan Roma'ya yürünmedi); İslambol'a, Fâtih Camii hazîresine gömülür.
+13. **1481 Mayıs:** gerçekte Fatih'in ölümü (3 Mayıs) — hikâyede aynı gün **Berkay Cannae'de otağında ölür (49)**; Orhan aynı gün Alfonso'yu ezer; zehir söylentisi Hekim Yakub'a; Cem Bayezid'i öldürür; Cem vak'ası birebir, rakip Orhan.
 
 ## 14. Açık sorular / doğrulanacaklar
 

@@ -66,5 +66,5 @@ Amasya–Tokat 2 gün (ipek yolu), –Sivas 5, –Çorum 2, –Merzifon 1, –Sa
 1. **1443–44 Berkay (11–12) Amasya'da:** ağabeyi Alâeddin'in boşalttığı saray; Kara Hızır Paşa (katil? `[T]`) hâlâ oradaysa — "zehir fısıltısı" (defter); kral kaya mezarlarına bakan pencere; Yörgüç Paşa'nın türbesi; Halvetî çilehaneleri; Baba İlyas'ın torunu Âşıkpaşazâde'nin memleketi.
 2. **1454:** Yeğeni Bayezid (6) Amasya'ya gönderilir — Berkay'ın eski odalarına.
 3. **1472 Tokat yağması:** Amasya'nın iki gün ötesi yanıyor; 1473 Otlukbeli'ne ordu Kazova'dan geçer.
-4. **1481 Mayıs:** Bayezid Amasya'dan İstanbul'a 14 günde; Berkay'ın Amasya hatırası Bayezid'le bağ.
-5. **1514–15 kışı:** Selim Amasya'da; Berkay 82 — Amasya'daysa Selim'in divanında bir ihtiyar; Dukakinzâde'nin kanı.
+4. **1481 Mayıs:** Bayezid Amasya'dan İstanbul'a 14 günde (gerçek); hikâyede yola çıkar, Ankara–Beypazarı'nda Cem'in adamlarınca öldürülür (⚙); Berkay'ın Amasya hatırası yeğeniyle bağ.
+5. **1514–15 kışı:** Selim Amasya'da — dedesi Berkay'ın ilk sancağı, ninesi Meryem Hatun'un şehri; Dukakinzâde'nin kanı.

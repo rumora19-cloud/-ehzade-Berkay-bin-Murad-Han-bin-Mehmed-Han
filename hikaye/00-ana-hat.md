@@ -83,6 +83,8 @@ II. Murad 1444 yazında gördüğü rüyayı 3 Şubat 1451'de ölürken vasiyete
 - **Açılış:** 11 Kasım 1444, Varna ordugâhı, defterin yazıldığı sabah; **kapanış:** 30 Eylül 1520, Süleyman'ın cülûsu, Alâeddin Ali'nin kalemi.
 
 ## 7. Kalan boşluklar (yazar isterse değiştirir)
+
+> **Kaynak dosyalarıyla ilişki (15 Ekim 2026):** `kaynaklar/` altındaki 🎭 notları bu metne göre güncellendi (eski "ihtiyar amca / Bayezid padişah" çerçevesi temizlendi). Bir çelişki görülürse bu dosya geçerlidir; kaynak dosyasındaki not düzeltilir, bu dosya değil.
 | Konu | Kâtip cevabı (⚙) | Kesinleşmesi için |
 |---|---|---|
 | Çocukluk aşkının kimliği | ✔ Adı **Meryem Hatun**; ⚙ soyu: Yörgüç Paşa'nın torunu, Amasya | Soy için yazar "tamam" ya da başka kimlik |
@@ -90,4 +92,5 @@ II. Murad 1444 yazında gördüğü rüyayı 3 Şubat 1451'de ölürken vasiyete
 | İtalya'yı tutanlar 1485–1520 | Mihaloğlu Ali Bey → Mihaloğlu Mehmed Bey | Yazar |
 | Süleyman'ın derdi | Cem'in oğlu Murad "Pierre" | Yazar |
 | Anlatıcı/yapı | §6 | Yazar |
+| Roma'nın fethi sayfada gösterilsin mi? | ✔ **Hayır** — hikâye 1520'de biter; Roma Süleyman'ındır ve hikâye dışıdır. Epilog (30 Eyl 1520, Alâeddin Ali'nin defteri) Roma'ya yalnız bakar: Papa'nın elindeki Murad "Pierre", Napoli'den görünen yol. Konstantiniyye'nin aynası olarak Roma **vaat** olarak kalır | Karar verildi; yazar isterse epilog sahnesi genişler |
 | Defter tashihi C1–C14 | `karakter/tashih-notlari.md` §F'de kâtip varsayılanları | Yazar tek kelime: "uygula" |

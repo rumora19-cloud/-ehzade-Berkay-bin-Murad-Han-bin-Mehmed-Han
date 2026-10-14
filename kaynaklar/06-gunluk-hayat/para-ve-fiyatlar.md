@@ -72,7 +72,7 @@ Darphaneler: Edirne, Bursa, Serez, Novo Brdo (1455), Üsküp, Amasya, İstanbul 
 - **Para dolaşımı:** Rumeli'de akçe + duka; Anadolu'da akçe + Memlük/Akkoyunlu gümüşü (tenge); Mısır'da dinar/eşrefî; kervan ticareti nakit az, kredi (havale, poliçe — Floransalılar), ortaklık (mudârebe); faiz yasak ama vakıf kredileri %10–15 ("muamele-i şer'iyye"). `[K]`
 
 ## 5. 🎭 Kancalar
-1. 1446 Buçuktepe: yeniçerilerin "eksik akçe" isyanı — Mehmed'in "ilk padişahlık dersi"; Berkay ikizinin akçesini elinde tartar.
+1. 1446 Buçuktepe: yeniçerilerin "eksik akçe" isyanı — Mehmed'in "ilk padişahlık dersi"; Berkay ikizinin akçesini elinde tartar; 1451'de aynı dersi kendisi alır (Bursa bahşişi).
 2. Bursa köle pazarı: 1453 esirlerinin ucuzluğu; bir şehzâdenin satın aldığı Rum kâtip?
-3. Şeker lüks; bal gündelik; Mısır alınınca (1517) şeker ucuzlar — 88 yaşındaki Berkay'ın helvası.
+3. Şeker lüks; bal gündelik; Mısır alınınca (1517) şeker ucuzlar — Alâeddin Ali'nin (62) helvası; Berkay'ın kuru üzümü ve cevizi (defter §VIII).
 4. Hekim ücreti, mum fiyatı: gece yazılan defterlerin maliyeti (kâğıt + mum + kâtip).

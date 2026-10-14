@@ -77,7 +77,7 @@ Not: Bazı popüler listelerde geçen "Tâcünnisâ", "Emine Hatun (Dulkadir)" g
 
 Muradiye Külliyesi (1426; cami, medrese, imaret, hamam) etrafında 12 türbe: **II. Murad** (üstü açık, toprak), **Hüma Hatun** (Hatuniye, 1449), **Şehzade Alâeddin Ali** (Murad'ın yanı), **Cem Sultan** (1499 nakil; türbe aslında Şehzade Mustafa için 1479'da yapıldı, Mustafa da burada), **Gülşah Hatun**, **Şirin Hatun**, **Mükrime Hatun** (Bayezid'in eşi), **Şehzade Ahmed** (II. Bayezid'in oğlu, 1513; Korkud ve Şehinşah de burada), **Şehzade Mahmud** (Bayezid'in oğlu, 1507, oğullarıyla), **Gülruh**, **Ebe Hatun**, **Saraylılar türbesi**. `[K]` — Bk. DİA "Muradiye Külliyesi" (Bursa).
 
-🎭 *Berkay'ın hayatı boyunca ailesinden ölen hemen herkes bu bahçeye gelir: annesi Hüma (1449), ağabeyi Ali (1443), babası (1451), kardeşi Küçük Ahmed (1451), yeğenleri Mustafa (1474) ve Cem (1499). 1520'de 88 yaşındaki bir adamın Muradiye'de dolaşması — hikâyenin son sahnesi için doğal mekân.*
+🎭 *Berkay'ın hayatı boyunca ailesinden ölen hemen herkes bu bahçeye gelir: annesi Hüma (1449), ağabeyi Ali (1443), babası (1451), kardeşi Küçük Ahmed (1451), yeğenleri Mustafa (1474) ve Cem (1499). Hikâyede Berkay'ın kendisi Muradiye'ye değil İslambol'a, ikizinin yanına gömülür (1481); 1520 epilogunda Muradiye'de dolaşan, varsa, Alâeddin Ali'dir (65).*
 
 ## 8. Doğrulanacaklar
 

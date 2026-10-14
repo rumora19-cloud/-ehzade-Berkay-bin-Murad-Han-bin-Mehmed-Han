@@ -61,6 +61,6 @@
 1. 11 Kasım 1444'te Edirne'de kimse henüz Varna'yı bilmiyor; haber 4–5 gün sonra ulaşır — Berkay'ın defteri ordugâhta yazılır, şehir sonra öğrenir.
 2. Yarım kalmış Üç Şerefeli'nin kubbe iskelesi 1444'ün silueti; 1447'de açılış — Berkay 15 yaşında.
 3. Eski Saray'ın Enderun'u: ikizlerin okul arkadaşları iç oğlanları (Mahmud [Paşa], Zağanos'un yetiştirdikleri), Vlad ve Radu (1442–48 rehine) — Vlad Edirne'de (ya da Eğrigöz'de) tutulur `[T]`.
-4. 1450 Sitti Hatun düğünü: Tunca adasında çadırlar; Berkay 18; "güveyi"nin ikizi olmak.
+4. 1450 Sitti Hatun düğünü (gerçek): Tunca adasında çadırlar. **Hikâyede bu düğün yoktur** (Sitti Mükrime bu evrende yok ✔); yerine 1450'de Amasya'da Berkay–Meryem nikâhı; Mehmed'in eşleri Gülbahar, Gülşah, Çiçek korunur.
 5. 1457: Yeğenlerinin sünnet düğünü; ulemâ münazarasını dinlemek (Molla Hüsrev–Gürânî–Hızır Bey).
-6. 1482: Gedik Ahmed'in boğulduğu sarayı görmek; 1518: Selim'in av sofraları — ihtiyar amca ve "Yavuz".
+6. 1482: Gedik Ahmed'in boğulduğu saray (gerçek; hikâyede boğulmaz); 1518: Selim'in av sofraları — ikizlerin doğduğu şehirde torun.
