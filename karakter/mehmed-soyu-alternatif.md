@@ -42,7 +42,7 @@ Gerçek hayatı aynen: Manisa 1457–68, Konya 1468–74, Kıreli zaferi 1472, O
 | İsyan | Berkay ölünce (1481): Bayezid'i öldürür → Bursa 18 gün (28 May–) → **Yenişehir 20/22 Haz 1481** yenilgi → Konya → Kahire (Kayıtbay) → hac → 1482 Konya–Ankara denemesi → **Rodos Osmanlı olduğundan Kıbrıs → Napoli (Ferrante) → Roma** |
 | Avrupa yılları | Papa VIII. Innocentius ve VI. Alexander; Venedik–Napoli–Papa rehine pazarlığı (gerçekteki şövalyelerin rolü); Fransa isteğe bağlı |
 | Ölüm | 25 Şub 1495 Napoli (gerçek; zehir söylentisi — Koca Mustafa Paşa); cenaze 1499 Bursa |
-| Ailesi | Oğlu Oğuz Han (1480; ⚙ **Orhan öldürmez, sarayda büyür, 1492 vebasında ölür**), Murad (1475; gerçekte Rodos'ta Hristiyan oldu — bizde Napoli/Roma'da), kızları Gevhermelik, Ayşe |
+| Ailesi | Oğlu Oğuz Han (1480; ⚙ **Orhan öldürmez, sarayda büyür, 1492 vebasında ölür**), **Murad** (1475 Edirne, annesi Gülşirin; gerçekte Rodos'ta Hristiyan oldu — "Pierre", Papa'nın tımarı, 27 Ara 1522 Süleyman idam ettirdi; **bizde Roma'da Papa'nın elinde büyür, ⚙ Süleyman'ın "derdi" için baş aday** — bk. `cevre-kisiler.md` §B), kızları Gevhermelik, Ayşe |
 | Şair | Divanı ve *Cemşîd ü Hurşîd* korunur; sürgünde yazdığı "Cem'in Bayezid'e mektupları" bizde **Orhan'a** yazılır 🎭 |
 
 ## 5. Şehzade Ahmed (1466–1513) ve Şehzade Korkud (1467/69–1513)
