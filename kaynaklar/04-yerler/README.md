@@ -10,5 +10,7 @@ Saray şehirleri, sancak merkezleri ve savaş alanları. Her dosya: doku ve nüf
 | `amasya.md` | Rûm beylerbeyiliği; şehzâde sarayı; Bayezid 27 yıl, Ahmed 32 yıl; Selim'in 1514–15 kışı; kültür çevresi (Şeyh Hamdullah, Müeyyedzâde, Mihrî Hatun, Sabuncuoğlu, Tâcîzâde) |
 | `istanbul-1453-1520.md` | İskân ve 1477 sayımı; Eski Saray / Topkapı; külliyeler tablosu; cemaatler; çarşı; ordugâhlar |
 | `diger-sancaklar-ve-savas-alanlari.md` | Konya, Trabzon, Kefe, Kütahya, Antalya, Kastamonu, Gelibolu; savaş alanları tablosu (1444–1517, Berkay'ın yaşıyla); yol süreleri tablosu |
+| `varna.md` | Şehir, Varna gölü, Franga yaylası, ova (asıl savaş alanı), yollar ve zaman (Ekim–Kasım 1444), hava/ışık/zemin, iki ordugâh, savaş sonrası ve efsaneler; Bölüm 1'in mekân dosyası |
+| `italya.md` | Otranto Boğazı'ndan Roma'ya coğrafya tablosu (Salento, Terra di Bari, Tavoliere, Ofanto–Cannae, Napoli, Garigliano, Colli Albani–Albano, Ponte Milvio); yol süreleri ve iklim; gerçek Otranto 1480–81; Napoli–Papalık siyaseti 1480–1520; sahne ayrıntıları; hikâye haritası |
 
-Sırada: `varna.md` (savaş alanı topografyası ayrıntısı — şimdilik `01-kronoloji/01-…` §3), `konya.md` ve `trabzon.md` genişletmeleri.
+Sırada (gerektiğinde): `konya.md` ve `trabzon.md` genişletmeleri (şimdilik `diger-sancaklar-ve-savas-alanlari.md` §A).

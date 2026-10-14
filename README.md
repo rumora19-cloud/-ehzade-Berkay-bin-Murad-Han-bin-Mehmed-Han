@@ -42,8 +42,8 @@ Kapsanan dönem: **11 Kasım 1444** (Varna Zaferi'nin ertesi günü) — **1520*
 | Yavuz dönemi 1512–1520 (ayrıntılı) | ✅ ilk sürüm |
 | Şehzadelik sistemi | ✅ ilk sürüm |
 | Hanedan (II. Murad ailesi) | ✅ ilk sürüm (doğrulanacak maddeler işaretli) |
-| Yerler (Edirne, Bursa, Manisa, Amasya, İstanbul, sancaklar, savaş alanları, yol süreleri) | ✅ ilk sürüm |
-| Kurumlar (ordu; saray–divan–devlet; hitap kılavuzu) | ✅ ilk sürüm |
+| Yerler (Edirne, Bursa, Manisa, Amasya, İstanbul, sancaklar, savaş alanları, yol süreleri; **Varna**; **İtalya 1480–1520**) | ✅ ilk sürüm (`varna.md`, `italya.md` 2026-10-15) |
+| Kurumlar (ordu; saray–divan–devlet; hitap kılavuzu; **hukuk: kanunnâme–kadı–kazasker–müftü–ceza**) | ✅ ilk sürüm (`hukuk-kanun-ve-kadi-1444-1520.md` 2026-10-15) |
 | Günlük hayat (takvim tablosu 1444–1521, para, tıp, kıyafet–yemek–meclis, dil–inanç) | ✅ ilk sürüm |
 | Hanedan ve kişiler 1451–1520; kaynak × dönem matrisi | ✅ ilk sürüm |
 | Karakter dosyası (Ahvâl Defteri) | ✅ işlendi; tashih C1, C3–C6, C9–C12 yazar onayıyla uygulandı (`karakter/sehzade-berkay-ahval-defteri.md`, döküm `tashih-notlari.md` §H) |
