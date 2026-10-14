@@ -129,4 +129,4 @@ Sütunlar Jülyen tarih + hafta günü. "Berkay yaşı" = 1 Muharrem'deki yaş (
 - 8–9 Şevval 926 = 21–22 Eylül 1520: Selim'in ölümü — Ramazan Bayramı'ndan bir hafta sonra.
 
 ## 5. Yaş hesabı notu
-Osmanlı kaynakları yaşı **kamerî** sayar; kamerî yıl 354–355 gün olduğundan 33 kamerî yıl ≈ 32 şemsî yıl. Berkay: 1444'te 13 (kamerî) / 12 (şemsî); 1481'de 50/49; 1512'de 82/80; 1520'de 91/88. Metinde "doksanını aşmış" ihtiyar 1520'de doğrudur. Fatih için de aynı: ölümünde (4 Rebîülevvel 886) 50 kamerî / 49 şemsî.
+Osmanlı kaynakları yaşı **kamerî** sayar; kamerî yıl 354–355 gün olduğundan 33 kamerî yıl ≈ 32 şemsî yıl. Berkay: 1444'te 13 (kamerî) / 12 (şemsî); ölümünde (4 Rebîülevvel 886 = 3 May 1481) 50 kamerî / 49 şemsî — gerçek Fatih'le aynı gün ve aynı yaş. Orhan (d. 1452): 1512'de 62/60. Selim (d. 1470): 1520'de 51/49. Alâeddin Ali (d. 1455): 1520'de 67/65.

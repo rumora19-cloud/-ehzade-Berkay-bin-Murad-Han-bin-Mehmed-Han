@@ -31,8 +31,8 @@ Manisa (merkez), **Nif** (Kemalpaşa), **Menemen**, Akhisar, Gördes, Demirci, K
 
 ## 6. 🎭 Kancalar
 
-1. **Ağustos 1444:** Mehmed Edirne'ye çağrılınca Manisa boşalır; defterde Berkay oraya "Saruhan beyi" olarak gider — ama aynı aylarda Murad da oraya çekilir. **Üç ihtimal:** (a) Berkay Manisa'da babasının "gölge" sancakbeyi, Murad padişah-emekli olarak sarayda; (b) Berkay Manisa'ya hiç varamadan Varna'ya çağrılır (Ağustos→Ekim: 2 ay); (c) Berkay'a Saruhan değil başka bir yer düşünülür. Tashih §F'de karar bekliyor.
-2. **1446 Mayıs:** Mehmed Manisa'ya "indirilir" — Berkay'ın sancağına. İkizlerin aynı sarayda geçen 1446–48 yılları (Gürânî dersleri, Ege gazası, Frenk gemilerine çıkmak) hikâyenin en zengin olanağı.
+1. **Ağustos 1444:** Mehmed Edirne'ye çağrılınca Manisa boşalır; defterde Berkay oraya "Saruhan beyi" olarak gider — ama aynı aylarda Murad da oraya çekilir. **Karar (✔, `hikaye/00-ana-hat.md` §2a):** (a) — Berkay Manisa'da babasının "gölge" sancakbeyi, Murad padişah-emekli olarak sarayda; Varna'ya birlikte giderler (defter §XI).
+2. **1446 Mayıs:** Mehmed Manisa'ya "indirilir" — Berkay'ın sancağına; **hikâyede ikizler yer değiştirir: Berkay Amasya'ya (1446–51)** (✔ F.5). Aynı sarayda geçen aylar kısa; Gürânî dersleri, Ege gazası, Frenk gemileri Mehmed'in Manisa'sında kalır.
 3. **1449 Eylül Hüma'nın ölümü** — Manisa'da mı? İki ikiz annelerinin başında.
-4. **1451 Şubat:** Mehmed'in Manisa'dan çıkışı — "Beni seven ardımca gelsin": Berkay gider mi, kalır mı?
-5. **1483–1513 Korkud:** Manisa'da şair şehzâde; Berkay (51–81) için Manisa'ya dönüş ve Korkud'la "kaybedenler" sohbeti.
+4. **1451 Şubat:** Mehmed'in Manisa'dan çıkışı — "Beni seven ardımca gelsin" (gerçek); hikâyede Edirne kapısında taht verilmez, itaat eder; Berkay o sırada Amasya'dadır.
+5. **1483–1513 Korkud:** Manisa'da şair şehzâde (gerçek; hikâyede Orhan'ın himayesinde); Alâeddin Ali (28–58) ile "kaybedenler" sohbeti; Selim'in doğduğu şehir (10 Ekim 1470 ✔).

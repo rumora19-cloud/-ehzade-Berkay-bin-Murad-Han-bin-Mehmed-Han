@@ -40,6 +40,6 @@ Kırmızı kaftan üstüne koyu kahverengi/kürklü üst kaftan, **beyaz büyük
 ## 5. 🎭 Kancalar
 1. Hızır b. Abdullah'ın *Edvâr*'ı (1441, II. Murad'a) — Berkay'ın mûsikî hocası bir "bin Abdullah" olabilir; kâtibi de "bin Abdullah".
 2. Zihgîr: Berkay'ın okçu yüzüğü — annesinden/babasından kalan tek şahsî eşya?
-3. 1457 düğününde nahıllar; 1480 düğününde (Abdullah–Mustafa'nın kızı) Berkay 48: yeğeninin torunu evleniyor.
+3. 1457 düğününde nahıllar; 1480 düğünü (Abdullah–Mustafa'nın kızı): hikâyede padişah Berkay (48) yeğeninin oğlunu evlendirir — Otranto'ya çıkılan yaz.
 4. Şehnâme'nin Berkay'ı: Fatih Ayasofya'da Firdevsî okur; Berkay'ın gençlikte ezberlediği beyit Rüstem mi İskender mi?
 5. Kahvesiz, tütünsüz, domatessiz dünya: anakronizm listesi — yazarken kontrol.

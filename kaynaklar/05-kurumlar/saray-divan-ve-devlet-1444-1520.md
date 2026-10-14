@@ -49,6 +49,6 @@
 
 ## 8. 🎭 Kancalar
 1. Berkay'ın kâtibi Sinan bin Abdullah: divan kâtipliği yolu; "bin Abdullah" = mühtedi — Enderun'dan çıkma bir yazıcı; 1515'te Tâcîzâde'nin idamını gören bir yaşlı kâtip olabilir mi?
-2. Fatih Kanunnâmesi'nin "kardeş katli" cümlesi 1477–81 arasında yazılır — Berkay 45–49; kanunu kim okur, kim yazar (Leyszâde), ikizi onu imzalarken Berkay nerededir?
+2. Fatih Kanunnâmesi'nin "kardeş katli" cümlesi 1477–81 arasında yazılır — hikâyede kanunnâme Berkay'ındır (45–49; "Fâtih Sultan Berkay Han Kanunnâmesi"); kardeşini öldürmemiş bir padişahın kardeş katli maddesini yazdırması: Leyszâde'nin kalemi, Mehmed'in yüzü.
 3. Padişahın yalnız yemesi: ikizler son kez ne zaman aynı sofrada yer?
 4. Müneccim ve zayiçe: ikiz doğumun yıldız haritası (27 Receb 835) — sarayda bir müneccimin kaydı.

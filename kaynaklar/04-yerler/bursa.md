@@ -44,7 +44,7 @@
 | Şehinşah | | 1511 | |
 | Kanunî'nin oğlu Mustafa | | 1553 | (dönem dışı) |
 
-→ 1444'te hazîrede **Alâeddin Ali** (ve belki Ahmed) vardır; 1449 Hüma; 1451 Murad. 🎭 *Berkay Varna'dan 5 yıl sonra annesini, 7 yıl sonra babasını buraya gömer. 1520'de hazîre "ölen şehzâdeler bahçesi"dir: 1512'de Selim'in boğdurduğu beş yeğen torunu da burada.*
+→ 1444'te hazîrede **Alâeddin Ali** (ve belki Ahmed) vardır; 1449 Hüma; 1451 Murad. 🎭 *Berkay Varna'dan 5 yıl sonra annesini, 7 yıl sonra babasını buraya gömer. Hikâyede Berkay kendisi buraya değil İslambol'a, ikizinin yanına gömülür; 1520'de hazîre "ölen şehzâdeler bahçesi"dir: 1513'te Selim'in boğdurduğu kuzen Ahmed ve yeğenleri de burada.*
 
 ## 4. Ekonomi — ipek
 
@@ -63,6 +63,6 @@ Bursa–İstanbul: Mudanya'dan deniz 1 gün (rüzgâra göre) / Gemlik; kara: İ
 
 1. Hüma Hatun'un cenazesi (Eylül 1449) — Berkay 17; Mehmed Manisa'dan gelir mi? (kaynak yok; kurgu alanı).
 2. Murad'ın açık türbesi — yağmurun babaya değmesi; Berkay'ın Cuma hafızları.
-3. 1481: Cem'in Bursa'sı — Pınarbaşı; Berkay Cem'le aynı şehirde mi?
-4. 1512–13 kışı: Selim'in Bursa'sı; Muradiye'ye yeni tabutlar; ihtiyar amcanın korkusu.
-5. Kaplıca: nikrisli Fatih/Bayezid'e Çekirge tavsiyesi; Frenk hekimler.
+3. 1481: Cem'in Bursa'sı — Pınarbaşı, 18 günlük saltanat (gerçek); hikâyede karşısında Orhan (29) vardır, Berkay ölmüştür.
+4. 1512–13 kışı: Selim'in Bursa'sı; Muradiye'ye yeni tabutlar (kuzenler); amca Alâeddin Ali'nin (57) sessiz korkusu.
+5. Kaplıca: nikrisli Fatih/Bayezid'e Çekirge tavsiyesi (gerçek); hikâyede 1480–81 kışında nikrisli Berkay'a aynı tavsiye — İtalya'ya gitmeyi seçer.

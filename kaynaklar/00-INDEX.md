@@ -1,5 +1,7 @@
 # Kaynak Haritası (INDEX)
 
+> ⚠ **🎭 notları için tek ölçü:** kaynak dosyalarındaki hikâye kancaları `../hikaye/00-ana-hat.md`'ye göre yazılmıştır (Berkay padişah 1451–81, ö. 3 May 1481; II. Orhan 1481–1512; Selim 1512–20). Eski "ihtiyar amca" çerçevesinin kalıntıları 15 Ekim 2026'da temizlendi; bir kalıntı görülürse ana hat geçerlidir.
+
 "Şu soruya cevap arıyorum → hangi dosyaya bakayım?" tablosu. Yeni dosya açıldıkça buraya satır eklenir.
 
 ## Hızlı erişim
@@ -16,14 +18,14 @@
 | II. Bayezid dönemi, Cem Sultan, Memlük ve Venedik savaşları, 1509 depremi, Şahkulu, Selim'in isyanı (1481–1512) | `01-kronoloji/03-ii-bayezid-donemi-1481-1512.md` |
 | Bayezid'in oğulları hangi sancakta, ne zaman öldü? | `01-kronoloji/03-ii-bayezid-donemi-1481-1512.md` §2, §8 |
 | Yavuz dönemi (1512–1520): kardeş–yeğen katli, Çaldıran, Amasya kışı, Mercidâbık, Ridâniye, Kahire, Kudüs, ölüm | `01-kronoloji/04-yavuz-selim-donemi-1512-1520.md` |
-| Berkay 1451–1520 arasında hangi olayın neresinde olabilir? | dönem dosyalarının 🎭 bölümleri (02 §13, 03 §10, 04 §12) |
+| Hikâye kişileri (Berkay 1451–81, II. Orhan 1481–1512, Selim 1512–20, Alâeddin Ali) hangi gerçek olayın neresinde? | dönem dosyalarının 🎭 bölümleri (02 §13, 03 §10, 04 §12) — bağ `../hikaye/00-ana-hat.md`'ye göredir |
 | Hangi kronik neyi anlatır, nerede bulunur, ne kadar güvenilir? | `02-birincil-kaynaklar/00-katalog.md` |
 | II. Murad'ın eşleri, oğulları, kızları; Mehmed'in kardeşleri | `03-kisiler/hanedan-ii-murad-ailesi.md` |
 | 1444–1451 vezirleri, beylerbeyileri, uç beyleri, lalalar, hocalar | `03-kisiler/devlet-adamlari-1444-1451.md` |
 | Şehzade nasıl yetişir, sancağa nasıl çıkar, lala kimdir, kardeş katli | `05-kurumlar/sehzadelik-sistemi.md` |
 | Dönem terimleri (akçe, has, timar, kapıkulu, nişancı…) | `07-sozluk/sozluk.md` |
 | Bu yıl için hangi kaynağa bakayım? (kaynak × dönem matrisi; ilk bakılacaklar listesi) | `02-birincil-kaynaklar/01-kaynak-donem-matrisi.md` |
-| Fâtih'in, Bayezid'in, Selim'in eşleri ve çocukları; Berkay'ın yeğenleriyle yaş farkları | `03-kisiler/hanedan-1451-1520.md` |
+| Fâtih'in, Bayezid'in, Selim'in eşleri ve çocukları (gerçek); hikâye kişileriyle yaş tablosu | `03-kisiler/hanedan-1451-1520.md` |
 | 1451–1520 vezirleri, ulemâ, şeyhler, sanatçılar, yabancı hükümdarlar (Mahmud Paşa, Gedik Ahmed, Ali Kuşçu, Vlad, Hunyadi, Mara Hatun…) | `03-kisiler/kisiler-1451-1520.md` |
 | Edirne'nin sarayları, mahalleleri, 1444'teki hâli | `04-yerler/edirne.md` |
 | Bursa (hanedan mezarlığı, Cem'in 18 günü), Manisa/Saruhan (sancak sarayı, kazalar), Amasya (şehzâde şehri, Halvetîler) | `04-yerler/bursa.md`, `04-yerler/manisa-saruhan.md`, `04-yerler/amasya.md` |

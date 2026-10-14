@@ -1,6 +1,6 @@
 # Hastalık ve tıp (1444–1520)
 
-> Berkay 88 yıl yaşarsa en az **on veba dalgası**, iki büyük deprem, kıtlıklar, nikris, çiçek, sıtma görür. Hikâyede ölüm nedenleri ve hekim sahneleri için.
+> Hikâyenin 76 yılında (1444–1520) en az **on veba dalgası**, iki büyük deprem, kıtlıklar, nikris, çiçek, sıtma vardır; Berkay (ö. 1481, nikris + ateş), Orhan (ö. 1512, savaşta) ve Selim (ö. 1520, şirpençe) için ölüm nedenleri ve hekim sahneleri.
 > **Kaynaklar:** N. Varlık, *Plague and Empire in the Early Modern Mediterranean World* (2015) — Osmanlı vebası; Sabuncuoğlu Şerefeddin, *Cerrâhiyyetü'l-Hâniyye* (1465; nşr. İ. Uzel, TTK 1992) ve *Mücerrebnâme*; Ahmedî, *Tervîhü'l-ervâh*; Hacı Paşa, *Müntahab-ı Şifâ*; Akşemseddin, *Mâddetü'l-hayât* (mikrop fikri!); Eşref b. Muhammed, *Hazâinü's-saâdât* (1460); Ahi Çelebi; İbn İyâs ve Sanuto (veba kayıtları); A. Terzioğlu, "Bîmâristan", DİA; Bayat, *Tıp Tarihi*; N. Sarı; kadı sicillerindeki ölüm/miras kayıtları. **Son güncelleme:** 2026-10-14
 
 ## 1. Veba (tâun) dalgaları — Berkay'ın ömründe
@@ -51,11 +51,11 @@
 - **Tıp bilgisi:** İbn Sînâ *Kanun*, Galen; **hıltlar (ahlât-ı erbaa)**: kan, balgam, safra, sevda — mizaç (demevî, balgamî, safravî, sevdavî); tedavi: perhiz (yemek listesi), **kan alma (fasd/hacamat)**, müshil, kusturucu, **macunlar (tiryak-ı fârûk, mesir? — 1539)**, şerbetler (gül, limon, demirhindi), öd, misk, amber, afyon (**Bayezid'in "müferrihât"ı**; afyon macunu — "berş"), **esrar/hint keneviri** (dervişler), şarap (ilaç olarak), hamam, kaplıca; cerrahlık: dağlama (Sabuncuoğlu'nda resimli), kesme, diş, katarakt iğnesi (kehhâl), sünnet (cerrah/berber; şehzâde sünnetinde "sünnetçi"ye hediye). Halk tıbbı: ocaklar, okuma-üfleme, muska, türbe toprağı, **kurşun dökme**, nazar boncuğu (Mavi göz), **kırkbudak**; şeyhlerin nefesi (Akşemseddin hem şeyh hem hekim). `[K/M]`
 
 ## 4. Yaşlılık ve ölüm
-- Ortalama ömür düşük ama 80–90 yaşayanlar var: **Âşıkpaşazâde (~100)**, Molla Gürânî (~78), Zenbilli (~80), Alâüddevle (90, savaşta), Şeyh Hamdullah (84), Mara Hatun (~70); **Berkay'ın 88'i olağanüstü ama imkânsız değil**; yaşlılıkta diş kaybı, göz (katarakt), nikris, "bunama" (Bayezid'in "idaresizlik" suçlaması). Ölüm: gasil, kefen, cenaze namazı, defin aynı gün; türbe/hazîre; **vasiyet** (Murad'ın açık türbesi); **ölüm gizleme** siyaseti; yas: üç gün, siyah/mavi giyme (Selim'in Sinan Paşa için matem elbisesi), saç-sakal kesme (Türkmen âdeti), **ağıt** (kadınlar), hatim, 7/40/52 gece helvası. Mezar taşı 15. yy'da sade (başlıksız), kitâbe. `[K/M]`
+- Ortalama ömür düşük ama 80–90 yaşayanlar var: **Âşıkpaşazâde (~100)**, Molla Gürânî (~78), Zenbilli (~80), Alâüddevle (90, savaşta), Şeyh Hamdullah (84), Mara Hatun (~70); **hikâyede uzun yaşayan Berkay değil Alâeddin Ali'dir (65+)**; yaşlılıkta diş kaybı, göz (katarakt), nikris, "bunama" (Bayezid'in "idaresizlik" suçlaması). Ölüm: gasil, kefen, cenaze namazı, defin aynı gün; türbe/hazîre; **vasiyet** (Murad'ın açık türbesi); **ölüm gizleme** siyaseti; yas: üç gün, siyah/mavi giyme (Selim'in Sinan Paşa için matem elbisesi), saç-sakal kesme (Türkmen âdeti), **ağıt** (kadınlar), hatim, 7/40/52 gece helvası. Mezar taşı 15. yy'da sade (başlıksız), kitâbe. `[K/M]`
 
 ## 5. 🎭 Kancalar
 1. 1449 Hüma'nın ölümü: hangi hastalık? (kaynak yok — veba 1448 dalgası? `[M]`).
 2. 1467 vebası: Berkay (35) İstanbul'da kalır mı, Edirne'ye mi gider; Akşemseddin'in "tohum" nazariyesini duymuş bir şehzâde.
-3. 1481: Hekim Yakub Paşa'nın şerbeti — Berkay'ın ikizine zehir şüphesi; Yakub'un akıbeti (Bayezid devrinde vezirlikte kaldı, 1484'te öldü) 🎭.
-4. Bayezid'in afyonu; Berkay'ın ihtiyarlık ilaçları: berş macunu, gül şerbeti.
-5. 1520 vebası: 88 yaşındaki Berkay İstanbul'da — vebadan kaçmak "tevekkülsüzlük" mü?
+3. 1481: Hekim Yakub Paşa'nın şerbeti — hikâyede zehir şüphesi Berkay'ın otağdaki ölümüne yapışır (nikris + ateş gerçek sebep); Yakub'un akıbeti (gerçekte Bayezid devrinde vezirlikte kaldı, 1484'te öldü — hikâyede Orhan devrinde ⚙) 🎭.
+4. Bayezid'in afyonu (gerçek); hikâyede Berkay'ın 1480–81 nikrisi: berş macunu, gül şerbeti, kan alma; Orhan'ın yaşlılığı (1505–12).
+5. 1520 vebası: Alâeddin Ali (65) İstanbul'da — vebadan kaçmak "tevekkülsüzlük" mü? Selim'in şirpençesi.

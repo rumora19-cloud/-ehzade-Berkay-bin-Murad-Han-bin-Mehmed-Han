@@ -69,7 +69,7 @@
 ## C. Yeniçeri ocağı ve kapıkulu (1444–1451)
 - Yeniçeri ağası **Kurtçu Doğan** (1451'de Bursa'da bahşiş olayı yüzünden azledildi ve dövüldü `[M]`); yeniçeri mevcudu ~3–5.000 (Murad), Fâtih devrinde 8–10.000'e çıkar. `[M]`
 - **Buçuktepe (1446)** ilk büyük isyan; **1451 Bursa** ikinci kriz. Ocağın siyasî aktör olarak doğuşu tam da Berkay'ın çocukluğuna rastlar.
-- Sarayda **iç oğlanları** (Enderun'un öncülü), **kapıcılar**, **çaşnigîrler**, **silâhdar**, **çuhadar**, **rikâbdar**; haremde **hadım ağaları** (bu dönemde çoğu Ak hadım). Bk. ileride `05-kurumlar/saray-teskilati.md`.
+- Sarayda **iç oğlanları** (Enderun'un öncülü), **kapıcılar**, **çaşnigîrler**, **silâhdar**, **çuhadar**, **rikâbdar**; haremde **hadım ağaları** (bu dönemde çoğu Ak hadım). Bk. `../05-kurumlar/saray-divan-ve-devlet-1444-1520.md` §1 (Bîrun–Enderun–Harem).
 
 ## D. Yabancı hükümdarlar ve düşmanlar
 

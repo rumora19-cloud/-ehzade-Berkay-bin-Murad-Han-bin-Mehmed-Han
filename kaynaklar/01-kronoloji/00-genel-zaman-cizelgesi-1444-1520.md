@@ -1,6 +1,6 @@
 # Genel Zaman Çizelgesi 1444–1520
 
-> **Kapsam:** 11 Kasım 1444 – 22 Eylül 1520 · **Düzey:** kaba hatlar (ay/gün düzeyi dönem dosyalarında) · **Son güncelleme:** 2026-10-14
+> **Kapsam:** 11 Kasım 1444 – 22 Eylül 1520 · **Düzey:** kaba hatlar (ay/gün düzeyi dönem dosyalarında) · **Son güncelleme:** 2026-10-15 (🎭 notlar nihai kurguya göre)
 > **Ana kaynaklar:** İnalcık, "Murad II", "Mehmed II" (DİA); Emecen, "Bayezid II", "Selim I" (DİA); Babinger, *Mehmed the Conqueror and His Time*; Uzunçarşılı, *Osmanlı Tarihi* I–II; İnalcık, *Devlet-i Aliyye* I; Imber, *The Ottoman Empire 1300–1650*. Etiketler için bk. `KILAVUZ.md`.
 
 Padişahlar: **II. Murad** (1421–1444, 1446–1451) · **II. Mehmed** (1444–1446, 1451–1481) · **II. Bayezid** (1481–1512) · **I. Selim** (1512–1520) · *I. Süleyman* (1520–1566).
@@ -88,30 +88,35 @@ Padişahlar: **II. Murad** (1421–1444, 1446–1451) · **II. Mehmed** (1444–
 
 ---
 
-## Dönüm noktaları (Berkay'ın yaşı için hızlı hesap)
+## Dönüm noktaları (yaş hesabı — hikâye kişileri)
 
-Karakter dosyasına göre (`karakter/sehzade-berkay-ahval-defteri.md`) Berkay, **II. Mehmed'in ikizidir**: 27 Receb 835 = **30 Mart 1432 (Pazar)**, Edirne; Mehmed'den yarım saat küçük. 11 Kasım 1444 (29 Receb 848) **doğum günü değil, defterin tarihi ve hikâyenin başlangıcıdır**; o gün kamerî 13 yıl 2 gün, milâdî 12 yıl 7 ay 12 günlüktür. Yaşlar milâdî, Mehmed'inkiyle aynıdır:
+Karakter dosyasına göre (`karakter/sehzade-berkay-ahval-defteri.md`) Berkay, **II. Mehmed'in ikizidir**: 27 Receb 835 = **30 Mart 1432 (Pazar)**, Edirne; Mehmed'den yarım saat küçük. 11 Kasım 1444 (29 Receb 848) **doğum günü değil, defterin tarihi ve hikâyenin başlangıcıdır**; o gün kamerî 13 yıl 2 gün, milâdî 12 yıl 7 ay 12 günlüktür. Hikâyede Berkay **3 Mayıs 1481'de 49 yaşında ölür** (`hikaye/00-ana-hat.md` §2e); 1481'den sonra yaşlar oğulları **Orhan** (d. 1452), **Alâeddin Ali** (d. 1455) ve torunu **Selim** (d. 10 Ekim 1470) içindir. Yaşlar milâdî.
 
-| Olay | Tarih | Berkay'ın (= Mehmed'in) yaşı |
-|---|---|---|
-| Varna; defterin yazıldığı gün | 10–11 Kas 1444 | 12 (kamerî 13) |
-| Buçuktepe, Murad'ın dönüşü, Mehmed'in Manisa'ya gönderilmesi | May–Ağu 1446 | 14 |
-| II. Kosova | Eki 1448 | 16 |
-| Hüma Hatun'un ölümü (Bursa) | Eyl 1449 | 17 |
-| Murad'ın ölümü (3 Şub, Çarşamba), Mehmed'in cülûsu (18 Şub, Perşembe), Küçük Ahmed'in boğdurulması | Şub 1451 | 18 (19'a 6 hafta) |
-| İstanbul'un fethi | May 1453 | 21 |
-| Belgrad; Hunyadi'nin ölümü | 1456 | 24 |
-| Şehzade sünnet düğünü (Edirne) | 1457 | 25 |
-| Trabzon | 1461 | 29 |
-| Otlukbeli | 1473 | 41 |
-| Mustafa'nın ölümü, Mahmud Paşa'nın idamı | 1474 | 42 |
-| Fâtih'in ölümü, Cem–Bayezid savaşı | May 1481 | 49 |
-| Cem'in ölümü | 1495 | 63 |
-| Şahkulu, Selim–Bayezid | 1511–12 | 79–80 |
-| Çaldıran | 1514 | 82 |
-| Mısır'ın fethi | 1517 | 85 |
-| Selim'in ölümü | Eyl 1520 | 88 (yarım yıl sonra 89) |
+| Olay | Tarih | Berkay (= Mehmed) | Orhan | Alâeddin Ali | Selim |
+|---|---|---|---|---|---|
+| Varna; defterin yazıldığı gün | 10–11 Kas 1444 | 12 (kamerî 13) | — | — | — |
+| Buçuktepe, Murad'ın dönüşü | May–Ağu 1446 | 14 | — | — | — |
+| II. Kosova | Eki 1448 | 16 | — | — | — |
+| Hüma Hatun'un ölümü (Bursa) | Eyl 1449 | 17 | — | — | — |
+| Murad'ın ölümü (3 Şub); cülûs (gerçekte Mehmed 18 Şub; hikâyede Berkay 7 Mar) | Şub–Mar 1451 | 18 (19'a 6 hafta) | — | — | — |
+| İstanbul'un fethi (gerçekte 29 May; hikâyede 1 May) | 1453 | 21 | 1 | — | — |
+| Belgrad; Hunyadi'nin ölümü | Tem 1456 | 24 | 4 | 1 | — |
+| Edirne sünnet düğünü | Haz 1457 | 25 | 5 | 2 | — |
+| Trabzon | 1461 | 29 | 9 | 6 | — |
+| Eflak gece baskını (hikâyede Lala'nın şehadeti) | 17 Haz 1462 | 30 | 10 | 7 | — |
+| Otlukbeli | 11 Ağu 1473 | 41 | 21 | 18 | 2 |
+| Mustafa'nın ölümü, Mahmud Paşa'nın idamı | 1474 | 42 | 22 | 19 | 3 |
+| Akdere / Valea Albă (hikâyede Pedri'nin ölümü) | 26 Tem 1476 | 44 | 24 | 21 | 5 |
+| Otranto; Milvius Köprüsü (hikâyede Mehmed'in şehadeti) | Ağu–Eki 1480 | 48 | 28 | 25 | 10 |
+| Gerçekte Fatih'in ölümü; hikâyede **Berkay'ın ölümü** (Cannae), Orhan'ın cülûsu; Cem vak'ası | May–Haz 1481 | **49 ✝** | 29 | 26 | 10 |
+| Cem'in ölümü (Napoli) | Şub 1495 | — | 43 | 40 | 24 |
+| İstanbul depremi | Eyl 1509 | — | 57 | 54 | 38 |
+| Hikâyede Napoli'nin düşüşü; Şahkulu | 1511 | — | 59 | 56 | 40 |
+| Gerçekte Bayezid'in ölümü; hikâyede **Orhan'ın şehadeti** (Albano, 4 Nis); Selim'in cülûsu | Nis 1512 | — | **59/60 ✝** | 57 | 41 |
+| Çaldıran | 23 Ağu 1514 | — | — | 59 | 43 |
+| Mısır'ın fethi | Oca 1517 | — | — | 62 | 46 |
+| Selim'in ölümü (Çorlu); Süleyman'ın cülûsu | Eyl 1520 | — | — | 65 | **49 ✝** |
 
-> Not 1: 1451'de **18 yaşında, sancak sahibi, Varna görmüş ve ocağın sevdiği bir ikiz**, 8 aylık Küçük Ahmed'den çok daha keskin bir "nizâm-ı âlem" meselesidir. Hikâyenin ilk büyük düğümü budur. Bk. `05-kurumlar/sehzadelik-sistemi.md` → §7 ve §9.
-> Not 2: 1520'ye ulaşırsa 88 yaşındadır — dönem için olağanüstü ama imkânsız değil (Zağanos ~70, Akşemseddin 70, Molla Gürânî ~78, Mara Hatun ~71 yaşında öldü; Şeyh Vefâ 80'i geçti). Hikâyenin 1512–1520 bloğu "çok yaşlı amca" perspektifinden yazılmak zorundadır; ya da hikâye daha önce biter — yazar kararı.
-> Not 3: Eski çalışma varsayımı (11 Kas 1444 doğum) **terk edildi**; bu dosyadaki ve diğer dosyalardaki 🎭 notlar buna göre güncellendi; gözden kaçan varsa "⚠ eski varsayım" diye işaretlenmeli.
+> Not 1: 1451'de **18 yaşında, sancak sahibi, Varna görmüş ve ocağın sevdiği bir ikiz** — hikâyede tahta bu ikiz çıkar; Mehmed itaat eder, serdar olur (`hikaye/00-ana-hat.md` §2b).
+> Not 2: Dede ile torun aynı yaşta ölür: Berkay 49 (1481), Selim 49 (1520). Hikâyenin 1520 sonundaki en yaşlı tanığı Alâeddin Ali'dir (65), 1444'ü değil 1453'ü hatırlar.
+> Not 3: İki eski çalışma varsayımı **terk edildi:** (a) 11 Kas 1444 doğum; (b) "ihtiyar amca" çerçevesi (Berkay 1520'ye kadar yaşar, Bayezid onun yeğeni olarak padişahtır). Bütün dosyalardaki 🎭 notlar 15 Ekim 2026'da buna göre güncellendi; gözden kaçan bir kalıntı görülürse **`hikaye/00-ana-hat.md` geçerlidir.**
