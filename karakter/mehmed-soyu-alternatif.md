@@ -12,7 +12,7 @@
 | 1451'deki tavrı | Karar. İki yıl önce Hurûfî ateşini, altı yıl önce Buçuktepe'yi yaşamış 19 yaşındaki eski padişah, babasının son sözüyle ikizine boyun eğer — kırgın mı, rahatlamış mı? |
 | Serdarlık | Belgrad 1456 (gerçekte burada yaralandı, bizde alır), Mora, Trabzon, Eflak 1462 (Vlad'ın gece baskınında çadırdadır), Bosna, Otlukbeli 1473, Rodos 1480, Otranto ve ötesi |
 | Oğulları | Bayezid (1447/48), Mustafa (1450), Cem (22/23 Ara 1459); kızı Gevherhan (Uğurlu Mehmed'e, 1474 — korunabilir) |
-| Eşleri | Gülbahar (Bayezid'in annesi), Gülşah (Mustafa), Çiçek (Cem) korunur; **Sitti Mükrime** (1449–50 nikâhı) Berkay'a geçerse (öneri) ikizler arasında ilk çatlak |
+| Eşleri | Gülbahar (Bayezid'in annesi), Gülşah (Mustafa), Çiçek (Cem) korunur; **Sitti Mükrime** (1449–50 nikâhı) ✔ **Berkay'a verilir** — ikizler arasında ilk çatlak, Murad'ın tercihinin erken işareti |
 | Zayıf noktası | Gerçek Fatih'in nikrisi, öfkesi, Mahmud Paşa'ya hem sevgisi hem kıskançlığı — serdar Mehmed'e aktarılabilir |
 | Şehadet | Öneri: Eylül–Ekim 1480, Via Appia üzerinden Roma'ya ilerleyen öncüyle; "atlarını San Pietro'ya sürdü" — eski Konstantin bazilikası (bugünkü 1506'da başlar). Cenaze: karar (Bursa Muradiye'ye, annesi Hüma'nın yanına? 🎭) |
 | İkizine son sözü | Karar — Berkay'ın defterindeki gönderilmemiş mektubun (1444) karşılığı olabilir 🎭 |

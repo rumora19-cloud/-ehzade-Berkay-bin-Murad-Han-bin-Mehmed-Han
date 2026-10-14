@@ -13,7 +13,7 @@
 | Ağu 1444 | Murad tahtı bırakır, Manisa'ya çekilir | Berkay Saruhan beyi, babasının gölgesinde (tashih §F.5 → a) | ★ |
 | 10 Kas 1444 | Varna; kralı Koca Hızır öldürür | Kralı yıkan oku Berkay atar; başı Koca Hızır alır | ✎ |
 | 1446 | Buçuktepe; Murad döner; Mehmed Manisa'ya | Aynı; **Berkay Amasya'ya (1446–51)** | ✔ + ★ |
-| 1448–50 | II. Kosova; Hüma'nın ölümü (Eyl 1449); Sitti Hatun düğünü (1450); Akçahisar | Aynı. Berkay'ın kendi evliliği: **karar** | ✔ |
+| 1448–50 | II. Kosova; Hüma'nın ölümü (Eyl 1449); **Mehmed–Sitti Hatun düğünü** (1450); Akçahisar | Aynı; ama **Sitti Mükrime Berkay'a verilir** (✔) — Murad'ın tercihinin ilk işareti; Mehmed'e câriye eşleri kalır | ✎ |
 | **3 Şub 1451** | Murad ölür; Halil 16 gün gizler | Murad rüyasını vasiyete çevirir: taht Berkay'ın | ✎ |
 | 18 Şub 1451 | Mehmed Edirne'ye gelir, cülûs | Mehmed gelir, **taht verilmez** | ✎ |
 | 1451 | Bizans Orhan Çelebi'yi salmakla tehdit eder | **Orhan Çelebi salınır**, Deliorman'da taraftar toplar; Lala Evrenosoğlu Ali Bey yolunu keser | ★ |
@@ -26,13 +26,13 @@
 | Yıl | Gerçekte | Bizde | Durum |
 |---|---|---|---|
 | 1452 | Rumeli Hisarı; Orhan'ın tahsisatı kesilir; Urban topu | Aynı; sebep bu kez gerçek | ✔ |
-| 6 Nis–29 May 1453 | 53 gün kuşatma | **Daha kısa** — öneri: 6–23 Nis (Hıdrellez); gemiler karadan ilk günlerde | ✎ |
+| 6 Nis–29 May 1453 | 53 gün kuşatma; şehir Salı günü düşer | **25 gün:** 6 Nis Cuma – **1 May 1453 Salı (21 R.âhir 857)**; gemiler karadan ilk haftada | ✎ ✔ karar |
 | 29 May 1453 | Orhan Çelebi surlarda ölür; Notaras idamı | Aynı | ✔ |
 | 10 Tem 1453 | Halil Paşa idamı | **Korunur** — Berkay'ın merkeziyetçilik ve Bizans gerekçesi | ✔ |
-| 1453–56 | Zağanos vezîriâzam | Zağanos Berkay'ın adamı değil (1444–46 Mehmed partisi): **vezîriâzam kim? karar** (öneri: Saruca Paşa → İshak Paşa) | ✎ |
+| 1453–81 | Vezîriâzamlar: Zağanos → Mahmud → Rum Mehmed → İshak → Mahmud → Gedik Ahmed → Karamânî Mehmed | **Liste aynen kalır** (✔ yazar kararı); Zağanos'u Berkay fetih partisinin ödülü olarak atar | ✔ |
 | 1454–55 | Sırbistan seferleri, Novo Brdo | Aynı | ✔ |
 | 4–22 Tem 1456 | Belgrad başarısız; Mehmed yaralanır; Hunyadi 11 Ağu vebadan ölür | **Belgrad alınır**; Hunyadi'nin ölümü: karar | ✎ |
-| 1457 | Edirne düğünü (Bayezid–Mustafa sünneti) | Aynı + Orhan–Alâeddin Ali (öneri) | ✔ |
+| 1457 | Edirne düğünü (Bayezid–Mustafa sünneti) | Aynı + Orhan (5) ve Alâeddin Ali (2) — öneri | ✔ |
 | 1458–60 | Mora | Aynı | ✔ |
 | 20 Haz 1459 | Semendire (Sırbistan biter) | Aynı | ✔ |
 | 23 Ara 1459 | Cem doğar (Edirne) | **Cem doğar 22/23 Ara 1459** — babası serdar Mehmed; yer: karar | ✔ |
@@ -43,7 +43,7 @@
 | 1463–79 | Venedik savaşı | Aynı | ✔ |
 | 1466–68 | Arnavutluk; İskender Bey ö. 17 Oca 1468 | Aynı | ✔ |
 | 1468 | Karaman ilhakı; Mustafa Konya'ya | Aynı; **Orhan Manisa'ya (öneri)** | ✔ |
-| 1470 | Eğriboz 12 Tem; Selim doğar 10 Eki (Amasya, Bayezid'in oğlu) | Eğriboz aynı; **Selim 10 Eki 1470 Orhan'ın oğlu (öneri: Manisa)** | ✎ |
+| 1470 | Eğriboz 12 Tem; Selim doğar 10 Eki (Amasya, Bayezid'in oğlu) | Eğriboz aynı; **Selim 10 Eki 1470 Orhan'ın oğlu, Manisa'da (✔)** | ✎ |
 | 1472–73 | Tokat yağması; Kıreli; **Otlukbeli 11 Ağu 1473** | Aynı; Mehmed sol/merkez, Mustafa sağ kol | ✔ |
 | Haz 1474 | Mustafa ölür | **Aynı** | ✔ |
 | 18 Tem 1474 | Mahmud Paşa boğdurulur | **Aynı** (Berkay'ın ikinci gölgesi) | ✔ |
@@ -57,14 +57,14 @@
 | 11 Ağu 1480 | Otranto alınır (Gedik Ahmed) | Aynı; **ordu kuzeye** — serdar Mehmed | ✎ |
 | Sonbahar 1480 | — | **Mehmed Roma önünde (San Pietro yolunda) şehit** (öneri: Eylül–Ekim) | ★ |
 | 1480–81 | — | **Cem–Bayezid kavgası** (replikler ana hat §2e) | ★ |
-| 25 Nis–3 May 1481 | Fatih Üsküdar'dan çıkar; Hünkârçayırı'nda ölür (49) | **Berkay ölür (49)** — öneri: aynı yer ve gün | ✎ |
+| 25 Nis–3 May 1481 | Fatih Üsküdar'dan çıkar; Hünkârçayırı'nda ölür (49) | **Berkay İtalya'da, süren savaşın ortasında otağında ölür (49)**; aynı gün **Orhan meydanı kazanır, haberi alınca esir bırakmaz** (✔). Öneri: 3 May 1481 Per (4 R.evvel 886), Ofanto/Cannae ovası, Kalabriya Dükü Alfonso'nun ordusu | ✎ |
 | 4 May 1481 | Karamânî Mehmed Paşa linç; İstanbul yağması | Korunabilir | ✔? |
 
 ## C. 1481–1512 (K03)
 
 | Yıl | Gerçekte | Bizde | Durum |
 |---|---|---|---|
-| 21/22 May 1481 | Bayezid Amasya'dan İstanbul'a, cülûs | **Orhan Manisa'dan gelir, 9. padişah** (öneri: Mayıs ortası) | ✎ |
+| 21/22 May 1481 | Bayezid Amasya'dan İstanbul'a, cülûs | **Orhan İtalya'dan deniz yoluyla döner (~2 hafta), 9. padişah** (öneri: Mayıs sonu) | ✎ |
 | May 1481 | Cem Bursa'ya yürür | **Bayezid Amasya'dan Orhan'a katılmaya giderken Cem yolunu keser; Bayezid öldürülür** (öneri: Ankara–Beypazarı) | ★ |
 | 28 May 1481 | Cem Bursa'da 18 gün; kendi adına hutbe, sikke | Aynı | ✔ |
 | 20/22 Haz 1481 | Yenişehir: Cem yenilir | Aynı (karşısında Orhan; Gedik Ahmed?) | ✔ |
