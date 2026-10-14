@@ -10,7 +10,7 @@ Kapsanan dönem: **11 Kasım 1444** (Varna Zaferi'nin ertesi günü) — **1520*
 .
 ├── README.md                  ← bu dosya
 ├── KILAVUZ.md                 ← yazım, tarih, atıf ve dosya kuralları
-├── karakter/                  ← Berkay'ın "Ahvâl Defteri" ve soy ağacı
+├── karakter/                  ← Berkay'ın "Ahvâl Defteri" (yazarın metni) + tashih notları
 ├── hikaye/                    ← bölümler, plan, sahne notları
 └── kaynaklar/                 ← TARİHÎ KAYNAK ARŞİVİ (hikâyenin omurgası)
     ├── 00-INDEX.md            ← kaynak haritası: hangi soru için hangi dosya
@@ -43,6 +43,7 @@ Kapsanan dönem: **11 Kasım 1444** (Varna Zaferi'nin ertesi günü) — **1520*
 | Şehzadelik sistemi | ✅ ilk sürüm |
 | Hanedan (II. Murad ailesi) | ✅ ilk sürüm (doğrulanacak maddeler işaretli) |
 | Saray, ordu, günlük hayat, yerler | ⏳ |
-| Karakter dosyası (Ahvâl Defteri) | ⏳ PDF bekleniyor |
+| Karakter dosyası (Ahvâl Defteri) | ✅ işlendi (`karakter/berkay-celebi-ahval-defteri.md`) |
+| Karakter dosyasının tarihî tashihi | ✅ ilk sürüm (`karakter/tashih-notlari.md`) — yazar onayı bekleniyor |
 
 > Not: Bu repo bir **kurgu** projesidir. `kaynaklar/` altındaki her şey tarihî kayıtlara dayanır ve atıflıdır; `karakter/` ve `hikaye/` altındakiler kurgudur. İkisi hiçbir zaman karıştırılmaz.

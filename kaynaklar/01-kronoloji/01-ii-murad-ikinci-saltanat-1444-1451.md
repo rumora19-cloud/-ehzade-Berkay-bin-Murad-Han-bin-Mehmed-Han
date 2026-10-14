@@ -10,12 +10,13 @@
 
 1444'ü anlamak için bir yıl geriye gitmek gerekir:
 
-- **1443 yazı:** Murad'ın en sevdiği oğlu **Alâeddin Ali Çelebi** Amasya'da ölür (bk. `03-kisiler/hanedan-ii-murad-ailesi.md`). Murad derin bir kedere kapılır.
+- **Bahar 1443:** Murad oğullarını sancağa çıkarır: **Mehmed (11) Edirne'den Manisa'ya** (Saruhan), lalaları **Kassabzâde Mahmud** ve **Nişancı İbrahim** ile gönderilir; **Alâeddin Ali** zaten **Amasya (Rûm)** sancağındadır. `[K]` (Emecen, DİA "Mehmed II")
+- **1443 yaz sonu–sonbahar** (Emecen: "aynı yılın sonlarına doğru"): Karaman seferinden dönüşte Murad'ın en sevdiği oğlu **Alâeddin Ali Çelebi Amasya'da ölür** (bk. `03-kisiler/hanedan-ii-murad-ailesi.md`). Mehmed tek vâris kalır; Murad derin bir kedere kapılır. *(Önceki nüshada "1443 yazı / Haziran" yazıyordu; düzeltildi.)*
 - **Kasım 1443 – Ocak 1444 ("Uzun Sefer"):** Hunyadi (Osmanlı kaynaklarında **Yanko**), Kral Ladislas (I. Ulászló / III. Władysław) ve Sırp despotu Vılkoğlu (Đurađ Branković) Niş–Sofya üzerinden ilerler; **İzladi (Zlatitsa) geçidinde** durdurulur (Ara 1443); geri çekilirken Kunoviça'da Osmanlı artçısını yener, Çandarlı Halil'in kardeşi ve Murad'ın eniştesi **Mahmud Çelebi** esir düşer `[K]`.
 - Aynı aylarda **Karamanoğlu İbrahim Bey** (Murad'ın eniştesi) doğudan saldırır; **İskender Bey** (Kastriyota) Arnavutluk'ta isyan eder (Kas 1443).
 - Devlet iki cephe arasında sıkışmıştır; Çandarlı Halil barış yanlısı, uç beyleri ve Zağanos–Şehâbeddin gibi "şahinler" savaş yanlısıdır.
 
-🎭 *Murad'ın 1444'teki bütün kararları —barış, feragat, inziva— bu çifte yasın (Ali'nin ölümü + askerî bunalım) gölgesindedir. Bir bebek şehzadenin bu eve doğması, yas tutan bir babaya doğması demektir.*
+🎭 *Murad'ın 1444'teki bütün kararları —barış, feragat, inziva— bu çifte yasın (Ali'nin ölümü + askerî bunalım) gölgesindedir. Karakter dosyasında Berkay, Ali'nin ölümüyle boşalan **Amasya'ya** 1443 sonunda tayin edilir: yas tutan babanın, ölen oğlunun sancağına gönderdiği öteki oğul.*
 
 ---
 
@@ -32,7 +33,7 @@
 
 **Neden çekildi?** İnalcık: büyük oğlunun ölümü, uç beylerinin muhalefeti, barışı sağladığına inanması; mizacı (duygusal, tasavvufa ve meclise düşkün). Çağdaş bütün kaynaklar onun **içki ve eğlenceye düşkünlüğünü** de kaydeder; feragat ile ibadete çekilme arasındaki tezat dikkat çekicidir. `[K]`
 
-🎭 *Feragat töreni (Mihalıç, Ağustos 1444): kapıkulunun önünde bir babanın tahtı on iki yaşındaki oğluna devredişi. Berkay'ın annesi bu sırada nerede? Edirne'de mi, Bursa'da mı, Manisa yolunda mı? — karakter dosyasıyla eşleştirilecek.*
+🎭 *Feragat töreni (Mihalıç, Ağustos 1444): kapıkulunun önünde bir babanın tahtı on iki yaşındaki oğluna devredişi. Karakter dosyasına göre Berkay bu sırada Amasya'dadır ve haberi orada alır ("Kardeşimin yükü ağır. Allâh kolaylık versin."); annesi Hüma Hatun (ikizlerin ortak annesi) Manisa'ya, Murad'ın yanına gider. Murad'ın Mehmed'i Manisa'dan Edirne'ye alıp Berkay'ı Amasya'dan Manisa'ya getirtmesi aynı haftaların işidir.*
 
 ---
 
@@ -59,14 +60,18 @@
 
 ## 3. VARNA (10 Kasım 1444, 28 Receb 848) ve ertesi günü
 
-**Ordu:** Osmanlı ~40–60.000 (modern tahmin; kaynaklar abartır); Haçlı ~16–20.000 + arabalı tabur. Osmanlı sağ kanat Anadolu askeri (**Anadolu Beylerbeyi Karaca Bey**), sol kanat Rumeli askeri (**Şehâbeddin/Dayı Karaca** `[T]` kaynaklar farklı), merkezde Murad, yeniçeriler, hendek ve kazıklı siper; Segedin antlaşma metninin bir mızrak ucunda padişahın önüne dikildiği rivayeti `[R]` (Hristiyan kaynaklarında yaygın).
+**Gün:** 10 Kasım 1444 = 28 Receb 848, **Salı**; ertesi gün (defter günü) 11 Kasım = 29 Receb, **Çarşamba**. O akşam yeni ay ~1 günlük → hilâl görülemez; 1 Şaban = 13 Kasım (Receb 30 çeker). `[K]` (takvim hesabı)
+
+**Ordu:** Osmanlı ~40–60.000 (modern tahmin; kaynaklar abartır); Haçlı ~16–20.000 + arabalı tabur. Düzen (*Gazavât-ı Sultan Murad*'a dayanan Osmanlı anlatımı): **merkez**de Murad, sancağı, yeniçeri–azeb–kapıkulu, önünde hendek ve engeller (kazık, deve/araba); **sağ kol (meymene): Anadolu askeri** — Anadolu Beylerbeyi **Karaca Bey**, Karesi beyi **Fenârîzâde Hasan Paşa**, **Evrenosoğlu İsa Bey**, Edirne askeriyle **Süleyman Bey**; **sol kol (meysere): Rumeli askeri** — Rumeli Beylerbeyi **Şehâbeddin Şahin Paşa**, **Davud Bey** (sahte ricat), **Fîruzbeyoğlu**. `[K]` `[T]` *Batılı rekonstrüksiyonlar (Jefferson, Imber; Callimachus'a dayanarak) Anadolu kuvvetlerini Osmanlı **soluna**, Rumeli'yi sağa koyar ve Rumeli sipahilerini "Davud Paşa"ya verir; repo Osmanlı kaynaklarını esas alır.* Segedin antlaşma metninin bir mızrak ucunda padişahın önüne dikildiği rivayeti `[R]` (Hristiyan kaynaklarında yaygın; Osmanlı kaynaklarında da var).
 
 **Akış (Gazavât + Dukas + Chalkokondyles + Callimachus):**
-1. Macar ağır süvarisinin şiddetli hücumu başlangıçta başarılı; Osmanlı kanatları dağılır; Anadolu askeri bozulur, **Karaca Bey şehit düşer** `[K]`.
+1. Macar ağır süvarisinin şiddetli hücumu başlangıçta başarılı; Osmanlı kanatları dağılır; Hunyadi'nin (Eflak süvarisi ve kralın bölükleriyle) yüklendiği **Anadolu askeri bozulur, Karaca Bey şehit düşer** `[K]`; kaçanlar merkeze akar. Rumeli kolu da ağır baskı altındadır.
 2. Macarlar Murad'ın karargâhına çok yaklaşır. Murad'ın **geri çekilmesine Dayı Karaca Bey engel olur** (İnalcık); asker sancağın etrafında toplanır. `[K]`
 3. Kral Ladislas, Yanko'nun uyarısına rağmen 500 Leh süvarisiyle **yeniçeri üzerine hücum eder**; atı düşürülür, **başı kesilir** (Osmanlı geleneğinde kesen: yeniçeri **Koca Hızır** `[R]`). `[K]`
 4. Kralın başı bir mızrağa dikilip gösterilir; Macar ordusu çözülür. **Yanko güçlükle kaçar**; **Kardinal Cesarini** kaçarken öldürülür. `[K]`
-5. Ertesi günlere sarkan takip; esirler; ganimet.
+5. Ertesi günlere sarkan takip; 11 Kasım'da arabalı taburun kalıntısı temizlenir; esirler; ganimet.
+
+**Şehitler** (*Gazavât*): Anadolu Beylerbeyi **Karaca Bey**, Karesi beyi **Fenârîzâde Hasan Paşa**, Yenice-i Vardar kadısı **Bedreddin**, **Su Şeyh**. `[K]`
 
 **11 Kasım 1444 ve sonrası:**
 - **Beşâretnâmeler** (zafer mektupları) Edirne'ye ve bütün İslâm ülkelerine (Kahire'ye Memlük sultanı Çakmak'a, Timurlu Şâhruh'a, Karakoyunlu Cihanşah'a, Anadolu beylerine) gönderilir. `[K]` Feridun Bey *Münşeât*'ta Varna fetihnâmesi metni var (otantikliği `[T]`).
@@ -154,7 +159,7 @@
 
 - [ ] Buçuktepe'nin kesin tarihi (bahar 1446 mı, Ağustos öncesi mi?) → DİA "Buçuktepe Vak'ası" + İnalcık s. 76-104.
 - [ ] Murad'ın Varna öncesi Boğaz'ı geçiş tarihi ve yeri (Anadoluhisarı mı, Gelibolu mu? — kaynaklar Boğaz üzerinde birleşiyor).
-- [ ] Varna'da Rumeli kanadının komutanı (Şehâbeddin mi Dayı Karaca mı?).
+- [x] Varna'da Rumeli kanadının komutanı → *Gazavât*: **Şehâbeddin Şahin Paşa** (Rumeli beylerbeyi). **Dayı Karaca** merkezde, Murad'ın yanındadır (çekilmesini önler). Çözüldü.
 - [ ] Mehmed'in II. Kosova'ya katılımı (hangi birlikle?).
 - [ ] Hüma Hatun'un ölüm ayı (1449).
 - [ ] Küçük Ahmed'in annesinin kimliği (Hatice Halime / İsfendiyar kızı) — Uluçay, *Padişahların Kadınları ve Kızları*; Alderson.

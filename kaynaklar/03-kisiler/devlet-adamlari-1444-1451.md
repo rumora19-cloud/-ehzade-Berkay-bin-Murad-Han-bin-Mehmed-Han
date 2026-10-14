@@ -37,9 +37,9 @@
 - 🎭 *1444–51'de o da sarayda genç bir "kul"dur — Berkay'la yaşıt sayılabilecek bir kuşağın en parlak ismi.*
 
 ### Diğer
-- **Kassabzâde Mahmud Bey** ve **Nişancı İbrahim Bey** — Mehmed'in 1443 Manisa lalaları `[M]`.
-- **Molla Gürânî** (Şemseddin Ahmed; ö. 1488) — Mehmed'in Manisa hocası (1444'ten itibaren), sert; sonra kazasker, müftü (şeyhülislâm). DİA: https://islamansiklopedisi.org.tr/gurani-molla
-- **Akşemseddin** (ö. 1459) — Hacı Bayram'ın halifesi; Mehmed'in mânevî hocası; Fetih'te Eyüp'ün kabrini "keşfetti"; Göynük'te türbesi. DİA: https://islamansiklopedisi.org.tr/aksemseddin
+- **Kassabzâde (Kassaboğlu) Mahmud Bey** ve **Nişancı İbrahim Bey (İbrâhim b. Abdullah)** — Mehmed'in bahar 1443'te Edirne'den Manisa'ya gönderilişinde lalaları `[K]` (Emecen). **Nişancı İbrahim**, Emecen'e göre Şehâbeddin ve Zağanos'la birlikte **Mehmed'in (savaş) tarafında**, Çandarlı'ya karşı gruptadır `[K]`; Kassabzâde hakkında az bilgi var. 🎭 *Karakter dosyasında ikisi 1444'te Berkay'ın lalası olur — İbrahim Bey'in tarafı için bk. `karakter/tashih-notlari.md` C3.*
+- **Molla Gürânî** (Şemseddin Ahmed; ö. 1488) — Mısır'dan 1440'ların başında gelir (Molla Yegân'ın takdimiyle); Murad onu Mehmed'e hoca tayin eder: **ilk saltanat (1444–46) ve 1446 Manisa dönemi**; değnek rivayeti bu döneme ait `[R]`; sonra kazasker, Bursa kadısı, müftü (şeyhülislâm). DİA: https://islamansiklopedisi.org.tr/gurani-molla
+- **Akşemseddin** (ö. 1459) — Hacı Bayram'ın halifesi (Bayramiyye'nin **Şemsiyye** kolu; zikir **cehrî**); 1440'larda Göynük'te; Mehmed'in mânevî hocası (ilişki 1450'lerde belirginleşir); Fetih'te Eyüp'ün kabrini "keşfetti"; hekimlik ve mikrop fikri (*Mâddetü'l-hayât*); Göynük'te türbesi. DİA: https://islamansiklopedisi.org.tr/aksemseddin
 - **Molla Yegân** (ö. 1461?) — Bursa kadısı/müftü; Murad devri ilim hayatının merkezi.
 - **Fahreddin-i Acemî** (ö. 1460) — Edirne müftüsü; 1444 Hurûfî katliamı.
 - **Molla Hüsrev** (ö. 1480) — Edirne kadısı (1444–?), kazasker, *Dürer* yazarı.
@@ -51,12 +51,14 @@
 
 | Kişi | Görev | Not |
 |---|---|---|
-| **Karaca Bey (Damad Karaca Paşa)** | Anadolu beylerbeyi | Murad'ın eniştesi `[M]`; **Varna'da şehit** (10 Kas 1444) `[K]`; Bursa'da türbesi `[M]` |
+| **Karaca Bey (Damad Karaca Paşa)** | Anadolu beylerbeyi | Murad'ın eniştesi `[M]`; Varna'da **sağ kolun** komutanı; **Varna'da şehit** (10 Kas 1444) `[K]`; Bursa'da türbesi `[M]` |
+| **Fenârîzâde Hasan Paşa** | Karesi sancak beyi | Molla Fenârî ailesinden; Varna'da sağ kolda, **şehit** `[K]` (*Gazavât*) |
+| **Şehâbeddin Şahin Paşa** | Rumeli beylerbeyi (1444'te yeniden) | Varna'da **sol kolun** komutanı `[K]` (*Gazavât*); bk. A bölümü |
 | **Dayı Karaca Bey** | Rumeli beylerbeyi (1449–1456) | Varna'da Murad'ın çekilmesini önledi; **1456 Belgrad'da öldü** `[K]`; Bursa Hisar'da türbe |
 | **Kasım Paşa** | Rumeli beylerbeyi (1443) | İzladi'de uç beylerince yalnız bırakıldı |
 | **Turahan Bey** (ö. 1456) | Tesalya (Tırhala–Yenişehir) uç beyi | Mora akınları; İzladi ihmalinden Tokat'a hapis (1444), Varna sonrası affedildi `[K]`; oğlu **Ömer Bey** Atina'yı aldı (1456/58) |
-| **Evrenosoğlu Ali Bey** (ö. ~1462) | Serez–Arnavutluk uç beyi | **Küçük Ahmed'i boğan kişi** (Dukas) `[M]` — *ama idam edilmedi, 1450'lerde seferlerde görülür; Dukas'ın verdiği "Ali Bey idam edildi" kaydı başka bir Ali olabilir* `[T]` |
-| **Evrenosoğlu Îsâ Bey** | Arnavut-ili | İskender Bey'e karşı |
+| **Evrenosoğlu Ali Bey** (ö. ~1462) | Yenice-i Vardar / Serez–Arnavutluk uç beyi | Gazi Evrenos'un oğlu; **1444 yazında İskender Bey'e karşı sefer** (29 Haz 1444 Torvioll yenilgisi) `[K]`; **Küçük Ahmed'i boğan kişi** (Dukas) `[M]` — *ama idam edilmedi, 1450'lerde seferlerde görülür; Dukas'ın verdiği "Ali Bey idam edildi" kaydı başka bir Ali olabilir* `[T]`. 🎭 *Karakter dosyasında Berkay'ın atabeyi ve "Lala"sı.* |
+| **Evrenosoğlu Îsâ Bey** | Arnavut-ili | Ali Bey'in kardeşi; İskender Bey'e karşı; **Varna'da sağ kolda** `[K]` (*Gazavât*) |
 | **İshakoğlu Îsâ Bey** (ö. 1470'ler) | Üsküp uç beyi | Bosna–Sırbistan akınları; Üsküp ve Saraybosna'da (Bosnasaray'ın kurucusu sayılır) hayratı |
 | **Mihaloğlu Ali Bey** (ö. 1507) | Niğbolu/Vidin uç beyi | 1460'lardan itibaren Eflak–Macar akınları; 1444–51'de henüz genç; "Gazi Ali Bey" |
 | **Malkoçoğlu Bali Bey** | Silistre | Varna'da `[M]`; sonraki akıncı beyleri |
@@ -90,10 +92,14 @@
 | **Cihanşah** (ö. 1467) | Karakoyunlu | Şükrullah'ın elçi gittiği hükümdar (1449) |
 | **Uzun Hasan** (1423–1478) | Akkoyunlu | 1453'te başa geçecek; 1473 Otlukbeli |
 
-## E. Berkay için "temas noktaları" önerileri (🎭)
+## E. Berkay için "temas noktaları" (🎭) — karakter dosyasıyla eşleştirilmiş
 
-- **Lala adayları:** 1444–51 arasında ikinci dereceden bir şehzadeye lala olabilecek tipler: emekli bir uç beyi oğlu, Çandarlı'ya bağlı bir ulemâ, ya da Mara Hatun'un çevresinden bir Sırp dönmesi.
-- **Hoca:** Molla Hüsrev (Edirne kadısı) ya da Fahreddin-i Acemî'nin halkasından biri; tasavvuf tarafı için bir Zeynî şeyhi (Edirne'de Zeyniyye güçlü).
-- **Yaşıt/arkadaş:** Mahmud (Paşa) gibi bir iç oğlanı; Radu (Vlad'ın kardeşi, Mehmed'in yakını); Bayezid (yeğeni; 1447/48 doğumlu, Berkay'dan 3 yaş küçük).
-- **Düşman:** Zağanos (Mehmed'in çıkarına her rakibi silmek ister); Evrenosoğlu Ali Bey (cellât).
-- **Koruyucu:** Mara Hatun; Halime Hatun; Çandarlı Halil (hesaplı); Selçuk Hatun (hala); İshak Paşa.
+Karakter dosyası (`karakter/berkay-celebi-ahval-defteri.md`) çevreyi büyük ölçüde belirledi; aşağıdaki liste o seçimlerin tarihî karşılığını ve açık kalan kapıları verir.
+
+- **Lalalar (dosyada):** Kassabzâde Mahmud + Nişancı İbrahim — tarihte Mehmed'in 1443 lalaları ✓; İbrahim Bey'in Mehmed tarafına yakınlığı ikili oyun imkânı (`tashih-notlari.md` C3).
+- **Atabey/"Lala" (dosyada):** Evrenosoğlu Ali Bey — 1451'de Küçük Ahmed'in cellâdı (Dukas) → hikâyenin en acı düğümlerinden biri.
+- **Hocalar (dosyada):** Çandarlı Halil (devlet aklı), Molla Gürânî (1444'ten itibaren — `tashih` C5), Akşemseddin (mânevî; zikir meselesi — C6). Açık kapı: Edirne'de **Molla Hüsrev**, Bursa'da **Molla Yegân**, tasavvufta bir **Zeynî** şeyhi (Edirne'de Zeyniyye güçlü) eklenebilir.
+- **Yaşıt/arkadaş:** Mahmud (Paşa) — 1444'te saray iç oğlanı, Berkay'ın yaşıtı sayılır; **Radu** ve **Vlad** (Drakul'un oğulları, 1442–48 rehine; Vlad 1431 doğumlu — Berkay'la yaşıt!); **Bayezid** (yeğeni, 1447/48 doğumlu — Berkay 15–16 yaşındayken doğar).
+- **Karşı taraf:** Zağanos (Mehmed'in çıkarına her rakibi silmek ister); Şehâbeddin (Varna'da ocağın nârasını duyan adam); 1451'den sonra Mehmed'in kendisi.
+- **Koruyucu adayları:** Mara Hatun; Çandarlı Halil (hesaplı — 1453'e kadar); Selçuk Hatun (hala); İshak Paşa; Hüma Hatun (1449'a kadar).
+- **Ocak:** Koca Hızır (dosyada kralın başını kesen yeniçeri) — ocakla Berkay arasındaki canlı bağ; 1446 Buçuktepe ve 1451 Bursa cülûs bahşişi krizlerinde bu bağ sınanır.
