@@ -94,7 +94,7 @@
 
 ## E. Berkay için "temas noktaları" (🎭) — karakter dosyasıyla eşleştirilmiş
 
-Karakter dosyası (`karakter/berkay-celebi-ahval-defteri.md`) çevreyi büyük ölçüde belirledi; aşağıdaki liste o seçimlerin tarihî karşılığını ve açık kalan kapıları verir.
+Karakter dosyası (`karakter/sehzade-berkay-ahval-defteri.md`) çevreyi büyük ölçüde belirledi; aşağıdaki liste o seçimlerin tarihî karşılığını ve açık kalan kapıları verir.
 
 - **Lalalar (dosyada):** Kassabzâde Mahmud + Nişancı İbrahim — tarihte Mehmed'in 1443 lalaları ✓; İbrahim Bey'in Mehmed tarafına yakınlığı ikili oyun imkânı (`tashih-notlari.md` C3).
 - **Atabey/"Lala" (dosyada):** Evrenosoğlu Ali Bey — 1451'de Küçük Ahmed'in cellâdı (Dukas) → hikâyenin en acı düğümlerinden biri.

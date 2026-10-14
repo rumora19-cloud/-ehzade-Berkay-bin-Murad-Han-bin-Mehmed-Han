@@ -1,25 +1,28 @@
 # Hikâye
 
-Bölümler ve plan burada tutulur.
+| Dosya | Ne |
+|---|---|
+| `00-ana-hat.md` | **Kurgunun anayasası:** üç padişahlık kavis (Berkay 1451–81 → II. Orhan 1481–1512 → Selim 1512–20), padişah sayısı, bütün kararlar (✔ yazar / ⚙ kâtip), temalar, anlatıcı önerisi, kalan boşluklar. |
+| `01-catal-noktalari.md` | Yıl yıl "gerçekte → bizde" tablosu (✔ aynı · ✎ değişti · ✖ silindi · ★ yeni); her satır `kaynaklar/01-kronoloji` dosyalarına bağlı. |
+| `02-bolum-plani.md` | ⚙ Üç kitap, 34 bölüm + epilog: tarih, mekân, göz, olay, kaynak dosya. Yazar onayına kadar taslak. |
+| `kitap-1-cinar/` | **Bölüm metinleri** (Kitap I). Dosya adı: `NN-kisa-baslik.md`; her bölüm künye ile başlar, "⚑ Çatal ve kâtip notları" tablosuyla biter. İlk bölüm: `01-saf-beni-gecti.md` (Varna, 10 Kasım 1444). |
+| `notlar/` | Sahne araştırma notları, taslaklar (boş). |
 
-## Önerilen yapı
+Kişiler: `../karakter/` — Berkay'ın defteri (+ Zeyl: Murad'ın rüyası), tashih, Berkay soyu, Mehmed soyu, çevre kişiler.
 
-```
-hikaye/
-├── 00-plan.md              ← bölüm planı, tema, anlatıcı, zaman dilimleri
-├── 01-....md               ← bölümler (başına tarih + mekân künyesi)
-└── notlar/                 ← sahne araştırma notları, taslaklar
-```
+## Çalışma sırası (bölüm yazarken)
+1. `02-bolum-plani.md` satırı → `01-catal-noktalari.md` o yılın satırı → `kaynaklar/01-kronoloji` gerçek ayrıntı → `kaynaklar/06-gunluk-hayat/takvim-ve-zaman.md` gün/ay → `kaynaklar/05-kurumlar/saray-divan…` §7 hitap → `kaynaklar/04-yerler` mekân.
+2. Bölüm başına künye (aşağıda); bölüm sonuna "⚑ çatal" listesi; yeni sapma `01-catal-noktalari.md`'ye işlenir.
+3. Yazarın metnine (defter, replikler, rüya) dokunulmaz; öneriler `karakter/tashih-notlari.md`'ye.
 
 ## Bölüm başı künyesi (örnek)
 
 ```
-> **Tarih:** 11 Kasım 1444 (29 Receb 848) · **Mekân:** Edirne, Eski Saray
-> **Tarihî çerçeve:** Varna zaferinin haberi henüz gelmedi; şehir yangından yeni çıktı (Eylül); Çandarlı Halil hükümette.
-> **Dayandığı kaynaklar:** kaynaklar/01-kronoloji/01-ii-murad-ikinci-saltanat-1444-1451.md §2–3; Oruç Bey (Öztürk) s. …
+> **Tarih:** 3 Şubat 1451 (1 Muharrem 855, Çarşamba) · **Mekân:** Edirne, Eski Saray · **Göz:** Çandarlı Halil
+> **Gerçek tarih:** Murad bu gece ölür; Halil ölümü 16 gün gizler; Mehmed 18 Şubat'ta gelir.
+> **Çatal:** Vasiyet Berkay'a; Mehmed'e taht verilmez; Orhan Çelebi salınır.
+> **Kaynak:** kaynaklar/01-kronoloji/01-…md §8; 04-yerler/edirne.md; 06-gunluk-hayat/takvim-ve-zaman.md
 ```
 
-## Bekleyen kararlar
-- Anlatıcı (üçüncü şahıs mı, yaşlı Berkay'ın 1520'de geriye bakışı mı — "Ahvâl Defteri" adı ikincisini çağrıştırıyor)
-- Zaman dilimleri: 1444–1451 (çocukluk) · 1451–1481 (Fâtih'in gölgesinde) · 1481–1512 (Bayezid, Cem) · 1512–1520 (Selim)
-- Dil: çağdaş Türkçe + dönem hitapları (bk. `KILAVUZ.md` §8)
+## Bekleyen yazar kararları
+`00-ana-hat.md` §7 tablosu (Meryem Hatun'un soyu, Pedri'nin kökeni, İtalya beylerbeyileri, Süleyman'ın derdi, anlatıcı/yapı, defter tashihi).

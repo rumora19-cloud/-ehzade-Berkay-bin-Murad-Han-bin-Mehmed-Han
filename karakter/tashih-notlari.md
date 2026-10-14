@@ -1,6 +1,6 @@
 # Tashih Notları — Ahvâl Defteri (29 Receb 848 nüshası)
 
-> **Amaç:** `berkay-celebi-ahval-defteri.md` metnini `kaynaklar/` altındaki tarihî malzemeyle satır satır çakıştırmak. **Metne hiçbir düzeltme uygulanmamıştır;** her maddenin sonunda bir *öneri* vardır, karar yazarındır.
+> **Amaç:** `sehzade-berkay-ahval-defteri.md` metnini `kaynaklar/` altındaki tarihî malzemeyle satır satır çakıştırmak. **Metne hiçbir düzeltme uygulanmamıştır;** her maddenin sonunda bir *öneri* vardır, karar yazarındır.
 > **İlke:** Kurgunun kendisi (ikiz Berkay, oku, sancağı) hata değildir; burada yalnız kurgunun *dayandığı tarihî çerçeve* denetlenir.
 > **Etiketler:** ✓ kaynakla uyumlu · ⚠ kaynakla çelişiyor · `[T]` tarihçiler arasında tartışmalı · `[R]` rivayet (dosya da öyle sunuyor) · `[M]` küçük düzeltme / kelime düzeyinde · 🎭 hikâye imkânı.
 > **Son güncelleme:** 2026-10-14
@@ -195,7 +195,39 @@ Osmanlı kaynakları kendi ordusunu çok, düşmanı az; Hristiyan kaynakları t
 2. **C2** (Amasya çocukluğu) → (a) Edirne'ye mi çekilsin, (b) `[T]` ile korunsun mu?
 3. **C3** (Nişancı İbrahim) → "iki tarafa yazan kalem" olsun mu?
 4. **C4–C6, C9–C12** kelime düzeyinde düzeltmeler → topluca uygulansın mı, tek tek mi?
-5. **1446 sorusu** (E.2) → Berkay Mehmed Manisa'ya dönünce nereye gider? Bu karar `hikaye/` tasarımının ilk taşı.
+5. **1446 sorusu** (E.2) → ✔ **karar verildi (2026-10-14):** 1444 yazı – 1446 **Manisa**, babası Murad'ın gölgesinde "gölge sancakbeyi"; 1446'da Mehmed Manisa'ya gönderilince Berkay **Amasya'ya (Rûm beyi, 1446–51)** döner; 3 Şub 1451'de Amasya'dadır, Edirne'ye ~4 haftada Mart başında varır. Ayrıntı: `../hikaye/00-ana-hat.md` §2a–2b.
 6. Metnin tepesindeki *Repo notu* kalsın mı?
+7. ★ **Yeni (hikâye kararlarından doğan):** Defter 1444'te yazıldığı için saltanat dönemi defterde yoktur; ama §XX'deki gönderilmemiş mektup, 1451 ve 1480 sahnelerinin tohumudur. Mektubun muhatabı Mehmed 1451'de tahtı Berkay'a kaptıracak, 1480'de onun rüyası için ölecek: mektup metnine bu bilinçle **dokunulmasın**; tashih sırasında yalnız tarih/isim düzeltmeleri yapılsın.
 
-> Onaylanan maddeler `berkay-celebi-ahval-defteri.md` içine işlenecek; her değişiklik bu dosyada "✔ uygulandı (tarih)" diye işaretlenecek.
+> Onaylanan maddeler `sehzade-berkay-ahval-defteri.md` içine işlenecek; her değişiklik bu dosyada "✔ uygulandı (tarih)" diye işaretlenecek.
+
+### §F — Kâtip varsayılan cevapları (2026-10-14; yazar "uygula" derse deftere işlenir, aksi hâlde hiçbir şey değişmez)
+| Soru | Varsayılan | Not |
+|---|---|---|
+| F1 (C1 Ali'nin sancağı / 1443 sırası) | **Uygula** | Yalnız sıra düzelir; kurguya dokunmaz |
+| F2 (C2 Amasya çocukluğu) | **`[T]` ile koru** | Hikâye Meryem Hatun'u (Yörgüç Paşa'nın torunu) Amasya çocukluğuna bağladı; Amasya kalmalı |
+| F3 (C3 Nişancı İbrahim) | **Evet** — "iki tarafa yazan kalem" | 1451'de Halil'in sırrını taşıyan ikinci kişi olabilir |
+| F4 (C4–C6, C9–C12 kelime düzeltmeleri) | **Topluca uygula** | Hepsi dipnotla; C6 "içinden zikretmeyi" hikâyenin Melâmî/Nakşî kancasıyla uyumlu |
+| F5 (1446) | ✔ **Karar verildi** | Manisa → Amasya |
+| F6 (Repo notu) | **Kalsın** | Okura dosyanın niteliğini söyler |
+| F7 (XX mektup) | **Dokunma** | 1451 ve 1480'in tohumu |
+
+### §G — Uygulanan değişiklik: ad ve lâkap (yazar talimatı, 15 Ekim 2026) ✔
+Yazar: *"Berkay'ı Şehzade Berkay'a çevir, Çelebi ismini at tamamen, Bahadır ismini de; Kral Vuran Şehzade kalsın sadece."* Deftere işlenen satırlar (başka hiçbir satıra dokunulmadı; Zeyl aynen):
+
+| Yer | Eski | Yeni |
+|---|---|---|
+| Başlık | ŞEHZÂDE BERKAY ÇELEBİ BİN MURAD HAN | ŞEHZÂDE BERKAY BİN MURAD HAN |
+| §I Adı | "Şehzâde Berkay Çelebi … *Çelebi*, hanedanın şehzâdelerine verilen unvandır." | "Şehzâde Berkay … *Şehzâde*, hanedanın oğullarına verilen unvandır; başka unvan taşımaz." |
+| §I Lâkabı | Kral Vuran Çelebi | Kral Vuran Şehzâde — tek lâkabıdır |
+| §I Sıfatı | ***Bahadır*** … | "Başka sıfat taşımaz. *Kral Vuran Şehzâde* lâkabı … ordunun ve ocağın taktığı addır." |
+| §I Anılışları | Saruhan Beyi Şehzâde Berkay Çelebi; Bahadır Çelebi; Kral Vuran Çelebi | Saruhan Beyi Şehzâde Berkay; Kral Vuran Şehzâde |
+| §VIII Sırrı | "Bahadır!" nâraları | "Kral Vuran Şehzâde!" nâraları |
+| §XII Ocak bunu gördü | "bir kelime daha … *Bahadır! Bahadır Çelebi!*" | "bir ad daha … *Kral Vuran! Kral Vuran Şehzâde!*" |
+| §XIII başlık + metin | "Bahadır" sıfatı … Bahadır Çelebi | "Kral Vuran Şehzâde" lâkabı … Kral Vuran Şehzâde |
+| §XIII Ocak ağzı | Kral Vuran Çelebi; Varna'nın Genç Okçusu | Kral Vuran Şehzâde; "başka ad takmadı" (**Genç Okçu silindi** — istenirse geri gelir) |
+| §XIV başlık ve "Şanı" | Bahadır Çelebi / Bahadır | Kral Vuran Şehzâde |
+| §XVII hitap | Ocak: Bahadır Çelebi; fermân: Şehzâde Berkay Çelebi | Ocak: Kral Vuran Şehzâde; fermân: Şehzâde Berkay |
+| Dosya adı | `berkay-celebi-ahval-defteri.md` | `sehzade-berkay-ahval-defteri.md` (bütün bağlantılar güncellendi) |
+
+Dokunulmayan "Çelebi"ler (tarihî adlar): Çelebi Sultan Mehmed (dede), ağabey Alâeddin Ali Çelebi, Ahmed/Orhan/Hasan Çelebi (ölen kardeşler), hain Orhan Çelebi, ikiz için "Mehmed Çelebi" (`mehmed-soyu-alternatif.md`). Yazar isterse onlar da düşer.

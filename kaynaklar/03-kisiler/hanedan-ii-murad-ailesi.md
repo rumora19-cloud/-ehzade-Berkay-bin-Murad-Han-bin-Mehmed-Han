@@ -40,7 +40,7 @@ Not: Bazı popüler listelerde geçen "Tâcünnisâ", "Emine Hatun (Dulkadir)" g
 | **Hasan** | ? | küçük yaşta `[?]` | |
 | **Küçük Ahmed** | **1450** (Şubat 1451'de 8 aylık — Dukas) | **Şubat 1451, Edirne** | Mehmed'in cülûsunda **hamamda boğduruldu** (Evrenosoğlu Ali Bey); Osmanlı kaynakları suskun; modern tarihçiler kabul eder `[M]`. Bursa Muradiye'ye defin `[M]`. |
 
-> **Kurgu notu (güncel):** Berkay bu listeye **eklenen** bir oğuldur: karakter dosyasına göre **Mehmed'in ikizi** (Hüma Hatun'un oğlu; 27 Receb 835 / 30 Mar 1432, Edirne; yarım saat küçük). Listedeki sıraya göre Murad'ın beşinci oğlu olur. 1443 sonu–1444 yazı Amasya, 1444 yazından itibaren Saruhan beyi. 1451'de 18 yaşında — Küçük Ahmed'in kaderini paylaşmaması için hikâyede güçlü bir **neden** gerekir (bk. `05-kurumlar/sehzadelik-sistemi.md` §9). Bk. `karakter/berkay-celebi-ahval-defteri.md` ve `karakter/tashih-notlari.md`.
+> **Kurgu notu (güncel):** Berkay bu listeye **eklenen** bir oğuldur: karakter dosyasına göre **Mehmed'in ikizi** (Hüma Hatun'un oğlu; 27 Receb 835 / 30 Mar 1432, Edirne; yarım saat küçük). Listedeki sıraya göre Murad'ın beşinci oğlu olur. 1443 sonu–1444 yazı Amasya, 1444 yazından itibaren Saruhan beyi. 1451'de 18 yaşında — Küçük Ahmed'in kaderini paylaşmaması için hikâyede güçlü bir **neden** gerekir (bk. `05-kurumlar/sehzadelik-sistemi.md` §9). Bk. `karakter/sehzade-berkay-ahval-defteri.md` ve `karakter/tashih-notlari.md`.
 
 ## 4. Kızları (hepsi `[M]/[?]`; Uluçay–Alderson'dan doğrulanacak)
 

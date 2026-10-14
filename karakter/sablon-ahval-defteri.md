@@ -3,7 +3,7 @@
 > Bu şablon, PDF gelene kadar yer tutucudur. PDF'in kendi başlık yapısı varsa o esas alınır.
 
 ## 1. Künye
-- **Ad / unvanlar:** Berkay Çelebi (1444–1451) · Sultan Berkay (1451–) · halk ağzında: …
+- **Ad / unvanlar:** Şehzade Berkay (1444–1451) · Sultan Berkay (1451–) · halk ağzında: …
 - **Nesep:** Berkay bin Murad Han bin Mehmed Han bin Bayezid Han bin Murad Han bin Orhan bin Osman
 - **Doğum:** tarih (milâdî/hicrî), yer, saat/mevsim, doğumda hazır bulunanlar
 - **Annesi:** adı, kökeni (câriye / beylik kızı / Balkan hanedanı), âkıbeti

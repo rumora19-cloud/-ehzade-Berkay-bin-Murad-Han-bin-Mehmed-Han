@@ -7,7 +7,7 @@
 | Soru | Dosya |
 |---|---|
 | Falanca yılda ne oldu? | `01-kronoloji/00-genel-zaman-cizelgesi-1444-1520.md` |
-| Berkay'ın defteri kaynaklarla nerede uyuşuyor, nerede ayrılıyor? | `../karakter/tashih-notlari.md` (karakter dosyası: `../karakter/berkay-celebi-ahval-defteri.md`) |
+| Berkay'ın defteri kaynaklarla nerede uyuşuyor, nerede ayrılıyor? | `../karakter/tashih-notlari.md` (karakter dosyası: `../karakter/sehzade-berkay-ahval-defteri.md`) |
 | Varna'da kim hangi koldaydı, kim şehit düştü, hangi gün hangi haftanın günüydü? | `01-kronoloji/01-ii-murad-ikinci-saltanat-1444-1451.md` §3 |
 | Varna sonrası, Mehmed'in ilk saltanatı, Buçuktepe, II. Kosova, Murad'ın ölümü | `01-kronoloji/01-ii-murad-ikinci-saltanat-1444-1451.md` |
 | Fâtih dönemi ayrıntısı (1451–1481): cülûs, fetih günü günü, seferler, Mustafa'nın ölümü, Mahmud Paşa, Otranto, Fâtih'in ölümü | `01-kronoloji/02-fatih-donemi-1451-1481.md` |

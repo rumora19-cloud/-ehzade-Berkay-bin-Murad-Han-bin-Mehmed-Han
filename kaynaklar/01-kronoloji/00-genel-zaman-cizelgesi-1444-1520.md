@@ -90,7 +90,7 @@ Padişahlar: **II. Murad** (1421–1444, 1446–1451) · **II. Mehmed** (1444–
 
 ## Dönüm noktaları (Berkay'ın yaşı için hızlı hesap)
 
-Karakter dosyasına göre (`karakter/berkay-celebi-ahval-defteri.md`) Berkay, **II. Mehmed'in ikizidir**: 27 Receb 835 = **30 Mart 1432 (Pazar)**, Edirne; Mehmed'den yarım saat küçük. 11 Kasım 1444 (29 Receb 848) **doğum günü değil, defterin tarihi ve hikâyenin başlangıcıdır**; o gün kamerî 13 yıl 2 gün, milâdî 12 yıl 7 ay 12 günlüktür. Yaşlar milâdî, Mehmed'inkiyle aynıdır:
+Karakter dosyasına göre (`karakter/sehzade-berkay-ahval-defteri.md`) Berkay, **II. Mehmed'in ikizidir**: 27 Receb 835 = **30 Mart 1432 (Pazar)**, Edirne; Mehmed'den yarım saat küçük. 11 Kasım 1444 (29 Receb 848) **doğum günü değil, defterin tarihi ve hikâyenin başlangıcıdır**; o gün kamerî 13 yıl 2 gün, milâdî 12 yıl 7 ay 12 günlüktür. Yaşlar milâdî, Mehmed'inkiyle aynıdır:
 
 | Olay | Tarih | Berkay'ın (= Mehmed'in) yaşı |
 |---|---|---|
