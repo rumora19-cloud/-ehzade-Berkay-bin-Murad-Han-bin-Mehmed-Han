@@ -90,24 +90,28 @@ Padişahlar: **II. Murad** (1421–1444, 1446–1451) · **II. Mehmed** (1444–
 
 ## Dönüm noktaları (Berkay'ın yaşı için hızlı hesap)
 
-Eğer Berkay 11 Kasım 1444'te doğduysa:
+Karakter dosyasına göre (`karakter/berkay-celebi-ahval-defteri.md`) Berkay, **II. Mehmed'in ikizidir**: 27 Receb 835 = **30 Mart 1432 (Pazar)**, Edirne; Mehmed'den yarım saat küçük. 11 Kasım 1444 (29 Receb 848) **doğum günü değil, defterin tarihi ve hikâyenin başlangıcıdır**; o gün kamerî 13 yıl 2 gün, milâdî 12 yıl 7 ay 12 günlüktür. Yaşlar milâdî, Mehmed'inkiyle aynıdır:
 
-| Olay | Tarih | Berkay'ın yaşı |
+| Olay | Tarih | Berkay'ın (= Mehmed'in) yaşı |
 |---|---|---|
-| Buçuktepe, Murad'ın dönüşü | 1446 | 1–2 |
-| II. Kosova | Eki 1448 | 3 (4'e yakın) |
-| Murad'ın ölümü, Küçük Ahmed'in boğdurulması | Şub 1451 | 6 |
-| İstanbul'un fethi | May 1453 | 8 |
-| Belgrad | 1456 | 11 |
-| Şehzade sünnet düğünü (Edirne) | 1457 | 12 |
-| Trabzon | 1461 | 16 |
-| Otlukbeli | 1473 | 28 |
-| Mustafa'nın ölümü, Mahmud Paşa'nın idamı | 1474 | 29 |
-| Fâtih'in ölümü, Cem–Bayezid savaşı | 1481 | 36 |
-| Cem'in ölümü | 1495 | 50 |
-| Şahkulu, Selim–Bayezid | 1511–12 | 67 |
-| Çaldıran | 1514 | 69 |
-| Mısır'ın fethi | 1517 | 72 |
-| Selim'in ölümü | Eyl 1520 | 75 (76'ya 2 ay) |
+| Varna; defterin yazıldığı gün | 10–11 Kas 1444 | 12 (kamerî 13) |
+| Buçuktepe, Murad'ın dönüşü, Mehmed'in Manisa'ya gönderilmesi | May–Ağu 1446 | 14 |
+| II. Kosova | Eki 1448 | 16 |
+| Hüma Hatun'un ölümü (Bursa) | Eyl 1449 | 17 |
+| Murad'ın ölümü (3 Şub, Çarşamba), Mehmed'in cülûsu (18 Şub, Perşembe), Küçük Ahmed'in boğdurulması | Şub 1451 | 18 (19'a 6 hafta) |
+| İstanbul'un fethi | May 1453 | 21 |
+| Belgrad; Hunyadi'nin ölümü | 1456 | 24 |
+| Şehzade sünnet düğünü (Edirne) | 1457 | 25 |
+| Trabzon | 1461 | 29 |
+| Otlukbeli | 1473 | 41 |
+| Mustafa'nın ölümü, Mahmud Paşa'nın idamı | 1474 | 42 |
+| Fâtih'in ölümü, Cem–Bayezid savaşı | May 1481 | 49 |
+| Cem'in ölümü | 1495 | 63 |
+| Şahkulu, Selim–Bayezid | 1511–12 | 79–80 |
+| Çaldıran | 1514 | 82 |
+| Mısır'ın fethi | 1517 | 85 |
+| Selim'in ölümü | Eyl 1520 | 88 (yarım yıl sonra 89) |
 
-> Not: 1444'te doğan bir şehzade 1451'de Mehmed'in cülûsunda 6 yaşındadır — Küçük Ahmed'le aynı tehlikeyi paylaşır. Hikâyenin ilk büyük düğümü burasıdır. Bk. `05-kurumlar/sehzadelik-sistemi.md` → "Kardeş katli".
+> Not 1: 1451'de **18 yaşında, sancak sahibi, Varna görmüş ve ocağın sevdiği bir ikiz**, 8 aylık Küçük Ahmed'den çok daha keskin bir "nizâm-ı âlem" meselesidir. Hikâyenin ilk büyük düğümü budur. Bk. `05-kurumlar/sehzadelik-sistemi.md` → §7 ve §9.
+> Not 2: 1520'ye ulaşırsa 88 yaşındadır — dönem için olağanüstü ama imkânsız değil (Zağanos ~70, Akşemseddin 70, Molla Gürânî ~78, Mara Hatun ~71 yaşında öldü; Şeyh Vefâ 80'i geçti). Hikâyenin 1512–1520 bloğu "çok yaşlı amca" perspektifinden yazılmak zorundadır; ya da hikâye daha önce biter — yazar kararı.
+> Not 3: Eski çalışma varsayımı (11 Kas 1444 doğum) **terk edildi**; bu dosyadaki ve diğer dosyalardaki 🎭 notlar buna göre güncellendi; gözden kaçan varsa "⚠ eski varsayım" diye işaretlenmeli.

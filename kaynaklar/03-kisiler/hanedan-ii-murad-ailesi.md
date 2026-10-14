@@ -15,7 +15,7 @@
 - **Çağdaş portre:** İbn Tağrîberdî: cihaddan geri kalmaz ama eğlence ve içkiye düşkün; halka âdil, cömert, iyi huylu; çalgıcıları sever. Broquière (1433): kısa boylu, tıknaz, geniş yüzlü, kemerli burunlu, küçük gözlü, esmer, hafif sakallı (?) `[M]`; çok içer; av ve meclis düşkünü; "tebaası tarafından en çok itaat edilen hükümdar". Şükrullah ve Osmanlı kaynakları: **"Ebü'l-hayrât"** (hayrat babası), şiir ve mûsikî zevki, dervişlere düşkün, iki kez tahttan çekilecek kadar **dünyadan bezgin**. `[K]`
 - **Unvan/hitap:** "Sultan Murad Han bin Mehmed Han"; "Koca Murad" (sonraki gelenek); hitap: "Sultanım", "Hünkârım", "devletlü hünkâr". Kendi sadeliği: Mercimek Ahmed'e *Kâbusnâme*'yi "açık Türkçe" ile yeniden çevirtmesi (1432) meşhurdur. `[K]`
 
-🎭 *Berkay'ın babası: yas tutan, içen, şiir söyleyen, savaş haberinde her şeyi bırakıp atlayan, oğullarını Amasya'da kaybeden bir adam. 1444–1451 arası Berkay'ı en çok 0–6 yaş arasında görür — yani Berkay babasını yalnızca çocuk gözüyle hatırlayacaktır.*
+🎭 *Berkay'ın babası: yas tutan, içen, şiir söyleyen, savaş haberinde her şeyi bırakıp atlayan, oğullarını Amasya'da kaybeden bir adam. Karakter dosyasına göre Berkay 1444'te 12–13 yaşındadır ve Varna'da babasının yanındadır; Murad'ın Varna sonrası Manisa'ya çekilmesi, Berkay'ın Saruhan beyliğiyle aynı şehre düşer — baba ile oğul 1444–46'da aynı çatı altındadır. Murad'ın son yedi yılı (1444–51) Berkay'ın 12–18 yaşıdır: babasını yetişkin gözüyle görür.*
 
 ## 2. Eşleri (bilinenler)
 
@@ -34,13 +34,13 @@ Not: Bazı popüler listelerde geçen "Tâcünnisâ", "Emine Hatun (Dulkadir)" g
 | Oğul | Doğum | Ölüm | Not |
 |---|---|---|---|
 | **Ahmed (Büyük Ahmed)** | ~1420 | **1437, Amasya** (veba `[M]`) | Amasya'da Rum beylerbeyi/şehzade; Murad'ın en büyük oğlu; Bursa'ya defin |
-| **Alâeddin Ali Çelebi** | ~1430 | **Haziran 1443, Amasya** | Amasya sancağında; 1443 Karaman seferine katıldı; dönüşte Amasya'da öldü. Bir rivayete göre adamı **Kara Hızır Paşa** tarafından boğduruldu, Hızır sonra idam edildi `[T]` (Babinger). Murad'ın en sevdiği oğlu; Muradiye'de türbesi; Murad onun yanına gömülmeyi vasiyet etti `[K]`. İki küçük oğlu da aynı sırada öldü `[M]`. |
-| **Mehmed (II. Mehmed, Fâtih)** | **30 Mar 1432 (26 Receb 835), Edirne** | 3 May 1481 | 1443'te Manisa'ya (Saruhan) lalaları Kassabzâde Mahmud ve Nişancı İbrahim ile; 1444–46 ilk saltanat; 1446–51 Manisa; 1451 cülûs. Hocaları: Molla Gürânî, Molla Ayas, Akşemseddin (mânevî), Hocazâde, Molla Hüsrev, Sinan Paşa. |
+| **Alâeddin Ali Çelebi** | ~1430 | **1443 yaz sonu–sonbahar, Amasya** (Emecen: "aynı yılın sonlarına doğru"; eski nüshada "Haziran 1443" yazıyordu — düzeltildi) | **Amasya (Rûm) sancağında** — Manisa'da değil; 1443 Karaman seferine katıldı; dönüşte Amasya'da öldü. Ölümü Mehmed'in Manisa'ya gönderilişinden (bahar 1443) **sonradır**. Bir rivayete göre adamı **Kara Hızır Paşa** tarafından boğduruldu, Hızır sonra idam edildi `[T]` (Babinger). Murad'ın en sevdiği oğlu; Muradiye'de türbesi; Murad onun yanına gömülmeyi vasiyet etti `[K]`. İki küçük oğlu da aynı sırada öldü `[M]`. |
+| **Mehmed (II. Mehmed, Fâtih)** | **30 Mar 1432 (27 Receb 835, Pazar; Miraç sabahı), Edirne** | 3 May 1481 | Murad'ın dördüncü oğlu. Geleneksel anlatıda (Babinger) 1434'te Amasya'ya gönderildiği, 1437'de 6 yaşında Amasya beyi olduğu, 1439'da Ali ile yer değiştirdiği söylenir — İnalcık ve Emecen **şüpheli** bulur `[T]`; kesin olan: Haz 1439 Edirne'de Ali ile sünnet düğünü; **bahar 1443'te Edirne'den Manisa'ya** (Saruhan) lalaları Kassabzâde Mahmud ve Nişancı İbrahim ile; 1444–46 ilk saltanat; 1446–51 Manisa; 1451 cülûs. Hocaları: Molla Gürânî, Molla Ayas, Akşemseddin (mânevî), Hocazâde, Molla Hüsrev, Sinan Paşa. |
 | **Orhan** | ? | küçük yaşta `[?]` | Adı Alderson'da |
 | **Hasan** | ? | küçük yaşta `[?]` | |
 | **Küçük Ahmed** | **1450** (Şubat 1451'de 8 aylık — Dukas) | **Şubat 1451, Edirne** | Mehmed'in cülûsunda **hamamda boğduruldu** (Evrenosoğlu Ali Bey); Osmanlı kaynakları suskun; modern tarihçiler kabul eder `[M]`. Bursa Muradiye'ye defin `[M]`. |
 
-> **Kurgu notu:** Berkay bu listeye **eklenen** bir oğuldur. En tutarlı yerleştirme: Mehmed'den küçük, Küçük Ahmed'den büyük; 1444 doğumlu ise 1451'de 6 yaşında — Küçük Ahmed'in kaderini paylaşmaması için hikâyede bir **neden** gerekir (annesi, lalası, bir vezirin himayesi, Mara Hatun'un araya girmesi, sürgün, saklanma, Manisa/Amasya'da uzak tutulma…). Bk. `karakter/`.
+> **Kurgu notu (güncel):** Berkay bu listeye **eklenen** bir oğuldur: karakter dosyasına göre **Mehmed'in ikizi** (Hüma Hatun'un oğlu; 27 Receb 835 / 30 Mar 1432, Edirne; yarım saat küçük). Listedeki sıraya göre Murad'ın beşinci oğlu olur. 1443 sonu–1444 yazı Amasya, 1444 yazından itibaren Saruhan beyi. 1451'de 18 yaşında — Küçük Ahmed'in kaderini paylaşmaması için hikâyede güçlü bir **neden** gerekir (bk. `05-kurumlar/sehzadelik-sistemi.md` §9). Bk. `karakter/berkay-celebi-ahval-defteri.md` ve `karakter/tashih-notlari.md`.
 
 ## 4. Kızları (hepsi `[M]/[?]`; Uluçay–Alderson'dan doğrulanacak)
 
@@ -77,7 +77,7 @@ Not: Bazı popüler listelerde geçen "Tâcünnisâ", "Emine Hatun (Dulkadir)" g
 
 Muradiye Külliyesi (1426; cami, medrese, imaret, hamam) etrafında 12 türbe: **II. Murad** (üstü açık, toprak), **Hüma Hatun** (Hatuniye, 1449), **Şehzade Alâeddin Ali** (Murad'ın yanı), **Cem Sultan** (1499 nakil; türbe aslında Şehzade Mustafa için 1479'da yapıldı, Mustafa da burada), **Gülşah Hatun**, **Şirin Hatun**, **Mükrime Hatun** (Bayezid'in eşi), **Şehzade Ahmed** (II. Bayezid'in oğlu, 1513; Korkud ve Şehinşah de burada), **Şehzade Mahmud** (Bayezid'in oğlu, 1507, oğullarıyla), **Gülruh**, **Ebe Hatun**, **Saraylılar türbesi**. `[K]` — Bk. DİA "Muradiye Külliyesi" (Bursa).
 
-🎭 *Berkay'ın hayatı boyunca ailesinden ölen hemen herkes bu bahçeye gelir. 1520'de 75 yaşındaki bir adamın Muradiye'de dolaşması — hikâyenin son sahnesi için doğal mekân.*
+🎭 *Berkay'ın hayatı boyunca ailesinden ölen hemen herkes bu bahçeye gelir: annesi Hüma (1449), ağabeyi Ali (1443), babası (1451), kardeşi Küçük Ahmed (1451), yeğenleri Mustafa (1474) ve Cem (1499). 1520'de 88 yaşındaki bir adamın Muradiye'de dolaşması — hikâyenin son sahnesi için doğal mekân.*
 
 ## 8. Doğrulanacaklar
 
