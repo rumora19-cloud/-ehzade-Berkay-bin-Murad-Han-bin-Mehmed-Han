@@ -10,9 +10,13 @@
 | Berkay'ın defteri kaynaklarla nerede uyuşuyor, nerede ayrılıyor? | `../karakter/tashih-notlari.md` (karakter dosyası: `../karakter/berkay-celebi-ahval-defteri.md`) |
 | Varna'da kim hangi koldaydı, kim şehit düştü, hangi gün hangi haftanın günüydü? | `01-kronoloji/01-ii-murad-ikinci-saltanat-1444-1451.md` §3 |
 | Varna sonrası, Mehmed'in ilk saltanatı, Buçuktepe, II. Kosova, Murad'ın ölümü | `01-kronoloji/01-ii-murad-ikinci-saltanat-1444-1451.md` |
-| Fâtih dönemi ayrıntısı (1451–1481) | `01-kronoloji/02-fatih-donemi-1451-1481.md` *(hazırlanıyor)* |
-| II. Bayezid dönemi, Cem Sultan, şehzade kavgaları (1481–1512) | `01-kronoloji/03-ii-bayezid-donemi-1481-1512.md` *(hazırlanıyor)* |
-| Yavuz dönemi (1512–1520) | `01-kronoloji/04-yavuz-selim-donemi-1512-1520.md` *(hazırlanıyor)* |
+| Fâtih dönemi ayrıntısı (1451–1481): cülûs, fetih günü günü, seferler, Mustafa'nın ölümü, Mahmud Paşa, Otranto, Fâtih'in ölümü | `01-kronoloji/02-fatih-donemi-1451-1481.md` |
+| Fâtih'in vezirleri, eşleri, çocukları, hocaları; Fâtih'in portresi | `01-kronoloji/02-fatih-donemi-1451-1481.md` §11–12 |
+| 1451–1520 arasında hangi kaynak hangi yılları görmüş (Tursun Bey, Kritovulos, Angiolello, Haydar Çelebi, İbn İyâs…)? | dönem dosyalarının §0 tabloları |
+| II. Bayezid dönemi, Cem Sultan, Memlük ve Venedik savaşları, 1509 depremi, Şahkulu, Selim'in isyanı (1481–1512) | `01-kronoloji/03-ii-bayezid-donemi-1481-1512.md` |
+| Bayezid'in oğulları hangi sancakta, ne zaman öldü? | `01-kronoloji/03-ii-bayezid-donemi-1481-1512.md` §2, §8 |
+| Yavuz dönemi (1512–1520): kardeş–yeğen katli, Çaldıran, Amasya kışı, Mercidâbık, Ridâniye, Kahire, Kudüs, ölüm | `01-kronoloji/04-yavuz-selim-donemi-1512-1520.md` |
+| Berkay 1451–1520 arasında hangi olayın neresinde olabilir? | dönem dosyalarının 🎭 bölümleri (02 §13, 03 §10, 04 §12) |
 | Hangi kronik neyi anlatır, nerede bulunur, ne kadar güvenilir? | `02-birincil-kaynaklar/00-katalog.md` |
 | II. Murad'ın eşleri, oğulları, kızları; Mehmed'in kardeşleri | `03-kisiler/hanedan-ii-murad-ailesi.md` |
 | 1444–1451 vezirleri, beylerbeyileri, uç beyleri, lalalar, hocalar | `03-kisiler/devlet-adamlari-1444-1451.md` |
