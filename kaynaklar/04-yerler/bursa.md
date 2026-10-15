@@ -1,5 +1,7 @@
 # Bursa — Türbeler şehri, ipek şehri, "ilk payitaht"
 
+> **Kapsam:** Bursa — Türbeler şehri, ipek şehri, "ilk payitaht" · **Güvenilirlik:** derleme; iddia düzeyinde atıf denetimi sürüyor
+
 > Berkay'ın hikâyesinde Bursa: annesi **Hüma Hatun (ö. Eylül 1449)**, babası **II. Murad (Şubat 1451)**, ağabeyi **Alâeddin Ali (1443)**, yeğeni **Mustafa (1474)**, yeğeni **Cem (1499'da nakil)** hep **Muradiye hazîresinde**. Ayrıca 1481 ve 1513 Yenişehir savaşları Bursa'nın kapısında; Selim'in 1512–13 kışı Bursa'da.
 > **Kaynaklar:** H. İnalcık, "Bursa", DİA; İnalcık, "Bursa XV. Asır Sanayi ve Ticaret Tarihine Dair Vesikalar" (Belleten 1960); Bursa Şer'iyye Sicilleri (1455'ten itibaren — Osmanlı'nın en eski kadı sicilleri); Ekrem Hakkı Ayverdi, *Osmanlı Mi'mârîsinde Çelebi ve II. Sultan Murad Devri* (1972); Kâzım Baykal, *Bursa ve Anıtları*; Âşıkpaşazâde; Neşrî (Bursalı); Bertrandon de la Broquière (1432–33 Bursa); Schiltberger; İbn Battûta (1331 — eski ama canlı). **Son güncelleme:** 2026-10-14
 

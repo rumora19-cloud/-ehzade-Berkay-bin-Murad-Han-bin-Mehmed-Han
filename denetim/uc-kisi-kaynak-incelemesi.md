@@ -1,5 +1,7 @@
 # Üç kişi için kaynak inceleme fişi — ilk aşama
 
+> **Güncelleme:** Bu fişin §1–4 bölümleri ilk dosya-içi incelemenin tarihî kaydıdır. Doğrudan okunan kaynaklarla gelen sınırlı sonuçlar §5 ve `2026-10-15-dogrudan-kaynak-kontrolu.md` içindedir; eski “henüz doğrudan atıf yok” ifadeleri yeni bulgular için güncel durum sayılmaz.
+
 > **Tarih:** 15 Ekim 2026 · **Durum:** dosya içi kanıt ve çelişki tespiti; dış kaynak doğrulaması tamamlanmadı.
 > **İlke:** Aynı iddianın iki depo dosyasında tekrarlanması iki bağımsız kaynak değildir. Yazarın alternatif kader kararı, tarihî biyografinin kanıtı değildir. Aşağıdaki `[?]` bir iddianın yanlışlığını değil, mevcut doğrudan dayanağın yetersizliğini gösterir.
 
@@ -41,3 +43,13 @@
 - Dukas–Ali Bey özdeşliğini kesin veren özetlere belirsizlik notu eklendi; yeni bir kişi adı seçilmedi.
 - Dış kaynaktan görülmemiş bir sayfa, alıntı, erişim tarihi veya “doğrulandı” kaydı üretilmedi. Bu fiş araştırma sonucunun kendisi değil, denetlenebilir araştırma sırasıdır.
 - Yazarın defteri ve sabit olay tercihleri değiştirilmedi. İnceleme tamamlanınca her satır için eser/neşir/bölüm veya sayfa, kısa bulgu ve kalan belirsizlik yazılacak.
+
+## 5. Doğrudan kaynak kontrolü — 15 Ekim 2026 güncellemesi
+
+| Kişi | Doğrudan okunan dayanak / sonuç | Hâlâ açık |
+|---|---|---|
+| Ali Bey | DİA Başar, “Evrenosoğulları”: 1462 katılımı, sonrası ölüm, Yenice-i Vardar türbesi için modern dayanak bulundu `[M]`. | Kesin ölüm tarihi, Dukas'ın Ahmed anlatısındaki Ali ile özdeşlik, neşir/kitâbe karşılaştırması. |
+| Hamza Bey | DİA Karakaya, “Hamza Bey Külliyesi”: 1462 Eflak heyeti ve Vlad tarafından öldürülme için modern dayanak bulundu `[M]`. | Şubat ayı, 20 Nisan tayin günü, Biçeroğlu ile özdeşlik ve tüm görev zinciri. |
+| Has Yunus | DİA Eyice, “Has Yûnus Bey Türbesi”: başlangıç 1455 yazı; Enez Ocak 1456. Tarihî başlangıç düzeltildi `[M]`; azil/idam 1456 kışı sonrası ihtimalli. | Kesin ölüm günü; Dukas/Kritovulos neşirlerinin doğrudan karşılaştırması. 1462 kurgu ölümü tarihî kayda çevrilmez. |
+
+URL, erişim tarihi, paragraf yerleri ve kanıt sınırları yeni doğrudan kontrol dosyasında kayıtlıdır. Bu sonuçlar bütün kimlik eşlemelerinin kapandığı anlamına gelmez.

@@ -1,5 +1,7 @@
 # Proje denetimi — 15 Ekim 2026
 
+> **Sonraki kritik denetim:** `2026-10-15-kritik-denetim-yaniti.md`. Güncel kapsamda 30 test, 3 uzunluk engeli ve 23 elle inceleme kaydı var; aşağıdaki eski sayılar kendi teslim tarihçesidir. Yazar onay zinciri ve kalan kaynak ayrımı açıktır.
+
 **Sonuç: proje temiz veya tamamlanmış sayılmaz. Yeni yıl üretimi durduruldu.**
 
 Bu rapor, yazarın Kurtçu Doğan düzeltmesinden sonra kâtibin kendi çalışmasındaki hataları kaydeder. Hatalar yazara veya alternatif tarih türüne yüklenemez. Bir kâtip önerisinin GitHub'da birleştirilmiş olması, onu yazar kararı veya tarihî gerçek yapmaz.

@@ -1,5 +1,7 @@
 # Vâkıât-ı Sultan Cem — (anonim / "Haydar Bey")
 
+> **Güvenilirlik:** derleme; iddia düzeyinde atıf denetimi sürüyor
+
 > **Tür:** Osmanlı Türkçesi vekayinâme-hâtırat (Cem Sultan'ın yanındaki bir mahremin ağzından) · **Yazılış:** ~1500 (Cem'in ölümünden birkaç yıl sonra) · **Kapsam:** **1481–1495**, Cem'in serüveninin tamamı
 > **Bu dosya:** katalogdaki **C** bölümünün derinleştirilmesi. II. Orhan devrinin (1481–1512) **Cem hattı** için birinci elden kaynak.
 > **Son güncelleme:** 2026-10-15
@@ -44,7 +46,7 @@ Bu saptırmalar `hikaye/01-catal-noktalari.md` §C'de işaretlidir; **Vâkıât 
 ## 5. 🎭 Hikâye için
 
 - **Yenişehir sahnesi:** Cem'in gözünden bozgun; 20 Haziran 1481 Çarşamba. "Vâkıât"ın içeriden anlatımı, bizim Orhan gözümüzle çaprazlanır.
-- **Sürgün yılları:** Roma'daki bekçilik, Papa sarayı, kardinaller, VIII. Charles'ın Cem'i alıp götürmesi — `kaynaklar/01-kronoloji/03-bayezid-donemi-1481-1512.md` (Cem başlıkları) ile birlikte.
+- **Sürgün yılları:** Roma'daki bekçilik, Papa sarayı, kardinaller, VIII. Charles'ın Cem'i alıp götürmesi — `kaynaklar/01-kronoloji/03-ii-bayezid-donemi-1481-1512.md` (Cem başlıkları) ile birlikte.
 - **Dil kancası:** Eserin "yanındaydım" sesi, bizim **Zeyl**'in ("defterin aslında yoktur… Akşemseddin hazretlerinin ağzından dinlenip") sesiyle aynı ailedendir: iki metin de **başkasının ağzından yazılmış tanıklıktır**. ⚙
 - **Murad "Pierre":** Vâkıât, Cem'in oğlunun çocukluğunu anlatır; bizim 1520 hâtimemizde Süleyman'ın "derdi" olacak adamın ilk gölgesi oradadır.
 

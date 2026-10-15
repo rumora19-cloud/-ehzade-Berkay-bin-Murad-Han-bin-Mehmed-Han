@@ -1,5 +1,7 @@
 # II. Bayezid Dönemi — 22 Mayıs 1481 → 24 Nisan 1512
 
+> **Güvenilirlik:** derleme; iddia düzeyinde atıf denetimi sürüyor
+
 > **Ayırma kaydı (15 Ekim 2026, grup 2):** Önceki karışık nüsha `../../hikaye/notlar/kaynaktan-ayrilan/03-ii-bayezid-donemi-1481-1512.md` dosyasında kayıpsız korunur; ayrılan parçalar `../../hikaye/notlar/kronoloji-hanedan-uygulamalari/03-ii-bayezid-donemi-1481-1512.md` içindedir. Bu işlem tarihî doğrulama veya yeni kurgu kararı değildir.
 
 > **Kapsam:** II. Bayezid’in 1481–1512 saltanatına ilişkin tarihî kronoloji derlemesi. Alternatif veraset ve İtalya seyri ayrılmıştır; kalan iddiaların atıf denetimi sürüyor.

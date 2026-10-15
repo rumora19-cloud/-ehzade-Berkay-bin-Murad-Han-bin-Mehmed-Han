@@ -190,5 +190,126 @@ class AuditTests(unittest.TestCase):
         self.assertFalse(stale_arc('Kurtçu Doğan akıncı beyi yapılmaz. Akşemseddin’e sığınır.'))
 
 
+class ExpandedAuditTests(unittest.TestCase):
+    def test_references_outside_year_headers_are_checked(self):
+        from scripts.proje_denetimi import reference_findings
+        with TemporaryDirectory() as directory:
+            root = Path(directory)
+            (root / 'hikaye/notlar').mkdir(parents=True)
+            (root / 'README.md').write_text('Bir başka satırda `kayip.md` ve [not](yanlis.md).')
+            (root / 'hikaye/notlar/not.md').write_text('Gövde atfı: `olmayan.md`.')
+            findings = reference_findings(root)
+            self.assertEqual(sum(f[0] == 'ENGEL' for f in findings), 3)
+            self.assertTrue(any(f[1].startswith('hikaye/notlar/not.md:') for f in findings))
+
+    def test_templates_and_fences_are_not_fake_broken_links(self):
+        from scripts.proje_denetimi import reference_findings
+        with TemporaryDirectory() as directory:
+            root = Path(directory)
+            (root / 'README.md').write_text('`yillar/YYYY-baslik.md`\n```\n`ornek.md`\n```\n')
+            self.assertEqual(reference_findings(root), [])
+
+    def test_ambiguous_short_reference_is_not_guessed(self):
+        from scripts.proje_denetimi import reference_findings
+        with TemporaryDirectory() as directory:
+            root = Path(directory)
+            for folder in ('karakter', 'hikaye'):
+                (root / folder).mkdir()
+                (root / folder / 'ayni.md').write_text('# Aynı')
+            (root / 'README.md').write_text('`ayni.md`')
+            self.assertTrue(any('birden fazla' in f[2] for f in reference_findings(root)))
+
+    def test_archived_text_cannot_be_a_year_source(self):
+        from scripts.proje_denetimi import reference_findings
+        with TemporaryDirectory() as directory:
+            root = Path(directory)
+            archive = root / 'hikaye/notlar/kaynaktan-ayrilan/eski.md'
+            archive.parent.mkdir(parents=True)
+            archive.write_text('Eski iç atıf `kayip.md` salt kayıt içinde kalır.')
+            path = root / 'hikaye/yillar/1448-test.md'
+            path.parent.mkdir()
+            path.write_text('Gövde: `../notlar/kaynaktan-ayrilan/eski.md`')
+            findings = reference_findings(root)
+            self.assertEqual(len(findings), 1)
+            self.assertEqual(findings[0][0], 'ENGEL')
+            self.assertIn('Salt kayıt', findings[0][2])
+
+    def test_repository_has_no_broken_active_file_references(self):
+        from scripts.proje_denetimi import reference_findings
+        self.assertEqual(reference_findings(ROOT), [])
+
+    def test_source_metadata_is_complete_but_not_certification(self):
+        from scripts.proje_denetimi import source_metadata_missing
+        self.assertEqual(source_metadata_missing('# Başlık\n'),
+                         ['Kapsam', 'Güvenilirlik', 'Son güncelleme'])
+        for p in (ROOT / 'kaynaklar').rglob('*.md'):
+            with self.subTest(path=p):
+                self.assertEqual(source_metadata_missing(p.read_text()), [])
+
+    def test_variation_of_stale_appointment_is_detected(self):
+        self.assertTrue(stale_arc('Kurtçu Doğan, akıncıların kumandanı oldu.'))
+        self.assertTrue(stale_arc('Kurtçu, bir süre sonra akıncı beyi olarak tayin edildi.'))
+        self.assertFalse(stale_arc('Kurtçu Doğan akıncı beyi olarak tayin edilemez; bu yanlıştır.'))
+
+    def test_julian_weekday_explicit_format_and_invalid_date(self):
+        from scripts.proje_denetimi import weekday_findings
+        self.assertEqual(weekday_findings('test.md', '7 Mart 1451 (4 Safer 855) Pazar'), [])
+        self.assertTrue(weekday_findings('test.md', '7 Mart 1451 Pazartesi'))
+        self.assertEqual(weekday_findings('test.md', '31 Nisan 1451 Pazar')[0][0], 'ENGEL')
+        # Jülyende 1500 artık yıldır; Gregoryen kuralı uygulanmaz.
+        self.assertNotEqual(weekday_findings('test.md', '29 Şubat 1500 Pazar'),
+                            [('ENGEL', 'test.md:1', 'Geçersiz Jülyen tarih: 29 Şubat 1500 Pazar')])
+
+    def test_age_is_completed_age_not_year_subtraction(self):
+        from scripts.proje_denetimi import completed_age
+        self.assertEqual(completed_age((1432, 3, 30), (1451, 3, 7)), 18)
+        self.assertEqual(completed_age((1470, 10, 10), (1520, 9, 22)), 49)
+        with self.assertRaises(ValueError):
+            completed_age((1452, 1, 1), (1451, 1, 1))
+
+    def test_77_templates_selected_without_41_author_approvals(self):
+        from scripts.proje_denetimi import project_metrics, plan_templates, LIMITS
+        metrics = project_metrics(ROOT)
+        self.assertEqual(metrics['planned_years'], 77)
+        self.assertEqual(metrics['written_years'], 8)
+        self.assertEqual(metrics['missing_templates'], [])
+        self.assertEqual(len(metrics['provisional_templates']), 41)
+        plan = plan_templates((ROOT / 'hikaye/02-bolum-plani.md').read_text())
+        self.assertEqual(set(plan), set(range(1444, 1521)))
+        self.assertTrue(all(template in LIMITS for template in plan.values()))
+        with TemporaryDirectory() as directory:
+            root = Path(directory)
+            (root / 'hikaye/yillar').mkdir(parents=True)
+            (root / 'hikaye/02-bolum-plani.md').write_text('| **1448** | — | kısa bölüm |')
+            (root / 'hikaye/yillar/1448-test.md').write_text('# Eksik sahne sınırları')
+            bad = project_metrics(root)
+            self.assertEqual(bad['written_years'], 1)
+            self.assertTrue(bad['scene_errors'])  # özet, bozuk sahneyi gizlemez veya çökmez
+
+    def test_meryem_relationship_regression_in_real_manuscript_draft(self):
+        text = (ROOT / 'hikaye/yillar/1449-anne.md').read_text()
+        self.assertNotIn('Kızı on dört yaşında kaldı', text)
+        self.assertIn('Torunu daha çocuktu', text)
+        self.assertIn("Meryem'in babasıyla konuştu", text)
+        self.assertIn('1442', text)
+
+    def test_close_viewpoint_and_unverified_mehir_are_not_hidden(self):
+        text = (ROOT / 'hikaye/yillar/1448-sofyadan-kosovaya.md').read_text()
+        self.assertNotIn('On dört yıl sonra', text)
+        self.assertNotIn("bu ordu Kosova'ya gidiyordu", text)
+        wedding = (ROOT / 'hikaye/yillar/1450-dugun.md').read_text()
+        self.assertIn('| ⚙ `[?]` |', wedding)
+        self.assertIn('Mehmed’in katılımı'.replace('’', "'"), wedding)
+        self.assertIn('https://islamansiklopedisi.org.tr/mehmed-ii', wedding)
+
+    def test_draft_scene_style_uses_plain_emphasis_and_one_apostrophe(self):
+        from scripts.proje_denetimi import scene_text
+        for path in (ROOT / 'hikaye/yillar').glob('*.md'):
+            if 1447 <= int(path.name[:4]) <= 1451:
+                with self.subTest(path=path):
+                    self.assertNotIn('**', scene_text(path.read_text()))
+                    self.assertNotRegex(path.read_text(), '[‘’]')
+
+
 if __name__ == '__main__':
     unittest.main()

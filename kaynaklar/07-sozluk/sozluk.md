@@ -1,5 +1,7 @@
 # Sözlük (1444–1520 Osmanlı terimleri)
 
+> **Kapsam:** Sözlük (1444–1520 Osmanlı terimleri) · **Güvenilirlik:** derleme; iddia düzeyinde atıf denetimi sürüyor · **Son güncelleme:** 2026-10-15
+
 > Alfabetik. Kısa tanım + hikâyede nasıl kullanılacağına dair not. Genişletilecek.
 
 **Akçe** — Gümüş para birimi; 1444'te ~1,1 g gümüş; Mehmed'in 1444 ve sonraki tağşişleriyle ayarı düşer. 1 altın (duka/filori/sultânî) ≈ 35–40 akçe (1450'ler) → ~45–50 (1480'ler) → ~55 (1510'lar). Yeniçeri gündeliği 2–3 akçe (1440'lar), ~5 (1500'ler). Bir koyun ~15–20 akçe, bir köle ~1000–2000 akçe (tahminî).

@@ -1,5 +1,7 @@
 # Kurumlar
 
+> **Kapsam:** Kurumlar · **Güvenilirlik:** derleme; iddia düzeyinde atıf denetimi sürüyor · **Son güncelleme:** 2026-10-15
+
 | Dosya | İçerik |
 |---|---|
 | `sehzadelik-sistemi.md` | Şehzâdenin doğumundan sancağa, tahta veya kemende: unvan, terbiye, lala, sancak, evlilik, veraset, kardeş katli, hayatta kalma yolları; §9 Berkay için çıkarımlar |

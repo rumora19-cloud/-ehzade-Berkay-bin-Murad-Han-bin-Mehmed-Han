@@ -1,4 +1,6 @@
 # İtalya (1480–1520): Otranto, Salento, Pulya, Napoli Krallığı ve Roma yolu
+
+> **Güvenilirlik:** derleme; iddia düzeyinde atıf denetimi sürüyor
 > **Ayırma kaydı (15 Ekim 2026):** Kurgu sütunları ve hikâye uygulamaları kaynak metninden ayrıldı. Önceki karışık nüsha kayıpsız olarak `../../hikaye/notlar/kaynaktan-ayrilan/italya.md` dosyasında saklıdır. Bu işlem kalan tarihî iddiaların bağımsız doğrulaması değildir; eski güvenilirlik etiketleri ayrıca denetlenmelidir.
 
 > **Kapsam:** İtalya coğrafyası, 1480–81 Otranto harekâtı ve 1480–1520 İtalya siyaseti. Alternatif tarih uygulamaları ayrı çalışma kaydına taşındı.

@@ -3,7 +3,7 @@
 > **Yıl dosyası:** Murad'ın ölümü, vasiyetin okunması ve Berkay'ın cülûsu. **Kısa bölüm** (900–2.000 kelime).
 > **Tarih:** 3 Şubat → 1451 sonbaharı · **Mekân:** Edirne, Amasya–Edirne yolu, Bursa · **Göz:** Çandarlı Halil Paşa (I–II), Berkay (III–IV)
 > **Gerçek tarih:** Murad 3 Şubat'ta ölür; ölüm bir süre gizlenir; Mehmed 18 Şubat'ta Edirne'de tahta çıkar. Karaman seferi ve Bursa'da yeniçerilerin bahşiş talebi aynı yıl içindedir. `[K]` Ölümün gizlenme süresi ve Küçük Ahmed'in öldürülmesine ilişkin rivayetler ayrıca değerlendirilir. `[M]`
-> **Çatal:** Murad'ın 1444'te gördüğü rüya, 1451'de tahtı Berkay'a bırakan vasiyete dönüşür. Mehmed 18 Şubat'ta gelir, babasının kararına itaat eder. Berkay yaklaşık 5 Mart'ta varır; cülûs **7 Mart Pazar** günüdür (⚙). Küçük Ahmed eceliyle ölür; Mehmed serdar olur; Kurtçu Doğan ağalıktan alınınca düşkün olur ve Akşemseddin’e sığınır. Fâtih Sultan Berkay Han’ın onu affetmesi daha sonradır; kesin tarih verilmez.
+> **Çatal:** Murad'ın 1444'te gördüğü rüya, 1451'de tahtı Berkay'a bırakan vasiyete dönüşür. Mehmed 18 Şubat'ta gelir, babasının kararına itaat eder. Berkay yaklaşık 5 Mart'ta varır; cülûs **7 Mart Pazar** günüdür (⚙). Küçük Ahmed eceliyle ölür; Mehmed serdar olur; Kurtçu Doğan ağalıktan alınınca düşkün olur ve Akşemseddin'e sığınır. Fâtih Sultan Berkay Han'ın onu affetmesi daha sonradır; kesin tarih verilmez.
 > **Kaynak:** `kaynaklar/01-kronoloji/01-ii-murad-ikinci-saltanat-1444-1451.md` §5 · `kaynaklar/01-kronoloji/02-fatih-donemi-1451-1481.md` §1 · `kaynaklar/04-yerler/edirne.md` · `kaynaklar/02-birincil-kaynaklar/dukas.md` · kurgu kararları: `hikaye/00-ana-hat.md` §2a
 > **Durum:** ⚙ kâtip taslağı. Yazarın defterine, Zeyl'e ve §XX mektubuna dokunulmadı.
 
@@ -69,7 +69,7 @@ Bizans'ın saldığı Orhan Çelebi Deliorman'da taraftar topladığında Lala E
 
 Bursa'da yeniçerilerin bahşiş talebi ise başka türlü bir uyarıydı. Verilen para işin yalnız bir kısmını kapattı. Kurtçu Doğan ağalıktan alındı ve düşkün oldu. Ne Lala'nın yanına gönderildi ne de kendisine bir akıncı beyliği verildi. Akşemseddin'e sığındı. Günahlarını ve yaptıklarının ağırlığını onun yanında anlayacaktı. Fâtih Sultan Berkay Han'ın affı ve onun adamı oluşu ise daha sonraydı; o gün henüz bir af haberi yoktu.
 
-Divandan sonra Meryem hangi odada oturacaklarını sordu. Berkay kapıdan dışarı baktı; Amasya’da böyle bir sorunun cevabını düşünmesi gerekmezdi. Burada odanın yakınlığı, kapının hangi avluya açıldığı, kimin kimin önünden geçeceği bile bir işaret sayılıyordu. Bir oda gösterdi, sonra kararını değiştirmek istedi. Meryem örtüyü sandığın üstüne bıraktı. Önce yerleşelim, dedi. Berkay o akşam sarayda ilk defa bir işin ertelenebileceğini duydu. Ertesi sabah aynı kapının önünden geçerken içeriden gelen sıradan bir ses, bir tasın yere konması, ona Amasya’yı hatırlattı. Kapıyı açmadı; divanda bekleyenler vardı.
+Divandan sonra Meryem hangi odada oturacaklarını sordu. Berkay kapıdan dışarı baktı; Amasya'da böyle bir sorunun cevabını düşünmesi gerekmezdi. Burada odanın yakınlığı, kapının hangi avluya açıldığı, kimin kimin önünden geçeceği bile bir işaret sayılıyordu. Bir oda gösterdi, sonra kararını değiştirmek istedi. Meryem örtüyü sandığın üstüne bıraktı. Önce yerleşelim, dedi. Berkay o akşam sarayda ilk defa bir işin ertelenebileceğini duydu. Ertesi sabah aynı kapının önünden geçerken içeriden gelen sıradan bir ses, bir tasın yere konması, ona Amasya'yı hatırlattı. Kapıyı açmadı; divanda bekleyenler vardı.
 
 Sonbaharda sarayın bir odasında iki hesap defteri yan yana açıldı. Birinde seferin giderleri, ötekinde merkezin gönderdiği ödenek vardı. Berkay fark çıkan satırları sordu; Mehmed hangi menzilde ne alındığını anlattı. Konuşma uzadı. Akşam kandili getirildiğinde hâlâ aynı masadaydılar.
 
@@ -79,7 +79,7 @@ Sonbaharda sarayın bir odasında iki hesap defteri yan yana açıldı. Birinde 
 
 | İşaret | Not |
 |---|---|
-| ✔ | Yazarın sabit kararları: taht Berkay'a; Mehmed itaat eder ve serdar olur; Küçük Ahmed eceliyle ölür; Kurtçu Doğan düşkün olur, Akşemseddin’e sığınır; daha sonra affedilir ve Berkay’ın adamı olur. Affın yılı bu taslakta kesinleştirilmez. Bunlar tarihî olay iddiası değildir. |
+| ✔ | Yazarın sabit kararları: taht Berkay'a; Mehmed itaat eder ve serdar olur; Küçük Ahmed eceliyle ölür; Kurtçu Doğan düşkün olur, Akşemseddin'e sığınır; daha sonra affedilir ve Berkay'ın adamı olur. Affın yılı bu taslakta kesinleştirilmez. Bunlar tarihî olay iddiası değildir. |
 | ⚙ | Cülûs 7 Mart 1451 Pazar; Berkay'ın varışı yaklaşık 5 Mart. 18 Şubat sahnesinde Berkay henüz Edirne'de değildir. Gün adları Jülyen takvimine göredir; tartışmalı hicrî eşleme bu künyede verilmedi. |
 | ⚙ | Kısa bölüm kalıbı; mektuplar, konuşmalar, özel görüşmeler, ayna ve yan yana defter sahnesi kâtip tasarımıdır. Gerçek belge alıntısı değildir. |
 | ★ | Orhan Çelebi'nin salınması, Deliorman ve Lala'nın müdahalesi yazarın alternatif seyir kararıdır. |

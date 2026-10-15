@@ -1,5 +1,7 @@
 # Genel Zaman Çizelgesi 1444–1520
 
+> **Güvenilirlik:** derleme; iddia düzeyinde atıf denetimi sürüyor
+
 > **Ayırma kaydı (15 Ekim 2026, grup 2):** Önceki karışık nüsha `../../hikaye/notlar/kaynaktan-ayrilan/00-genel-zaman-cizelgesi-1444-1520.md` dosyasında kayıpsız korunur; ayrılan parçalar `../../hikaye/notlar/kronoloji-hanedan-uygulamalari/00-genel-zaman-cizelgesi-1444-1520.md` içindedir. Bu işlem tarihî doğrulama veya yeni kurgu kararı değildir.
 
 > **Kapsam:** 11 Kasım 1444 – 22 Eylül 1520 · **Düzey:** kaba hatlar (ay/gün düzeyi dönem dosyalarında) · **Son güncelleme:** 2026-10-15 (kaynak/kurgu ayrımı; atıf denetimi sürüyor)

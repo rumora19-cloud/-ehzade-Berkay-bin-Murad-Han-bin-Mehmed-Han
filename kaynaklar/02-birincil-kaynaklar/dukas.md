@@ -1,5 +1,7 @@
 # Dukas — *Historia Turco-Byzantina* (Türk-Bizans Tarihi)
 
+> **Güvenilirlik:** derleme; iddia düzeyinde atıf denetimi sürüyor
+
 > **Tür:** Bizans tarih yazıcılığı (Yunanca) · **Müellif:** Dukas (Doukas) · **Yazılış:** 1460'ların ikinci yarısı, Midilli (Lesbos) · **Kapsam:** 1341 – **1462** · **ö. 1481'den sonra** `[K]`
 > **Bu dosya:** katalogdaki **D** bölümünün (Bizans kaynakları) derinleştirilmesi. Osmanlı kroniklerinin **suskun kaldığı yerlerde** ilk başvurulan metin.
 > **Son güncelleme:** 2026-10-15
@@ -63,7 +65,7 @@
 
 - Katalog: `00-katalog.md` §D · Osmanlı tarafı: `asikpasazade.md`
 - Fetih için yan kaynaklar: Nicolò Barbaro, Leonardo di Chio, Kritovulos `[K]`
-- Kullanıldığı dosyalar: `kaynaklar/01-kronoloji/01-…1444-1451.md` (§8 1451), `04-yerler/istanbul-1453-1520.md`, `hikaye/notlar/1453-yirmi-bes-gun.md`
+- Kullanıldığı dosyalar: `kaynaklar/01-kronoloji/01-ii-murad-ikinci-saltanat-1444-1451.md` (§8 1451), `04-yerler/istanbul-1453-1520.md`, `hikaye/notlar/1453-yirmi-bes-gun.md`
 
 ---
 

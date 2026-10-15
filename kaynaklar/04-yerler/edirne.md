@@ -1,5 +1,7 @@
 # Edirne — Payitaht (1444–1453), sonra "ikinci taht" (1453–1520)
 
+> **Kapsam:** Edirne — Payitaht (1444–1453), sonra "ikinci taht" (1453–1520) · **Güvenilirlik:** derleme; iddia düzeyinde atıf denetimi sürüyor
+
 > **Berkay'ın doğduğu şehir** (27 Receb 835 / 30 Mart 1432, defter §III) ve defterin yazıldığı yer (29 Receb 848 / 11 Kasım 1444). Varna dönüşü ordu buraya gelir.
 > **Kaynaklar:** M. T. Gökbilgin, *XV–XVI. Asırlarda Edirne ve Paşa Livâsı* (1952) — temel; Gökbilgin/Emecen, "Edirne", DİA; Oruç Bey (Edirneli); Âşıkpaşazâde; *Gazavât-ı Sultan Murad*; Rıfat Osman, *Edirne Sarayı* (TTK 1957/1989); Sedat Hakkı Eldem, *Köşkler ve Kasırlar*; Kritovulos; Bertrandon de la Broquière (1433 ziyareti); Ciriaco d'Ancona (1444 Edirne); Zorzi Dolfin.
 > **Etiketler:** `[K]` kesin · `[M]` muhtemel · `[T]` tartışmalı · `[R]` rivayet · 🎭 kanca. **Son güncelleme:** 2026-10-14

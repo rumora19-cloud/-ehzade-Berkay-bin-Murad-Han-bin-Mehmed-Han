@@ -1,5 +1,7 @@
 # Konya (Karaman) — Şehzâde sancağı, Mevlânâ şehri, Karaman ilinin merkezi
 
+> **Kapsam:** Konya (Karaman) — Şehzâde sancağı, Mevlânâ şehri, Karaman ilinin merkezi · **Güvenilirlik:** derleme; iddia düzeyinde atıf denetimi sürüyor
+
 > **Hikâyede Konya:** Mehmed'in oğlu **Mustafa'nın sancağı (1468–74)** ve ardından **Cem'in sancağı (1474–81)**; ikinci gözün (Mehmed soyu) evi. Berkay'ın oğulları Manisa (Orhan 1468–80) ve Trabzon'da (Alâeddin Ali 1471–81) olduğu için Konya, hikâyede **"öteki şehzâdelerin"** şehridir.
 > **Kaynaklar:** "Konya", DİA (Y. Özkan / M. Öztürk); "Karamanoğulları", DİA (F. Sümer); "Mevlânâ", DİA; İ. H. Uzunçarşılı, *Anadolu Beylikleri*; Ş. Tekindağ, "Son Karamanoğulları"; Âşıkpaşazâde; Neşrî; Tursun Bey (`kaynaklar/02-birincil-kaynaklar/`). **Son güncelleme:** 2026-10-15
 

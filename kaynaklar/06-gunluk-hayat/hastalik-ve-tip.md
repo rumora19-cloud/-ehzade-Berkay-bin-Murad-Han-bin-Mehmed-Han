@@ -1,5 +1,7 @@
 # Hastalık ve tıp (1444–1520)
 
+> **Kapsam:** Hastalık ve tıp (1444–1520) · **Güvenilirlik:** derleme; iddia düzeyinde atıf denetimi sürüyor
+
 > Hikâyenin 76 yılında (1444–1520) en az **on veba dalgası**, iki büyük deprem, kıtlıklar, nikris, çiçek, sıtma vardır; Berkay (ö. 1481, nikris + ateş), Orhan (ö. 1512, savaşta) ve Selim (ö. 1520, şirpençe) için ölüm nedenleri ve hekim sahneleri.
 > **Kaynaklar:** N. Varlık, *Plague and Empire in the Early Modern Mediterranean World* (2015) — Osmanlı vebası; Sabuncuoğlu Şerefeddin, *Cerrâhiyyetü'l-Hâniyye* (1465; nşr. İ. Uzel, TTK 1992) ve *Mücerrebnâme*; Ahmedî, *Tervîhü'l-ervâh*; Hacı Paşa, *Müntahab-ı Şifâ*; Akşemseddin, *Mâddetü'l-hayât* (mikrop fikri!); Eşref b. Muhammed, *Hazâinü's-saâdât* (1460); Ahi Çelebi; İbn İyâs ve Sanuto (veba kayıtları); A. Terzioğlu, "Bîmâristan", DİA; Bayat, *Tıp Tarihi*; N. Sarı; kadı sicillerindeki ölüm/miras kayıtları. **Son güncelleme:** 2026-10-14
 

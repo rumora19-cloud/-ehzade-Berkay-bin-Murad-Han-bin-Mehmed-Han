@@ -4,7 +4,7 @@ Bu dosya, repodaki bütün metinlerin uyması gereken kuralları toplar. Kısa t
 
 ## 1. Dosya ve klasör adları
 
-- Dosya adları **ASCII** (Türkçe karakter yok), küçük harf, tire ile: `ii-murad-ikinci-saltanat-1444-1451.md`.
+- Dosya adları **ASCII** (Türkçe karakter yok), küçük harf, tire ile: `01-ii-murad-ikinci-saltanat-1444-1451.md`.
 - Başlıklar ve metin **Türkçe**, Türkçe karakterli.
 - Her kaynak dosyasının başında kısa bir **künye bloğu** bulunur:
 
@@ -48,7 +48,7 @@ Her olay/iddia satırının başına gerekirse etiket konur:
 
 ## 6. Hikâye kancaları
 
-Kaynak dosyalarında, tarihî bir ayrıntının kurgu için kullanılabileceği yerler **🎭** işaretiyle gösterilir. Bunlar öneri niteliğindedir; `hikaye/` klasörüne taşınıp işlenmedikçe bağlayıcı değildir.
+**🎭 kancaları yalnız `hikaye/` veya `karakter/` altında tutulur.** `kaynaklar/` tarihî olgu, kaynak künyesi ve belirsizlik etiketlerini barındırır; kurgu kişi, alternatif olay/soy/görev ve sahne önerisi burada tutulmaz. Eski kaynak dosyalarındaki 🎭/⚙ notları izinli yeni kayıt değil, kayıpsız ayrılacak eski çalışma borcudur. Salt bir işaret taraması tarihî hata kanıtı değildir. Ayırma bağlantıları ve dizinlerdeki açıklayıcı yönlendirmeler kurgu biyografisi sayılmaz. Kancanın taşınması yazar onayı anlamına gelmez; §7 ve §12 birlikte uygulanır.
 
 ## 7. Kurgu / tarih ayrımı
 
@@ -66,15 +66,15 @@ Kaynak dosyalarında, tarihî bir ayrıntının kurgu için kullanılabileceği 
 - **Kurgusal kişi yalnız şunlardır:** Berkay, **Meryem Hatun**, **Meryem'in ailesi** (Yörgüç Paşa tarihî kişidir; Meryem'in ona bağlanan aile ilişkisi kurgudur), **Orhan**, **Alâeddin Ali**. Bunların dışında **hiçbir uydurma ad kullanılmaz**: her kişi ya **gerçek tarihî bir kişi**dir, ya da **adsızdır** ("sancağın kadısı", "Erdelli bir akıncı").
 - **Berkay'ın câriyesi yoktur; eşi yalnız Meryem Hatun'dur.** İki oğlu (Orhan, Alâeddin Ali) da Meryem'dendir. **Berkay'ın kız çocuğu yazılmaz;** 1474 Akkoyunlu düğünü gerçek tarihteki gibidir: **Mehmed'in kızı Gevherhan** Uğurlu Mehmed Mirza'ya verilir. Orhan'ın tek oğlu Selim'dir (annesi Dulkadırlı Ayşe).
 - Gerçek kişilerin hikâyedeki **kurgusal** eylem ve sözleri dosya içinde **⚙** ile, gerçek tarihten alınanlar `[K]`/`[M]`/`[T]`/`[R]` ile işaretlenir; ayrıca ilgili yıl dosyasının "⚑ Çatal ve kâtip notları" tablosunda gösterilir.
-- **Kurgusal adların gerçek karşılıkları** (eski adlar bütün dosyalardan silinmiştir):
+- **Kişi eşlemeleri** (hikâye tercihleri ile tarihî özdeşlik ayrı tutulur; eski adların arşiv genelinde bütünüyle silindiği ileri sürülmez). Tarihî dayanaklar: `denetim/2026-10-15-dogrudan-kaynak-kontrolu.md`; doğrulama fişi: `denetim/uc-kisi-kaynak-incelemesi.md`.
 
 | Eski (kurgu) | Yeni (gerçek) | Rol |
 |---|---|---|
 | Kâtip Sinan bin Abdullah | **Tursun Bey** (Tûr-ı Sînâ; Bursalı; Cebe Ali Bey'in yeğeni; d. ~1426) | 1444'te Saruhan kâtibi (18 yaşında); nüshayı 1459'da Göynük'te temize çeker; rüyayı 1459'da öğrenir; *Târîh-i Ebü'l-Feth*'i yazar; sonra defterdar |
-| Silâhdar Yunus Ağa | **Has Yunus Bey** | Silâhdar; 1456 kapudan (Enez–Limni); ⚙ 17 Haz 1462 gecesi Lala'yla düşer |
-| Hazinedar Hamza Ağa | **Hamza Bey** | Hazinedar (1444); Berkay'ın Amasya lalası (1446–51 ⚙); 20 Nis 1453 Baltaoğlu yerine kapudan; Niğbolu; Şub 1462'de Vlad kazığa vurur |
+| Silâhdar Yunus Ağa | **Has Yunus Bey** | ⚙ Silâhdar ve hikâyede 1456 kapudan; tarihî göreve geliş DİA’da 1455 yazı. ⚙ 17 Haz 1462 ölümü alternatif kaderdir; tarihî idamı DİA’da 1456 kışı sonrası ihtimalli verilir |
+| Hazinedar Hamza Ağa | **Hamza Bey** | ⚙ Hazinedar (1444) ve Amasya lalası (1446–51). Hikâyenin 20 Nis 1453 kapudanlık / Şub 1462 ölüm tercihleri korunur; tarihî tayin günü, ay ve Biçeroğlu ile özdeşlik `[?]`. DİA’da 1462 elçi ölümü için doğrudan dayanak bulundu; bütün roller aynı kişiye mal edilmez |
 | Şövalye Pedri | **Vlad Țepeş (Kazıklı Voyvoda)** | Lala'yı 17 Haz 1462'de o öldürür; ⚙ 31 Ara 1476 Salı (14 Ramazan 881) Bükreş yakınında akıncılar önüne sürer, Berkay kendi eliyle öldürür |
-| Hüma Sultan (Berkay'ın kızı) | **Gevherhan** (Mehmed'in gerçek kızı) | 1474 Uğurlu Mehmed Mirza düğünü gerçek tarihin kendisidir |
+| Hüma Sultan (Berkay'ın kızı) | **Gevherhan** (Mehmed'in gerçek kızı) | Evlilik modern kaynaklarda destekleniyor; 1474 yılı Parlaz’ın makalesinde açıkça geçiyor `[M]`. Bu, çoklu çağdaş kaynak denetimi tamamlandı demek değildir |
 
 - **Epigraf (ebced):** *"Bir ok u bir kral"* — **بر اوق و بر قرال** = **848**. Kâtip Tursun'un defterinin başına ve yıl dosyalarının açılışına bu ebced yazılır. (Hesap: 2+200+1+6+100+6+2+200+100+200+1+30 = 848.)
 
@@ -98,3 +98,9 @@ Kaynak dosyalarında, tarihî bir ayrıntının kurgu için kullanılabileceği 
 - Temizlenen kaynak metninin önceki karışık nüshası `hikaye/notlar/kaynaktan-ayrilan/` altında köken yolu, başlangıç commit’i ve SHA-256 ile saklanır. Aktarım listesi `denetim/kaynak-ayirma-kaydi.json` içindedir.
 - Bu salt kayıt nüshaları güncel karar veya tarihî kaynak değildir. İçlerindeki eski adlar ve hatalar yalnız aktarımın izini korur; yeni sahneye dayanak yapılmaz, toplu ad değiştirmeyle düzeltilmez. Güncel kararlar ana hat/kişi dosyalarında tutulur.
 - Kaynak ayırmak ile tarihî iddiayı doğrulamak ayrı işlerdir. Bir kurgu sütununun taşınması kalan `[K]` etiketlerini kendiliğinden doğrulamaz. Görülmeyen kaynağa sayfa/alıntı/erişim tarihi eklenmez.
+
+## 13. Otomatik denetimin sınırları ve kayıt nüshaları
+
+- Denetleyici metin/atıf/künye/kalıp kontrolleri yapar; testlerin geçmesi tarihî doğruluk, gözlemsel hilal veya yazar onayı değildir. Tanıdığı açık tarih biçimlerinde Jülyen hafta gününü hesaplayabilir; örtük/rivayet tarihlerini ve bütün yaş ifadelerini kendiliğinden çözmez.
+- Kayıpsız arşiv ve aktarılan alıntı dökümleri etkin kaynak listesinden ayrıdır. Yeni yıl dosyasında bunlara dayanak atfı verilmez; eski hatalı adlar denetimden “silmek” için nüshalar değiştirilmez.
+- Kelime kalıbı yalnız sahne dosyalarına uygulanır; araştırma notuna roman kalıbı dayatılmaz. 77 yıllık plandaki boş/uyumsuz kalıplar ayrıca raporlanır. Kalıbı seçmek yılı onaylamak değildir.

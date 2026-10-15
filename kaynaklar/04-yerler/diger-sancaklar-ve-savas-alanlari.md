@@ -1,5 +1,7 @@
 # Diğer sancak merkezleri ve savaş alanları (1444–1520)
 
+> **Kapsam:** Diğer sancak merkezleri ve savaş alanları (1444–1520) · **Güvenilirlik:** derleme; iddia düzeyinde atıf denetimi sürüyor
+
 > Konya, Trabzon, Kefe, Kütahya, Antalya, Gelibolu, Kastamonu; savaş alanları ve yol süreleri tablosu.
 > **Kaynaklar:** DİA ilgili maddeler ("Konya", "Trabzon", "Kefe", "Kütahya", "Antalya", "Gelibolu", "Kastamonu", "Otlukbeli", "Çaldıran", "Mercidâbık", "Ridâniye", "Varna", "Kosova"); Emecen; İnalcık; H. Lowry, *The Islamization & Turkification of the City of Trabzon* (1981); A. Bryer, *The Empire of Trebizond*; A. Fisher, *The Crimean Tatars*; Jefferson, *The Holy Wars of King Wladislas and Sultan Murad* (2012). **Son güncelleme:** 2026-10-14
 

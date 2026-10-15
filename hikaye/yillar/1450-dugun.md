@@ -14,27 +14,27 @@
 
 Nikâhtan üç gün önce konakta elmalar yeniden sofraya geldi; Meryem bunu bir işaret saydı, çünkü bu evde elma ayıklanırken konuşulmayan şeyler konuşulurdu.
 
-Büyükannesi ona kendi çeyiz sandığını açtı: iki yatak yüzü, bir seccade, bir tesbih, bir Kur'an ve bir kutu — kutunun içinde dedesinin **Yörgüç Paşa'nın** mühürsüz bir yüzüğü vardı; taşı düşmüş, yuvası boş.
+Büyükannesi ona kendi çeyiz sandığını açtı: iki yatak yüzü, bir seccade, bir tesbih, bir Kur'an ve bir kutu — kutunun içinde dedesinin Yörgüç Paşa'nın mühürsüz bir yüzüğü vardı; taşı düşmüş, yuvası boş.
 
 "Bunu ne yapayım?" diye sordu Meryem.
 
-"Takmazsın," dedi büyükannesi. "Ama yanında götürürsün. **İnsan, kendisine bir şey bırakılmış olmasını bilmekle yaşıyor.**"
+"Takmazsın," dedi büyükannesi. "Ama yanında götürürsün. İnsan, kendisine bir şey bırakılmış olmasını bilmekle yaşıyor."
 
-Meryem on yedi yaşındaydı ve evlenmek üzere olduğu adam, dört yaşından beri bu konağın bahçesinde gördüğü çocuktu. Değişen neydi? Bilmiyordu. Bildiği şey, onu her gün görmekle hiç görmemenin aynı şey olmadığıydı: **o çocuk sabah gidiyor, akşam dönüyordu; şimdi gidip dönmeyecek bir şey geliyordu.**
+Meryem on yedi yaşındaydı ve evlenmek üzere olduğu adam, dört yaşından beri bu konağın bahçesinde gördüğü çocuktu. Değişen neydi? Bilmiyordu. Bildiği şey, onu her gün görmekle hiç görmemenin aynı şey olmadığıydı: o çocuk sabah gidiyor, akşam dönüyordu; şimdi gidip dönmeyecek bir şey geliyordu.
 
-Sancakta düğün ilân edilmemişti. Ne üç günlük şenlik, ne cambaz, ne nahıl. Amasya'nın beş mahallesi, "konağa gelin geliyor" diye fısıldadı, o kadar; konağın kendi mahallesi bir gün önce kazan kaynattı, iki koç kesti. **Şehzâdenin düğünü bir şenlik değil, bir sözleşmeydi; şenliği Edirne yapar.**
+Sancakta düğün ilân edilmemişti. Ne üç günlük şenlik, ne cambaz, ne nahıl. Amasya'nın beş mahallesi, "konağa gelin geliyor" diye fısıldadı, o kadar; konağın kendi mahallesi bir gün önce kazan kaynattı, iki koç kesti. Şehzâdenin düğünü bir şenlik değil, bir sözleşmeydi; şenliği Edirne yapar.
 
 ## II
 
 Nikâh günü sabahı Berkay, Edirne'den gelen bir mektup buldu elinde; babasının tuğrası vardı, iki satır: *"Rûm'da evlenmek, Rûm'u elde tutmaktır. Sana oğullar, devlete kullar dilerim."* Mektupta annesinin adı geçmiyordu; geçmiş olsaydı da bir şey değişmeyecekti — Murad bu iki kelimeyi hiç öğrenememiş adamdı.
 
-Kadı efendi nikâhı kıldı; mehir iki bin akçe olarak sancak defterine geçti. Şahitlerden biri Hamza Bey'di; imzasını attıktan sonra kalemi silkti, mürekkebi fazla sürmüştü beş akçe kadar bir kâğıt parçası bozuldu, kâğıdı kimse atmadı. Tursun Bey nikâhı deftere yazarken tarihi "fî sene 854" diye düşledi ve yanına bir kelime ekledi: **«sâdıkâne»** — sadakatle. Berkay o gün kaydın kenarındaki kelimeyi okumadı.
+Kadı efendi nikâhı kıldı; mehir iki bin akçe olarak sancak defterine geçti. Şahitlerden biri Hamza Bey'di; imzasını attıktan sonra kalemi silkti, mürekkebi fazla sürmüştü beş akçe kadar bir kâğıt parçası bozuldu, kâğıdı kimse atmadı. Tursun Bey nikâhı deftere yazarken tarihi "fî sene 854" diye düşledi ve yanına bir kelime ekledi: «sâdıkâne» — sadakatle. Berkay o gün kaydın kenarındaki kelimeyi okumadı.
 
-Geceleri ziyafet yoktu; yalnız iki hasır, bir mangal, bir pencere. Berkay nişan hazırlıklarının arasında cebinden küçük bir şey çıkardı: **Bursa çarşısından aldığı ayna.** Meryem aldı, ters çevirdi, arkasına baktı; bir şey sormadı. Berkay o an fark etti ki hayatında ilk defa bir hediyeyi, anlamını anlatmadan verebilmişti: karşısındaki kadın bu dünyada başka bir şey sormayı bilen, bir şey sormamayı başaran tipti.
+Geceleri ziyafet yoktu; yalnız iki hasır, bir mangal, bir pencere. Berkay nişan hazırlıklarının arasında cebinden küçük bir şey çıkardı: Bursa çarşısından aldığı ayna. Meryem aldı, ters çevirdi, arkasına baktı; bir şey sormadı. Berkay o an fark etti ki hayatında ilk defa bir hediyeyi, anlamını anlatmadan verebilmişti: karşısındaki kadın bu dünyada başka bir şey sormayı bilen, bir şey sormamayı başaran tipti.
 
 ## III
 
-Temmuzda Rumeli'den haberler sökün etti: **Akçahisar'ın altında ordu vardı.** Babası padişah, kardeşi Mehmed yanında; toprak Rumeli, düşman İskender Bey, bekleyen Yanko.
+Temmuzda Rumeli'den haberler sökün etti: Akçahisar'ın altında ordu vardı. Babası padişah, kardeşi Mehmed yanında; toprak Rumeli, düşman İskender Bey, bekleyen Yanko.
 
 Berkay Amasya'da kaldı — sancak onun omzundaydı; kâğıtlar her hafta geldi. Kuşatma uzadıkça uzadı; Mayıs'ta başlayan iş eylülde bitmemişti. Sonra bir haber: *Yanko geliyor.* Ordu kaldırıldı; dağ yollarından geri dönüldü; kış yaklaşıyordu ve Akçahisar taşları, arkada bırakılan bütün o topla ve yüzlerce ölüyle birlikte İskender Bey'e kaldı.
 
@@ -42,13 +42,13 @@ Berkay bir akşam kâğıtları okurken Meryem yanına oturdu; kadın hiçbir ş
 
 *"Sancak beyi olmak, cephede olmamak demek. Biliyorum. Ama orada olmayı da bilirim; yine de gitsem bir tek şey değişmez. Bunu öğrendim bu yıl: orduyu kumandan götürür, devleti kâtip tutar."*
 
-Meryem sustu; sonra tek cümle söyledi: *"Kâtip de bir gün ölür, bey de. Taşı taşa koyan el kalır."* O gece Berkay uzun uzun düşündü: karşısındaki kadın iki ay içinde, kimsenin ona öğretmediği bir dille konuşmaya başlamıştı; **Yörgüç Paşa'nın kanı, hiç defter okumadan, konuşmayı öğreniyordu.**
+Meryem sustu; sonra tek cümle söyledi: *"Kâtip de bir gün ölür, bey de. Taşı taşa koyan el kalır."* O gece Berkay uzun uzun düşündü: karşısındaki kadın iki ay içinde, kimsenin ona öğretmediği bir dille konuşmaya başlamıştı; Yörgüç Paşa'nın kanı, hiç defter okumadan, konuşmayı öğreniyordu.
 
 ## IV
 
-Ağustosta Amasya'ya bir haber geldi: **padişahın bir oğlu olmuştu.** Annesinin kimliğine ilişkin haber açık değildi; adı Ahmed konuldu.
+Ağustosta Amasya'ya bir haber geldi: padişahın bir oğlu olmuştu. Annesinin kimliğine ilişkin haber açık değildi; adı Ahmed konuldu.
 
-Haber konakta bir gün konuşuldu, sonra unutuldu. Kimse bilmiyordu ki o bebek, ertesi yıl, taht değişiminin ilk günlerinde ölecek; çocuğun odasında bir beşik, başında bekleyenler vardı. O gün için konuşulan yalnız sağlığıydı.
+Haber konakta bir gün konuşuldu, sonra unutuldu. Çocuğun odasında bir beşik, başında bekleyenler vardı. O gün için konuşulan yalnız sağlığıydı.
 
 Kışın Edirne'den düğün haberi gelmedi. Edirne'de o kış düğün yoktu; Dulkadır'dan gelin getirilmedi, üç aylık şenlik kurulmadı. Sancakta bunu kimse fark etmedi; hikâyenin Edirne'sinde bir kısmı eksikti ve kimse eksiği aramadı.
 
@@ -64,9 +64,10 @@ Mektup gönderilmedi. Berkay onu defterin arasına koydu; kâtibi o kâğıdı h
 |---|---|
 | ✔ | **Berkay–Meryem nikâhı 1450 Amasya**; Sitti Mükrime ✖ ve Edirne düğünü ✖ (yazar kararı, `00-ana-hat.md` §2a). |
 | ✔ | **Küçük Ahmed 1450'de doğar, 1451'de eceliyle ölür** (✔); hikâye Dukas'taki hamam sahnesini kullanmaz (`dukas.md`, `02-birincil-kaynaklar/`). |
-| ✔ | **Akçahisar (Kruja) kuşatması May–Ekim 1450, Yanko söylentisiyle kaldırılır** `[K]`; Mehmed babasının yanındadır `[K]`. |
+| ✔ | **Akçahisar (Kruja) kuşatması May–Ekim 1450, Yanko söylentisiyle kaldırılır** `[K]`; Mehmed'in katılımı için İnalcık, “Mehmed II”, DİA, “Resmî olarak Mehmed Çelebi Sultan…” paragrafı doğrudan okundu `[M]` (https://islamansiklopedisi.org.tr/mehmed-ii; erişim 15 Ekim 2026). |
 | ⚙ | Kalıp: **tam bölüm** (kâtip seçti; 15 Eki 2026 devir notu sonrası). Göz: Meryem (I, IV), Berkay (II, III). |
-| ⚙ | Ayna (1449'dan devam), «sâdıkâne» notu ve gönderilmeyen mektup kâtip eklemeleridir; mektup motifi defter **§XX**'i (yazarın metni) hatırlatır — **o metne dokunulmaz**. Meryem’in ileride okuması yalnız öneridir; yıl kararı alınmadı. |
+| ⚙ | Ayna (1449'dan devam), «sâdıkâne» notu ve gönderilmeyen mektup kâtip eklemeleridir; mektup motifi defter **§XX**'i (yazarın metni) hatırlatır — **o metne dokunulmaz**. Meryem'in ileride okuması yalnız öneridir; yıl kararı alınmadı. |
+| ⚙ `[?]` | “İki bin akçe mehir” ve “sancak defterine geçti” kâtip taslağının kaynaksız ayrıntılarıdır; elde nikâh/defter belgesi yoktur. Miktarın dönem için uygunluğu araştırma bekler; gerçek kayıt veya onaylı yazar tercihi değildir. |
 | ⚙ | Murad'ın fermânındaki iki satır kurgudur; gerçekte Murad 1450'de seferdedir. |
 | `[M]` | Küçük Ahmed'in annesi Hatice Halime Hatun tespiti tartışmalıdır `[M]`; dosya ad anmaz. |
 | Sonraki yıl | **1451:** Murad'ın ölümü (3 Şubat), vasiyet ve taht Berkay'a; Halil'in 16 günü; **18 Şubat Mehmed gelir, taht verilmez**; Küçük Ahmed eceliyle ölür; **7 Mart cülûs**; Kurtçu Doğan Ağa düşkün olur ve Akşemseddin'e sığınır; af daha sonradır, günü belirlenmedi. |

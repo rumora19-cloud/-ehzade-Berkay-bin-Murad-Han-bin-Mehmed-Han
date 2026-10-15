@@ -1,5 +1,7 @@
 # Kaynak × dönem matrisi — "Bu yıl için kime bakayım?"
 
+> **Kapsam:** Kaynak × dönem matrisi — "Bu yıl için kime bakayım?" · **Güvenilirlik:** derleme; iddia düzeyinde atıf denetimi sürüyor
+
 > `00-katalog.md`'deki kaynakların hangi yılları **bizzat gördüğü** (●), hangilerini **bir kuşak sonra derlediği** (○) ve hangi konuda **tek/en iyi kaynak** olduğu. Hikâyenin her bölümü yazılırken önce bu tabloya, sonra ilgili kronoloji dosyasına bakılır.
 > **Son güncelleme:** 2026-10-14
 

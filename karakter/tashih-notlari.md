@@ -231,7 +231,7 @@ Yazar: *"Berkay'ı Şehzade Berkay'a çevir, Çelebi ismini at tamamen, Bahadır
 | §XIII Ocak ağzı | Kral Vuran Çelebi; Varna'nın Genç Okçusu | Kral Vuran Şehzâde; "başka ad takmadı" (**Genç Okçu silindi** — istenirse geri gelir) |
 | §XIV başlık ve "Şanı" | Bahadır Çelebi / Bahadır | Kral Vuran Şehzâde |
 | §XVII hitap | Ocak: Bahadır Çelebi; fermân: Şehzâde Berkay Çelebi | Ocak: Kral Vuran Şehzâde; fermân: Şehzâde Berkay |
-| Dosya adı | `berkay-celebi-ahval-defteri.md` | `sehzade-berkay-ahval-defteri.md` (bütün bağlantılar güncellendi) |
+| Dosya adı | eski/geçersiz ad: berkay-celebi-ahval-defteri.md (yalnız değişiklik geçmişi; atıf değildir) | `sehzade-berkay-ahval-defteri.md` (bütün bağlantılar güncellendi) |
 
 Dokunulmayan "Çelebi"ler (tarihî adlar): Çelebi Sultan Mehmed (dede), ağabey Alâeddin Ali Çelebi, Ahmed/Orhan/Hasan Çelebi (ölen kardeşler), hain Orhan Çelebi, ikiz için "Mehmed Çelebi" (`mehmed-soyu-alternatif.md`). Yazar isterse onlar da düşer.
 

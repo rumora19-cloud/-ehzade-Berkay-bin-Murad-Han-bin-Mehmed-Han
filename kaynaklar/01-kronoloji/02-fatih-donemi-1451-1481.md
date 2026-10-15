@@ -1,5 +1,7 @@
 # II. Mehmed (Fâtih) Dönemi — 18 Şubat 1451 → 3 Mayıs 1481
 
+> **Güvenilirlik:** derleme; iddia düzeyinde atıf denetimi sürüyor
+
 > **Ayırma kaydı (15 Ekim 2026, grup 2):** Önceki karışık nüsha `../../hikaye/notlar/kaynaktan-ayrilan/02-fatih-donemi-1451-1481.md` dosyasında kayıpsız korunur; ayrılan parçalar `../../hikaye/notlar/kronoloji-hanedan-uygulamalari/02-fatih-donemi-1451-1481.md` içindedir. Bu işlem tarihî doğrulama veya yeni kurgu kararı değildir.
 
 > **Kapsam:** II. Mehmed’in ikinci cülûsundan ölümüne kadar 1451–1481 tarihî kronoloji derlemesi. Alternatif hükümdar ve sefer uygulamaları ayrılmıştır; kalan tarihî iddiaların atıf denetimi sürüyor.

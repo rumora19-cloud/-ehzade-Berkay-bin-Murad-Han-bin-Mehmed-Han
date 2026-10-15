@@ -1,5 +1,7 @@
 # Yerler
 
+> **Kapsam:** Yerler · **Güvenilirlik:** derleme; iddia düzeyinde atıf denetimi sürüyor · **Son güncelleme:** 2026-10-15
+
 Saray şehirleri, sancak merkezleri ve savaş alanları. Her dosya: doku ve nüfus → saray/yapılar (1444'te var ★ / sonra ○) → idare → olaylar → yollar/iklim → 🎭 kancalar.
 
 | Dosya | İçerik |

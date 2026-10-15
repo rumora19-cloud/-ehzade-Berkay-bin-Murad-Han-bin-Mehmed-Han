@@ -34,7 +34,7 @@
 | **1 Mayıs Salı** | 21 Rebîülâhir → (hilâl) | **Üç dalga:** Giustiniani yaralı düşer, **Kerkoporta** açılır, **Konstantin ve Orhan Çelebi** surlarda ölür; **Mehmed Topkapı'dan girer** | Şehrin düştüğü gün; gün içinde beş an, beş ayrı gözle |
 | **2 Mayıs Çarşamba** | 22 Rebîülâhir | **Çandarlı Halil tutuklu** | İlk gölgenin ilk halkası |
 | **4 Mayıs Cuma** | 24 Rebîülâhir | **İlk Cuma, Ayasofya'da kılınır** | Mihrap, minber, ilk hutbe; şehrin adı **İslambol** |
-| **10 Temmuz 1453** | 10 Receb 857 | **Çandarlı Halil'in idamı** | ✔ çatal korunur; `01-katal-noktalari.md` |
+| **10 Temmuz 1453** | 10 Receb 857 | **Çandarlı Halil'in idamı** | ✔ çatal korunur; `../01-catal-noktalari.md` |
 
 **Hilâl/ay kontrolü:** 1 Mayıs = Rebîülâhir 21; ay sonu **11 Mayıs** = 1 Cemâziyelevvel `[M]`. Büyük hücum ay ortasına düşer — "bedir gecesi sonrası" tabiri kullanılmaz.
 

@@ -1,5 +1,7 @@
 # Hukuk 1444–1520: şer' ve örf, kanunnâme, kadı mahkemesi, kazasker, müftü, ceza ve müsadere
 
+> **Kapsam:** Hukuk 1444–1520: şer' ve örf, kanunnâme, kadı mahkemesi, kazasker, müftü, ceza ve müsadere · **Güvenilirlik:** derleme; iddia düzeyinde atıf denetimi sürüyor
+
 > **Neden bu dosya:** Hikâyede "kanun" bir omurgadır: Berkay'ın kanunnâmesi (gerçekte Fatih Kanunnâmesi, 1477–81), Çandarlı Halil'in (1453) ve Mahmud Paşa'nın (1474) siyaseten katli, Cem'in "hak" iddiası, Selim'in idamları (1512–20 yıllarının omurgası). Burada **gerçek** kurumlar, kişiler, metinler ve usuller; hikâye kullanımı 🎭.
 > **Kaynaklar:** DİA "Kanunnâme", "Fâtih Kanunnâmesi", "Kadı", "Kazasker", "Şeyhülislâm", "Örf", "Siyaset", "Müsadere", "Ta'zir", "Fetva", "Sahn-ı Semân", "Molla Hüsrev", "Molla Gürânî", "Zenbilli Ali Efendi", "Kemalpaşazâde"; *Kanunnâme-i Âl-i Osman* (nşr. A. Özcan, 2003); A. Akgündüz, *Osmanlı Kanunnâmeleri* I–III; H. İnalcık, "Osmanlı Hukukuna Giriş: Örfî-Sultanî Hukuk ve Fâtih'in Kanunları" (1958), *Devlet-i Aliyye* I; U. Heyd, *Studies in Old Ottoman Criminal Law* (1973); K. Dilger, *Untersuchungen zur Geschichte des osmanischen Hofzeremoniells* (1967 — otantiklik tartışması); Uzunçarşılı, *İlmiye Teşkilâtı* (1965); R. C. Repp, *The Müfti of Istanbul* (1986); H. İnalcık, "Bursa Şer'iye Sicillerinde Fatih Sultan Mehmed'in Fermanları" (1947); İ. Ortaylı, *Hukuk ve İdare Adamı Olarak Osmanlı Devletinde Kadı*. **Son güncelleme:** 2026-10-15
 > **Etiketler:** `[K]` kesin · `[M]` muhtemel · `[T]` tartışmalı · `[R]` rivayet · 🎭 hikâye kancası.

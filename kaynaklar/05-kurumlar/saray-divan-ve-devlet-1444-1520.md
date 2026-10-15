@@ -1,5 +1,7 @@
 # Saray, Dîvân-ı Hümâyun ve devlet teşkilâtı (1444–1520)
 
+> **Kapsam:** Saray, Dîvân-ı Hümâyun ve devlet teşkilâtı (1444–1520) · **Güvenilirlik:** derleme; iddia düzeyinde atıf denetimi sürüyor
+
 > Şehzâde Berkay'ın hayatı sarayların içinde geçer: Edirne Eski/Yeni Saray, Manisa, Amasya, Topkapı. Kim kime nasıl hitap eder, kim nerede oturur, bir ferman nasıl çıkar, hazinede ne kadar para var — bu dosya o soruların deposu.
 > **Kaynaklar:** **Fatih Kanunnâmesi** (Kanunnâme-i Âl-i Osman; nşr. Abdülkadir Özcan, 2003/2007; Akgündüz, *Osmanlı Kanunnâmeleri* I); Uzunçarşılı, *Saray Teşkilâtı* (TTK 1945), *Merkez ve Bahriye Teşkilâtı* (1948); Necipoğlu, *Topkapı* (1991); Promontorio de Campis (1475), Angiolello, Menavino, Spandounes, Bassano, Gritti raporu (1503); Tursun Bey; İnalcık, *The Ottoman Empire: The Classical Age* ve *Devlet-i Aliyye* I; Mumcu, *Divan-ı Hümayun*; Pakalın, *Tarih Deyimleri*; Ö. L. Barkan, *1527–28 bütçesi* (karşılaştırma). **Son güncelleme:** 2026-10-14
 

@@ -1,5 +1,7 @@
 # Birincil Kaynaklar Kataloğu (1444–1520)
 
+> **Güvenilirlik:** derleme; iddia düzeyinde atıf denetimi sürüyor
+
 > **Kapsam:** Dönemle çağdaş veya bir kuşak sonrasına ait metinler · **Son güncelleme:** 2026-10-14
 > **Nasıl okunmalı:** Her madde için *müellif → yazılış → kapsam → dil → neşir/çeviri → erişim → güvenilirlik → hikâye için değeri*. Neşir bilgisi önemlidir; sayfa atıfları neşre göre değişir.
 
@@ -223,7 +225,7 @@ Kısaltmalar: **TTK** Türk Tarih Kurumu · **DİA** TDV İslâm Ansiklopedisi �
 - **Telifsiz eski basımlar** (Âlî Bey Âşıkpaşazâde 1914, Mehmed Ârif Tursun Bey 1914, Karolidi Kritovulos 1910, Giese anonimleri 1922, Babinger Oruç 1925, Feridun Bey Münşeât 1858): archive.org ve Google Books'ta taranmış; Osmanlı harfleriyle.
 - **DİA:** Her müellif ve eser için güncel madde + bibliyografya: https://islamansiklopedisi.org.tr
 - **Akademik makaleler:** DergiPark (dergipark.org.tr), Belleten arşivi (belleten.gov.tr), İSAM makaleler veritabanı (isam.org.tr).
-- **Bu repoda:** Kaynak başına ayrı özet dosyası: **`asikpasazade.md`**, **`dukas.md`**, **`vakiat-i-sultan-cem.md`** açıldı (15 Ekim 2026); ötekiler sırayla (`nesri.md`, `tursun-bey.md`, `kritovulos.md`, `barbaro.md` …). Kilit pasajlar kısa alıntı + sayfa numarasıyla oraya işlenecek.
+- **Bu repoda:** Kaynak başına ayrı özet dosyası: **`asikpasazade.md`**, **`dukas.md`**, **`vakiat-i-sultan-cem.md`** açıldı (15 Ekim 2026); Neşrî, Tursun Bey, Kritovulos ve Barbaro için ayrı dosyalar **henüz açılmadı**; bu yazarlar için şimdilik bu katalogdaki özetlere başvurulur. Kilit pasajlar kısa alıntı + sayfa numarasıyla oraya işlenecek.
 
 ---
 
