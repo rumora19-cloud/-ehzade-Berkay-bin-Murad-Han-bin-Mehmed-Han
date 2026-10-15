@@ -20,6 +20,8 @@
 | Kas–Ara 1446 | Mora: Germe (Heksamilion) suru 27 Kas–10 Ara | Aynen; Mehmed Manisa'da fetihnâmeyi okutur, akçe hesabını kendi defterine yazar (⚙) | ✔ |
 | 1447 | Üç Şerefeli tamamlanır; Mora yeniden tâbi; **Vlad Drakul öldürülür (Ara)**; Bayezid doğar (Dimetoka) | Aynen; Berkay Amasya'da ilk tam yıl — **lalası Hamza Bey** (⚙); ocak hatırası: iki Eflaklı rehine çocuk (Vlad Țepeş, Radu) | ✔ ⚙ |
 | 1448 | Kocacık geri alınır; **II. Kosova 17–20 Eki**; VIII. Ioannes ölür (31 Eki) | Aynen; **Berkay'ın ilk kol komutası** (Y); ⚙ Vlad Țepeș Eflak'a döner, Radu sarayda kalır | ✔ ⚙ |
+| 1449 | **Hüma Hatun Bursa'da ölür** (Muradiye, Hatuniye 853); Karaca Bey Rumeli beylerbeyi; **XI. Konstantinos 6 Oca** | Aynen; **ikizler annelerinin cenazesinde buluşur** (⚙); Berkay Meryem'i ister — nikâh 1450 | ✔ ⚙ |
+| 1450 | Akçahisar May–Eki kuşatılır, kaldırılır; **Küçük Ahmed doğar**; kışın Edirne'de Dulkadır düğünü | ✔ **Akçahisar aynen** (Mehmed babasının yanında); **Edirne düğünü ✖** — **Berkay Amasya'da Meryem'le evlenir** (Y); Küçük Ahmed doğar (1451'de eceliyle ölür ✔) | ✔ ✖ |
 | 1448–50 | II. Kosova; Hüma ö. (Eyl 1449); **Mehmed–Sitti Hatun düğünü** (1450); Akçahisar | Kosova, Hüma, Akçahisar aynı; **Sitti Mükrime bu evrende yok — düğün ✖** (Y); **Berkay çocukluk aşkıyla evlenir** (Y; ✔ **Meryem Hatun**, tek eş — câriye yok; iki oğul da ondan) | ✎ ✖ |
 | **3 Şub 1451** | Murad ölür; Halil 16 gün gizler | Murad rüyayı vasiyete çevirir: taht Berkay'ın (Y) | ✎ |
 | 18 Şub 1451 | Mehmed gelir, cülûs | Mehmed gelir, taht verilmez; **isyan etmez, babasının sözüne karşı konuşmaz** (Y) | ✎ |
