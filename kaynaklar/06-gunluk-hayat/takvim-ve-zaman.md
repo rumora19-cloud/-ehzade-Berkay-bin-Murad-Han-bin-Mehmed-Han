@@ -35,7 +35,7 @@ Haftanın günleri: **Cuma** (hutbe — hutbede padişahın adı = hâkimiyet; C
 
 ## 4. Berkay'ın ömrü — yıl yıl dönüşüm tablosu (848–927)
 
-Sütunlar Jülyen tarih + hafta günü. "Berkay yaşı" = 1 Muharrem'deki yaş (kamerî / şemsî; kamerî yaş 27 Receb'de bir artar).
+Sütunlar Jülyen tarih + hafta günü. "Berkay yaşı" = 1 Muharrem'deki yaş (kamerî / şemsî; kamerî yaş 27 Receb'de bir artar). **Yazar kararı (15 Ekim 2026): metinde yaş daima OLAY GÜNÜ yaşıdır** — doğum günü (27 Receb / 30 Mart) geçtiyse tam yaş, geçmediyse bir eksik; tablodaki 1 Muharrem değeri yalnız referanstır (örnek: Selim 24 Nis 1512'de 41, 21/22 Eyl 1520'de 49; Alâeddin Ali 1520'de 65).
 
 | Hicrî yıl | 1 Muharrem | 1 Ramazan | 1 Şevval (Ramazan Bayramı) | 10 Zilhicce (Kurban Bayramı) | 27 Receb (Mi'râc — Berkay'ın doğum günü) | Berkay yaşı (kamerî / şemsî, 1 Muharrem'de) | Yıl uzunluğu |
 |---|---|---|---|---|---|---|---|

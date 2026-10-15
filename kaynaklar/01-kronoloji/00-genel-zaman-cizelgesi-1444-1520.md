@@ -106,7 +106,8 @@ Karakter dosyasına göre (`karakter/sehzade-berkay-ahval-defteri.md`) Berkay, *
 | Eflak gece baskını (hikâyede Lala'nın şehadeti) | 17 Haz 1462 | 30 | 10 | 7 | — |
 | Otlukbeli | 11 Ağu 1473 | 41 | 21 | 18 | 2 |
 | Mustafa'nın ölümü, Mahmud Paşa'nın idamı | 1474 | 42 | 22 | 19 | 3 |
-| Akdere / Valea Albă (hikâyede Pedri'nin ölümü) | 26 Tem 1476 | 44 | 24 | 21 | 5 |
+| Akdere / Valea Albă (yalnız meydan savaşı) | 26 Tem 1476 | 44 | 24 | 21 | 5 |
+| Bükreş yakını (Vlad'ın ölümü, ✔ hikâye) | 31 Ara 1476 | 44 | 24 | 21 | 5 |
 | Otranto; Milvius Köprüsü (hikâyede Mehmed'in şehadeti) | Ağu–Eki 1480 | 48 | 28 | 25 | 10 |
 | Gerçekte Fatih'in ölümü; hikâyede **Berkay'ın ölümü** (Cannae), Orhan'ın cülûsu; Cem vak'ası | May–Haz 1481 | **49 ✝** | 29 | 26 | 10 |
 | Cem'in ölümü (Napoli) | Şub 1495 | — | 43 | 40 | 24 |

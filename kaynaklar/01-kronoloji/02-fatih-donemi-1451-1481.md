@@ -170,15 +170,15 @@
 
 1. **1451 Şubat–Mart:** Murad'ın vasiyeti Berkay'a; Mehmed Edirne kapısında itaat eder, serdar olur; Orhan Çelebi salınır, Lala Evrenosoğlu yolunu keser, Kostantiniyye'ye kaçar; Küçük Ahmed eceliyle ölür; Kurtçu Doğan ağalıktan uca. Gerçekteki ayrıntılar (Halil'in 16 gün gizlemesi, Karaman seferi, Bursa bahşişi) aynen kullanılır.
 2. **1453:** 25 günlük kuşatma; "ne güzel kumandan" Berkay; Mehmed serdar; Halil 10 Temmuz'da boğdurulur (gerçekteki gibi) — Berkay'ın hocası, Berkay'ın hükmüyle: ilk gölge.
-3. **1456 Belgrad:** hikâyede kale 22 Temmuz'da düşer, Hunyadi gedikte ölür; Dayı Karaca ölür (gerçek); Halley gökte; Pedri (Hunyadi'nin adamı) sağ çıkar — Varna'nın üç hayaleti.
+3. **1456 Belgrad:** hikâyede kale 22 Temmuz'da düşer, Hunyadi gedikte ölür; Dayı Karaca ölür (gerçek); Halley gökte; **Koca Hızır da gediğinde ölür; Has Yunus Bey Enez–Limni ile kapudan olur** — Varna'nın üç hayaleti.
 4. **1457 Edirne düğünü:** Bayezid (10) ve Mustafa (7) Mehmed'in oğulları, padişahın yeğenleri; Orhan 5, Alâeddin Ali 2; ulemâ münazarası aynen.
 5. **1461 Trabzon:** Sara Hatun diyaloğu serdar Mehmed'le mi, padişah Berkay'la mı — bölüm kararı; Amiroutzes; "Trabzon da bir Roma'dır".
-6. **1462 Eflak:** 17 Haziran gece baskını — **Lala Evrenosoğlu Ali Bey serdar Mehmed'in çadırını korurken Pedri'nin elinden şehit** (gerçek: Ali Bey 1462 seferine katıldı, sonrasında öldü); Kurtçu Doğan'ın yemini. Vlad Berkay'ın yaşıtı, Edirne rehinesi.
+6. **1462 Eflak:** 17 Haziran gece baskını — **Lala Evrenosoğlu Ali Bey serdar Mehmed'in çadırını korurken Vlad'ın elinden şehit** (gerçek: Ali Bey 1462 seferine katıldı, sonrasında öldü; ⚙ aynı gece Has Yunus Bey de düşer; Şubat 1462'de Vlad, elçi Hamza Bey'i kazığa vurur); Kurtçu Doğan'ın yemini. Vlad Berkay'ın yaşıtı, Edirne rehinesi.
 7. **1467 veba:** saray Edirne'ye; padişahın şehirde kalıp kalmaması bölüm kararı.
 8. **1468–74 Mustafa:** Mehmed'in en sevdiği oğlu Konya'da; Kıreli; Otlukbeli sol kol; eceliyle ölümü (✔). Amca–yeğen, ok–kılıç: hikâyenin orta bloğu.
 9. **1473 Otlukbeli:** Berkay (41) ordunun başında; Cem (13) Edirne'de muhafız — "saltanat teklifi" meselesi hikâyede de var mı? bölüm kararı.
 10. **1474 Mahmud Paşa'nın idamı:** ✔ korunur — Berkay'ın hükmü; ikinci gölge.
-11. **1476 Akdere:** gerçekte Fatih'in bizzat öne atıldığı gün; hikâyede Berkay (44) Pedri'yi kendi eliyle öldürür (⚙ yer/gün).
+11. **1476 Akdere (26 Tem):** gerçekte Fatih'in bizzat öne atıldığı gün; hikâyede yalnız meydan savaşıdır — Berkay (44) orduyla baştadır. **Vlad'ı Berkay 31 Ara 1476 Salı (14 Ramazan 881), Bükreş yakınında kendi eliyle öldürür; başı İstanbul'a gelir** (⚙; Akdere kuralı 15 Eki 2026'da değişti).
 12. **1479–80 Bellini:** sarayda Venedikli ressam; portre Berkay'ın; 1480 Rodos düşer, Otranto 11 Ağustos; **Mehmed 28 Ekim 1480 Milvius Köprüsü'nde şehit** (gerçekte Otranto'dan Roma'ya yürünmedi); İslambol'a, Fâtih Camii hazîresine gömülür.
 13. **1481 Mayıs:** gerçekte Fatih'in ölümü (3 Mayıs) — hikâyede aynı gün **Berkay Cannae'de otağında ölür (49)**; Orhan aynı gün Alfonso'yu ezer; zehir söylentisi Hekim Yakub'a; Cem Bayezid'i öldürür; Cem vak'ası birebir, rakip Orhan.
 

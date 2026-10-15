@@ -4,11 +4,14 @@
 
 Kapsanan dönem: **11 Kasım 1444** (Varna Zaferi'nin ertesi günü) — **1520** (Yavuz Sultan Selim'in ölümü, Kanunî'nin cülûsu).
 
+> **© 2026 rumora19-cloud — Tüm hakları saklıdır.** Buradaki kurgu metinlerinin ve derlemelerin hiçbir parçası yazılı izin olmadan kullanılamaz; ayrıntı ve istisnalar: [`LICENSE`](LICENSE).
+
 ## Repo nasıl çalışır?
 
 ```
 .
 ├── README.md                  ← bu dosya
+├── LICENSE                    ← telif (tüm hakları saklıdır)
 ├── KILAVUZ.md                 ← yazım, tarih, atıf ve dosya kuralları
 ├── karakter/                  ← Berkay'ın "Ahvâl Defteri" (yazarın metni) + tashih notları
 ├── hikaye/                    ← bölümler, plan, sahne notları
@@ -34,6 +37,7 @@ Kapsanan dönem: **11 Kasım 1444** (Varna Zaferi'nin ertesi günü) — **1520*
 
 | Alan | Durum |
 |---|---|
+| Telif | ✅ `LICENSE` (© 2026 rumora19-cloud — tüm hakları saklıdır); kök README'de telif satırı |
 | Kaynak kataloğu (birincil) | ✅ ilk sürüm |
 | Genel zaman çizelgesi 1444–1520 | ✅ ilk sürüm |
 | II. Murad ikinci saltanatı 1444–1451 (ayrıntılı) | ✅ ilk sürüm |
@@ -49,10 +53,11 @@ Kapsanan dönem: **11 Kasım 1444** (Varna Zaferi'nin ertesi günü) — **1520*
 | Karakter dosyası (Ahvâl Defteri) | ✅ işlendi; tashih C1, C3–C6, C9–C12 yazar onayıyla uygulandı (`karakter/sehzade-berkay-ahval-defteri.md`, döküm `tashih-notlari.md` §H) |
 | Hikâye ana hattı (üç padişahlık kavis) | ✅ derlendi (`hikaye/00-ana-hat.md`) — ✔ yazar kararları / ⚙ kâtip kararları işaretli |
 | Yıl yıl plan (1444–1520, 77 yıl; kitap bölümlemesi kaldırıldı) | ✅ yazar kararı 15 Ekim 2026 (`hikaye/02-bolum-plani.md`) |
-| Yıl metinleri | ✎ 1444 ve 1445 yazıldı (`hikaye/yillar/1444-saf-beni-gecti.md`, `1445-golge.md`); sırada 1446 |
+| Yıl metinleri | ✎ 1444, 1445 ve 1446 yazıldı (`hikaye/yillar/1444-saf-beni-gecti.md`, `1445-golge.md`, `1446-bucuk.md`); sırada 1447 |
 | Kaynak dosyalarındaki 🎭 hikâye notları | ✅ nihai kurguya göre güncellendi (2026-10-15): Berkay 1451–81, II. Orhan 1481–1512, Selim 1512–20 |
 | Çatal noktaları (gerçek tarih → kurgu, yıl yıl) | ✅ ilk sürüm (`hikaye/01-catal-noktalari.md`) |
 | Kurgusal hanedan ve çevre dosyaları (Berkay soyu, Mehmed soyu, çevre kişiler) | ✅ derlendi (`karakter/`) |
-| Karakter dosyasının tarihî tashihi | ✅ ilk sürüm (`karakter/tashih-notlari.md`) — yazar onayı bekleniyor |
+| Karakter dosyasının tarihî tashihi | ✅ ilk sürüm (`karakter/tashih-notlari.md`); 15 Ekim 2026 devir notu işlendi (§I dökümü) |
+| Devir notu (yazar, 15 Ekim 2026) | ✅ işlendi: lâkap **Şâh-küş Şehzâde**; kurgu kişi yok (Tursun Bey / Has Yunus Bey / Hamza Bey / Vlad Țepeş); Hüma Sultan ✖, Gevherhan ✔; Orhan Manisa 1468–80; Meryem † 12 Şub 1499; kalıp sütunu; `hikaye/03-el-yazmasi-sirasi.md` |
 
 > Not: Bu repo bir **kurgu** projesidir. `kaynaklar/` altındaki her şey tarihî kayıtlara dayanır ve atıflıdır; `karakter/` ve `hikaye/` altındakiler kurgudur. İkisi hiçbir zaman karıştırılmaz.

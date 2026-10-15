@@ -1,12 +1,12 @@
 # ŞEHZÂDE BERKAY BİN MURAD HAN
 
-*Ahvâl Defteri — tashih ve tevsî' edilmiş nüsha*
+*Kâtip Tursun'un defteri — tashih ve tevsî' edilmiş nüsha*
 
 *Fî 29 Receb sene 848, Çarşamba günü*
 
 *Bismillâhirrahmânirrahîm. Bu defter, Varna zaferinin ertesinde, Sultan Murad Han'ın ordugâhında tutulmuş bir ahvâl kaydıdır: şehzâde kimdir, nesinden gelir, hangi sancağın beyidir, nasıl yetişti, neye inanır, ne yaptı ve şimdi nerededir.*
 
-> **Repo notu:** Bu metin yazarın gönderdiği nüshanın aynısıdır; yalnız Markdown biçimi düzeltilmiştir (alıntı işaretleri, tablo satırları). **Yazarın talimatıyla (15 Ekim 2026) ad ve lâkap düzeltmesi yapılmıştır:** "Çelebi" ve "Bahadır" kaldırıldı; tek lâkap **"Kral Vuran Şehzâde"** (değişen satırların dökümü: `tashih-notlari.md` §G). **Yazar onayıyla (15 Ekim 2026) tashih C1, C3–C6, C9–C12 işlendi** — döküm: `tashih-notlari.md` §H; C2 `[T]` korunur, C7–C8, C13–C14 ve §XX mektubu dokunulmadı. Tarihî doğrulama ve önerilen düzeltmeler için bk. `karakter/tashih-notlari.md`. Metin değiştirilmeden önce yazar onayı alınır.
+> **Repo notu:** Bu metin yazarın gönderdiği nüshanın aynısıdır; yalnız Markdown biçimi düzeltilmiştir (alıntı işaretleri, tablo satırları). **Yazarın talimatıyla yapılan düzeltmeler:** (a) 15 Ekim 2026: "Çelebi" ve "Bahadır" kaldırıldı (döküm: `tashih-notlari.md` §G). (b) 15 Ekim 2026 **devir notu:** lâkap **"Şâh-küş Şehzâde"** oldu; kurgusal şahıs adları gerçek tarihî kişilerle değiştirildi — kâtip Sinan bin Abdullah → **Tursun Bey**, silâhdar Yunus Ağa → **Has Yunus Bey**, hazinedar Hamza Ağa → **Hamza Bey** (döküm: §I). **Yazar onayıyla tashih C1, C3–C6, C9–C12 işlendi** — §H; C2 `[T]` korunur, C7–C8, C13–C14 ve §XX mektubu dokunulmadı. Tarihî doğrulama için bk. `karakter/tashih-notlari.md`. Metin değiştirilmeden önce yazar onayı alınır.
 
 ---
 
@@ -26,11 +26,11 @@
 
 - **Sancağı:** **Saruhan (merkezi Manisa).** Bu yaz Sultan Murad Han'ın Manisa'ya çekilmesinden beri beyi Berkay'dır. Geçen seneden bu yaza dek **Rûm sancağının (Amasya)** beyiydi.
 
-- **Lâkabı:** *Kral Vuran Şehzâde* — Varna akşamından beri ocağın ve ordunun ağzında; tek lâkabıdır.
+- **Lâkabı:** *Şâh-küş Şehzâde* — Varna akşamından beri ocağın ve ordunun ağzında; tek lâkabıdır. Varna gecesi kazan başında söylenen söz **"kral vuran!"** idi; ocağın dile ve deftere geçirdiği ad ise **Şâh-küş Şehzâde** oldu: *bir okla Engürüs tahtını tahtsız koyan* demektir. Resmî yazıda uzun biçimi: *«Yek tîr ile taht-ı Engürüs'ü bî-şâh koyan Şehzâde-i Şâh-küş Berkay bin Murad Han — tâle bekāhu»*.
 
-- **Sıfatı:** Başka sıfat taşımaz. *Kral Vuran Şehzâde* lâkabı, savaşta gösterdiği yararlık üzerine ordunun ve ocağın taktığı addır. **Resmî adının parçası değildir:** fermânla verilmez, divan defterine yazılmaz, tuğraya girmez.
+- **Sıfatı:** Başka sıfat taşımaz. *Şâh-küş Şehzâde* lâkabı, savaşta gösterdiği yararlık üzerine ordunun ve ocağın taktığı addır. **Resmî adının parçası değildir:** fermânla verilmez, divan defterine yazılmaz, tuğraya girmez.
 
-- **Anılışları:** Resmî defterde ve fermânda *Saruhan Beyi Şehzâde Berkay*; ordunun ve ocağın dilinde *Kral Vuran Şehzâde*.
+- **Anılışları:** Resmî defterde ve fermânda *Saruhan Beyi Şehzâde Berkay*; ordunun ve ocağın dilinde *Şâh-küş Şehzâde*; ocak nârasında *kral vuran!*.
 
 - **Mührü:** Küçük, yuvarlak; üzerinde adı ve *"Tevekkeltü alâ'llâh"* sözü yazılıdır.
 
@@ -58,13 +58,13 @@ Saruhan; merkezi Manisa olmak üzere Akhisar, Gördes, Demirci ve Nif ile Meneme
 
 Sancağı bir çocuk yönetmez; sancağı sancağın maiyeti yönetir. Şehzâdenin yanında:
 
-- **Lalaları: Kassaboğlu Mahmud Bey ve Nişancı İbrahim Bey** — Mahmud Bey, Çandarlı Halil Paşa'nın itimat ettiği, devlet işlerine vâkıf, temkinli bir adamdır; İbrahim Bey kalem adamıdır ve kalemi iki tarafa da yazar. Mehmed'in Manisa günlerinde ona lalalık etmişlerdir. Mehmed Edirne'ye alınınca Manisa'da kalmışlar, Berkay Saruhan'a bey olunca Sultan Murad Han'ın emriyle onun lalalığına geçmişlerdir.
+- **Lalaları: Kassaboğlu Mahmud Bey ve Nişancı İbrahim Bey** — Mahmud Bey, Çandarlı Halil Paşa'nın itimat ettiği, devlet işlerine vâkıf, temkinli bir adamdır; İbrahim Bey kalem adamıdır ve kalemi iki tarafa da yazar. Mehmed'in Manisa günlerinde ona lalalık etmişlerdir. Mehmed Edirne'ye alınınca lalalar ikiye bölündü: **Kassaboğlu Mahmud Bey Mehmed'le Edirne'ye gitti; Nişancı İbrahim Bey Manisa'da kaldı ve sancağın mührünü tuttu — Sultan Murad Han'ın gölgesi altındaki idarenin mührü.** Berkay Saruhan'a bey olunca gündelik işler İbrahim Bey'in elinden yürüdü; sefer buyurulduğunda ikisi de beyin yanındaydı.
 
 - **Kadı, sancak defterdarı, subaşı, çeribaşıları** ve sancağın tımarlı sipahileri.
 
-- **Silâhdâr Yunus Ağa** ve **hazinedar Hamza Ağa** — şehzâdenin kendi maiyeti.
+- **Silâhdâr Has Yunus Bey** ve **hazinedar Hamza Bey** — şehzâdenin kendi maiyeti.
 
-- **Sancak kâtiplerinden Sinan bin Abdullah** — bu defteri tutan kalemdir.
+- **Sancak kâtiplerinden Tursun Bey** — bu defteri tutan kalemdir; Bursalıdır, Cebe Ali Bey'in yeğenidir, bu yıl on sekiz yaşındadır.
 
 ### Bey ne yapar?
 
@@ -132,9 +132,9 @@ Pes, bebeğe anasının dilinde, sonra bütün sarayın dilinde **Berkay** dedil
 
 ### Hizmetkârları
 
-- **Silâhdâr Yunus Ağa** — Amasya'dan beri yanındadır; Varna'da ricat anında atının dizginine sarılan odur.
+- **Silâhdâr Has Yunus Bey** — Amasya'dan beri yanındadır; Varna'da ricat anında atının dizginine sarılan odur.
 
-- **Hazinedar Hamza Ağa** — sancağın harcını ve şehzâdenin kesesini tutar; ordugâhta da yanından ayrılmaz.
+- **Hazinedar Hamza Bey** — sancağın harcını ve şehzâdenin kesesini tutar; ordugâhta da yanından ayrılmaz. Hesap adamıdır; sonra Amasya'da şehzâdenin lalası olacaktır.
 
 - **Kitapları:** Hıfza çalıştığı cüzler, Sa'dî'nin Gülistân'ı, Şehnâme'den seçme beyitler mecmuası, Kelîle ve Dimne ve Ali Bey'in verdiği bir defter; bu defter, şehzâdenin sefer ve arazi notlarını tuttuğu şahsî defteridir.
 
@@ -184,7 +184,7 @@ Hacı Bayram-ı Velî'nin halifesidir. Sultan Murad Han'ın hürmet ettiği derv
 
 ### Sancağın lalaları
 
-Saruhan'a bey olduğu günden beri Berkay'ın gündelik nizamı **Kassaboğlu Mahmud Bey ile Nişancı İbrahim Bey**'in elindedir.
+Saruhan'a bey olduğu günden beri Berkay'ın gündelik nizamı **Nişancı İbrahim Bey**'in elindedir; Mahmud Bey Mehmed'le Edirne'dedir, İbrahim Bey Manisa'da gölge idarenin mührünü tutar. Seferde ikisi de beyin yanındadır; Amasya'ya geçildiğinde ise şehzâdenin lalası **Hamza Bey** olacaktır (⚙ 1446).
 
 ---
 
@@ -240,7 +240,7 @@ Hırsı ne kadar yüksek olursa olsun kendi kaderine dair belirsiz bir "hazır o
 
 Şehzâde korkusuz değildir; yalnız korkularını konuşmaz.
 
-- **Zehir.** Alâeddin Ali'nin ölümü hakkındaki fısıltılardan beri, tanımadığı elin hazırladığı kaseye dokunmaz; yemeğini Yunus Ağa'nın gözü önünde yer. Bunu bir hüküm olarak değil, bir âdet olarak sürdürür; kimse sebebini sormaz.
+- **Zehir.** Alâeddin Ali'nin ölümü hakkındaki fısıltılardan beri, tanımadığı elin hazırladığı kaseye dokunmaz; yemeğini Has Yunus Bey'in gözü önünde yer. Bunu bir hüküm olarak değil, bir âdet olarak sürdürür; kimse sebebini sormaz.
 
 - **İkizine kılıç çekmek zorunda kalmak.** Hiçbir mecliste söylemez; dilinin ucuna gelen her cümleyi geri yutar.
 
@@ -260,7 +260,7 @@ Hırsı ne kadar yüksek olursa olsun kendi kaderine dair belirsiz bir "hazır o
 
 ### Sırrı
 
-Varna'da "Kral Vuran Şehzâde!" nâralarını duyduğunda içinde bir şeyin sevinç gibi kıpırdadığını fark etti. Bu sevinci kimseye söylemedi; yalnız secdede nefsine itiraf etti. Hırsı olduğu kadar, hırsından utanabilen bir çocuktur.
+Varna'da kazan başında "kral vuran!" nâralarını duyduğunda içinde bir şeyin sevinç gibi kıpırdadığını fark etti. Bu sevinci kimseye söylemedi; yalnız secdede nefsine itiraf etti. Hırsı olduğu kadar, hırsından utanabilen bir çocuktur.
 
 ### Zaafları
 
@@ -425,7 +425,7 @@ Sağ kol dayanamadı, kırıldı, dağıldı; Anadolu Beylerbeyi Karaca Bey bu �
 
 Berkay, **kendi alayının dağıldığını, kendi sipahilerinin bozulduğunu** gördü; Karaca Bey'in sancağının yere düştüğünü de.
 
-Lalaları onu geri çekmeye çalıştı; silâhdârı Yunus Ağa atının dizginine sarıldı; Ali Bey'in akıncıları yamacı tutmaya uğraştı. Amma ricat seli yamacın dibinden taştı ve şehzâdeyi lalalarından, Ali Bey'den ayırıp merkeze doğru sürükledi. Yanından ayrılmayacaktı; ayrılan o olmadı, onu ayıran sel oldu.
+Lalaları onu geri çekmeye çalıştı; silâhdârı Has Yunus Bey atının dizginine sarıldı; Ali Bey'in akıncıları yamacı tutmaya uğraştı. Amma ricat seli yamacın dibinden taştı ve şehzâdeyi lalalarından, Ali Bey'den ayırıp merkeze doğru sürükledi. Yanından ayrılmayacaktı; ayrılan o olmadı, onu ayıran sel oldu.
 
 ### Buhran
 
@@ -433,7 +433,7 @@ Merkez sarsılmış gibi göründü; ordugâh ve arabalar tehlikeye girdi. Sol k
 
 Sultan Murad Han, sancağın dikili olduğu tümsekte yerinden kıpırdamadı; etrafında yeniçeri ve azeb vardı, askerini yeniden şevke getirmeye çalışıyordu.
 
-Berkay, akan ricatın içinde **yeniçeri hattına** düştü — hendeğin gerisinde, çitin dibinde, ocağın tam ortasına. Yağız tam orada yorgun düştü; Yunus Ağa dizginden elini bırakmadan atı yere indirdi.
+Berkay, akan ricatın içinde **yeniçeri hattına** düştü — hendeğin gerisinde, çitin dibinde, ocağın tam ortasına. Yağız tam orada yorgun düştü; Has Yunus Bey dizginden elini bırakmadan atı yere indirdi.
 
 Berkay nefes nefese dizlerinin üstüne çöktü.
 
@@ -481,7 +481,7 @@ Sonra ocağın içinden bir ses yükseldi — bir tek ses, ardından on, ardınd
 
 Sonra o nâraya bir ad daha eklendi; hiçbir fermânın yazmadığı, hiçbir divanın dağıtmadığı bir ad:
 
-> ***"Kral Vuran! Kral Vuran Şehzâde!"***
+> ***"kral vuran!"***
 
 **O gün ocak, bir şehzâdeyi sevdi; ve ona bir ad verdi.**
 
@@ -519,15 +519,15 @@ Ali Bey gözlerini çevirdi. Babasının fermânını, "yanından ayrılmayacaks
 
 ## XIII. NÂM VE ŞAN
 
-### "Kral Vuran Şehzâde" lâkabı
+### "Şâh-küş Şehzâde" lâkabı
 
-Bu ad, divanın verdiği bir unvan değildir; fermânla dağıtılmaz, deftere yazılarak verilmez. Savaşta yararlık gösterenin adına **ordunun ve halkın** taktığı lâkaptır. Berkay onu Varna'da aldı; o günden sonra ordunun dilinde onun adı **Kral Vuran Şehzâde**'dir.
+Bu ad, divanın verdiği bir unvan değildir; fermânla dağıtılmaz, deftere yazılarak verilmez. Savaşta yararlık gösterenin adına **ordunun ve halkın** taktığı lâkaptır. Berkay onu Varna'da aldı; o günden sonra ordunun dilinde onun adı **Şâh-küş Şehzâde**'dir. Varna akşamı ocak **"kral vuran!"** diye nâra attı; kâtip bunu Türkçe kaydetti, ocak odaları ise şehzâdeye **Şâh-küş** dedi — kralı değil, tahtı vuran.
 
 ### Ocak ağzı
 
 Varna akşamı kazanlar kaynarken bir ad dolaştı çadırlar arasında: *Berkay.* Yeniçeri, kralı vuran oku konuştu; çitin dibinde diz çökmüş o ince boyu konuştu. Kazan başında henüz bir nâra, bir mâni olarak dolaşan bu söz, ocak odalarında türküye dönecek gibidir.
 
-Ocak ona **"Kral Vuran Şehzâde"** dedi; başka ad takmadı.
+Ocak ona **"Şâh-küş Şehzâde"** dedi; başka ad takmadı. Kazan başında çıkan **"kral vuran!"** nârası ocağın dilinde kaldı; deftere ve divanın kulağına giden ad Şâh-küş oldu.
 
 ### Halk ağzı
 
@@ -545,7 +545,7 @@ Berkay'ın oku ise devlet kaleminden çok **ocağın ve halkın hafızasında** 
 
 ## XIV. RECEB'İN YİRMİ DOKUZUNCU GÜNÜ — DURUM TESPİTİ
 
-### Şehzâde Berkay — ordunun dilinde Kral Vuran Şehzâde — bugün şu hâldedir:
+### Şehzâde Berkay — ordunun dilinde Şâh-küş Şehzâde — bugün şu hâldedir:
 
 - **Yaşı:** Kamerî hesapla on üç yıl, iki gün.
 
@@ -567,7 +567,7 @@ Berkay'ın oku ise devlet kaleminden çok **ocağın ve halkın hafızasında** 
 
 - **Babasının bakışı:** Değişti. Murad Han'ın gözünde artık yalnız sevdiği bir evlat değil, üzerinde konuşulmamış ama hissedilen bir **emânetin taşıyıcısı** var.
 
-- **Şanı ve sıfatı:** Orduda ve ocakta. On üç yaşında kralı kendi okuyla vurmuş, Varna'nın kaderini çevirmiş ve sultanı ölümden kurtarmış bir isim olarak anılıyor; adının yanında artık **Kral Vuran Şehzâde** lâkabı duruyor — fermânla değil, okla alınmış bir ad.
+- **Şanı ve sıfatı:** Orduda ve ocakta. On üç yaşında kralı kendi okuyla vurmuş, Varna'nın kaderini çevirmiş ve sultanı ölümden kurtarmış bir isim olarak anılıyor; adının yanında artık **Şâh-küş Şehzâde** lâkabı duruyor — fermânla değil, okla alınmış bir ad.
 
 - **Şanın bedeli:** Ocak onu sevdi; tahtta ise ikizi Mehmed var. Yeniçerinin sevgisi bu hanedanda en büyük hediyedir — ve en büyük tehlike. Zağanos Paşa ile Şehâbeddin Şahin Paşa'nın tarafının tedirgin olacağı muhakkaktır; Şehâbeddin Paşa bu gece ordugâhtadır, ocağın nâralarını kendi kulağıyla duymuştur ve Edirne'ye giden ilk haber onun ağzından da çıkabilir. Çandarlı Halil Paşa ise bu yeni şehzâdenin etrafında oluşan kuvveti dikkatle izleyecektir.
 
@@ -643,7 +643,7 @@ Bunlar, on üç yaşındaki bir şehzâdenin elinde hazır bir sefer tedbiri de�
 | **Evrenosoğlu İsâ Bey** | Sağ kolda saf tuttu. | Ali Bey'in kardeşi; Berkay'la henüz tanışıklığı azdır. |
 | **Kassaboğlu Mahmud Bey ve Nişancı İbrahim Bey** | Ordugâhta; lalaları. | Mehmed'in eski lalaları; Edirne ile Manisa arasında köprü, sadakatleri şimdilik Berkay'a. |
 | **Koca Hızır** | Ocakta; kralın başını kesen yeniçeri. | Divan onu yazacak, ocak ise oku bilir; ikisi birbirine bağlı bir sırdır. |
-| **Yunus Ağa, Hamza Ağa** | Ordugâhta. | Silâhdâr ve hazinedar; sâdık maiyet. |
+| **Has Yunus Bey, Hamza Bey** | Ordugâhta. | Silâhdâr ve hazinedar; sâdık maiyet. |
 | **Molla Gürânî, Akşemseddin** | Hocalar; Akşemseddin Murad'ın rüyasını bilen tek kişi. | İlim ve manevî rehber. |
 | **Hunyadi Yanoş** | Eflak tarafına çekildi. | Berkay'ın adını esirlerden duyacak. |
 | **Mara Hatun** | Manisa sarayında. | Üvey anne; Sırp ve Rumeli siyasetinin kulağı; Berkay'a mesafeli bir sıcaklıkla bakar. |
@@ -653,11 +653,11 @@ Bunlar, on üç yaşındaki bir şehzâdenin elinde hazır bir sefer tedbiri de�
 
 | Kim | Yaklaşık yaş | Mizaç |
 | --- | --- | --- |
-| **Yunus Ağa** | Otuz | Az konuşur, at gibi sabırlıdır; Amasya'dan beri şehzâdenin gölgesidir, elini dizginden bırakmaz. |
-| **Hamza Ağa** | Kırk beş | Hesap adamı; her harcamayı ve her sözü aklında tutar, kuru ve ciddidir. |
+| **Has Yunus Bey** | Otuz | Az konuşur, at gibi sabırlıdır; Amasya'dan beri şehzâdenin gölgesidir, elini dizginden bırakmaz. Sonra kapudan olacak, Enez–Limni seferlerine gidecektir. |
+| **Hamza Bey** | Kırk beş | Hesap adamı; her harcamayı ve her sözü aklında tutar, kuru ve ciddidir. Sonra kapudanlığa geçer; Şubat 1462'de Vlad onu kazığa vuracaktır. |
 | **Kassaboğlu Mahmud Bey** | Elli | Sakin, ölçülü; Halil Paşa'nın temkin okuluna yakın. |
 | **Nişancı İbrahim Bey** | Kırk beş | Kalem adamı; yazışmaların ve hükümlerin dili onun elindedir; kalemi iki tarafa da yazar. |
-| **Sinan bin Abdullah** | Otuz | Sancağın kâtibi, yeni Müslüman; sessiz gözlemci, bu defterin kalemi. |
+| **Tursun Bey** | On sekiz | Sancağın kâtibi; Bursalı, Cebe Ali Bey'in yeğeni. Sessiz gözlemci, bu defterin kalemi; sonra *Târîh-i Ebü'l-Feth*'i yazacaktır. |
 
 ---
 
@@ -681,7 +681,7 @@ Bunlar, on üç yaşındaki bir şehzâdenin elinde hazır bir sefer tedbiri de�
 
 - **Lalaları ve Ali Bey:** "Şehzâdem".
 
-- **Ocak ve ordu:** "Kral Vuran Şehzâde".
+- **Ocak ve ordu:** "Şâh-küş Şehzâde".
 
 - **Sipahiler:** "Beyim".
 
@@ -774,11 +774,15 @@ Kâtibin hâşiyesi: İbrahim Bey mektubu okudu, iki cümleyi yumuşattırdı; �
 
 *Receb'in yirmi dokuzuydu. Bu akşam ordugâhta hilâl arandı, görülmedi — Receb otuza tamamlanacaktı. Varna ovasının üstünde ay yoktu. Adı "ay" olan çocuğun ilk büyük günü, ayın karanlığında geçmişti. Ama karanlığın ardından ince bir hilâl gelecekti; çünkü küçülürken doğan ay, dolunaya yürür.*
 
-*Kayd olundu fî 29 Receb sene 848, Varna ordugâhı. Kayd eden: Saruhan sancağı kâtiplerinden Sinan bin Abdullah.*
+*Kayd olundu fî 29 Receb sene 848, Varna ordugâhı. Kayd eden: Saruhan sancağı kâtiplerinden Tursun.*
+
+*Bu nüsha, fî evâhir-i Safer sene 863 (Ocak 1459), Göynük'te Akşemseddin hazretlerinin ağzından dinlenen zeyl ilhak olunarak kâtip Tursun eliyle temize çekilmiştir.*
 
 ---
 
 ## ZEYL. SULTAN MURAD HAN'IN RÜYASI (rivâyet)
+
+> **Zeyl — defterin aslında yoktur.** Fî evâhir-i Safer 863 (Ocak 1459) Göynük'te Akşemseddin hazretlerinin ağzından dinlenip kâtibi Tursun eliyle bu nüshaya ilhak olundu.
 
 *(Repo notu: Bu zeyl yazar tarafından 2026-10-14'te eklenmiştir; metin yazarındır, yalnız Markdown biçimi düzeltilmiştir. Hikâyedeki yeri: `../hikaye/00-ana-hat.md` §2a–2b.)*
 

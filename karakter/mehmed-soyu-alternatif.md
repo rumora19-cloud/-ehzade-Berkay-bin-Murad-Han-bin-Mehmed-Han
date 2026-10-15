@@ -11,7 +11,7 @@
 | Bizde | 7. padişah (1444–46) → 1446–51 Manisa beyi → 18 Şub 1451 Edirne'ye gelir, taht verilmez → **1451–80 ordunun serdarı** → **1480 sonbaharı Roma önünde şehit** |
 | 1451'deki tavrı | ✔ **İsyan etmez; rahmetli babasının sözünün üstüne söz söylemez.** Kırgınlık sessizdir; cümlesini 1480'de oğlu Cem kurar |
 | Serdarlık | Belgrad 1456 (gerçekte burada yaralandı, bizde alır), Mora, Trabzon, Eflak 1462 (Vlad'ın gece baskınında çadırdadır), Bosna, Otlukbeli 1473, Rodos 1480, Otranto ve ötesi |
-| Oğulları | Bayezid (1447/48), Mustafa (1450), Cem (22/23 Ara 1459); kızı **Gevherhan** (✔ Mehmed'in kızı kalır; evliliği açık — Akkoyunlu gelini bizde Berkay'ın kızı) |
+| Oğulları | Bayezid (1447/48), Mustafa (1450), Cem (22/23 Ara 1459); kızı **Gevherhan** — ✔ **1474'te Uğurlu Mehmed Mirza'ya verilir, gerçek tarihin kendisi gibi** (oğlu Göde Ahmed 1497 Akkoyunlu tahtı). **Hüma Sultan ✖** (Berkay'ın kızı yazılmaz; kişi kuralı: `KILAVUZ.md` §9) |
 | Eşleri | Gülbahar (Bayezid'in annesi), Gülşah (Mustafa), Çiçek (Cem) korunur; **Sitti Mükrime bu evrende yok** (✔) — 1450 Dulkadır düğünü olmaz |
 | Zayıf noktası | Gerçek Fatih'in nikrisi, öfkesi, Mahmud Paşa'ya hem sevgisi hem kıskançlığı — serdar Mehmed'e aktarılabilir |
 | Şehadet | ⚙ **28 Ekim 1480 Cumartesi (23 Şaban 885), Milvius Köprüsü (Ponte Milvio)** — Konstantin'in 312 zaferinin yıl dönümü; sabah akıncılar San Pietro avlusunda (eski Konstantin bazilikası) atlarını sular, öğleden sonra Papalık–Napoli karşı saldırısı köprüde. **✔ Cenaze İslambol'a** — ikizlerin ortak hayalini kurduğu şehir; Fâtih Camii haziresi; bir yıl sonra ikizi yanına gelir |
@@ -22,7 +22,7 @@
 | | |
 |---|---|
 | Gerçekte | 8. padişah 1481–1512, ö. 10 Haz 1512 |
-| Bizde | Amasya beyi 1454–81 (korunur); **Berkay'ın safında**; **1481'de Cem tarafından öldürülür** (öneri: Mayıs 1481, Amasya'dan Orhan'a katılmaya giderken Ankara–Beypazarı hattında) |
+| Bizde | Amasya beyi 1454–81 (korunur); **Berkay'ın safında**; ✔ **5 Haziran 1481 Salı (⚙), Bursa Muradiye'de — Murad'ın türbesinin önünde — Cem'in adamlarınca boğdurulur ve Muradiye'ye gömülür.** ⚙ Güzergâh tartışması kapandı: Amasya'dan Bursa'ya gelir, ölüm orucu değil ölüm gecesi Budin'dedir; Ankara–Beypazarı hattı **kullanılmaz** |
 | Repliği (yazar) | *"Babam atlarımızı Saint-Pierre Kilisesi'ne sürdü, İslâm yolunda hepimizin hayalleri için şehit düştü; bize düşen onun yolundan gitmektir."* — dönem ağzı seçeneği: "San Pietro" / "Rim Papa'nın ulu kilisesi" |
 | Karakter çizgisi | Gerçek Bayezid'in dindarlığı, Amasya'daki Halvetî çevresi (Çelebi Halife), Şeyh Hamdullah'tan hat dersi, Müeyyedzâde dostluğu — hepsi korunur; afyon söylentisi isteğe bağlı |
 | Oğulları | **Ahmed (1466), Korkud (1467/69)** → Orhan'ın himayesine. Gerçekteki diğer oğulları (Abdullah 1465, Şehinşah, Mahmud, Mehmed, Âlemşah) ve **Selim artık onun oğlu değil**: hangileri var — karar (öneri: yalnız Ahmed ve Korkud; Abdullah 1483'te eceliyle ölür — gerçek) |
@@ -39,7 +39,7 @@ Gerçek hayatı aynen: Manisa 1457–68, Konya 1468–74, Kıreli zaferi 1472, O
 | Doğum | 22/23 Ara 1459 (27 Safer 864 = 23 Ara Pazar); yer: karar (gerçekte Edirne) |
 | 1474–81 | Konya (Karaman) beyi; lalası Rum Mehmed Paşa (gerçek) |
 | Repliği (yazar) | Berkay'a: *"Senin hayalin yüzünden babam öldü."* (1480 sonu / 1481 başı) |
-| İsyan | Berkay ölünce (1481): Bayezid'i öldürür → Bursa 18 gün (28 May–) → **Yenişehir 20/22 Haz 1481** yenilgi → Konya → Kahire (Kayıtbay) → hac → 1482 Konya–Ankara denemesi → **Rodos Osmanlı olduğundan Kıbrıs → Napoli (Ferrante) → Roma** |
+| İsyan | Berkay ölünce (1481): **30 Mayıs'ta Bursa'da sultanlık ilan eder**; **Bayezid 5 Haziran Salı Muradiye'de boğdurulur**; **20 Haziran 1481 Çarşamba Yenişehir'de Orhan'a yenilir** → Konya → Kahire (Kayıtbay) → hac → 1482 Konya–Ankara denemesi → **Rodos Osmanlı olduğundan Kıbrıs → Napoli (Ferrante) → Roma** |
 | Avrupa yılları | Papa VIII. Innocentius ve VI. Alexander; Venedik–Napoli–Papa rehine pazarlığı (gerçekteki şövalyelerin rolü); Fransa isteğe bağlı |
 | Ölüm | 25 Şub 1495 Napoli (gerçek; zehir söylentisi — Koca Mustafa Paşa); cenaze 1499 Bursa |
 | Ailesi | Oğlu Oğuz Han (1480; ⚙ **Orhan öldürmez, sarayda büyür, 1492 vebasında ölür**), **Murad** (1475 Edirne, annesi Gülşirin; gerçekte Rodos'ta Hristiyan oldu — "Pierre", Papa'nın tımarı, 27 Ara 1522 Süleyman idam ettirdi; **bizde Roma'da Papa'nın elinde büyür, ⚙ Süleyman'ın "derdi" için baş aday** — bk. `cevre-kisiler.md` §B), kızları Gevhermelik, Ayşe |

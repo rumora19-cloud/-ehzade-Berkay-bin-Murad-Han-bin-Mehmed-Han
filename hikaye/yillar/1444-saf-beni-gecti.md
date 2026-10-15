@@ -4,7 +4,7 @@
 
 > **Tarih:** 10 Kasım 1444 (28 Receb 848, Salı) · **Mekân:** Varna; sağ kolun gerisindeki yamaç → merkez hendeği · **Göz:** Berkay
 > **Gerçek tarih:** Hunyadi sağ kolu (Anadolu askeri) kırar, Karaca Bey şehit düşer; Murad sancağın dibinden ayrılmaz; Kral Vladislav 500 atlıyla yeniçeri üzerine yürür, atı düşürülür, başını Koca Hızır keser; Cesarini kaçarken ölür; Hunyadi çekilir.
-> **Çatal:** Kralı yıkan ok Berkay'ındır; ocak "Kral Vuran Şehzâde" der. (Defter §XI–XIII'e birebir sadık; kâtibin bilmediği iç dünya burada.)
+> **Çatal:** Kralı yıkan ok Berkay'ındır; ocak kazan başında "kral vuran!" diye nâra atar, lâkabı **"Şâh-küş Şehzâde"** olur. (Defter §XI–XIII'e birebir sadık; kâtibin bilmediği iç dünya burada.)
 > **Kaynak:** `karakter/sehzade-berkay-ahval-defteri.md` §IV–V, VIII, XI–XIII, XVII · `kaynaklar/01-kronoloji/01-ii-murad-ikinci-saltanat-1444-1451.md` §3 · `kaynaklar/05-kurumlar/ordu-1444-1520.md` · `kaynaklar/06-gunluk-hayat/takvim-ve-zaman.md`
 > **Durum:** ⚙ kâtip taslağı — yazarın kalemini bekler.
 
@@ -50,7 +50,7 @@ Kassaboğlu Mahmud Bey atını yaklaştırdı. "Şehzâdem, sağ kol kalabalıkt
 
 "Kalabalık değil, ağır. Bakın: demir."
 
-Demirdi. Macar ağır süvarisi, miğferden eyere, atların alnına kadar demir; mızrakları önde, güneşi sırtlarına almış, gölge gibi büyüyen bir duvar. Ovayı geçerken ses sonra geldi — tok, yavaş, toprağın altından gelen bir ses. Berkay o sesin içinde kendi sipahilerini düşündü: Hamza Ağa'nın defterinde adları olan adamlar. Timarlarını, köylerini, kaç atla geldiklerini bilirdi; Manisa'dan beri yüzlerini öğrenmişti.
+Demirdi. Macar ağır süvarisi, miğferden eyere, atların alnına kadar demir; mızrakları önde, güneşi sırtlarına almış, gölge gibi büyüyen bir duvar. Ovayı geçerken ses sonra geldi — tok, yavaş, toprağın altından gelen bir ses. Berkay o sesin içinde kendi sipahilerini düşündü: Hamza Bey'nın defterinde adları olan adamlar. Timarlarını, köylerini, kaç atla geldiklerini bilirdi; Manisa'dan beri yüzlerini öğrenmişti.
 
 Çarpıştılar.
 
@@ -62,7 +62,7 @@ Yamacın üstünden bakınca muharebenin sesi geç geliyor, görüntüsü erken.
 
 Nişancı İbrahim Bey ona baktı, ovaya baktı, bir şey göremedi.
 
-Demir duvarın en önünde, boz bir atın üstünde, kalkanında kara bir kurt başı olan bir şövalye vardı. Berkay onu uzaktan, bütün o kalabalığın içinde, kalkanındaki o işaretten seçti; kurt başı önce Karesi safının içine girdi, sonra kayboldu, sonra daha geride yeniden belirdi — ve belirdiği yerde Karaca Bey'in sancağı sallandı.
+Demir duvarın en önünde, boz bir atın üstünde, kalkanı çentikli bir şövalye vardı. Berkay onu uzaktan, bütün o kalabalığın içinde, o çentikten seçti; çentikli kalkan önce Karesi safının içine girdi, sonra kayboldu, sonra daha geride yeniden belirdi — ve belirdiği yerde Karaca Bey'in sancağı sallandı.
 
 Sancak bir an dik durdu. Sonra eğildi; eğilirken üstünde başka bir sancak vardı, haçlı; sonra yoktu.
 
@@ -74,19 +74,19 @@ Karaca Bey'in şehit düştüğünü o anda bilmedi; sonradan, akşam, kazanlar�
 
 "Şehzâdem, geri!"
 
-Mahmud Bey'in sesi. İbrahim Bey Yağız'ın başını çevirmeye uğraştı; Yunus Ağa dizgine sarıldı, iki eliyle, at gibi sabırlı yüzünde ilk defa başka bir şey vardı. Yamacın gerisinde Lala'nın akıncıları atlarını yan yana sürüp bir duvar kurmaya çalıştılar; Berkay Lala'nın sesini duydu — kelimeyi değil, sesi — ve o ses son defa duyduğu sesti.
+Mahmud Bey'in sesi. İbrahim Bey Yağız'ın başını çevirmeye uğraştı; Has Yunus Bey dizgine sarıldı, iki eliyle, at gibi sabırlı yüzünde ilk defa başka bir şey vardı. Yamacın gerisinde Lala'nın akıncıları atlarını yan yana sürüp bir duvar kurmaya çalıştılar; Berkay Lala'nın sesini duydu — kelimeyi değil, sesi — ve o ses son defa duyduğu sesti.
 
 Çünkü sel yamacın dibinden taştı.
 
-Önce kaçan sipahiler geldi; eyersiz atlar, atsız adamlar, kolu sarkmış bir alay beyi, kırık bir tuğ. Sonra kaçanları kovalayan Eflak atlıları, sonra kaçanların arkasından kaçanlar. Yamaç dar, insan çoktu. Yağız bir kere şaha kalktı; Yunus Ağa dizgini bırakmadı, ama ikisi birden akıntıya girdiler. Berkay bir an Mahmud Bey'in yüzünü gördü, sonra görmedi. Lala'nın akıncı duvarı kalabalığın içinde kırmızı bir çizgi gibi kaldı, uzaklaştı, kayboldu.
+Önce kaçan sipahiler geldi; eyersiz atlar, atsız adamlar, kolu sarkmış bir alay beyi, kırık bir tuğ. Sonra kaçanları kovalayan Eflak atlıları, sonra kaçanların arkasından kaçanlar. Yamaç dar, insan çoktu. Yağız bir kere şaha kalktı; Has Yunus Bey dizgini bırakmadı, ama ikisi birden akıntıya girdiler. Berkay bir an Mahmud Bey'in yüzünü gördü, sonra görmedi. Lala'nın akıncı duvarı kalabalığın içinde kırmızı bir çizgi gibi kaldı, uzaklaştı, kayboldu.
 
 Yanından ayrılmayacaktı. Fermân böyleydi. Ayrılan o olmadı; onu ayıran sel oldu.
 
-Ne kadar sürdü bilmiyordu. Toz, at nefesi, demirin demire değişi, birinin yüksek sesle Fâtiha okuyuşu, bir atın karın altından gelen ses. Berkay yayı sırtından çıkarmıştı; neden çıkardığını bilmiyordu, çıkarmıştı. Yağız'ın boynuna eğilmiş, Yunus Ağa'nın sırtını takip ediyordu. Sel merkeze doğru akıyordu, merkez yaklaşıyordu — yüksek bir tümsek, sancak, hendek, çit, çitin dibinde börklerin çizgisi.
+Ne kadar sürdü bilmiyordu. Toz, at nefesi, demirin demire değişi, birinin yüksek sesle Fâtiha okuyuşu, bir atın karın altından gelen ses. Berkay yayı sırtından çıkarmıştı; neden çıkardığını bilmiyordu, çıkarmıştı. Yağız'ın boynuna eğilmiş, Has Yunus Bey'in sırtını takip ediyordu. Sel merkeze doğru akıyordu, merkez yaklaşıyordu — yüksek bir tümsek, sancak, hendek, çit, çitin dibinde börklerin çizgisi.
 
 Yeniçeri hattı.
 
-Yağız çiti gördü ve bitti. Ön dizleri kırıldı; Yunus Ağa dizginden elini bırakmadan atı yavaşça yere indirdi, at yan yattı, göğsü körük gibi inip kalktı. Berkay kendini dizlerinin üstünde buldu. Nefesi yoktu. Elinde yay vardı.
+Yağız çiti gördü ve bitti. Ön dizleri kırıldı; Has Yunus Bey dizginden elini bırakmadan atı yavaşça yere indirdi, at yan yattı, göğsü körük gibi inip kalktı. Berkay kendini dizlerinin üstünde buldu. Nefesi yoktu. Elinde yay vardı.
 
 Başını kaldırdı.
 
@@ -96,7 +96,7 @@ Babası kıpırdamıyordu. Etrafında yeniçeri ve azeb; yaşlı bir bey atını
 
 Berkay o sırtı tanıyordu. "Sultan duruşu," derdi Lala. Lala şimdi neredeydi?
 
-Hendekte bir yeniçeri su içiyordu. Bir başkası ona bir şey uzattı; Berkay almadı. Yunus Ağa yanında diz çökmüş, kılıcını çekmişti; başka bir şey yapabileceği yoktu. Ovada güneş artık arkalarındaydı. Öğle geçmişti.
+Hendekte bir yeniçeri su içiyordu. Bir başkası ona bir şey uzattı; Berkay almadı. Has Yunus Bey yanında diz çökmüş, kılıcını çekmişti; başka bir şey yapabileceği yoktu. Ovada güneş artık arkalarındaydı. Öğle geçmişti.
 
 ### IV
 
@@ -162,7 +162,7 @@ Berkay sesin geldiği yere baktı. Tanımadığı bir yeniçeri; yüzü kan içi
 
 On ses. Yüz. Bin. Nâra hendeğin boyunca koştu, tümseğe çıktı, tümsekten ovaya indi; ovada başka bir şeyle karıştı — kaçan düşmanın sesiyle. Sonra o nâraya bir ad daha eklendi. Hiçbir fermânın yazmadığı, hiçbir divanın dağıtmadığı bir ad:
 
-"Kral Vuran! Kral Vuran Şehzâde!"
+"kral vuran!"
 
 Berkay'ın içinde bir şey kıpırdadı. Sevinç gibiydi. Sıcak, hızlı, utanç verici bir şey; kıpırdadığı anda kendini ele veren bir şey. Berkay onu tanıdı, yakaladı ve kimseye söylemedi. Secdeye kadar bekleyecekti.
 
@@ -176,9 +176,9 @@ Koca Hızır bir an ona baktı. Sonra başı mızrağa geçirdi ve mızrağı ka
 
 Gün akşama doğru bitti.
 
-Berkay gerisini çitin dibinden izledi, çünkü gidecek bir atı yoktu ve Yunus Ağa ondan ayrılmıyordu. Kralın başı mızrağın ucunda yükselince beyaz sancaklı kama dağıldı; Frenk safı ortadan değil, kenarlardan çözüldü — önce Eflak atlıları, sonra arabalı taburun etrafındakiler, sonra herkes. Merkez hendeği aştı, karşıya yürüdü. Sol kolda Şehâbeddin Paşa'nın atlıları yeniden ileri gitti. Yamaçlardan, Lala'nın ve başkalarının akıncıları, kaçanın ardına düştü; onların sesi ovayı aştı, denize kadar gitti.
+Berkay gerisini çitin dibinden izledi, çünkü gidecek bir atı yoktu ve Has Yunus Bey ondan ayrılmıyordu. Kralın başı mızrağın ucunda yükselince beyaz sancaklı kama dağıldı; Frenk safı ortadan değil, kenarlardan çözüldü — önce Eflak atlıları, sonra arabalı taburun etrafındakiler, sonra herkes. Merkez hendeği aştı, karşıya yürüdü. Sol kolda Şehâbeddin Paşa'nın atlıları yeniden ileri gitti. Yamaçlardan, Lala'nın ve başkalarının akıncıları, kaçanın ardına düştü; onların sesi ovayı aştı, denize kadar gitti.
 
-Kardinal'in kaçarken öldüğünü akşam söylediler. Hunyadi Yanoş'un kralın öldüğünü duyunca Eflak tarafına çekildiğini de. Berkay Hunyadi'yi hiç görmemişti; görmediği adamın adını zihnine yazdı. Boz atlı, kurt başlı kalkanlı şövalyeyi de. Adını bilmiyordu. *Ondan sonra?*
+Kardinal'in kaçarken öldüğünü akşam söylediler. Hunyadi Yanoş'un kralın öldüğünü duyunca Eflak tarafına çekildiğini de. Berkay Hunyadi'yi hiç görmemişti; görmediği adamın adını zihnine yazdı. Boz atlı, kalkanı çentikli o şövalyeyi de. Adını bilmiyordu. *Ondan sonra?*
 
 Güneş gölün üstüne indiğinde babasını gördü.
 
@@ -210,7 +210,7 @@ Ali Bey gözlerini çevirdi. Ovaya baktı, ya da gölün üstünde kalan son ı�
 
 Sonra Ali Bey kalktı, miğferini düzeltti ve her zamanki sesiyle, "Atın nerede?" dedi.
 
-"Yunus Ağa'da. Yorgun düştü."
+"Has Yunus Bey'de. Yorgun düştü."
 
 "Yaşıyor mu?"
 
@@ -222,13 +222,13 @@ Sonra Ali Bey kalktı, miğferini düzeltti ve her zamanki sesiyle, "Atın nered
 
 Gece ordugâh başka bir yerdi.
 
-Kazanlar kaynıyordu; ateşlerin arasından yaralı sesi, esir sesi, at sesi geliyordu. Hamza Ağa Saruhan alayından kalanı sayıyordu; dudakları kıpırdıyor, yüzü kıpırdamıyordu. Mahmud Bey ve İbrahim Bey akşam ezanından sonra bulmuşlardı onu, ikisi de sağ, ikisi de bir şey söylemeden önünde eğilmişlerdi. Kâtip Sinan ateşin yanında kalemini açıyordu; yarın yazılacak çok şey vardı: beşâretnâme için divan kâtiplerine, Edirne'ye çavuşlarla gidecek haber için, ve kendi kalemiyle — Berkay bunu bilmiyordu — bir şehzâdenin ahvâlini kayda geçirmek için.
+Kazanlar kaynıyordu; ateşlerin arasından yaralı sesi, esir sesi, at sesi geliyordu. Hamza Bey Saruhan alayından kalanı sayıyordu; dudakları kıpırdıyor, yüzü kıpırdamıyordu. Mahmud Bey ve İbrahim Bey akşam ezanından sonra bulmuşlardı onu, ikisi de sağ, ikisi de bir şey söylemeden önünde eğilmişlerdi. Kâtip Tursun ateşin yanında kalemini açıyordu; yarın yazılacak çok şey vardı: beşâretnâme için divan kâtiplerine, Edirne'ye çavuşlarla gidecek haber için, ve kendi kalemiyle — Berkay bunu bilmiyordu — bir şehzâdenin ahvâlini kayda geçirmek için.
 
-Çadırların arasında bir ad dolaşıyordu. Berkay duydu; duymamış gibi yaptı. *Kral Vuran Şehzâde.* Bir ateşten ötekine aynı üç kelime. Ocak oku konuşuyordu, çitin dibinde diz çökmüş o ince boyu konuşuyordu. Kazan başında henüz bir nâra, bir mâni olan şey, yarın bir türkü olacaktı.
+Çadırların arasında iki kelime dolaşıyordu. Berkay duydu; duymamış gibi yaptı. *kral vuran!* Bir ateşten ötekine aynı iki kelime. Ocak oku konuşuyordu, çitin dibinde diz çökmüş o ince boyu konuşuyordu. Kazan başında henüz bir nâra, bir mâni olan şey, yarın bir türkü olacaktı; divan kâtipleri ise deftere başka bir ad yazacaktı: **Şâh-küş** — bir okla Engürüs tahtını tahtsız koyan.
 
 Şehâbeddin Paşa'nın adamları bu sesleri dinliyordu; Berkay bunu da gördü. Edirne'ye gidecek haberin içinde kendi adı olacaktı. Edirne'de ikizi vardı; tahtta oturan, on üç yaşında, Varna'ya getirilmemiş bir sultan. Berkay o haberin Mehmed'e nasıl ulaşacağını düşündü, ulaştığında kardeşinin yüzünü düşündü; sonra düşünmeyi bıraktı. Bu, bu gece taşınacak yük değildi.
 
-Yemeğini Yunus Ağa'nın gözü önünde yedi; kuru üzüm, ceviz, bir parça ekmek. Yağız'ın yanına gitti; at yatıyordu, ama başını kaldırdı. Berkay elini alnına koydu, bir şey söylemedi.
+Yemeğini Has Yunus Bey'in gözü önünde yedi; kuru üzüm, ceviz, bir parça ekmek. Yağız'ın yanına gitti; at yatıyordu, ama başını kaldırdı. Berkay elini alnına koydu, bir şey söylemedi.
 
 Sonra çadırında, mumun ışığında, Lala'nın verdiği defteri açtı. Küçük ve sıkı yazısıyla, ok mesafelerinin sayfasına bir satır yazdı:
 
@@ -250,8 +250,8 @@ Dışarıda, ateşlerin arasında, adı hâlâ dolaşıyordu.
 
 | İşaret | Not |
 |---|---|
-| ✔ | Bütün replikler ve olay sırası defterden (§XI–XIII); kâtip Sinan'ın bilmediği tek şey Berkay'ın iç sesidir (hendekteki sevinç, Meryem hatırası, babasının bakışı). |
-| ⚙ | **Kurt başlı kalkanlı boz atlı şövalye** = Şövalye Pedri'nin ilk görünüşü (Hunyadi'nin maiyetinde, adsız). Karaca Bey'in sancağını yere indiren odur. Adı 1462'de öğrenilir; 1476'da Akdere'de Berkay onu bu kalkandan tanır. İstenmezse paragraf silinir, hikâye bozulmaz. |
+| ✔ | Bütün replikler ve olay sırası defterden (§XI–XIII); kâtip **Tursun Bey**'in bilmediği tek şey Berkay'ın iç sesidir (hendekteki sevinç, Meryem hatırası, babasının bakışı). |
+| ⚙ | **Kalkanı çentikli boz atlı şövalye** adsızdır ve bir daha görünmez; Karaca Bey'in sancağını yere indiren odur. **Pedri bu evrenden çıkarıldı (devir notu, 15 Ekim 2026):** Lala'yı 1462'de **Vlad Țepeş** öldürür, intikamı 1476'da Berkay alır (`00-ana-hat.md` §2d). |
 | ⚙ | **Meryem** bir cümleyle ekildi (Amasya, kar topu). Soy ayrıntısı (Yörgüç Paşa'nın konağı) tek ibaredir; soy değişirse o ibare değişir. |
 | ⚙ | Murad'ın uzun bakışı = rüyanın gölgesi (defter §X: Berkay rüyadan habersiz). Okur da bu sahnede rüyayı öğrenmez; defterin Zeyl'i (1444'ün ikinci sesi) onu verir. |
 | `[K]` | Güneşin düşmanın sırtından doğuşu (Frenk safı doğuda, deniz arkada); sağ kolun kırılışı; Karaca Bey; Murad'ın dizginini tutan "yaşlı bey" (Dayı Karaca Bey, İnalcık); Koca Hızır; Cesarini; Hunyadi'nin çekilişi; başın mızrağa dikilişi; beşâretnâmeler. |

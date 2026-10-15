@@ -105,7 +105,7 @@
 
 ## 9. Berkay için çıkarımlar (🎭)
 
-Karakter dosyasına göre Berkay **Mehmed'in ikizidir** (d. 30 Mart 1432); 1443 sonunda Amasya, 1444 yazından itibaren **Saruhan (Manisa)** sancak beyi; lalaları Kassabzâde Mahmud ve Nişancı İbrahim; Varna'da bulunmuş, ocakta "Kral Vuran Şehzade" diye anılır (`karakter/sehzade-berkay-ahval-defteri.md`). Sistem açısından sonuçları:
+Karakter dosyasına göre Berkay **Mehmed'in ikizidir** (d. 30 Mart 1432); 1443 sonunda Amasya, 1444 yazından itibaren **Saruhan (Manisa)** sancak beyi; lalaları Kassabzâde Mahmud ve Nişancı İbrahim; Varna'da bulunmuş, ocakta kazan başında **"kral vuran!"** nârasıyla anılır; lâkabı **"Şâh-küş Şehzâde"** olur (`karakter/sehzade-berkay-ahval-defteri.md`; `KILAVUZ.md` §8). Sistem açısından sonuçları:
 
 - **1444:** İki ikizden biri tahtta (12 yaşında, Edirne), öbürü sancakta (Manisa) — ve sancağın oturduğu şehirde **babaları** oturuyor (Murad Varna'dan sonra Manisa'ya döner; Saruhan–Aydın–Menteşe gelirleri ona ayrılır). Berkay'ın divanı kimin adına hüküm yazar? Tarihte örneği yok; kurgunun ilk hukuk sorusu.
 - **1446:** Buçuktepe'den sonra **Mehmed Manisa'ya gönderilir** (Zağanos ve Şehâbeddin atabey). Aynı sancakta iki şehzâde olmaz → Berkay'a yeni yer: Amasya'ya dönüş (en "usûle uygun"), Karesi/Balıkesir, Kütahya (Germiyan — 1451'e kadar şehzâde sancağı sayılmaz), yahut sancaksız Edirne'de babasının yanı (Murad'ın "en sevdiği oğul" boşluğunu doldurması). Karar hikâyeyi belirler.

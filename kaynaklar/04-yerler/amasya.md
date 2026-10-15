@@ -41,7 +41,7 @@
 | **II. Murad** | 1415–1421 | 11–17 | Lalaları Yörgüç Paşa, Biçeroğlu Hamza; Börklüce/Bedreddin isyanı sırasında Rûm'da; Candaroğlu kızını aldı (Hatice) |
 | **Ahmed** (Murad'ın büyük oğlu) | 1430'lar–1437 | | Amasya'da öldü (veba?) `[T]` |
 | **Alâeddin Ali** | 1439–1443 | 9–13 | Varna öncesi öldü (Kara Hızır Paşa boğdu `[T]`); Berkay'ın ağabeyi |
-| (Berkay — kurgu) | 1443–44 | 11–12 | tashih C1 |
+| (Berkay — kurgu) | 1443–44, 1446–51 | 11–12, 14–19 | tashih C1; ⚙ **1446'dan sonra lalası Hamza Bey** (1444'te hazinedar; 1453'te kapudan). Sancakta: **1444–46 Hızır Paşa — Yörgüç Paşa'nın kardeşi**; 1447'den sonra Hamza Bey (yazar kararı, 15 Ekim 2026) |
 | **Bayezid (II.)** | 1454–1481 | 6/7–33 | Lalaları Çandarlı İbrahim, Yahya Paşa, Hızır Paşa (-zâde Mahmud); Müeyyedzâde, Şeyh Hamdullah, Mihrî Hatun'un çevresi; afyon/müferrihât olayı; 1473 Otlukbeli sağ kol; 1479 Torul; Selim 1470'te doğdu |
 | **Ahmed** (Bayezid'in oğlu) | 1481–1513 | 15–47 | 32 yıl; Mihrî Hatun'un meclisi; Şahkulu başarısızlığı; 1512 Konya'ya; 1513 idam |
 | (Selim'in kışı) | Eyl 1514 – Nis 1515 | | Dukakinzâde'nin öldürülmesi |

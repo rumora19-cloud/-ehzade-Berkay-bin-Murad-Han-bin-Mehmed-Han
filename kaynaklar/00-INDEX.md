@@ -30,6 +30,8 @@
 | Edirne'nin sarayları, mahalleleri, 1444'teki hâli | `04-yerler/edirne.md` |
 | Bursa (hanedan mezarlığı, Cem'in 18 günü), Manisa/Saruhan (sancak sarayı, kazalar), Amasya (şehzâde şehri, Halvetîler) | `04-yerler/bursa.md`, `04-yerler/manisa-saruhan.md`, `04-yerler/amasya.md` |
 | Fetihten sonra İstanbul: iskân, saraylar, külliyeler, mahalleler, nüfus | `04-yerler/istanbul-1453-1520.md` |
+| **Konya (Karaman)**: Mustafa 1468–74, Cem 1474–81; Karaman seferleri; Mevlânâ dergâhı; yol/iklim | `04-yerler/konya.md` |
+| **Trabzon**: Komnenos payitahtı, 15 Ağu 1461 teslimi; Alâeddin Ali'nin sancağı 1471–81 (⚙); deniz/iklim | `04-yerler/trabzon.md` |
 | Diğer sancaklar; **savaş alanlarının coğrafyası** (Varna, Kosova, Belgrad, Otlukbeli, Çaldıran…); **yol süreleri** (Edirne–Bursa kaç gün?) | `04-yerler/diger-sancaklar-ve-savas-alanlari.md` §B–C |
 | **Varna**: şehir, göl, Franga yaylası, ova, yollar, hava, iki ordugâh, ertesi gün (savaşın akışı kronoloji §3'te) | `04-yerler/varna.md` |
 | **İtalya 1480–1520**: Otranto, Salento, Pulya, Cannae/Ofanto, Napoli, Albano, Milvius Köprüsü; Napoli–Papalık siyaseti; yol süreleri; gerçek Otranto 1480–81 | `04-yerler/italya.md` |
@@ -48,6 +50,7 @@
 Yıl yıl olaylar. `00-genel` dosyası tüm dönemi kaba hatlarıyla verir; dönem dosyaları ayrıntıya iner (ay/gün, kaynak farkları, hikâye kancaları).
 
 ### 02-birincil-kaynaklar
+**Dosya başına kaynak derinleştirmeleri:** `asikpasazade.md` (Âşıkpaşazâde, A2) · `dukas.md` (Dukas, Bizans) · `vakiat-i-sultan-cem.md` (Cem Sultan'ın içeriden anlatısı).
 Dönemle çağdaş veya yakın metinler: Osmanlı kronikleri, gazavatnâmeler, selimnâmeler, takvimler, kanunnâmeler, vakfiyeler; Bizans tarihçileri; Batılı tanıklar, seyyahlar, elçi raporları; Memlük ve İran kaynakları. Her biri için: müellif, yazılış tarihi, kapsam, dil, neşirler, erişim, güvenilirlik, "hikâye için neye yarar".
 
 ### 03-kisiler

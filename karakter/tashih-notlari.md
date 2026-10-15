@@ -201,6 +201,7 @@ Osmanlı kaynakları kendi ordusunu çok, düşmanı az; Hristiyan kaynakları t
 
 > Onaylanan maddeler `sehzade-berkay-ahval-defteri.md` içine işlenecek; her değişiklik bu dosyada "✔ uygulandı (tarih)" diye işaretlenecek.
 
+
 ### §F — Kâtip varsayılan cevapları — ✔ yazar onayladı ("tablo tamam", 15 Ekim 2026); uygulandı, bk. §H
 | Soru | Varsayılan | Not |
 |---|---|---|
@@ -213,6 +214,8 @@ Osmanlı kaynakları kendi ordusunu çok, düşmanı az; Hristiyan kaynakları t
 | F7 (XX mektup) | **Dokunma** | 1451 ve 1480'in tohumu |
 
 ### §G — Uygulanan değişiklik: ad ve lâkap (yazar talimatı, 15 Ekim 2026) ✔
+
+> ⚠ **Bu tur, 15 Ekim 2026 devir notuyla aşıldı.** Aşağıdaki "yeni" sütunu ilk tashihin sonucudur; lâkap artık **Şâh-küş Şehzâde**, nâra **"kral vuran!"**, kâtip **Tursun Bey**'dir (döküm: §I ve `KILAVUZ.md` §8–9).
 Yazar: *"Berkay'ı Şehzade Berkay'a çevir, Çelebi ismini at tamamen, Bahadır ismini de; Kral Vuran Şehzade kalsın sadece."* Deftere işlenen satırlar (başka hiçbir satıra dokunulmadı; Zeyl aynen):
 
 | Yer | Eski | Yeni |
@@ -247,3 +250,24 @@ Dokunulmayan "Çelebi"ler (tarihî adlar): Çelebi Sultan Mehmed (dede), ağabey
 | — | Repo notu | | Uygulama notu eklendi |
 
 Dokunulmayanlar: C2 (`[T]` korunur — Amasya çocukluğu hikâyeye bağlı), C7 (rivayet), C8 (`[?]`), C13, C14 (zevk meselesi), §XX mektup (F7), Zeyl.
+
+---
+
+## §I — Devir notu (yazar, 15 Ekim 2026) ✔ uygulandı
+
+Yazarın 15 Ekim 2026 tarihli devir notu on madde hâlinde işlendi. Defter metninde değişen satırlar (Zeyl ve §XX mektubu metni **dokunulmadı**):
+
+| # | Yer | Eski | Yeni |
+|---|---|---|---|
+| 1 | Altbaşlık | "Ahvâl Defteri — tashih ve tevsî' edilmiş nüsha" | "**Kâtip Tursun'un defteri** — tashih ve tevsî' edilmiş nüsha" |
+| 2 | §I Lâkabı | *Kral Vuran Şehzâde* | *Şâh-küş Şehzâde* (+ uzun resmî biçim; Varna nârası "kral vuran!" küçük harfle) |
+| 3 | §I Sıfatı / Anılışları | *Kral Vuran Şehzâde* | *Şâh-küş Şehzâde* |
+| 4 | §II Lalaları | "Mehmed Edirne'ye alınınca Manisa'da kalmışlar…" | "**Kassaboğlu Mahmud Bey Mehmed'le Edirne'ye gitti; Nişancı İbrahim Bey Manisa'da kaldı ve gölge idarenin mührünü tuttu**" |
+| 5 | §II Maiyet, §V Hizmetkârları, §VI, §XVI | Silâhdâr **Yunus Ağa**, hazinedar **Hamza Ağa**, kâtip **Sinan bin Abdullah** | **Has Yunus Bey**, **Hamza Bey**, **Tursun Bey** (Bursalı, Cebe Ali Bey'in yeğeni, 1444'te 18) |
+| 6 | §VIII Sırrı, §XII | "Kral Vuran Şehzâde!" nâraları | **"kral vuran!"** nârası |
+| 7 | §XIII | "'Kral Vuran Şehzâde' lâkabı" bölümü | "'**Şâh-küş Şehzâde**' lâkabı"; ocak ağzı: nâra Türkçe kaldı, ad Şâh-küş oldu |
+| 8 | §XIV, §XVII | Kral Vuran Şehzâde | Şâh-küş Şehzâde |
+| 9 | Kapanış | "Kayd eden: … Sinan bin Abdullah" | "**Kayd eden: … Tursun**" + nüsha kaydı: "fî evâhir-i Safer 863 (Ocak 1459), Göynük'te Akşemseddin hazretlerinin ağzından dinlenen zeyl ilhak olunarak kâtip Tursun eliyle temize çekilmiştir" |
+| 10 | Zeyl başı | — | "**Zeyl — defterin aslında yoktur.** Fî evâhir-i Safer 863 (Ocak 1459) Göynük'te Akşemseddin hazretlerinin ağzından dinlenip kâtibi Tursun eliyle bu nüshaya ilhak olundu." |
+
+Dokunulmayanlar: §XX mektup metni ve hâşiyesi (F7), Zeyl'in rüya metni, yazar notu. Kişi kuralı ve diğer maddelerin dökümü: `KILAVUZ.md` §9–10; yıl dosyaları ve `hikaye/` dosyalarındaki değişiklikler kendi "⚑ Çatal ve kâtip notları" tablolarında işaretlidir.
