@@ -13,7 +13,7 @@
 | **Tursun Bey** (Tûr-ı Sînâ) | `[K]` Bursalı, Cebe Ali Bey'in yeğeni, d. ~1426; Saruhan sancağı kâtibi (1444'te 18) | ✔ Defterin kalemi; nüshayı 863/1459'da Göynük'te temize çeker; **rüyayı 1459'da Akşemseddin'in ağzından dinler**; sonra defterdarlık; *Târîh-i Ebü'l-Feth*'i yazar; ö. 1491'den sonra |
 | **Has Yunus Bey** | `[K]` Silâhdar, Amasya'dan beri, ~30 (1444) | `[K]` **1456'da kapudan** (Enez–Limni); ⚙ 17 Haz 1462 gecesi Lala'yla birlikte Vlad'ın baskınında düşer |
 | **Hamza Bey** | `[K]` Hazinedar, 45 (1444); ⚙ Berkay'ın Amasya lalası (1446–51) | `[K]` **20 Nis 1453'te Baltaoğlu yerine kapudan**; Niğbolu; **Şub 1462'de Vlad onu kazığa vurur** (K02 §5) |
-| **Koca Hızır** | Yeniçeri; Varna'da kralın başını alan | ⚙ "Kral Vuran Şehzade" efsanesinin taşıyıcısı; 1456 Belgrad gediğinde ölür |
+| **Koca Hızır** | Yeniçeri; Varna'da kralın başını alan | ⚙ Varna akşamı kazan başında **"kral vuran!"** nârasını ilk atanlardan; lâkabın **Şâh-küş** olduğunu ocakta o yayar; **1456 Belgrad gediğinde ölür** |
 | **Akşemseddin** | `[K]` ö. 1459 Göynük | ✔ **Murad'ın rüyasını bilen tek kişi**; 1453 mektubu Berkay'a; **sır 863/1459'da Göynük'te kâtip Tursun Bey'e kalır** (Zeyl) ⚙ |
 | **Hekim Yakub Paşa** | `[K]` | 1481'de zehir söylentisi (gerçekteki gibi) |
 

@@ -9,7 +9,7 @@
 |---|---|
 | Doğum–ölüm | 30 Mar 1432 Edirne – **3 May 1481 Per (4 R.evvel 886), Ofanto/Cannae ovası, otağında** (✔ İtalya; ⚙ gün/yer); sebep ⚙ nikris krizi + humma, Hekim Yakub'a zehir söylentisi. Türbe: Fâtih Camii (İstanbul), **ikizi Mehmed'in yanı** (✔) |
 | Saltanat | Mart 1451 – 1481 (30 yıl) |
-| Unvan/lakap | ✔ **"Fâtih Sultan Berkay Han"** (1453'ten sonra); ocak dilinde hâlâ "Kral Vuran Şehzade"; **"Çelebi" ve "Bahadır" kullanılmaz (✔)**; Batı'da *Berchai* / *il Gran Turco*; "Ebü'l-Feth" |
+| Unvan/lakap | ✔ **"Fâtih Sultan Berkay Han"** (1453'ten sonra); tek lâkabı **"Şâh-küş Şehzâde"** / resmî: **"Şehzâde-i Şâh-küş"**; nâra yalnız **"kral vuran!"** (Varna ve Koca Hızır'ın ağzı); **"Çelebi" ve "Bahadır" kullanılmaz (✔)**; Batı'da *Berchai* / *il Gran Turco*; "Ebü'l-Feth" |
 | Eşler | ✔ **Tek eşi:** çocukluk aşkı **Meryem Hatun** (Yörgüç Paşa'nın torunu, d. 1433 Amasya); nikâh 1450 Amasya; Orhan ve Alâeddin Ali'nin annesi; **† 12 Şubat 1499, Fâtih haziresi** (Berkay'ın yanına gömülür). **Câriye yoktur (✔ kural).** **Sitti Mükrime bu evrende yoktur** (✔) |
 | Çocuklar | **Orhan** (✔ d. 1452 Edirne; annesi **Meryem**), **Alâeddin Ali** (✔ d. 1455; annesi **Meryem**). **Kız çocuk yazılmaz (✔ kural).** 1474 Akkoyunlu düğünü gerçek tarihteki gibidir: **Mehmed'in kızı Gevherhan** Uğurlu Mehmed Mirza'ya verilir (oğlu Göde Ahmed 1497) |
 | Hocaları/çevresi | Çandarlı Halil (1453'te idam ettirir), Molla Gürânî (müftü 1480–88), Akşemseddin (ö. 1459; **Murad'ın rüyasını bilen tek kişi**), Lala Evrenosoğlu Ali Bey (✔ **şehit 17 Haz 1462, Vlad'ın gece baskını**), kâtip **Tursun Bey** (defterden; 1459'da nüshayı temize çeker), silâhdar **Has Yunus Bey**, hazinedar **Hamza Bey**, Ali Kuşçu (1472–74), Bellini (1479–81: **portre Berkay'ındır** 🎭) |
