@@ -48,7 +48,7 @@
 - **El öpme, etek öpme, yer öpme (secde yok)**, baş kesmek (başı eğmek), el bağlamak (divan duruşu), ayakta durmak (padişah önünde vezirler ayakta; Fatih'in Kanunnâmesi oturma iznini düzenler), **hil'at** (kaftan giydirme = tayin/taltif), **çelenk/sorguç**, **tuğ**, **sancak verme**, **kılıç kuşatma**, **at ve kaftan hediyesi**, **ulak ödülü**. `[K]`
 
 ## 8. 🎭 Kancalar
-1. Berkay'ın kâtibi Sinan bin Abdullah: divan kâtipliği yolu; "bin Abdullah" = mühtedi — Enderun'dan çıkma bir yazıcı; 1515'te Tâcîzâde'nin idamını gören bir yaşlı kâtip olabilir mi?
+1. Berkay'ın kâtibi **Tursun Bey** (Tûr-ı Sînâ, `[K]`; Bursalı, Cebe Ali Bey'in yeğeni, 1444'te 18): divan kâtipliği yolu — 1456–57 İstanbul tahriri "yazıcı"lığı, 12 yıl Mahmud Paşa'nın divan kâtibliği, 1470–80 defterdarlık, II. Orhan devri Bursa'da emeklilik ve *Târîh-i Ebü'l-Feth*; 1515'te Tâcîzâde'nin idamını gören bir yaşlı kâtip olabilir mi (o zaman 89) — ⚙.
 2. Fatih Kanunnâmesi'nin "kardeş katli" cümlesi 1477–81 arasında yazılır — hikâyede kanunnâme Berkay'ındır (45–49; "Fâtih Sultan Berkay Han Kanunnâmesi"); kardeşini öldürmemiş bir padişahın kardeş katli maddesini yazdırması: Leyszâde'nin kalemi, Mehmed'in yüzü.
 3. Padişahın yalnız yemesi: ikizler son kez ne zaman aynı sofrada yer?
 4. Müneccim ve zayiçe: ikiz doğumun yıldız haritası (27 Receb 835) — sarayda bir müneccimin kaydı.

@@ -48,10 +48,10 @@
 - **Ad**: Lehçe "Warneńczyk" lakabı krala kalır; Osmanlı kaynakları "Varna gazâsı", "Kral yıkıldığı sefer".
 
 ## 6. 🎭 Hikâye kancaları (✔ `hikaye/00-ana-hat.md` §2a; 1444 dosyası)
-- Kralı yıkan ok **Berkay'ındır**; başı **Koca Hızır** keser (gerçek rivayet korunur); divan Koca Hızır'ı yazar, ocak oku bilir — "Kral Vuran Şehzâde" lakabı buradan.
+- Kralı yıkan ok **Berkay'ındır**; başı **Koca Hızır** keser (gerçek rivayet korunur); divan Koca Hızır'ı yazar, ocak oku bilir — kazan başında **"kral vuran!"** nârası, defterde **"Şâh-küş Şehzâde"** lâkabı buradan.
 - Ovanın doğusundan doğan güneş, öğleden sonra yer değiştirir (1444 dosyası §I'in motifi).
 - Murad'ın "yaşlı bey"i (Dayı Karaca) dizginini tutar; sancak kıpırdamaz.
-- Boz atlı, **kurt başlı kalkanlı** adsız şövalye (⚙ Pedri) Karaca Bey'in sancağını indirir — 1462 ve 1476'nın tohumu.
+- Boz atlı, **kalkanı çentikli** adsız şövalye Karaca Bey'in sancağını indirir (⚙); bir daha görünmez — 1462 ve 1476 artık **Vlad Țepeş'in** adına yazılır (devir notu, 15 Eki 2026).
 - Ertesi gün (11 Kasım): kâtip çadırı, defter, Lala Ali Bey'le gün batımı konuşması; Berkay'ın "ondan sonra?" sorusu.
 - Varna'ya dönüş yok: Berkay bir daha Varna'yı görmez; ⚙ 1476 Boğdan dönüşünde Varna'dan geçer ve höyüğe bakar (isteğe bağlı sahne).
 

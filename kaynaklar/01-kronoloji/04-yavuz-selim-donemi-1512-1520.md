@@ -65,7 +65,7 @@
 
 - **18 Temmuz 1520 (2 Şâban 926)** Edirne'ye hareket (İstanbul'da veba; sağlığı bozuk; Batı seferi söylentisi); **Çorlu**'da (Sırt köyü) sırtında çıkan büyük **ur/çıban** (şirpençe = veba yumrusu? `[T]`) yüzünden ilerleyemez; iki ay tedavi (hekim Ahi Çelebi; "berberin ellediği" rivayeti `[R]`); **21–22 Eylül 1520 (8–9 Şevval 926) gecesi, sabaha karşı ölür**, 50 yaşında — Hasan Can yanında; Yâsîn okunurken "selâm" âyetinde ruhunu teslim eder (Hasan Can → Hoca Sâdeddin); "Hasan Can, bu ne hâldir?" — "Sultanım, Allah'la olmak zamanıdır" — "Bizi bunca zamandır kiminle bilirdin?" `[R]` 🎭. Ölüm gizlenir; **Süleyman Manisa'dan 30 Eylül İstanbul'a**; **1 Ekim 1520** naaş Fatih Camii'nde namaz → Mirza Sarayı yerine (Sultanselim) defin, çadır; türbe ve cami Süleyman (1522). Bayezid de Çorlu civarında ölmüştü (Abalar, 1512) `[K]` 🎭 *Baba ve oğul aynı yolda.*
 
-🎭 *Hikâyenin kapanışı: Çorlu, 21/22 Eylül 1520; Selim 49 yaşında — dedesi Berkay'la aynı yaşta ölür. Son tanık **Alâeddin Ali (65)**: 1453'ün çocuğu, 1481'in kardeşi, 1512'nin amcası; 30 Eylül 1520'de Süleyman'ın cülûsunu kendi defterine yazar (epilog → `hikaye/00-ana-hat.md` §4). Berkay'ın 1444 defteri Sinan bin Abdullah'ın torununda mı? (⚙)*
+🎭 *Hikâyenin kapanışı: Çorlu, 21/22 Eylül 1520; Selim 49 yaşında — dedesi Berkay'la aynı yaşta ölür. Son tanık **Alâeddin Ali (65)**: 1453'ün çocuğu, 1481'in kardeşi, 1512'nin amcası; 30 Eylül 1520'de Süleyman'ın cülûsunu kendi defterine yazar (epilog → `hikaye/00-ana-hat.md` §4). Berkay'ın 1444 defteri Tursun Bey'in torununda mı? (⚙)*
 
 ---
 

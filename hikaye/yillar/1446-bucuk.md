@@ -105,7 +105,7 @@ Parayı bulmak, dil bulmaktan kolay oldu. Halil Paşa bedestendeki sarrafları �
 
 Tepeye, o günden sonra Buçuktepe dendi.
 
-Gece Mehmed, tepede yanan ateşleri sarayın penceresinden seyretti. Rüzgâr kıbleye döndüğü bir an ocaklar bir ağız gibi açıldı ve üç kelime geldi. Mehmed gözlerini kıstı; iki kelimeydi: *Sultan Murad.* Sonra rüzgâr döndü, kelime gitti, yerine bir başkası geldi — üç kelime daha, bir ağızdan, belki iki ağızdan, uzaktan, sarhoşça, genç bir askerin kendi kendine söylediği bir ad gibi: *Kral Vuran Şehzâde.*
+Gece Mehmed, tepede yanan ateşleri sarayın penceresinden seyretti. Rüzgâr kıbleye döndüğü bir an ocaklar bir ağız gibi açıldı ve üç kelime geldi. Mehmed gözlerini kıstı; iki kelimeydi: *Sultan Murad.* Sonra rüzgâr döndü, kelime gitti, yerine bir başkası geldi — üç kelime daha, bir ağızdan, belki iki ağızdan, uzaktan, sarhoşça, genç bir askerin kendi kendine söylediği bir ad gibi: *kral vuran!*
 
 Mehmed kıpırdamadı. O an, pencerenin önünde, on dört yaşında bir çocuk olarak hayatında ilk defa ve çok erken bir şey öğrendi: Ocağın sevgisi bir hediye değildi; bir ölçüydü ve ikizler o ölçüyle ölçülüyordu.
 
@@ -161,7 +161,7 @@ Mehmed cevap vermedi, başını eğdi. Odadan çıkmadan babası bir cümle daha
 
 ### IV
 
-Berkay Bursa'ya babasının ulağıyla geldi; ağustosun ilk günü, öğle sıcağında — Yeşilırmak'ın değil, Uludağ'ın eteğine inen bir sıcakla. Yol Manisa'dan Akhisar'a, Balıkesir'e, oradan Mihaliç'e uzanıyordu; susuz ve tozlu; atlar iki kere sakatlandı; Yunus Ağa hiç konuşmadı, Hamza Ağa her konakta defterini açtı. Berkay iki yıldır Saruhan'ın beyiydi; ilk defa kendi sancağının dışına bir emirle çıkıyordu ve çıkışının sebebini bilmiyordu — ulağın getirdiği kâğıtta yalnız davet vardı, sebep yoktu.
+Berkay Bursa'ya babasının ulağıyla geldi; ağustosun ilk günü, öğle sıcağında — Yeşilırmak'ın değil, Uludağ'ın eteğine inen bir sıcakla. Yol Manisa'dan Akhisar'a, Balıkesir'e, oradan Mihaliç'e uzanıyordu; susuz ve tozlu; atlar iki kere sakatlandı; Has Yunus Bey hiç konuşmadı, Hamza Bey her konakta defterini açtı. Berkay iki yıldır Saruhan'ın beyiydi; ilk defa kendi sancağının dışına bir emirle çıkıyordu ve çıkışının sebebini bilmiyordu — ulağın getirdiği kâğıtta yalnız davet vardı, sebep yoktu.
 
 Bey Sarayı'nda babasını buldu; yaşlı adam üç aydır buradaydı. Pencereden Hisar'a, Osman'ın ve Orhan'ın türbelerine bakıyordu; sofrada az, kelamda azdı. Bir şey bekliyor gibiydi; beklediği şeyin ne olduğunu oğluna söylemedi.
 
@@ -173,7 +173,7 @@ Murad Han, oğlunun sandukasının başında uzun durdu. Sonra avluda, gölgeli�
 
 Ve bir emir daha: bütün kulları azat oluna.
 
-Kâtip, Berkay'ın kendi kâtibiydi: Sinan bin Abdullah, Saruhan sancağının kalemi, otuz iki yaşında, Rum yüzlü, sakalı seyrek. Yazarken elinin titrememesi hoşuna gitti Berkay'ın; sonra bir şey daha fark etti: genç kâtip *"üstü açık ola ki üzerime yağmur yağa"* cümlesini yazarken bir kere durdu, kalemi hokkanın üstüne koydu, sonra aynı cümleyi baştan yazdı. Bir vasiyetin bir ayrıntısı, bir adamın ömrüne böyle girerdi: bir kere durup baştan yazmakla.
+Kâtip, Berkay'ın kendi kâtibiydi: Tursun Bey, Saruhan sancağının kalemi, yirmi yaşında, Bursalı, Cebe Ali Bey'in yeğeni; yazısı sıkı ve temiz. Yazarken elinin titrememesi hoşuna gitti Berkay'ın; sonra bir şey daha fark etti: genç kâtip *"üstü açık ola ki üzerime yağmur yağa"* cümlesini yazarken bir kere durdu, kalemi hokkanın üstüne koydu, sonra aynı cümleyi baştan yazdı. Bir vasiyetin bir ayrıntısı, bir adamın ömrüne böyle girerdi: bir kere durup baştan yazmakla.
 
 Murad Han, kâğıt imzalanırken oğluna döndü.
 
@@ -215,7 +215,7 @@ Kucaklaşmadılar; bu hanedanda kucaklaşmak bir çeşit hesaplaşmadır ve ikis
 
 Cumartesi günü divan kuruldu; kadı efendi, sancak defterdarı, subaşı, çeribaşılar oradaydı. Berkay defterleri teslim etti, sancak kâğıtlarını gözden geçirdi, bir iki timar işini andı; Mehmed hiçbir görevliyi değiştirmedi.
 
-"Karındaşım, defterinde bir not var," dedi sonunda. "Şehit Hüseyin'in timarı oğluna verilmiş; kayda geçmemiş. Bunu ben de böyle bırakıyorum."
+"Karındaşım, defterinde bir not var," dedi sonunda. "Varna'da şehit düşen bir Saruhanlı sipahinin timarı oğluna verilmiş; kayda geçmemiş — yalnız kenarında bir satır. Bunu ben de böyle bırakıyorum."
 
 Berkay bir an durdu. "Kenar notudur," dedi. "Yazacak yer bulunca yazılır."
 
@@ -227,7 +227,7 @@ Gece, iki mum, iki kadeh şerbet, kapıda iki davetsiz kulak. Uzun bir sessizlik
 
 "Varna'da Saruhan alayının yoklamasını bitirmişsin; defterler nizam üzre."
 
-"Kırk iki şehit yazdım," dedi Berkay. "Biri Saruhanlı Hüseyin'di; timarı oğluna kaldı. Onu gündüz divanda sen de gördün."
+"Kırk iki şehit yazdım," dedi Berkay. "Biri Saruhanlı bir tımarlıydı; adı defterde, timarı oğluna kaldı. O notu gündüz divanda sen de gördün."
 
 "Gördüm," dedi Mehmed. Bir şey daha söyleyecekti, söylemedi; sonra, bir kuyuya taş atar gibi, sordu:
 
@@ -259,17 +259,17 @@ Mehmed, sancağının kapısında at üstünde uzun uzun durdu. Karındaşının
 
 ### VI
 
-Amasya'ya, ekimin yirminci gününde vardılar; 29 Receb 850, perşembe. Yanında Yunus Ağa, Hamza Ağa ve kâtibi Sinan; arkasında yetmiş atlı, yüzü aşkın yük. Şehre, tepedeki kral mezarlarının altından, ırmağın kıvrımından girdiler; Ermeni mahallesinden geçtiler, köprüden geçtiler, Yeşilırmak'ın kuzey yakasına: beyliğin sarayı, kalenin dibinde, şehzâdelerin oturduğu o eski yapı — hazırlanmış, süpürülmüş, ısıtılmıştı.
+Amasya'ya, ekimin yirminci gününde vardılar; 29 Receb 850, perşembe. Yanında Has Yunus Bey, Hamza Bey ve kâtibi Tursun; arkasında yetmiş atlı, yüzü aşkın yük. Şehre, tepedeki kral mezarlarının altından, ırmağın kıvrımından girdiler; Ermeni mahallesinden geçtiler, köprüden geçtiler, Yeşilırmak'ın kuzey yakasına: beyliğin sarayı, kalenin dibinde, şehzâdelerin oturduğu o eski yapı — hazırlanmış, süpürülmüş, ısıtılmıştı.
 
 Berkay atından inip sarayın kapısına vardığında kapının eşiğinde üç kişi bekliyordu: sancak kadısı, evin kethüdâsı, bir de elinde kâğıt tutan bir kız — Yörgüç Paşa'nın torunu; Manisa'ya gitmeden önceki kış avlusunda kar topu attığı kız; yüzü üşümüş, burun ucu kızarmış, gözleri bir elmanın parlaklığında. Kâğıdı uzattı; üstünde tek satır vardı: *"Elmalar kızarınca bekledik; geciktin. — M."*
 
 Berkay kâğıdı katladı, koynuna koydu. (Kesede bir akçe, koyunda bir mektup; bir adamın iki serveti.) Sonra atını seyise verdi, sarayın kapısından içeri girdi.
 
-O akşam, kâtibi Sinan defteri açtı ve yeni sancağın ilk kaydını yazdı: *"Rûm sancağına vâsıl oldum; 29 Receb, sene 850, Amasya."* Kalemi hokkaya batırmadan önce bir an durdu; çünkü aynı günü, aynı ayı, aynı tarihi iki yıl önce de yazmıştı: 29 Receb 848, Varna ordugâhı. Bir defter kapanırken bir defter açılıyordu; kâtip bunun altını çizmedi, ama fark etti. Fark eden kalem, yazmayı bırakmaz.
+O akşam, kâtibi Tursun defteri açtı ve yeni sancağın ilk kaydını yazdı: *"Rûm sancağına vâsıl oldum; 29 Receb, sene 850, Amasya."* Kalemi hokkaya batırmadan önce bir an durdu; çünkü aynı günü, aynı ayı, aynı tarihi iki yıl önce de yazmıştı: 29 Receb 848, Varna ordugâhı. Bir defter kapanırken bir defter açılıyordu; kâtip bunun altını çizmedi, ama fark etti. Fark eden kalem, yazmayı bırakmaz.
 
 Kış, Amasya'ya vadinin ters havasıyla indi. Berkay, Rûm divanını babasının usulünce kurdu; Yörgüç Paşa'nın konağına gitti, camisini ve türbesini ziyaret etti, ırmağın kıyısındaki elma bahçelerini gördü, medreselerin müderrislerini dinledi. Şehrin kral mezarlarına her bakışta bir şey düşünüyordu; o mezarlar, taş kesilmiş kralların, kimsenin elinden almadığı bir tahtta oturduğu yerdi. *Bizim tahtımız,* diye düşündü bir kere, *taştan değil; o yüzden herkes onu sökmek istiyor.*
 
-Bir de şu vardı: Amasya, ağabeyinin öldüğü şehirdi. Berkay, ilk cuma günü, sancağın kadısına bir emir verdi: mezarın bakımı için vakıftan bir akçe ayrılacaktı; kimse merak etmesin diye de emri deftere yazdırdı. Kâtip Sinan yazarken bir kere başını kaldırıp beyine baktı. Berkay'ın yüzü, babasının vasiyetini yazdırırken olduğu gibi duruyordu: hiçbir şey anlatmayan, her şeyi saklayan bir yüz.
+Bir de şu vardı: Amasya, ağabeyinin öldüğü şehirdi. Berkay, ilk cuma günü, sancağın kadısına bir emir verdi: mezarın bakımı için vakıftan bir akçe ayrılacaktı; kimse merak etmesin diye de emri deftere yazdırdı. Kâtip Tursun yazarken bir kere başını kaldırıp beyine baktı. Berkay'ın yüzü, babasının vasiyetini yazdırırken olduğu gibi duruyordu: hiçbir şey anlatmayan, her şeyi saklayan bir yüz.
 
 ---
 
@@ -287,13 +287,13 @@ Ekimin sonunda Molla Gürânî geldi. Aylardır yoldaydı: Edirne'den çıkmış
 
 Gürânî kitabını kapattı. "Beyim," dedi, "bir adamın ne olacağını kendi ağzıyla söylemesi bir tek yerde doğru olur: ölüm döşeğinde. Ötekilerde söylenen, çoğu zaman korkunun kendisidir."
 
-Mehmed o akşam karındaşının bıraktığı odada, karındaşının divan defterlerinin durduğu sandığın önünde uzun oturdu. Defterleri açtı; hepsi tertemizdi, hepsi aynı elden çıkmış, hepsinin sayfa kenarında aynı sıkı yazı. Sonra bir defterin son yaprağında, başka bir kalemle düşülmüş bir not buldu: *"Şehit Hüseyin'in timarı oğlu Mehmed'e; çıplak kalmasın. Kâtip Sinan'a söylenmiştir."* Parmağını o satırın üstünde gezdirdi. Kayda geçirilmemiş bir şeydi bu; karındaşı bir timarı, bir yetimi, bir defterin kenarına yazmıştı. Mehmed kâğıt aldı, o notun altına bir şey yazmadı; bir şey yazmanın, o notu kendi hanesine geçirmek olacağını biliyordu. Defteri kapattı.
+Mehmed o akşam karındaşının bıraktığı odada, karındaşının divan defterlerinin durduğu sandığın önünde uzun oturdu. Defterleri açtı; hepsi tertemizdi, hepsi aynı elden çıkmış, hepsinin sayfa kenarında aynı sıkı yazı. Sonra bir defterin son yaprağında, başka bir kalemle düşülmüş bir not buldu: *"Varna'da şehit olan Saruhanlı tımarlının timarı oğluna; çıplak kalmasın. Kâtip Tursun'a söylenmiştir."* Parmağını o satırın üstünde gezdirdi. Kayda geçirilmemiş bir şeydi bu; karındaşı bir timarı, bir yetimi, bir defterin kenarına yazmıştı. Mehmed kâğıt aldı, o notun altına bir şey yazmadı; bir şey yazmanın, o notu kendi hanesine geçirmek olacağını biliyordu. Defteri kapattı.
 
 Kasımın son günlerinde haber geldi: Babası Mora'da, Germe surunun önünde. Aralıkta bir çavuş müjdeyle geldi: sur yıkılmış, akıncılar Mora'ya yayılmış, Patras ve Klarentza'ya kadar gidilmiş. Mehmed fetihnâmeyi Manisa divanında okuttu; dinlerken yüzü hiç oynamadı, sonra herkese bahşiş dağıttı; dağıtırken o gün bir akçenin kaç mangır ettiğini sordu ve cevabı kendi eliyle deftere yazdı. Divan, sultan oğlunun para işine bu kadar düşmesini hoş karşıladı; kimse anlamadı ki Mehmed, babasının düzelttiği akçenin kenarını dokuz aydır kendi avucunda ölçüyordu.
 
 Ramazan kışın ortasına düştü; sahurda kar, iftarda kar, teravihte sarayın avlusunda kar. Kadir gecesi Mehmed yatsıdan sonra Ulu Cami'ye gitti; cami doluydu, hatim bitiyordu. Secdeye kapandığında uzun kaldı; kalktığında gözleri kızarıktı ve kimse bir şey sormadı. O gece, sarayda kimsenin görmediği bir köşede bir kâğıt yazdı:
 
-> *Karındaşım, Amasya'ya vardığını işittim; Yörgüç Paşa'nın konağına yerleştin, elmalar kızardı dediler. Manisa'da divanı devraldım, kimseyi değiştirmedim; defterlerini nizam üzre buldum. Şehit Hüseyin'in timarını ben de oğluna bıraktırdım; sende kaldığı gibi kalsın, kâtip değişince defter değişmesin.*
+> *Karındaşım, Amasya'ya vardığını işittim; Yörgüç Paşa'nın konağına yerleştin, elmalar kızardı dediler. Manisa'da divanı devraldım, kimseyi değiştirmedim; defterlerini nizam üzre buldum. Varna'da şehit olan Saruhanlının timarını ben de oğluna bıraktırdım; sende kaldığı gibi kalsın, kâtip değişince defter değişmesin.*
 > *Babam Sultan Mora'da sur yıktı; akçe düzeldi. Aramızda bir akçe var: bozuk marifet, ben kestim; sende duruyor.*
 > *Bir şey soracağım, yüz yüze soramadığım şeyi: Bursa'da öğrendiğin gün bana acıdın mı, yoksa sevindin mi? İkisine de kızmayacağım; ne ise onu yaz.*
 > *Karındaşın, Manisa beyi Şehzâde Mehmed.*
@@ -316,8 +316,8 @@ Uzun mektup açılmadan o çekmecede kaldı; bir gün okunacaktı, ya da okunmay
 | ⚙ | **Berkay'ın taşıdığı sır** ("kardeşine yazmayacaksın") Murad'ın ağzından: Murad'ın iki oğlundan da sır saklaması, Zeyl'deki (rüya) huyunun aynısı. |
 | ⚙ | **Kurtçu Doğan Ağa** burada Halil'in adamı ve ocağın ağası; 1451'de Berkay onu ağalıktan alıp Lala'nın ucuna gönderecek (`cevre-kisiler.md` §A). Bu yıl ona tarihî kayda aykırı bir iş yaptırılmadı, yalnızca "hesabı getiren ağa" oldu. |
 | ⚙ | **Fahreddin-i Acemî'nin sorusu ve Halil'in cevabı ("Vakit")**: müftünün 1444 Hurûfî katliamı ve yangın hatırasıyla (`edirne.md` §4) bağlandı. Sahnede fetva yok, telkin yok; iki ihtiyar arasında bir soru. |
-| ⚙ | **Kâtip Sinan'ın vasiyeti yazması** ve bir cümlede durup baştan yazması: `cevre-kisiler.md` §A'daki "rüyayı yazan kâtip" çizgisinin ilk halkası; 1445 dosyasında Akşemseddin'in dikkatle baktığı adamın ta kendisi. |
-| ⚙ | **29 Receb 848 / 29 Receb 850 eşleşmesi** (VI. bölüm sonu): defterin yazıldığı günün hicrî yıl dönümünde Berkay Amasya'ya varıyor; bunu fark eden kâtip Sinan'dır. Tesadüf değil, kurgu tercihi; gerekirse tek cümleye indirilir. |
+| ⚙ | **Kâtip Tursun Bey'in vasiyeti yazması** ve bir cümlede durup baştan yazması: `cevre-kisiler.md` §A'daki "rüyayı yazan kâtip" çizgisinin ilk halkası; 1445 dosyasında Akşemseddin'in dikkatle baktığı adamın ta kendisi (sırrı 1459'da Göynük'te öğrenir, nüshayı temize çeker). |
+| ⚙ | **29 Receb 848 / 29 Receb 850 eşleşmesi** (VI. bölüm sonu): defterin yazıldığı günün hicrî yıl dönümünde Berkay Amasya'ya varıyor; bunu fark eden kâtip Tursun'dur. Tesadüf değil, kurgu tercihi; gerekirse tek cümleye indirilir. |
 | ⚙ | **Berkay'ın Bursa'da Yeşil Türbe'ye gitmesi** (rüyadaki sarığın sahibi Çelebi Mehmed'in türbesi) — Berkay rüyayı bilmediği için sahne **dramatik ironi**dir: okur bilir, o bilmez (`00-ana-hat.md` §2a). |
 | ⚙ | **Cumartesi motifi** (23 Nisan Buçuktepe, 3 Eylül Edirne'den çıkış, 10 Aralık Germe'nin yıkılışı) — tarihler gerçek; motif kâtip tercihi, gerekirse metinden çıkarılır. |
 | `[K]` | Tarihler: 23 Nisan 1446 = 26 Muharrem 850 **Cumartesi** (Rûz-ı Hızır = sefer mevsiminin açılışı); 27 Nisan = 30 Muharrem; 5 Mayıs = 8 Safer **Perşembe**; 2 Ağustos = 9 Cemâziyelevvel **Salı**; 27 Ağustos = 4 Cemâziyelâhir **Cumartesi**; 2 Eylül = 10 Cemâziyelâhir **Cuma**; 22 Eylül = 1 Receb **Perşembe**; 20 Ekim = 29 Receb **Perşembe**; 27 Kasım = 8 Ramazan; 10 Aralık = 21 Ramazan; 1 Şevval = 20 Aralık (`takvim-ve-zaman.md`). Mekân: Buçuktepe = şehrin doğusunda, bugün mahallenin biraz dışında mezarlık (DİA); Kıyık–Sırık Meydanı'ndaki yeniçeri odaları `[M]`; Üç Şerefeli 1446'da hâlâ iskeleli (1447'de tamamlanır); Eski Saray = Kavak Meydanı; Muradiye hazîresi ve Bey Sarayı (`edirne.md`, `bursa.md`). Divan: Halil Paşa vezîriâzam, Şehâbeddin Rumeli beylerbeyi (hadım), Zağanos ve Saruca Paşa vezir, kazasker (Molla Hüsrev `[M]`), Kurtçu Doğan yeniçeri ağası (1451'e kadar). Akçe: 1444–46 hafif darbı, 848–850 kesimleri (`para-ve-fiyatlar.md`). Menzil: Edirne–Manisa 18–20 gün, Manisa–Bursa 6–7 gün, Bursa–Amasya 15 gün (`edirne.md`, `bursa.md`, `amasya.md`). |

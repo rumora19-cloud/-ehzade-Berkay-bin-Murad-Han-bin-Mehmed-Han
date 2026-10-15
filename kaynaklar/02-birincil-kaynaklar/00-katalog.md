@@ -27,6 +27,7 @@ Kısaltmalar: **TTK** Türk Tarih Kurumu · **DİA** TDV İslâm Ansiklopedisi �
 - **Güvenilirlik:** Tanıklık değeri yüksek; fakat **taraflı**: gazi-derviş çevrelerinin sesi, Çandarlı ailesine ve devşirme kökenli vezirlere (özellikle Rum Mehmed Paşa'ya) düşman, Fâtih'in merkeziyetçi mâlî politikalarını (vakıf-mülk iptalleri) eleştirir. Küçük Ahmed'in öldürülmesini anlatmaz.
 - **🎭 Hikâye için:** Dönem insanının ağzı; "Sual – Cevap" bölümleri; Edirne/Bursa/İstanbul'daki gündelik ayrıntılar; Murad II'nin karakteri; yeniçeri isyanı.
 - DİA: https://islamansiklopedisi.org.tr/asikpasazade
+- → **Derinleştirme: `asikpasazade.md`** (müellif, neşirler, kapsam tablosu, güvenilirlik, hikâye kullanımı)
 
 ### A3. Oruç b. Âdil (Edirneli Oruç Bey), *Tevârîh-i Âl-i Osmân*
 - **Müellif:** Edirneli kâtip (Oruç bin Âdil el-Kazzâz); II. Bayezid devrinde yazdı.
@@ -154,6 +155,7 @@ Kısaltmalar: **TTK** Türk Tarih Kurumu · **DİA** TDV İslâm Ansiklopedisi �
 
 - **Vâkıât-ı Sultan Cem** (anonim; Cem'in yakınındaki bir mahrem tarafından ~1500): Cem'in 1481–1495 serüveninin **içeriden** anlatısı. Neşir: Mehmed Ârif (TOEM ilâvesi 1330/1914); Nicolas Vatin, *Sultan Djem: Un prince ottoman dans l'Europe du XVe siècle d'après deux sources contemporaines* (TTK 1997) — Vâkıât + Guillaume Caoursin metni, Fransızca çeviri ve tahlil. **🎭 Bir şehzadenin iktidar kaybı, sürgün, ihanet ve nostaljisi için eşsiz.**
 - **Cem Sultan Dîvânı** (haz. İ. Halil Ersoylu, TTK 1989; Fuad Köprülü'nün çalışmaları) ve *Cemşîd ü Hurşîd* mesnevisi.
+- → **Derinleştirme: `vakiat-i-sultan-cem.md`** (nüsha kaynağı Saîd Paşa, TOEM neşri, rota farkları, hikâye kullanımı).
 - **Saltuknâme** (Ebü'l-Hayr Rûmî; 1473–1480 arasında **Cem Sultan'ın emriyle** Edirne'de derlendi; haz. Ş. H. Akalın, 3 cilt 1987–90; tıpkıbasım Fahir İz 1974): Rumeli gazi-derviş kültürü; Cem'in Edirne'deki şehzade sarayının zevkini yansıtır.
 - **Kemalpaşazâde VIII. Defter**, **Oruç**, **Rûhî**, **Anonimler** (yukarıda).
 - **Giovanni Dario'nun raporları** (Venedik sekreteri, 1484–85), **Marino Sanudo, *I Diarii*** (1496–1533; Osmanlı haberleri yoğun), **Andrea Gritti** ve diğer Venedik *relazioni*'leri.
@@ -164,7 +166,7 @@ Kısaltmalar: **TTK** Türk Tarih Kurumu · **DİA** TDV İslâm Ansiklopedisi �
 
 | Müellif | Eser | Kapsam | Türkçe/İngilizce |
 |---|---|---|---|
-| **Dukas** (Doukas) | *Historia Turco-Byzantina* | 1341–1462; Varna, Mehmed'in cülûsu, **Küçük Ahmed'in öldürülmesi**, Rumeli Hisarı, Fetih (Cenevizlilerin hizmetinde, Midilli'de yazdı) | V. Mirmiroğlu, *Bizans Tarihi* (İstanbul Fetih Derneği 1956); Bilge Umar, *Dukas – İstanbul'un Fethi: Bizans Tarihi* (Arkeoloji ve Sanat 2008); H. J. Magoulias (İng. 1975) |
+| **Dukas** (Doukas) — → **`dukas.md`** | *Historia Turco-Byzantina* | 1341–1462; Varna, Mehmed'in cülûsu, **Küçük Ahmed'in öldürülmesi**, Rumeli Hisarı, Fetih (Cenevizlilerin hizmetinde, Midilli'de yazdı) | V. Mirmiroğlu, *Bizans Tarihi* (İstanbul Fetih Derneği 1956); Bilge Umar, *Dukas – İstanbul'un Fethi: Bizans Tarihi* (Arkeoloji ve Sanat 2008); H. J. Magoulias (İng. 1975) |
 | **Georgios Sphrantzes** | *Chronicon Minus* | 1413–1477; XI. Konstantinos'un yakın adamı; esir düştü | *Şehir Düştü!* (trc. Kriton Dinçmen, İletişim 1992); Marios Philippides (İng. 1980). *Chronicon Maius* (Makarios Melissenos, 16. yy) ayrı ve şüpheli. |
 | **Laonikos Chalkokondyles** | *Apodeixeis Historion* | 1298–1464; Türklere geniş yer; Varna, Kosova, Mora | Anthony Kaldellis, *The Histories* (Harvard/DOML 2014, 2 cilt, İng.); Türkçe kısmî çeviriler |
 | **Kritovulos** (İmrozlu) | *Fâtih'in Tarihi* (Ξυγγραφὴ ἱστοριῶν) | 1451–1467; Fâtih'e sunuldu, övgücü; Fetih, Enez, Sırbistan, Mora, Trabzon, Midilli, Bosna | Karolidi tercümesi (TOEM 1328/1910; sad. Muzaffer Gökman 1967); **Ari Çokona, *Kritovulos Tarihi 1451–1467* (İş Bankası 2012; Yunanca-Türkçe)**; Riggs (İng. 1954) |
@@ -221,7 +223,7 @@ Kısaltmalar: **TTK** Türk Tarih Kurumu · **DİA** TDV İslâm Ansiklopedisi �
 - **Telifsiz eski basımlar** (Âlî Bey Âşıkpaşazâde 1914, Mehmed Ârif Tursun Bey 1914, Karolidi Kritovulos 1910, Giese anonimleri 1922, Babinger Oruç 1925, Feridun Bey Münşeât 1858): archive.org ve Google Books'ta taranmış; Osmanlı harfleriyle.
 - **DİA:** Her müellif ve eser için güncel madde + bibliyografya: https://islamansiklopedisi.org.tr
 - **Akademik makaleler:** DergiPark (dergipark.org.tr), Belleten arşivi (belleten.gov.tr), İSAM makaleler veritabanı (isam.org.tr).
-- **Bu repoda:** Her kaynak için zamanla `02-birincil-kaynaklar/` altında ayrı özet dosyası açılacak (`asikpasazade.md`, `dukas.md`, `vakiat-i-sultan-cem.md` …); kilit pasajlar kısa alıntı + sayfa numarasıyla oraya işlenecek.
+- **Bu repoda:** Kaynak başına ayrı özet dosyası: **`asikpasazade.md`**, **`dukas.md`**, **`vakiat-i-sultan-cem.md`** açıldı (15 Ekim 2026); ötekiler sırayla (`nesri.md`, `tursun-bey.md`, `kritovulos.md`, `barbaro.md` …). Kilit pasajlar kısa alıntı + sayfa numarasıyla oraya işlenecek.
 
 ---
 

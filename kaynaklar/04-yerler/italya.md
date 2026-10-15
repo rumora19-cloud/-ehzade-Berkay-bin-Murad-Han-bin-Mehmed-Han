@@ -67,7 +67,9 @@
 | **Gedik Ahmed Paşa** | Kapudan; Otranto fatihi; 1481'de geri çağrıldı; 18 Kas 1482 idam | ✔ idam yok; Pulya beylerbeyi, ö. 1485 Otranto |
 | **Ferrante I** (1423–94) | Napoli kralı; Otranto kuşatmasını başlattı | 1481'in düşmanı; 1494'e kadar Salento'yla komşu ⚙ |
 | **Alfonso, Kalabriya Dükü** (1448–95) | Otranto'yu geri aldı (10 Eyl 1481); 1494–95 kral; Messina'da öldü | ⚙ 3 May 1481 Cannae'de yenilir, kaçar |
-| **IV. Sixtus** | Haçlı çağrısı 1481 | aynı; 1480'de Roma'dan kaçar mı? ⚙ |
+| **IV. Sixtus** | Haçlı çağrısı 1481 | ✔ 25 Ekim 1480'den beri Civitavecchia'da |
+| **Mesih Paşa** (Paleologos; ö. 1501) | 1480 Rodos kumandanı; sonra vezir | ✔ Rodos düşer; **filosu Gedik Ahmed'e katılır** (Eyl 1480); sonra vezir |
+| **Pierre d'Aubusson** | Rodos başkumandanı | ✔ yaralı, şartlı teslim; **1503'e dek Roma'da Cem'in bekçisi** |
 | **VIII. Charles** | Napoli'ye girdi 1495; Cem'i aldı | ✔ aynı |
 | **Gonzalo de Córdoba** ("Gran Capitán") | Cerignola, Garigliano; kral nâibi 1504–07 | 1503 İspanyol Napolisi'nin kurucusu; Orhan'ın 1511'deki rakibi değil (1507'de İspanya'ya döndü, ö. 1515) |
 | **Ramón de Cardona** | Kral nâibi 1509–22; Ravenna'da yenildi (1512) | ⚙ 1511'de Napoli'yi savunan adam |
@@ -76,10 +78,10 @@
 
 ## 6. Hikâye haritası 1480–1520 (⚙ özet; ayrıntı `hikaye/00-ana-hat.md`)
 
-1. **1480:** Rodos düşer; Otranto 11 Ağustos; Mehmed Otranto–Brindisi–Benevento–Capua–Roma yolunu Eylül–Ekim'de alır (⚙ ~50 gün; gerçekte yürünmedi); 28 Ekim Milvius.
-2. **1481:** Berkay Mart'ta Avlonya–Otranto; Nisan'da Tavoliere'ye; 3 Mayıs Cannae. Orhan Mayıs sonunda İstanbul'da; Pulya'da Gedik Ahmed; Ferrante–Alfonso karşı saldırısı 1481–82: Bari, Trani, Barletta ve Tavoliere kaybedilir; **Salento üçgeni** (Otranto–Lecce–Gallipoli) + Brindisi ⚙ tutulur.
-3. **1482–1509:** Pulya beylerbeyiliği (Gedik Ahmed → Mihaloğlu Ali → Mihaloğlu Mehmed); Napoli krallarıyla sınır savaşları, Venedik (1499–1503) Adriyatik'te; 1503 İspanyollar Napoli'de.
-4. **1510–12:** Orhan geçer; Tavoliere–Benevento–Capua; **Napoli 15 Tem 1511**; Gaeta kışı; 1512 baharı Garigliano–Via Latina–Colli Albani; **4 Nis Albano**. Napoli beylerbeyiliği (merkez Napoli), Pulya beylerbeyiliği (merkez Otranto/Lecce).
+1. **1480 (✔ ⚙ — yazar plan verisi):** **Rodos 27 Temmuz 1480 Perşembe düşer**; d'Aubusson yaralı, **şartlı teslim**, şövalyeler **Messina → Civitavecchia**; Ferdinand 1483'te Malta'yı verir; d'Aubusson 1503'e dek Roma'da Cem'in bekçisidir. Otranto 11 Ağustos. Ordu durmaz: **Mesih Paşa'nın filosu Gedik Ahmed'e katılır; Mehmed 5 Eylül'de ikinci dalgayla geçer**; Napoli ordusu Toskana'da; yol **Abruzzo – Rieti – Via Salaria**. Akıncılar sabah **Milvius'tan geçip San Pietro** (eski Konstantin bazilikası) avlusunda at sular. **28 Ekim 1480 Cumartesi (23 Şaban 885) — Konstantin'in 312 Milvius zaferinin yıl dönümü —** Alfonso + Roberto Malatesta Via Cassia'dan köprübaşına vurur; Mehmed köprüye iner; **adsız bir Cenevizli arbaletçinin oku boynuna isabet eder**, Gedik Ahmed'in kollarında ölür; **Kurtçu Doğan köprüyü tutarken ölür**; **Sixtus 25 Ekim'den beri Civitavecchia'dadır**. Cenaze **kurşun tabutta** İslambol'a, Fâtih Camii haziresi, defin Aralık başı.
+2. **1481 (✔ ⚙):** Nikris **Eylül 1480'de Avlonya'da** başlar; Mehmed'in şehâdet haberi **20 Kasım 1480'de Edirne'de**; **25 Mart 1481'de ordu geçer**; **3 Mayıs 1481 Perşembe şafak (4 Rebîülevvel 886), Ofanto/Cannae:** Berkay otağında can verir; Orhan meydanı kazanır, **Alfonso + Roberto Malatesta** bozulur. **4 Mayıs: Karamânî Mehmed ordugâhta linç edilir; İshak Paşa vezîriâzam olur. Alâeddin Ali Mart'tan beri İstanbul kaymakamıdır.** Orhan **21 Mayıs'ta naaşla İstanbul'a varır, 22 Mayıs'ta cülûs**; **Cem 30 Mayıs'ta Bursa'da sultanlık ilan eder**; **Bayezid 5 Haziran 1481 Salı, Muradiye'de söyler ve aynı gece boğdurulup Muradiye'ye gömülür**; **20 Haziran 1481 Çarşamba, Yenişehir: Orhan Cem'i ezer**; Cem **Konya → Kahire**. Pulya'da Gedik Ahmed; Ferrante–Alfonso karşı saldırısı 1481–82: Bari, Trani, Barletta ve Tavoliere kaybedilir; **Salento üçgeni** (Otranto–Lecce–Gallipoli) tutulur.
+3. **1482–1509:** Pulya beylerbeyiliği (Gedik Ahmed → Mihaloğlu Ali → Mihaloğlu Mehmed); Napoli krallarıyla sınır savaşları, Venedik (1499–1503) Adriyatik'te; 1503 İspanyollar Napoli'de. **Gedik Ahmed idam edilmez: Pulya beylerbeyi, ö. 1485.**
+4. **1510–12:** Orhan geçer; **yanındaki vezir Hersekzâde Ahmed Paşa (mühür 1511), Eylül 1511'den sonra İstanbul'da Koca Mustafa Paşa**; Tavoliere–Benevento–Capua; **Napoli 15 Temmuz 1511 Salı**; Gaeta kışı; 1512 baharı Garigliano–Via Latina–Colli Albani; **4 Nisan 1512 Pazar (17 Muharrem 918), Albano tepeleri**. **Napoli beylerbeyi 1511–20+: Mihaloğlu Mehmed Bey (merkez Otranto → Napoli)**.
 5. **1512–20:** Selim'in İtalya'ya ilgisi az (Doğu); beylerbeyiler savunur; 1517 Leo'nun çağrısı; Sicilya İspanyol, Roma hür, Venedik barış, François dost, V. Karl düşman (1520 haritası).
 
 ## 7. Açık sorular / doğrulanacaklar

@@ -70,7 +70,7 @@ Edirne'nin ulağı ikindiden sonra geldi; bayram mektuplarıyla. Murad onları d
 
 Halil'in mektubu uzundu ve her satırı iki kere düşünülmüştü. "Devletlü, saâdetlü hünkârım" ile başlıyordu — Murad'a hâlâ hünkâr diyen bir tek Halil kalmıştı, bir de Manisa'nın bilmeyenleri — ve Edirne'nin bayramını anlatıyordu: Çelebi Sultan bayram tahtına oturmuş, erkân el öpmüş, ocağa bahşiş dağıtılmış. Bahşiş yeni akçeyle verilmiş. Yeniçeri yeni akçeyi avucunda tartmış, bir şey dememiş; Halil "demediğini ben duydum" diye yazıyordu. Zağanos Paşa ile Şehâbeddin Paşa Çelebi Sultan'a bahar gelince Kostantiniyye üzerine yürümeyi telkin ediyorlarmış; tekfur Orhan Çelebi'yi salmakla tehdit ediyormuş; Macar'ın Tuna'da hazırlık yaptığı, Burgonya kadırgalarının Boğaz'dan Karadeniz'e çıkmak üzere kışladığı haberleri varmış. "Devlet iki başlı olmaz hünkârım," diye bitiriyordu Halil; "bir baş Edirne'de, bir baş Mağnisa'da olursa boyun ikisini de taşıyamaz." Bu cümleyi geçen mektubunda da yazmıştı. Ondan önceki mektubunda da.
 
-Bir satır daha vardı, sonda, sanki unutulmuş da eklenmiş gibi: "Ocakta Varna'dan beri bir lâkap dolaşır; 'Kral Vuran Şehzâde' derler. Çelebi Sultan bir gün sofrada bu lâkabı kimin verdiğini sordu. Kimse cevap vermedi. Çelebi Sultan da bir daha sormadı."
+Bir satır daha vardı, sonda, sanki unutulmuş da eklenmiş gibi: "Ocakta Varna'dan beri bir nâra dolaşır; 'kral vuran!' derler. Divan kâtipleri deftere 'Şâh-küş Şehzâde' yazar. Çelebi Sultan bir gün sofrada bu adı kimin verdiğini sordu. Kimse cevap vermedi. Çelebi Sultan da bir daha sormadı."
 
 Murad mektubu dizine koydu.
 
@@ -138,7 +138,7 @@ Akıncı yüzlü bey — Gazi Evrenos'un oğlu olmalıydı, o yüz başka yerden
 
 Şehre girdiler. Sokaklar dardı; kapılarda insanlar vardı, kadınlar, çocuklar, bir sakız tüccarı, bir Rum keşiş. İnsanlar şeyhe bakıyor, el öpmeye yeltenip vazgeçiyor, sonra çocuğa bakıyorlardı. Akşemseddin iki kapıkulu neferinin yanından geçerken birinin öbürüne söylediğini duydu, fısıltıyla, ama kul fısıltısı mehter davulundan alçak değildir:
 
-"Kral Vuran."
+"kral vuran!"
 
 Çocuğun ensesi bunu duydu; Akşemseddin ensenin duyduğunu gördü. Çocuk dönmedi, hızlanmadı, yavaşlamadı. Olduğu yerde duran çocuk, at üstünde de olduğu yerde duruyordu.
 
@@ -240,7 +240,7 @@ Ertesi sabah ok meydanına indi. Çağrılmamıştı; gitti.
 
 Meydan şehrin doğusunda, Spil'in eteğinde, iki yanı dut ağaçlı uzun bir düzlüktü; menzil taşları yoktu, Saruhanoğlu zamanından kalma iki eski nişan sütunu vardı, biri yıkılmış. Sipahiler atıyordu; sonra çocuk attı. Akşemseddin ok bilmezdi, derviş yayı değil tesbihi tutar; ama el bilirdi, hekim eli bilir. Çocuğun eli yayı kavrarken bir şey yapıyordu — sıkmıyor, tutuyordu; sıkanın oku titrer. Ok gitti. Nereye gittiğini Akşemseddin görmedi; sipahilerin yüzünden anladı.
 
-Lala, akıncı yüzlü bey, Akşemseddin'in yanına geldi; selâm verdi; bir şey söylemedi. Berkay'ın yanında bir de kâtip vardı, otuzunda, Rum yüzlü, Müslüman sarıklı; elinde bir defter, her atışı yazıyordu. Akşemseddin bu kâtibin yüzüne bir an dikkatle baktı, niçin baktığını bilmeden; sonra unuttu — unuttuğunu sandı.
+Lala, akıncı yüzlü bey, Akşemseddin'in yanına geldi; selâm verdi; bir şey söylemedi. Berkay'ın yanında bir de kâtip vardı; on dokuzunda, Bursalı, ince yüzlü; elinde bir defter, her atışı yazıyordu. Adı Tursun'du; Cebe Ali Bey'in yeğeniydi, yazısı sıkı ve temizdi. Akşemseddin bu kâtibin yüzüne bir an dikkatle baktı, niçin baktığını bilmeden; sonra unuttu — unuttuğunu sandı.
 
 Çocuk yayı bıraktı, geldi, el öptü.
 
@@ -296,15 +296,15 @@ Katırı sürdü. Omzunda, görünmeyen bir ağırlık vardı ve yürüdükçe h
 
 | İşaret | Not |
 |---|---|
-| ✔ | Rüya metni defterin Zeyl'inden kelimesi kelimesine; "yalnız Akşemseddin bilir", "Berkay haberdar değildir", "tabir iki türlü, Murad hangisini kastettiğini bilmez" (`hikaye/00-ana-hat.md` §2a) burada sahneye döküldü. Zeyl'in "rivayet olarak kayda geçirilmesi" → Akşemseddin'in kâtibe bakışı (⚙ Sinan sırrı 1459'da öğrenir). |
+| ✔ | Rüya metni defterin Zeyl'inden kelimesi kelimesine; "yalnız Akşemseddin bilir", "Berkay haberdar değildir", "tabir iki türlü, Murad hangisini kastettiğini bilmez" (`hikaye/00-ana-hat.md` §2a) burada sahneye döküldü. Zeyl'in "rivayet olarak kayda geçirilmesi" → Akşemseddin'in kâtibe bakışı (⚙ **Tursun Bey** sırrı 1459'da Göynük'te öğrenir). |
 | ✔ | Berkay Saruhan'ın gölge beyi, Murad aynı şehirde (ana hat §2a); Mehmed Edirne'de padişah; Zağanos, Şehâbeddin, Halil gerçek yerlerinde; Lala Ali Bey Berkay'ın yanında. |
 | ⚙ | **Akşemseddin'in 1445'te Manisa'ya çağrılması** kurgudur (gerçekte Göynük'te; Murad'la temas belgeli değil `[R]`). "Hekim" bahanesi Akşemseddin'in gerçek hekimliğine (*Mâddetü'l-hayât*, bulaşıcı "tohum" fikri) dayanır. |
 | ⚙ | **Edirne'deki eski karşılaşma** ("sarayda sesli zikir olmaz, içinden yapın") = tashih C6'nın açılımı: tarikat usûlü değil, şahsî telkin. Berkay tutar, Mehmed tutmaz. |
-| ⚙ | **Mehmed'in mektubu** (Kostantiniyye'ye sefer izni; Berkay'ın adını anmaması) kurgudur; dayanağı Zağanos–Şehâbeddin'in 1445–46'da Mehmed'i Kostantiniyye'ye karşı sefere itmesi `[K]` ve Orhan Çelebi tehdidi. "Kral Vuran" lâkabının Edirne'de duyulması — kıskançlığın ilk tohumu (defter §XVI, C12). |
+| ⚙ | **Mehmed'in mektubu** (Kostantiniyye'ye sefer izni; Berkay'ın adını anmaması) kurgudur; dayanağı Zağanos–Şehâbeddin'in 1445–46'da Mehmed'i Kostantiniyye'ye karşı sefere itmesi `[K]` ve Orhan Çelebi tehdidi. "kral vuran!" nârasının ve Şâh-küş lâkabının Edirne'de duyulması — kıskançlığın ilk tohumu (defter §XVI, C12). |
 | ⚙ | **Murad'ın "üstüme yağsın" düşüncesi** = 2 Ağu 1446 vasiyetinin ("üstü açık ola ki üzerime yağmur yağa") tohumu; 1446 dosyasında yazılır. |
 | ⚙ | **Berkay'ın kurbanını kendi kesmesi**, "kesmeyi bilen kesmemeyi de bilir": Berkay'ın hiçbir kardeşini/yeğenini öldürtmeyecek olmasının (ana hat) ilk işareti. |
 | ⚙ | **Lala'nın sezgisi** ("bir şey olduğunu biliyorum"): Lala Ali Bey rüyayı hiç öğrenmez (ö. 1462); yalnız sezer. İstenmezse paragraf silinir. |
-| ⚙ | **Rüyanın tekrarlanması** (Varna ertesi, Ramazan, bayram gecesi) kurgu eklemesidir; Zeyl tek bir geceyi anlatır. Kâtip Sinan'ın "Rum yüzlü" oluşu da ⚙ (`cevre-kisiler.md`: "bin Abdullah", yeni Müslüman; kökeni açık). |
+| ⚙ | **Rüyanın tekrarlanması** (Varna ertesi, Ramazan, bayram gecesi) kurgu eklemesidir; Zeyl tek bir geceyi anlatır. Kâtip **Tursun Bey**'in buradaki gençliği (19) ve Bursalı oluşu ⚙; 1459'da nüshayı temize çeken kalem odur (`cevre-kisiler.md`). |
 | `[K]` | Kurban Bayramı 10 Zilhicce 848 = 20 Mart 1445 Cumartesi; ayın onuncu gecesi; 30 Mart = ikizlerin şemsî doğum günü; Safer 849 = 9 Mayıs – 7 Haziran 1445; ikizlerin sünnet düğünü Haziran 1439 Edirne. Ulu Cami (İshak Bey, 1366–67; devşirme sütunlar), Mevlevîhâne (1368), 1445 saray inşaatı, Ağlayan Kaya, Spil'in karı, Akhisar–Bursa yolu (`04-yerler/manisa-saruhan.md`). Murad'ın kardeşleri: Küçük Mustafa boğduruldu (1423, 13 yaş `[M]`), Yusuf ve Mahmud'a mil (`hanedan-ii-murad-ailesi.md`). Yeni hafif akçe 1444–46 (`para-ve-fiyatlar.md`). Mehmed'in tuğrası "Mehmed bin Murad Han muzaffer dâimâ". Sancağın lalaları Kassaboğlu Mahmud, Nişancı İbrahim (defter §VI). |
 | `[T]` | Yusuf'un 1445'te sağ olup olmadığı (Mahmud 1429 vebasında öldü `[M]`; Yusuf'un ölümü belirsiz) — "Yusuf hâlâ sağdı" ibaresi gerekirse "Yusuf da gitmişti" olur. Murad'ın şarabı `[K]` ama ölçüsü `[R]`. Ok meydanının yeri ⚙. |
 | Sonraki yıl | **1446:** Edirne'de Buçuktepe; Murad'ın dönüşü (5 May Manisa'dan çıkış; 2 Ağu Bursa vasiyeti; Ağustos sonu Edirne); ikizlerin yer değişimi (Mehmed Manisa'ya, Berkay Amasya'ya); Kurtçu Doğan ağa — göz: Mehmed. |
