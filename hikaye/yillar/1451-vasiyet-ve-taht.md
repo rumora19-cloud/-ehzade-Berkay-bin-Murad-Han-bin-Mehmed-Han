@@ -69,6 +69,8 @@ Bizans'ın saldığı Orhan Çelebi Deliorman'da taraftar topladığında Lala E
 
 Bursa'da yeniçerilerin bahşiş talebi ise başka türlü bir uyarıydı. Verilen para işin yalnız bir kısmını kapattı. Kurtçu Doğan ağalıktan alındı; fakat sürgüne gönderilmedi. Lala'nın yanına, Rumeli ucuna gidecekti. Berkay ona yeni yerini bildirirken Varna'nın kazan başındaki sesini hatırladı. Bir adamın eski hizmetini hatırlamak, onu aynı görevde sonsuza kadar tutmak demek değildi.
 
+Divandan sonra Meryem hangi odada oturacaklarını sordu. Berkay kapıdan dışarı baktı; Amasya’da böyle bir sorunun cevabını düşünmesi gerekmezdi. Burada odanın yakınlığı, kapının hangi avluya açıldığı, kimin kimin önünden geçeceği bile bir işaret sayılıyordu. Bir oda gösterdi, sonra kararını değiştirmek istedi. Meryem örtüyü sandığın üstüne bıraktı. Önce yerleşelim, dedi. Berkay o akşam sarayda ilk defa bir işin ertelenebileceğini duydu. Ertesi sabah aynı kapının önünden geçerken içeriden gelen sıradan bir ses, bir tasın yere konması, ona Amasya’yı hatırlattı. Kapıyı açmadı; divanda bekleyenler vardı.
+
 Sonbaharda sarayın bir odasında iki hesap defteri yan yana açıldı. Birinde seferin giderleri, ötekinde merkezin gönderdiği ödenek vardı. Berkay fark çıkan satırları sordu; Mehmed hangi menzilde ne alındığını anlattı. Konuşma uzadı. Akşam kandili getirildiğinde hâlâ aynı masadaydılar.
 
 ---
