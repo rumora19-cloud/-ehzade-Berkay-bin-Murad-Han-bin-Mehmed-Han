@@ -6,7 +6,7 @@
 > **Gerçek tarih:** 1450 yazında **Murad, oğlu Mehmed'i yanına alıp ikinci Arnavutluk seferine** çıkar; **Akçahisar (Kruja) Mayıs–Ekim kuşatılır**, Yanko'nun yürüdüğü söylentisi üzerine kaldırılır. Aynı yıl Murad'ın son oğlu **Küçük Ahmed doğar** (annesi Candaroğlu kızı Hatice Halime Hatun `[M]`). Kışın Edirne'de Mehmed'in **Dulkadırlı Sitti Hatun'la düğünü** yapılır `[K]`. `[K]`
 > **Çatal:** ✖ **Sitti Mükrime bu evrende yoktur; düğün olmaz.** ✔ **Berkay 1450'de Amasya'da Meryem'le evlenir** — Yörgüç Paşa'nın torunu, tek eşi. Küçük Ahmed doğar ama **1451'de eceliyle ölür** (✔) — hikâye bebeği boğdurmaz.
 > **Kaynak:** `karakter/sehzade-berkay-ahval-defteri.md` §II, §VI · `kaynaklar/01-kronoloji/01-ii-murad-ikinci-saltanat-1444-1451.md` §6 · `kaynaklar/04-yerler/amasya.md` · `kaynaklar/06-gunluk-hayat/kiyafet-yemek-meclis.md` (düğün) · `karakter/cevre-kisiler.md` (Meryem, Hamza Bey)
-> **Durum:** ⚙ kâtip taslağı — yazarın kalemini bekler.
+> **Durum:** ⚙ kâtip taslağı — sahne iskeleti yazıldı; seçilen kalıbın kelime alt sınırı henüz tamamlanmadı. Bitmiş bölüm değildir.
 
 ---
 
@@ -28,7 +28,7 @@ Sancakta düğün ilân edilmemişti. Ne üç günlük şenlik, ne cambaz, ne na
 
 Nikâh günü sabahı Berkay, Edirne'den gelen bir mektup buldu elinde; babasının tuğrası vardı, iki satır: *"Rûm'da evlenmek, Rûm'u elde tutmaktır. Sana oğullar, devlete kullar dilerim."* Mektupta annesinin adı geçmiyordu; geçmiş olsaydı da bir şey değişmeyecekti — Murad bu iki kelimeyi hiç öğrenememiş adamdı.
 
-Kadı efendi nikâhı kıldı; mehir iki bin akçe olarak sancak defterine geçti. Şahitlerden biri Hamza Bey'di; imzasını attıktan sonra kalemi silkti, mürekkebi fazla sürmüştü beş akçe kadar bir kâğıt parçası bozuldu, kâğıdı kimse atmadı. Tursun Bey nikâhı deftere yazarken tarihi "fî evâil-i safer sene 854" diye düşledi ve yanına bir kelime ekledi: **«sâdıkâne»** — sadakatle. O kelimeyi Berkay okumadı; kâtibin kendisi bile onu bir daha kullanmadı.
+Kadı efendi nikâhı kıldı; mehir iki bin akçe olarak sancak defterine geçti. Şahitlerden biri Hamza Bey'di; imzasını attıktan sonra kalemi silkti, mürekkebi fazla sürmüştü beş akçe kadar bir kâğıt parçası bozuldu, kâğıdı kimse atmadı. Tursun Bey nikâhı deftere yazarken tarihi "fî evâil-i safer sene 854" diye düşledi ve yanına bir kelime ekledi: **«sâdıkâne»** — sadakatle. Berkay o gün kaydın kenarındaki kelimeyi okumadı.
 
 Geceleri ziyafet yoktu; yalnız iki hasır, bir mangal, bir pencere. Berkay nişan hazırlıklarının arasında cebinden küçük bir şey çıkardı: **Bursa çarşısından aldığı ayna.** Meryem aldı, ters çevirdi, arkasına baktı; bir şey sormadı. Berkay o an fark etti ki hayatında ilk defa bir hediyeyi, anlamını anlatmadan verebilmişti: karşısındaki kadın bu dünyada başka bir şey sormayı bilen, bir şey sormamayı başaran tipti.
 
@@ -48,7 +48,7 @@ Meryem sustu; sonra tek cümle söyledi: *"Kâtip de bir gün ölür, bey de. Ta
 
 Ağustosta Amasya'ya bir haber geldi: **padişahın bir oğlu olmuştu.** Annesi Çandarlı'dan değil, Candaroğlu'ndan bir hanımdı; adı Ahmed konuldu.
 
-Haber konakta bir gün konuşuldu, sonra unutuldu. Kimse bilmiyordu ki o bebek, bir buçuk yıl sonra, taht değişiminin ilk günlerinde ölecek; kimse bilmiyordu ki **hikâyemiz o bebeği boğmayacak, eceliyle öldürecek** — ve bu, bu hanedanda görülmüş en tuhaf merhamet olacaktı.
+Haber konakta bir gün konuşuldu, sonra unutuldu. Kimse bilmiyordu ki o bebek, ertesi yıl, taht değişiminin ilk günlerinde ölecek; çocuğun odasında bir beşik, başında bekleyenler vardı. O gün için konuşulan yalnız sağlığıydı.
 
 Kışın Edirne'den düğün haberi gelmedi. Edirne'de o kış düğün yoktu; Dulkadır'dan gelin getirilmedi, üç aylık şenlik kurulmadı. Sancakta bunu kimse fark etmedi; hikâyenin Edirne'sinde bir kısmı eksikti ve kimse eksiği aramadı.
 

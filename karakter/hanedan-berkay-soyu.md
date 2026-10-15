@@ -46,7 +46,7 @@
 | 1481'den sonra | ✔ **Tahtı istemez; ağabeyinin divan adamı/danışmanı olur** — Alâeddin Paşa'nın Orhan Gazi'ye yaptığı gibi. Cem'in isyanı sırasında Orhan'ın en güvendiği komutan olabilir |
 | 1512'den sonra | ✔ **Selim onu öldürmez** — yazar: 1520'de 65 yaşında olur, tehdit değildir. **Yıllardır devlete hizmet eden** hanedan üyesi; üç saltanatı görür 🎭 |
 | 1520'den sonra | ✔ **Süleyman'ın derdi o değildir** — Süleyman'ın meselesi başka bir kişi olacak (yazar belirleyecek; dosya: ileride) |
-| Ölüm | Eceliyle **1527** (✔ yazara vekâleten 15 Ekim 2026; ⚙ geri alınabilir); 1520'yi görür, hâtimenin son tanığıdır |
+| Ölüm | Eceliyle **1527** (⚙ yazara vekâleten 15 Ekim 2026; ⚙ geri alınabilir); 1520'yi görür, hâtimenin son tanığıdır |
 
 ## 4. Sultan I. Selim Han bin Orhan Han (10. padişah, ~1512–1520)
 
