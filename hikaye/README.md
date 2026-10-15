@@ -5,7 +5,7 @@
 | `00-ana-hat.md` | **Kurgunun anayasası:** üç padişahlık kavis (Berkay 1451–81 → II. Orhan 1481–1512 → Selim 1512–20), padişah sayısı, bütün kararlar (✔ yazar / ⚙ kâtip), temalar, anlatıcı önerisi, kalan boşluklar. |
 | `01-catal-noktalari.md` | Yıl yıl "gerçekte → bizde" tablosu (✔ aynı · ✎ değişti · ✖ silindi · ★ yeni); her satır `kaynaklar/01-kronoloji` dosyalarına bağlı. |
 | `02-bolum-plani.md` | ✔ **Yıl yıl plan 1444–1520:** 77 satır — hicrî yılbaşı, yaşlar, gerçek tarih, hikâye, göz, kaynak, durum. Kitap bölümlemesi kaldırıldı (yazar, 15 Ekim 2026); yıllar sırayla yazılır. |
-| `yillar/` | **Yıl metinleri.** Dosya adı: `YYYY-kisa-baslik.md`; her yıl künye ile başlar, "⚑ Çatal ve kâtip notları" tablosuyla biter. Yazılanlar: `1444-saf-beni-gecti.md` (Varna, 10 Kasım 1444; yılın ikinci sesi defter), `1445-golge.md` (Manisa: Murad ve Akşemseddin). Sırada: 1446. |
+| `yillar/` | **Yıl metinleri.** Dosya adı: `YYYY-kisa-baslik.md`; her yıl künye ile başlar, "⚑ Çatal ve kâtip notları" tablosuyla biter. Yazılanlar: `1444-saf-beni-gecti.md` (Varna, 10 Kasım 1444; yılın ikinci sesi defter), `1445-golge.md` (Manisa: Murad ve Akşemseddin), `1446-bucuk.md` (Edirne–Bursa–Manisa–Amasya: Buçuktepe, vasiyet, ikizlerin vedası; göz: Mehmed). Sırada: 1447. |
 | `notlar/` | Sahne araştırma notları, taslaklar (boş). |
 
 Kişiler: `../karakter/` — Berkay'ın defteri (+ Zeyl: Murad'ın rüyası), tashih, Berkay soyu, Mehmed soyu, çevre kişiler.
