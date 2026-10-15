@@ -33,16 +33,16 @@
 
 ## 1. 1451 — Cülûs, kardeş katli, ilk sınav
 
-- **3 Şubat 1451 (1 Muharrem 855), Çarşamba:** II. Murad Edirne'de ölür (bk. `01-ii-murad-ikinci-saltanat-1444-1451.md` §7). Çandarlı Halil ölümü **gizler**, Manisa'ya gizli ulak gönderir (**10 Şubat**, 8 Muharrem). `[K]`
+- **3 Şubat 1451 (1 Muharrem 855), Çarşamba:** II. Murad Edirne'de ölür (bk. `01-ii-murad-ikinci-saltanat-1444-1451.md` §5). Çandarlı Halil ölümü **gizler**, Manisa'ya gizli ulak gönderir (**10 Şubat**, 8 Muharrem). `[K]`
 - Mehmed Manisa'dan yola çıkar — "Beni seven ardımca gelsin" sözü (rivayet) `[R]`; Gelibolu'dan geçer; Edirne'de yeniçeri kaynaşması Halil'in asker göndermesi ve bağış vaadiyle bastırılır. `[K]`
-- **18 Şubat 1451 (16 Muharrem 855), Perşembe: cülûs**, 19 yaşında (ikinci kez). Törende Murad'ın vezirleri uzakta beklerler; Mehmed "Lalam niçin uzak durur, yerine gelsin" der (İshak Paşa – Halil) `[R]` (Neşrî/Âşıkpaşazâde). Halil vezîriâzam **kalır**; **İshak Paşa** Anadolu beylerbeyi olarak Murad'ın cenazesiyle **Bursa'ya** gönderilir (Muradiye'ye defin); Şehâbeddin ikinci vezir; **Sarıca** ve **Zağanos** divana girer. `[K]`
+- **18 Şubat 1451 (16 Muharrem 855), Perşembe: cülûs**, 18 yaşında (30 Mart'ta 19; ikinci kez). Törende Murad'ın vezirleri uzakta beklerler; Mehmed "Lalam niçin uzak durur, yerine gelsin" der (İshak Paşa – Halil) `[R]` (Neşrî/Âşıkpaşazâde). Halil vezîriâzam **kalır**; **İshak Paşa** Anadolu beylerbeyi olarak Murad'ın cenazesiyle **Bursa'ya** gönderilir (Muradiye'ye defin); Şehâbeddin ikinci vezir; **Sarıca** ve **Zağanos** divana girer. `[K]`
 - **Küçük Ahmed'in boğdurulması** (Şubat 1451): Dukas'a göre cülûs günü, annesi (İsfendiyaroğlu kızı Hatice/Halime) tebrike geldiğinde **Evrenosoğlu Ali Bey** hamamda 8 aylık bebeği boğar; Mehmed anneyi **İshak Paşa**'ya nikâhlar; Ali Bey idam edilir (Dukas) — Osmanlı kronikleri suskundur `[M/T]`. İbn Kemal "nizâm-ı âlem için" der. Bk. `05-kurumlar/sehzadelik-sistemi.md` §7.
 - Tâbi devletler cesaretlenir: **Karamanoğlu İbrahim** Hamîd-ili'ne girer; Germiyan, Aydın, Menteşe'de eski hanedan üyeleri ortaya çıkar; Sırp despotu Alacahisar'ı alır; Bizans **Orhan Çelebi**'nin masrafı için yıllık **300.000 akçe** koparır. `[K]`
 - **Mayıs–yaz 1451, Karaman seferi:** Mehmed Anadolu'ya geçer; Akşehir'de Bizans elçileri yetişip Orhan'ı salıvermekle tehdit eder (Halil elçilere "Ey ahmak Rumlar…" diye çıkışır — Dukas) `[R]`; Karamanoğlu'na **Alâiye** bırakılarak barış; dönüş yolunda (**Bursa yakını**) yeniçeriler bahşiş ister, 10 kese verilir; **yeniçeri ağası Kurtçu Doğan** azledilip dövdürülür, yayabaşılar cezalandırılır; Edirne'de **ocak yeniden düzenlenir**, sekbanlar ocağa alınır. `[K]` 🎭 *Berkay'ın "ocağın sevgisi" tuzağının tarihî karşılığı: Mehmed daha ilk yılında ocağı ezer.*
 - **15 Eylül 1451:** Halil Paşa Venedik'le ahidnâmeyi yeniler; **20 Kasım 1451:** Macarlarla 3 yıllık ateşkes; Sırp despotu ve Bosna kralı kazanılır. `[K]`
 - 1451: ilk **yeni akçe** darbı (tağşiş). `[K]`
 
-🎭 *Hikâyede 1451: Murad'ın vasiyetiyle taht Berkay'a (18); Mehmed 18 Şubat'ta Edirne kapısında itaat eder, serdar olur; Orhan Çelebi salınır, Lala Evrenosoğlu yolunu keser, Kostantiniyye'ye kaçar; Küçük Ahmed eceliyle ölür (Dukas'ın "Ali Bey boğdu" kaydı hikâyede tersine döner: Mehmed'i koruyan el); Kurtçu Doğan ağalıktan alınır ama Lala'nın ucuna gönderilir. Karaman seferi ve Bursa bahşişi aynen.*
+🎭 *Hikâyede 1451: Murad'ın vasiyetiyle taht Berkay'a (18); Mehmed 18 Şubat'ta Edirne kapısında itaat eder, serdar olur; Orhan Çelebi salınır, Lala Evrenosoğlu yolunu keser, Kostantiniyye'ye kaçar; Küçük Ahmed eceliyle ölür (Dukas'ın "Ali Bey boğdu" kaydı hikâyede tersine döner: Mehmed'i koruyan el); Kurtçu Doğan'ın alternatif seyri için `hikaye/00-ana-hat.md` §2b'ye bakılır; bu tarihî kayıt değildir. Karaman seferi ve Bursa bahşişi aynen.*
 
 ## 2. 1452 — Boğazkesen ve karar
 
@@ -168,7 +168,7 @@
 
 ## 13. 🎭 Hikâye düğümleri (1451–1481) — hikâyede padişah Berkay'dır (bk. `hikaye/00-ana-hat.md` §2)
 
-1. **1451 Şubat–Mart:** Murad'ın vasiyeti Berkay'a; Mehmed Edirne kapısında itaat eder, serdar olur; Orhan Çelebi salınır, Lala Evrenosoğlu yolunu keser, Kostantiniyye'ye kaçar; Küçük Ahmed eceliyle ölür; Kurtçu Doğan ağalıktan uca. Gerçekteki ayrıntılar (Halil'in 16 gün gizlemesi, Karaman seferi, Bursa bahşişi) aynen kullanılır.
+1. **1451 Şubat–Mart:** Murad'ın vasiyeti Berkay'a; Mehmed Edirne kapısında itaat eder, serdar olur; Orhan Çelebi salınır, Lala Evrenosoğlu yolunu keser, Kostantiniyye'ye kaçar; Küçük Ahmed eceliyle ölür; Kurtçu Doğan’ın alternatif seyri tarihî kayıttan ayrılmalıdır (`hikaye/00-ana-hat.md` §2b). Gerçekteki ayrıntılar (Halil'in 16 gün gizlemesi, Karaman seferi, Bursa bahşişi) aynen kullanılır.
 2. **1453:** 25 günlük kuşatma; "ne güzel kumandan" Berkay; Mehmed serdar; Halil 10 Temmuz'da boğdurulur (gerçekteki gibi) — Berkay'ın hocası, Berkay'ın hükmüyle: ilk gölge.
 3. **1456 Belgrad:** hikâyede kale 22 Temmuz'da düşer, Hunyadi gedikte ölür; Dayı Karaca ölür (gerçek); Halley gökte; **Koca Hızır da gediğinde ölür; Has Yunus Bey Enez–Limni ile kapudan olur** — Varna'nın üç hayaleti.
 4. **1457 Edirne düğünü:** Bayezid (10) ve Mustafa (7) Mehmed'in oğulları, padişahın yeğenleri; Orhan 5, Alâeddin Ali 2; ulemâ münazarası aynen.

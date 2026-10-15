@@ -105,7 +105,7 @@ Parayı bulmak, dil bulmaktan kolay oldu. Halil Paşa bedestendeki sarrafları �
 
 Tepeye, o günden sonra Buçuktepe dendi.
 
-Gece Mehmed, tepede yanan ateşleri sarayın penceresinden seyretti. Rüzgâr kıbleye döndüğü bir an ocaklar bir ağız gibi açıldı ve üç kelime geldi. Mehmed gözlerini kıstı; iki kelimeydi: *Sultan Murad.* Sonra rüzgâr döndü, kelime gitti, yerine bir başkası geldi — üç kelime daha, bir ağızdan, belki iki ağızdan, uzaktan, sarhoşça, genç bir askerin kendi kendine söylediği bir ad gibi: *kral vuran!*
+Gece Mehmed, tepede yanan ateşleri sarayın penceresinden seyretti. Rüzgâr kıbleye döndüğü bir an sesler saraya kadar geldi: *Sultan Murad.* Sonra rüzgâr döndü, kelimeler kayboldu. Ateşler yanmaya devam etti.
 
 Mehmed kıpırdamadı. O an, pencerenin önünde, on dört yaşında bir çocuk olarak hayatında ilk defa ve çok erken bir şey öğrendi: Ocağın sevgisi bir hediye değildi; bir ölçüydü ve ikizler o ölçüyle ölçülüyordu.
 
@@ -315,7 +315,7 @@ Uzun mektup açılmadan o çekmecede kaldı; bir gün okunacaktı, ya da okunmay
 | ⚙ | **İkizlerin Manisa'da buluşması ve "niçin yazmadın" konuşması:** ana hat §2b'deki "1451'de isyan etmez, söz söylemez" tavrının tohumu; ikizler en son 1443'te Amasya'da ayrılmışlardı (`defter` §VI). Yazar istemezse buluşma, sancak teslimiyle sınırlı tutulur (birkaç paragraf); kurgu bozulmaz. |
 | ⚙ | **Berkay'ın taşıdığı sır** ("kardeşine yazmayacaksın") Murad'ın ağzından: Murad'ın iki oğlundan da sır saklaması, Zeyl'deki (rüya) huyunun aynısı. |
 | ✔ | **Amasya'nın idaresi:** 1444–46 **Hızır Paşa** (Yörgüç Paşa'nın kardeşi); 1447'den sonra **Hamza Bey** — Berkay 1446 sonunda Amasya'ya vardığında sancağın başında Hızır Paşa vardır, lalası Hamza Bey 1447'de gelir (yazar kararı, 15 Ekim 2026; `04-yerler/amasya.md` §4). |
-| ⚙ | **Kurtçu Doğan Ağa** burada Halil'in adamı ve ocağın ağası; 1451'de Berkay onu ağalıktan alıp Lala'nın ucuna gönderecek (`cevre-kisiler.md` §A). Bu yıl ona tarihî kayda aykırı bir iş yaptırılmadı, yalnızca "hesabı getiren ağa" oldu. |
+| ⚙ | **Kurtçu Doğan Ağa** burada Halil'in adamı ve ocağın ağası; 1451'de ağalıktan alınınca düşkün olacak, Akşemseddin'e sığınacak; daha sonra Fâtih Sultan Berkay Han onu affedecek (yazarın düzeltmesi; kesin af tarihi açık) (`cevre-kisiler.md` §A). Bu yıl ona tarihî kayda aykırı bir iş yaptırılmadı, yalnızca "hesabı getiren ağa" oldu. |
 | ⚙ | **Fahreddin-i Acemî'nin sorusu ve Halil'in cevabı ("Vakit")**: müftünün 1444 Hurûfî katliamı ve yangın hatırasıyla (`edirne.md` §4) bağlandı. Sahnede fetva yok, telkin yok; iki ihtiyar arasında bir soru. |
 | ⚙ | **Kâtip Tursun Bey'in vasiyeti yazması** ve bir cümlede durup baştan yazması: `cevre-kisiler.md` §A'daki "rüyayı yazan kâtip" çizgisinin ilk halkası; 1445 dosyasında Akşemseddin'in dikkatle baktığı adamın ta kendisi (sırrı 1459'da Göynük'te öğrenir, nüshayı temize çeker). |
 | ⚙ | **29 Receb 848 / 29 Receb 850 eşleşmesi** (VI. bölüm sonu): defterin yazıldığı günün hicrî yıl dönümünde Berkay Amasya'ya varıyor; bunu fark eden kâtip Tursun'dur. Tesadüf değil, kurgu tercihi; gerekirse tek cümleye indirilir. |

@@ -70,7 +70,7 @@ Edirne'nin ulağı ikindiden sonra geldi; bayram mektuplarıyla. Murad onları d
 
 Halil'in mektubu uzundu ve her satırı iki kere düşünülmüştü. "Devletlü, saâdetlü hünkârım" ile başlıyordu — Murad'a hâlâ hünkâr diyen bir tek Halil kalmıştı, bir de Manisa'nın bilmeyenleri — ve Edirne'nin bayramını anlatıyordu: Çelebi Sultan bayram tahtına oturmuş, erkân el öpmüş, ocağa bahşiş dağıtılmış. Bahşiş yeni akçeyle verilmiş. Yeniçeri yeni akçeyi avucunda tartmış, bir şey dememiş; Halil "demediğini ben duydum" diye yazıyordu. Zağanos Paşa ile Şehâbeddin Paşa Çelebi Sultan'a bahar gelince Kostantiniyye üzerine yürümeyi telkin ediyorlarmış; tekfur Orhan Çelebi'yi salmakla tehdit ediyormuş; Macar'ın Tuna'da hazırlık yaptığı, Burgonya kadırgalarının Boğaz'dan Karadeniz'e çıkmak üzere kışladığı haberleri varmış. "Devlet iki başlı olmaz hünkârım," diye bitiriyordu Halil; "bir baş Edirne'de, bir baş Mağnisa'da olursa boyun ikisini de taşıyamaz." Bu cümleyi geçen mektubunda da yazmıştı. Ondan önceki mektubunda da.
 
-Bir satır daha vardı, sonda, sanki unutulmuş da eklenmiş gibi: "Ocakta Varna'dan beri bir nâra dolaşır; 'kral vuran!' derler. Divan kâtipleri deftere 'Şâh-küş Şehzâde' yazar. Çelebi Sultan bir gün sofrada bu adı kimin verdiğini sordu. Kimse cevap vermedi. Çelebi Sultan da bir daha sormadı."
+Bir satır daha vardı, sonda, sanki unutulmuş da eklenmiş gibi: "Ocakta Varna'dan beri Şâh-küş lâkabı dolaşır. Divan kâtipleri de deftere 'Şâh-küş Şehzâde' yazar. Çelebi Sultan bir gün sofrada bu adı kimin verdiğini sordu. Kimse cevap vermedi. Çelebi Sultan da bir daha sormadı."
 
 Murad mektubu dizine koydu.
 
@@ -138,7 +138,7 @@ Akıncı yüzlü bey — Gazi Evrenos'un oğlu olmalıydı, o yüz başka yerden
 
 Şehre girdiler. Sokaklar dardı; kapılarda insanlar vardı, kadınlar, çocuklar, bir sakız tüccarı, bir Rum keşiş. İnsanlar şeyhe bakıyor, el öpmeye yeltenip vazgeçiyor, sonra çocuğa bakıyorlardı. Akşemseddin iki kapıkulu neferinin yanından geçerken birinin öbürüne söylediğini duydu, fısıltıyla, ama kul fısıltısı mehter davulundan alçak değildir:
 
-"kral vuran!"
+“Şâh-küş Şehzâde.”
 
 Çocuğun ensesi bunu duydu; Akşemseddin ensenin duyduğunu gördü. Çocuk dönmedi, hızlanmadı, yavaşlamadı. Olduğu yerde duran çocuk, at üstünde de olduğu yerde duruyordu.
 
@@ -300,7 +300,7 @@ Katırı sürdü. Omzunda, görünmeyen bir ağırlık vardı ve yürüdükçe h
 | ✔ | Berkay Saruhan'ın gölge beyi, Murad aynı şehirde (ana hat §2a); Mehmed Edirne'de padişah; Zağanos, Şehâbeddin, Halil gerçek yerlerinde; Lala Ali Bey Berkay'ın yanında. |
 | ⚙ | **Akşemseddin'in 1445'te Manisa'ya çağrılması** kurgudur (gerçekte Göynük'te; Murad'la temas belgeli değil `[R]`). "Hekim" bahanesi Akşemseddin'in gerçek hekimliğine (*Mâddetü'l-hayât*, bulaşıcı "tohum" fikri) dayanır. |
 | ⚙ | **Edirne'deki eski karşılaşma** ("sarayda sesli zikir olmaz, içinden yapın") = tashih C6'nın açılımı: tarikat usûlü değil, şahsî telkin. Berkay tutar, Mehmed tutmaz. |
-| ⚙ | **Mehmed'in mektubu** (Kostantiniyye'ye sefer izni; Berkay'ın adını anmaması) kurgudur; dayanağı Zağanos–Şehâbeddin'in 1445–46'da Mehmed'i Kostantiniyye'ye karşı sefere itmesi `[K]` ve Orhan Çelebi tehdidi. "kral vuran!" nârasının ve Şâh-küş lâkabının Edirne'de duyulması — kıskançlığın ilk tohumu (defter §XVI, C12). |
+| ⚙ | **Mehmed'in mektubu** (Kostantiniyye'ye sefer izni; Berkay'ın adını anmaması) kurgudur; dayanağı Zağanos–Şehâbeddin'in 1445–46'da Mehmed'i Kostantiniyye'ye karşı sefere itmesi `[K]` ve Orhan Çelebi tehdidi. Şâh-küş lâkabının Edirne'de duyulması — kıskançlığın ilk tohumu (defter §XVI, C12). |
 | ⚙ | **Murad'ın "üstüme yağsın" düşüncesi** = 2 Ağu 1446 vasiyetinin ("üstü açık ola ki üzerime yağmur yağa") tohumu; 1446 dosyasında yazılır. |
 | ⚙ | **Berkay'ın kurbanını kendi kesmesi**, "kesmeyi bilen kesmemeyi de bilir": Berkay'ın hiçbir kardeşini/yeğenini öldürtmeyecek olmasının (ana hat) ilk işareti. |
 | ⚙ | **Lala'nın sezgisi** ("bir şey olduğunu biliyorum"): Lala Ali Bey rüyayı hiç öğrenmez (ö. 1462); yalnız sezer. İstenmezse paragraf silinir. |

@@ -2,10 +2,10 @@
 
 > **Yıl dosyası:** 1450'nin iki sahnesi vardır: **Amasya'da nikâh** (Mayıs) ve **Akçahisar seferinin gölgesi** (yaz–güz). Tam bölüm. Yıl yıl plan: `../02-bolum-plani.md`.
 
-> **Tarih:** Mayıs 1450 (Safer 854) → Aralık 1450 · **Mekân:** Amasya — Yörgüç Paşa konağı, sancak divanı, Yeşilırmak kıyısı; Rumeli'den gelen haberler · **Göz:** Meryem (I, IV), Berkay (II, III)
+> **Tarih:** Mayıs 1450 → Aralık 1450 · **Mekân:** Amasya — Yörgüç Paşa konağı, sancak divanı, Yeşilırmak kıyısı; Rumeli'den gelen haberler · **Göz:** Meryem (I, IV), Berkay (II, III)
 > **Gerçek tarih:** 1450 yazında **Murad, oğlu Mehmed'i yanına alıp ikinci Arnavutluk seferine** çıkar; **Akçahisar (Kruja) Mayıs–Ekim kuşatılır**, Yanko'nun yürüdüğü söylentisi üzerine kaldırılır. Aynı yıl Murad'ın son oğlu **Küçük Ahmed doğar** (annesi Candaroğlu kızı Hatice Halime Hatun `[M]`). Kışın Edirne'de Mehmed'in **Dulkadırlı Sitti Hatun'la düğünü** yapılır `[K]`. `[K]`
 > **Çatal:** ✖ **Sitti Mükrime bu evrende yoktur; düğün olmaz.** ✔ **Berkay 1450'de Amasya'da Meryem'le evlenir** — Yörgüç Paşa'nın torunu, tek eşi. Küçük Ahmed doğar ama **1451'de eceliyle ölür** (✔) — hikâye bebeği boğdurmaz.
-> **Kaynak:** `karakter/sehzade-berkay-ahval-defteri.md` §II, §VI · `kaynaklar/01-kronoloji/01-ii-murad-ikinci-saltanat-1444-1451.md` §6 · `kaynaklar/04-yerler/amasya.md` · `kaynaklar/06-gunluk-hayat/kiyafet-yemek-meclis.md` (düğün) · `karakter/cevre-kisiler.md` (Meryem, Hamza Bey)
+> **Kaynak:** `karakter/sehzade-berkay-ahval-defteri.md` §II, §VI · `kaynaklar/01-kronoloji/01-ii-murad-ikinci-saltanat-1444-1451.md` §5 · `kaynaklar/04-yerler/amasya.md` · `kaynaklar/06-gunluk-hayat/kiyafet-yemek-meclis.md` (düğün) · `karakter/cevre-kisiler.md` (Meryem, Hamza Bey)
 > **Durum:** ⚙ kâtip taslağı — sahne iskeleti yazıldı; seçilen kalıbın kelime alt sınırı henüz tamamlanmadı. Bitmiş bölüm değildir.
 
 ---
@@ -28,7 +28,7 @@ Sancakta düğün ilân edilmemişti. Ne üç günlük şenlik, ne cambaz, ne na
 
 Nikâh günü sabahı Berkay, Edirne'den gelen bir mektup buldu elinde; babasının tuğrası vardı, iki satır: *"Rûm'da evlenmek, Rûm'u elde tutmaktır. Sana oğullar, devlete kullar dilerim."* Mektupta annesinin adı geçmiyordu; geçmiş olsaydı da bir şey değişmeyecekti — Murad bu iki kelimeyi hiç öğrenememiş adamdı.
 
-Kadı efendi nikâhı kıldı; mehir iki bin akçe olarak sancak defterine geçti. Şahitlerden biri Hamza Bey'di; imzasını attıktan sonra kalemi silkti, mürekkebi fazla sürmüştü beş akçe kadar bir kâğıt parçası bozuldu, kâğıdı kimse atmadı. Tursun Bey nikâhı deftere yazarken tarihi "fî evâil-i safer sene 854" diye düşledi ve yanına bir kelime ekledi: **«sâdıkâne»** — sadakatle. Berkay o gün kaydın kenarındaki kelimeyi okumadı.
+Kadı efendi nikâhı kıldı; mehir iki bin akçe olarak sancak defterine geçti. Şahitlerden biri Hamza Bey'di; imzasını attıktan sonra kalemi silkti, mürekkebi fazla sürmüştü beş akçe kadar bir kâğıt parçası bozuldu, kâğıdı kimse atmadı. Tursun Bey nikâhı deftere yazarken tarihi "fî sene 854" diye düşledi ve yanına bir kelime ekledi: **«sâdıkâne»** — sadakatle. Berkay o gün kaydın kenarındaki kelimeyi okumadı.
 
 Geceleri ziyafet yoktu; yalnız iki hasır, bir mangal, bir pencere. Berkay nişan hazırlıklarının arasında cebinden küçük bir şey çıkardı: **Bursa çarşısından aldığı ayna.** Meryem aldı, ters çevirdi, arkasına baktı; bir şey sormadı. Berkay o an fark etti ki hayatında ilk defa bir hediyeyi, anlamını anlatmadan verebilmişti: karşısındaki kadın bu dünyada başka bir şey sormayı bilen, bir şey sormamayı başaran tipti.
 
@@ -46,7 +46,7 @@ Meryem sustu; sonra tek cümle söyledi: *"Kâtip de bir gün ölür, bey de. Ta
 
 ## IV
 
-Ağustosta Amasya'ya bir haber geldi: **padişahın bir oğlu olmuştu.** Annesi Çandarlı'dan değil, Candaroğlu'ndan bir hanımdı; adı Ahmed konuldu.
+Ağustosta Amasya'ya bir haber geldi: **padişahın bir oğlu olmuştu.** Annesinin kimliğine ilişkin haber açık değildi; adı Ahmed konuldu.
 
 Haber konakta bir gün konuşuldu, sonra unutuldu. Kimse bilmiyordu ki o bebek, ertesi yıl, taht değişiminin ilk günlerinde ölecek; çocuğun odasında bir beşik, başında bekleyenler vardı. O gün için konuşulan yalnız sağlığıydı.
 
@@ -54,7 +54,7 @@ Kışın Edirne'den düğün haberi gelmedi. Edirne'de o kış düğün yoktu; D
 
 Aralıkta Meryem bir kâğıt buldu, Berkay'ın kendi eliyle yazılmış: *"Karındaşım Mehmed'e. Amasya'da evlendim. Sana bir şey sormadım, çünkü cevabını biliyorum; sen olsan aynısını yapardın. Kışın Manisa'da kar var mı? Burada yalnız yağmur."*
 
-Mektup gönderilmedi. Berkay onu defterin arasına koydu; kâtibi o kâğıdı hiç görmedi, çünkü o kâğıt bir devlet kâğıdı değildi. **On beş yıl sonra, 1465'te, o mektubu okuyacak kişi Meryem olacaktı.**
+Mektup gönderilmedi. Berkay onu defterin arasına koydu; kâtibi o kâğıdı hiç görmedi, çünkü o kâğıt bir devlet kâğıdı değildi. Mektubun ne zaman ve kimin eline geçeceği henüz belirlenmedi.
 
 ---
 
@@ -66,7 +66,7 @@ Mektup gönderilmedi. Berkay onu defterin arasına koydu; kâtibi o kâğıdı h
 | ✔ | **Küçük Ahmed 1450'de doğar, 1451'de eceliyle ölür** (✔); hikâye Dukas'taki hamam sahnesini kullanmaz (`dukas.md`, `02-birincil-kaynaklar/`). |
 | ✔ | **Akçahisar (Kruja) kuşatması May–Ekim 1450, Yanko söylentisiyle kaldırılır** `[K]`; Mehmed babasının yanındadır `[K]`. |
 | ⚙ | Kalıp: **tam bölüm** (kâtip seçti; 15 Eki 2026 devir notu sonrası). Göz: Meryem (I, IV), Berkay (II, III). |
-| ⚙ | Ayna (1449'dan devam), «sâdıkâne» notu ve gönderilmeyen mektup kâtip eklemeleridir; mektup motifi defter **§XX**'i (yazarın metni) hatırlatır — **o metne dokunulmaz**. 1465'te Meryem okuyacak (⚙). |
+| ⚙ | Ayna (1449'dan devam), «sâdıkâne» notu ve gönderilmeyen mektup kâtip eklemeleridir; mektup motifi defter **§XX**'i (yazarın metni) hatırlatır — **o metne dokunulmaz**. Meryem’in ileride okuması yalnız öneridir; yıl kararı alınmadı. |
 | ⚙ | Murad'ın fermânındaki iki satır kurgudur; gerçekte Murad 1450'de seferdedir. |
 | `[M]` | Küçük Ahmed'in annesi Hatice Halime Hatun tespiti tartışmalıdır `[M]`; dosya ad anmaz. |
-| Sonraki yıl | **1451:** Murad'ın ölümü (3 Şubat), vasiyet ve taht Berkay'a; Halil'in 16 günü; **18 Şubat Mehmed gelir, taht verilmez**; Küçük Ahmed eceliyle ölür; **7 Mart cülûs**; Kurtçu Doğan Ağa Lala'nın ucuna gider. |
+| Sonraki yıl | **1451:** Murad'ın ölümü (3 Şubat), vasiyet ve taht Berkay'a; Halil'in 16 günü; **18 Şubat Mehmed gelir, taht verilmez**; Küçük Ahmed eceliyle ölür; **7 Mart cülûs**; Kurtçu Doğan Ağa düşkün olur ve Akşemseddin'e sığınır; af daha sonradır, günü belirlenmedi. |

@@ -12,7 +12,7 @@
 
 ## I
 
-Yeşilırmak buzlarını mart ortasında çözdü; nehir, şehrin altından geçerken sesi kalenin duvarına vurdu. Berkay on beşindeydi ve ilk defa bir sancağın bütün kâğıtları kendi mührü altındaydı.
+Yeşilırmak buzlarını mart ortasında çözdü; nehir, şehrin altından geçerken sesi kalenin duvarına vurdu. Berkay mart ortasında henüz on dördündeydi ve ilk defa bir sancağın bütün kâğıtları kendi mührü altındaydı.
 
 Divan, Yörgüç Paşa Camii'nin arkasındaki taş odada kurulurdu. Kadı efendi Amasyalıydı, defterdar Tokatlı, sancak beyinin hocası ise kimsenin tanımadığı bir sipahi: Berkay'a ok atmayı ilk öğreten adam, şimdi her cuma gelip yerinden kalkmadan ona bakıyordu — *hâlâ sıkmıyorsun, tutuyorsun.*
 
@@ -42,7 +42,7 @@ Aralıkta bir gece, karlı yolu bir çavuş yürüdü; atı çamur içinde geldi
 
 Berkay o gece, babasının sarayını hatırladı; Murad'ın has odasının yanındaki odada **iki Eflaklı çocuk** kalırdı: büyüğü sıkı yazılı, soğuk yüzlü; küçüğü hiç susmayan, herkese ceket ilikleyen. Büyüğünün bıçağı her zaman kemerinde, küçüğünün aklı her zaman odada başka birinin olmasındaydı. Berkay onları bir daha görmeyeceğini düşündü ve yanıldı. **Vlad'ın oğlu Vlad'ı bir daha görecekti; Radu'yu da — biri kazıkla, öteki kaftanla.**
 
-Son haber yılbaşından önce geldi: Mehmed'in bir oğlu olmuştu, Dimetoka'da, kışın ortasında. Berkay o sırada dua etti — kardeşine değil, çocuğa; çünkü bir şehzâde olarak bilirdi ki bu dünyada en zor iş, bir padişahın oğlu olarak doğmaktı.
+Kışın gelen bir başka haber Mehmed'in Dimetoka'da bir oğlu olduğuydu. Haberin aralıkta mı, yeni yılın ilk günlerinde mi ulaştığı bu yaprakta kesinleştirilmedi. Berkay o sırada dua etti — kardeşine değil, çocuğa; çünkü bir şehzâde olarak bilirdi ki bu dünyada en zor iş, bir padişahın oğlu olarak doğmaktı.
 
 ---
 
@@ -56,7 +56,7 @@ Son haber yılbaşından önce geldi: Mehmed'in bir oğlu olmuştu, Dimetoka'da,
 | ⚙ | Meryem (14) elma sahnesi ve "üç adım" ölçüsü kurgudur; 1444 dosyasındaki kar topu ve 1446'daki elma motifiyle bağlanır (`yillar/1444-saf-beni-gecti.md`, `1446-bucuk.md`). |
 | ✔ | **İki Eflaklı rehine çocuk (Vlad Țepeş ve Radu, 1442–48): Murad'ın sarayında, Mehmed'le ve dolayısıyla Berkay'la aynı sarayda büyüdüler** (devir notu, 15 Ekim 2026; `03-kisiler/kisiler-1451-1520.md`). Sahne bunu tek cümlelik bir hatıra olarak verir — 1462 ve 1476'nın tohumu. |
 | `[?]` | İki rehinin hangi sarayda tutulduğu kaynaklarda net değildir (Edirne / Gelibolu / Eğrigöz tartışmalı); dosya yer adı anmaz. |
-| `[M]` | Amasya'da 1447'nin hava/nüfus ayrıntıları tahmindir; `04-yerler/amasya.md` §1. |
+| ⚙ | Amasya'da 1447'nin sahneye özgü hava/nüfus ayrıntıları kâtip tasarımıdır; `04-yerler/amasya.md` §1. |
 | `[T]` | Drakul'un ölüm biçimi kaynaklarda çeşitlidir (Yanko'nun emri, kendi beylerinin ihaneti); dosya ikisini de anmadan "öldürtüldü" der. |
 | ★ | **Yörgüç Paşa konağı** bundan sonra hikâyenin Amasya mekânı; Meryem'in ailesi bu konaktadır. |
-| Sonraki yıl | **1448:** Kocacık, **II. Kosova (17–20 Ekim)** — Berkay'ın ilk kol komutası ✔; XI. Konstantinos tahta; Vlad Țepeş'in ilk voyvodalık denemesi ⚙. |
+| Sonraki yıl | **1448:** Kocacık, **II. Kosova (17–20 Ekim)** — Berkay'ın ilk kol komutası ✔; XI. Konstantinos’un tahta çıkışından önce VIII. Ioannes ölür (31 Ekim); Vlad Țepeş'in ilk voyvodalık denemesi ⚙. |

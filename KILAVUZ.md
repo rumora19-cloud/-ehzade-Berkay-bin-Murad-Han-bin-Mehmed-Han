@@ -63,7 +63,7 @@ Kaynak dosyalarında, tarihî bir ayrıntının kurgu için kullanılabileceği 
 
 ## 9. Kişi kuralı — kurgu kişi / tarihî kişi (yazar kararı, 15 Ekim 2026)
 
-- **Kurgusal kişi yalnız şunlardır:** Berkay, **Meryem Hatun**, **Meryem'in ailesi** (Yörgüç Paşa ve konağı), **Orhan**, **Alâeddin Ali**. Bunların dışında **hiçbir uydurma ad kullanılmaz**: her kişi ya **gerçek tarihî bir kişi**dir, ya da **adsızdır** ("sancağın kadısı", "Erdelli bir akıncı").
+- **Kurgusal kişi yalnız şunlardır:** Berkay, **Meryem Hatun**, **Meryem'in ailesi** (Yörgüç Paşa tarihî kişidir; Meryem'in ona bağlanan aile ilişkisi kurgudur), **Orhan**, **Alâeddin Ali**. Bunların dışında **hiçbir uydurma ad kullanılmaz**: her kişi ya **gerçek tarihî bir kişi**dir, ya da **adsızdır** ("sancağın kadısı", "Erdelli bir akıncı").
 - **Berkay'ın câriyesi yoktur; eşi yalnız Meryem Hatun'dur.** İki oğlu (Orhan, Alâeddin Ali) da Meryem'dendir. **Berkay'ın kız çocuğu yazılmaz;** 1474 Akkoyunlu düğünü gerçek tarihteki gibidir: **Mehmed'in kızı Gevherhan** Uğurlu Mehmed Mirza'ya verilir. Orhan'ın tek oğlu Selim'dir (annesi Dulkadırlı Ayşe).
 - Gerçek kişilerin hikâyedeki **kurgusal** eylem ve sözleri dosya içinde **⚙** ile, gerçek tarihten alınanlar `[K]`/`[M]`/`[T]`/`[R]` ile işaretlenir; ayrıca ilgili yıl dosyasının "⚑ Çatal ve kâtip notları" tablosunda gösterilir.
 - **Kurgusal adların gerçek karşılıkları** (eski adlar bütün dosyalardan silinmiştir):
@@ -82,3 +82,13 @@ Kaynak dosyalarında, tarihî bir ayrıntının kurgu için kullanılabileceği 
 
 - El yazması sırası `hikaye/03-el-yazmasi-sirasi.md`'de tutulur: **epigraf (848) → 1444 → "Kâtip Tursun'un Defteri" → 1445…1520 → hâtime (30 Eylül 1520, Alâeddin Ali'nin defteri) → ekler.**
 - **Üç kalıp:** *tam bölüm* · *kısa bölüm* · *defter yaprağı* (400–900 kelime). Defter yaprağı yılları: 1447, 1454–55, 1457–58, 1460, 1465–67, 1469, 1471–72, 1477, 1483, 1486, 1488, 1490–91, 1493, 1496–98, 1501–02, 1504–08. Kalıp, `hikaye/02-bolum-plani.md` tablosunun son sütununda yazılıdır.
+
+## 11. Denetim kapısı — yazar düzeltmesinden sonra
+
+- **Kurtçu Doğan'ın bağlayıcı seyri:** ağalıktan alınma → düşkünlük → Akşemseddin'e sığınma ve günahlarını anlama → daha sonra Fâtih Sultan Berkay Han'ın affı → Berkay'ın adamı olma. **Devşirme Kurtçu Doğan akıncı veya akıncı beyi yapılmaz; Evrenosoğlu Ali Bey'in ucuna tayin edilmez.** Affın tarihi ve sonraki resmî görevi belirlenmedi; kâtip bunları kendiliğinden doldurmaz. Bu, yazarın proje kararıdır; kaynaklarda belgeli bir biyografi gibi sunulmaz.
+- **Görev denetimi:** kişinin kökeni, kapıkulu/ocak/serhat mensubiyeti, görev sırası ve bağlı olduğu makam kontrol edilmeden yeni tayin yazılmaz. İki askerî görevin ikisi de atlı diye birbirinin yerine geçirilemez. Doğrulanmayan kurum tarihi `[?]` olarak araştırmaya ayrılır.
+- **Karar yetkisi:** ✔ yalnız açık yazar kararıdır; kâtip önerileri ⚙ olarak kalır. Teknik işleri yürütme izni, ölüm yılı veya yeni kurgu kaderi için verilmiş özel onay diye kaydedilemez. 1527, Alâeddin Ali için kabul edilmiş ölüm yılı değildir.
+- **Yıl sırası:** önceki yılın yazar onayı alınmadan sonraki yıl yazılmaz. 1448–1451 dosyalarının bulunması onları onaylı yapmaz; önceki kâtip ilerleyişi onay zincirini atlamıştır. Yeni yıl üretimi denetim boyunca durdurulur.
+- **Tarih ve kurgu:** `[K]`, `[M]`, `[T]`, `[R]`, `[?]` tarihî iddianın kanıt durumudur. Uydurulmuş bir konuşma, hava, özel buluşma veya sahne eylemi `[T]` değil **⚙** olur. ✔ yazar kararı da gerçek tarih kanıtı değildir.
+- **Tamamlanma ölçütü:** kelime sayısında yalnız sahne metni sayılır; künye, kaynakça ve ⚑ tablosu sayılmaz. Sayısal sınırı geçmek tarihî doğruluk veya yazar onayı yerine geçmez.
+- **Teslim öncesi:** kararın kaynağı → ilgili bütün kayıtlar → yaş/menzil/takvim → kurum ve görev → anlatıcı bilgisi → kaynak/kurgu ayrımı → kalıp denetimi. Açık bulgular raporlanmadan “tamamlandı/temiz” denmez. Betik tarih uzmanının ve yazarın yerini tutmaz.

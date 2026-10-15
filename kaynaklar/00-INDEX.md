@@ -1,5 +1,7 @@
 # Kaynak Haritası (INDEX)
 
+> **Arşiv güvenilirliği uyarısı (15 Ekim 2026 denetimi):** Bu dizinde tarihî bilgilerle kurgu kancaları henüz tam ayrılmamıştır. Özellikle kişi tablolarındaki alternatif ölüm/görev kayıtları gerçek biyografi diye kullanılamaz. `KILAVUZ.md` §7'ye uygun ayırma işi açıktır; önceki “temizlendi” ifadesi arşivin tarihî doğrulamasının tamamlandığı anlamına gelmez. Bulgular: `../denetim/2026-10-15-proje-denetimi.md`.
+
 > ⚠ **🎭 notları için tek ölçü:** kaynak dosyalarındaki hikâye kancaları `../hikaye/00-ana-hat.md`'ye göre yazılmıştır (Berkay padişah 1451–81, ö. 3 May 1481; II. Orhan 1481–1512; Selim 1512–20). Eski "ihtiyar amca" çerçevesinin kalıntıları 15 Ekim 2026'da temizlendi; bir kalıntı görülürse ana hat geçerlidir.
 
 "Şu soruya cevap arıyorum → hangi dosyaya bakayım?" tablosu. Yeni dosya açıldıkça buraya satır eklenir.

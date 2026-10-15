@@ -1,5 +1,7 @@
 # Hikâye
 
+> **Denetim durumu:** Yeni yıl yazımı durduruldu. 1447–1451 dosyaları kâtip taslağıdır; dosyanın bulunması yazar onayı veya tamamlanma anlamına gelmez. Kurtçu Doğan'ın yanlış akıncı beyliği kaldırıldı. Açık sorunlar ve kontrol sonuçları: `../denetim/2026-10-15-proje-denetimi.md`.
+
 | Dosya | Ne |
 |---|---|
 | `00-ana-hat.md` | **Kurgunun anayasası:** üç padişahlık kavis (Berkay 1451–81 → II. Orhan 1481–1512 → Selim 1512–20), padişah sayısı, bütün kararlar (✔ yazar / ⚙ kâtip), temalar, anlatıcı önerisi, kalan boşluklar. |
@@ -26,6 +28,6 @@ Kişiler: `../karakter/` — Berkay'ın defteri (+ Zeyl: Murad'ın rüyası), ta
 ```
 
 ## Yazar kararları
-Bekleyen karar kalmadı: Gevherhan'ın evliliği gerçek tarihe bağlandı (1474, Uğurlu Mehmed Mirza); **Alâeddin Ali'nin ölümü 1527** çalışma tercihi olarak alındı (⚙; açık yazar onayı değildir) (yazara vekâleten, 15 Ekim 2026 — geri alınabilir).
+Gevherhan'ın evliliği gerçek tarihe bağlandı (1474, Uğurlu Mehmed Mirza). **Alâeddin Ali'nin kesin ölüm yılı açık:** 1520'yi görür; 1527 yalnız kâtip önerisidir, yazar onayı değildir.
 
 > **15 Ekim 2026 kalite notu:** 1448–1450 dosyaları sahne taslağıdır; kısa/tam bölüm kelime alt sınırları henüz sağlanmadı. 1451 kısa bölüm taslağı eklendi. Yeni yıllara geçmeden önce bu grubun redaksiyonu tamamlanacak.
