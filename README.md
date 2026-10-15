@@ -1,5 +1,7 @@
 # Şehzâde Berkay bin Murad Han bin Mehmed Han
 
+> **Kaynak ayrımı — ilk grup:** İki kişi derlemesi, İtalya ve takvim dosyası işlendi. Aktarım ve açık doğrulamalar: `denetim/2026-10-15-kaynak-ayirma-1.md`. Eski notlar kayıpsız saklandı; yeni yıl yazılmadı.
+
 > **Denetim durumu:** Yeni yıl yazımı durduruldu. 1447–1451 dosyaları kâtip taslağıdır; dosyanın bulunması yazar onayı veya tamamlanma anlamına gelmez. Kurtçu Doğan'ın yanlış akıncı beyliği kaldırıldı. Açık sorunlar ve kontrol sonuçları: `denetim/2026-10-15-proje-denetimi.md`.
 
 **Tarihî kurgu projesi.** II. Murad'ın oğlu, Fâtih Sultan Mehmed'in kardeşi olarak tasarlanmış kurgusal bir Osmanlı şehzadesinin —Şehzâde Berkay— hikâyesi ve bu hikâyenin dayandığı tarihî kaynak arşivi.

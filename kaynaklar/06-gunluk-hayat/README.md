@@ -2,7 +2,7 @@
 
 | Dosya | İçerik |
 |---|---|
-| `takvim-ve-zaman.md` | Hicrî aylar ve kandiller; ezanî saat; Hızır–Kasım mevsim takvimi; **848–927 (1444–1521) dönüşüm tablosu** (1 Muharrem, Ramazan, bayramlar, 27 Receb, Berkay'ın yaşı — altı kontrol tarihiyle doğrulanmış) |
+| `takvim-ve-zaman.md` | Hicrî aylar ve kandiller; ezanî saat; Hızır–Kasım mevsim takvimi; **848–927 (1444–1521) dönüşüm tablosu** (1 Muharrem, Ramazan, bayramlar, 27 Receb — eski hesaplar; hilâl ve olay tarihleri ayrıca doğrulanacak) |
 | `para-ve-fiyatlar.md` | Akçe–duka kurları (1444/1481/1512), tağşişler, gelirler (padişahtan ırgata), yiyecek ve mal fiyatları, ölçüler, haraçlar |
 | `hastalik-ve-tip.md` | Veba dalgaları tablosu (1448–1520), hanedanın ölüm sebepleri, nikris, hekimler ve dârüşşifâlar, halk tıbbı, yaşlılık ve ölüm âdetleri |
 | `kiyafet-yemek-meclis.md` | Erkek/kadın kıyafeti, sarık–börk–tac, kürkler; saray mutfağı ve yemekler (anakronizm listesi: kahve, tütün, domates yok); sofra; meclis, mûsikî, şiir, av, güreş, düğün; ev eşyası |

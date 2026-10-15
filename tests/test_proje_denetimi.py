@@ -1,6 +1,10 @@
 import unittest
 import subprocess
-from scripts.proje_denetimi import ROOT, scene_count, stale_arc, julian_weekday
+import hashlib
+import json
+from pathlib import Path
+from tempfile import TemporaryDirectory
+from scripts.proje_denetimi import ROOT, scene_count, stale_arc, julian_weekday, migration_payload, migration_findings
 
 
 class AuditTests(unittest.TestCase):
@@ -20,9 +24,49 @@ class AuditTests(unittest.TestCase):
                 self.assertEqual(julian_weekday(*date), weekday)
 
     def test_author_manuscript_unchanged_since_audit_start(self):
-        path = 'karakter/sehzade-berkay-ahval-defteri.md'
-        original = subprocess.check_output(['git', 'show', '43f6a20:' + path], cwd=ROOT)
-        self.assertEqual((ROOT / path).read_bytes(), original)
+        record = json.loads((ROOT / 'denetim/yazar-metni-korumasi.json').read_text())
+        actual = (ROOT / record['path']).read_bytes()
+        self.assertEqual(hashlib.sha256(actual).hexdigest(), record['sha256'])
+
+    def test_migration_snapshots_match_recorded_hashes(self):
+        rows = json.loads((ROOT / 'denetim/kaynak-ayirma-kaydi.json').read_text())
+        self.assertEqual(len(rows), 4)
+        for row in rows:
+            with self.subTest(source=row['source']):
+                archived = migration_payload((ROOT / row['archive']).read_text())
+                self.assertEqual(hashlib.sha256(archived).hexdigest(), row['sha256'])
+                # Git nesnesi varsa ek karşılaştırma; kayıpsızlık hash testi sığ klonda da zorunlu.
+                result = subprocess.run(
+                    ['git', 'show', row['source_commit'] + ':' + row['source']],
+                    cwd=ROOT, capture_output=True)
+                if result.returncode == 0:
+                    self.assertEqual(archived, result.stdout)
+        self.assertEqual(migration_findings(ROOT), [])
+
+    def test_corrupted_archive_is_blocker(self):
+        with TemporaryDirectory() as directory:
+            root = Path(directory)
+            (root / 'denetim').mkdir()
+            (root / 'archive.md').write_text('Kayıp nüsha')
+            (root / 'source.md').write_text('Genel coğrafya')
+            row = {'source': 'source.md', 'archive': 'archive.md', 'sha256': 'bad'}
+            (root / 'denetim/kaynak-ayirma-kaydi.json').write_text(json.dumps([row]))
+            self.assertTrue(any(f[0] == 'ENGEL' for f in migration_findings(root)))
+
+    def test_calendar_dates_unchanged_when_age_column_removed(self):
+        rows = json.loads((ROOT / 'denetim/kaynak-ayirma-kaydi.json').read_text())
+        row = next(x for x in rows if x['source'].endswith('/takvim-ve-zaman.md'))
+        old = migration_payload((ROOT / row['archive']).read_text()).decode()
+        new = (ROOT / row['source']).read_text()
+        import re
+        def data(text):
+            return [line.split('|')[1:-1] for line in text.splitlines()
+                    if re.match(r'^\| \d{3} \|', line)]
+        old_rows, new_rows = data(old), data(new)
+        self.assertEqual(len(old_rows), 80)
+        self.assertEqual(len(new_rows), 80)
+        for before, after in zip(old_rows, new_rows):
+            self.assertEqual(before[:6] + before[7:], after)
 
     def test_missing_scene_rejected(self):
         with self.assertRaises(ValueError):

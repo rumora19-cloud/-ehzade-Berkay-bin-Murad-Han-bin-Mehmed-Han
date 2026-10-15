@@ -1,0 +1,26 @@
+[
+  {
+    "source": "kaynaklar/03-kisiler/kisiler-1451-1520.md",
+    "archive": "hikaye/notlar/kaynaktan-ayrilan/kisiler-1451-1520.md",
+    "source_commit": "312d904e36ee6c982248ae3aa6d691a602bd7151",
+    "sha256": "66538aa0b381f78fde7dee3f6efbfa20d0008d1fd71c710fe333c5fcaebb93ed"
+  },
+  {
+    "source": "kaynaklar/03-kisiler/devlet-adamlari-1444-1451.md",
+    "archive": "hikaye/notlar/kaynaktan-ayrilan/devlet-adamlari-1444-1451.md",
+    "source_commit": "312d904e36ee6c982248ae3aa6d691a602bd7151",
+    "sha256": "ab6b5374da4ffe3e40d56fcffc2164d6afb8fe86384fda9132b2fcc5a118d8da"
+  },
+  {
+    "source": "kaynaklar/04-yerler/italya.md",
+    "archive": "hikaye/notlar/kaynaktan-ayrilan/italya.md",
+    "source_commit": "312d904e36ee6c982248ae3aa6d691a602bd7151",
+    "sha256": "11088a9c8fdc81f6eac919e862f71c97d20a7020df5ba93a694d7aefef21f579"
+  },
+  {
+    "source": "kaynaklar/06-gunluk-hayat/takvim-ve-zaman.md",
+    "archive": "hikaye/notlar/kaynaktan-ayrilan/takvim-ve-zaman.md",
+    "source_commit": "312d904e36ee6c982248ae3aa6d691a602bd7151",
+    "sha256": "5c2d1769ed98a6b7fb6a3cf3f5e056bc1b9ba7ea464d233f107d4fecd9a25e5f"
+  }
+]

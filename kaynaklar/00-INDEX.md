@@ -1,5 +1,7 @@
 # Kaynak Haritası (INDEX)
 
+> **Ayırma ilerlemesi:** İlk iki kişi derlemesi, İtalya ve takvim dosyasında kurgu sütunları/uygulamaları ayrıldı. Kayıpsızlık ve açık doğrulamalar: `../denetim/2026-10-15-kaynak-ayirma-1.md`. Diğer dosyalar için aşağıdaki arşiv uyarısı geçerlidir.
+
 > **Arşiv güvenilirliği uyarısı (15 Ekim 2026 denetimi):** Bu dizinde tarihî bilgilerle kurgu kancaları henüz tam ayrılmamıştır. Özellikle kişi tablolarındaki alternatif ölüm/görev kayıtları gerçek biyografi diye kullanılamaz. `KILAVUZ.md` §7'ye uygun ayırma işi açıktır; önceki “temizlendi” ifadesi arşivin tarihî doğrulamasının tamamlandığı anlamına gelmez. Bulgular: `../denetim/2026-10-15-proje-denetimi.md`.
 
 > ⚠ **🎭 notları için tek ölçü:** kaynak dosyalarındaki hikâye kancaları `../hikaye/00-ana-hat.md`'ye göre yazılmıştır (Berkay padişah 1451–81, ö. 3 May 1481; II. Orhan 1481–1512; Selim 1512–20). Eski "ihtiyar amca" çerçevesinin kalıntıları 15 Ekim 2026'da temizlendi; bir kalıntı görülürse ana hat geçerlidir.
@@ -40,7 +42,7 @@
 | Ordu: sayılar, yeniçeri, sipahi, akıncı, top, sefer düzeni, Türk yayı | `05-kurumlar/ordu-1444-1520.md` |
 | Saray teşkilâtı, Dîvân, vezir/kazasker/müftü listeleri, vergiler, hazine, **hitap ve teşrifat (diyalog kılavuzu)** | `05-kurumlar/saray-divan-ve-devlet-1444-1520.md` |
 | Hukuk: şer' ve örf, **Fatih Kanunnâmesi** (kardeş katli maddesi, otantiklik), kadı mahkemesi ve sicil, ilmiye basamakları, kazasker/müftü, ceza (ta'zir, siyaset, kemend), müsadere, ahidnâme | `05-kurumlar/hukuk-kanun-ve-kadi-1444-1520.md` |
-| Hicrî–milâdî dönüşüm tablosu 1444–1521 (bayramlar, kandiller, Berkay'ın yaşı), ezanî saat, Hıdrellez–Kasım | `06-gunluk-hayat/takvim-ve-zaman.md` |
+| Hicrî–milâdî dönüşüm tablosu 1444–1521 (bayramlar, kandiller; kişiye bağlı yaş sütunu ayrıldı), ezanî saat, Hıdrellez–Kasım | `06-gunluk-hayat/takvim-ve-zaman.md` |
 | Akçe kaç duka, bir koyun kaç akçe, yeniçeri ne kazanır? | `06-gunluk-hayat/para-ve-fiyatlar.md` |
 | Veba yılları, hanedanın ölüm sebepleri, hekimler, yaşlılık | `06-gunluk-hayat/hastalik-ve-tip.md` |
 | Kıyafet, yemek (ve anakronizm listesi), sofra, meclis, mûsikî, av, düğün | `06-gunluk-hayat/kiyafet-yemek-meclis.md` |
@@ -56,7 +58,7 @@ Yıl yıl olaylar. `00-genel` dosyası tüm dönemi kaba hatlarıyla verir; dön
 Dönemle çağdaş veya yakın metinler: Osmanlı kronikleri, gazavatnâmeler, selimnâmeler, takvimler, kanunnâmeler, vakfiyeler; Bizans tarihçileri; Batılı tanıklar, seyyahlar, elçi raporları; Memlük ve İran kaynakları. Her biri için: müellif, yazılış tarihi, kapsam, dil, neşirler, erişim, güvenilirlik, "hikâye için neye yarar".
 
 ### 03-kisiler
-Dosya başına bir grup (hanedan, vezirler, ulemâ, yabancı hükümdarlar). Her kişi: doğum-ölüm, görevler, karakter çizgileri (çağdaş tasvirler), Berkay ile olası temas noktaları.
+Dosya başına bir grup (hanedan, vezirler, ulemâ, yabancı hükümdarlar). Her kişi: doğum-ölüm, görevler, karakter çizgileri (çağdaş tasvirler), Kurgu temasları kaynak biyografisinden ayrı tutulur; ilk iki kişi derlemesinin eski nüshaları ayırma kaydındadır.
 
 ### 04-yerler
 Saray şehirleri ve sancak merkezleri: Edirne (1444–1453 payitaht), Bursa (türbeler, eski payitaht), Manisa (Saruhan sancağı, Murad'ın inzivası), Amasya (Rum beylerbeyliği, veliaht sancağı), İstanbul (1453 sonrası), Konya (Karaman), Trabzon, Kefe, Kütahya, Antalya; ayrıca savaş alanları (Varna, Kosova, Otlukbeli, Çaldıran).

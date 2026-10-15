@@ -4,6 +4,10 @@
 
 Bu rapor, yazarın Kurtçu Doğan düzeltmesinden sonra kâtibin kendi çalışmasındaki hataları kaydeder. Hatalar yazara veya alternatif tarih türüne yüklenemez. Bir kâtip önerisinin GitHub'da birleştirilmiş olması, onu yazar kararı veya tarihî gerçek yapmaz.
 
+## Sonraki çalışma kaydı
+
+Kaynak–kurgu ayrımının ilk dört dosyası işlendi: `2026-10-15-kaynak-ayirma-1.md`. Arşiv geneli ve kişi kimliklerinin dış kaynak doğrulaması açık. Aşağıdaki 35 dosya / 8 test sayıları ilk denetimin tarihî sonucudur; ilk ayırma grubu sonrasında güncel sonuç 30 inceleme kaydı / 11 testtir. Üç eksik kalıp engeli değişmedi.
+
 ## 1. Kapsam ve sınırlar
 
 - Başlangıçtaki 62 Markdown dosyası üzerinde ad/görev/karar ve kaynak–kurgu karışması taraması yapıldı. Kılavuz, ana hat, kişi kayıtları, bölüm planı ve sekiz yıl dosyası karşılaştırıldı; özellikle kâtibin son eklediği 1447–1451 grubu incelendi.

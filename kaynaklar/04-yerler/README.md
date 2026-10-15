@@ -13,6 +13,6 @@ Saray şehirleri, sancak merkezleri ve savaş alanları. Her dosya: doku ve nüf
 | `varna.md` | Şehir, Varna gölü, Franga yaylası, ova (asıl savaş alanı), yollar ve zaman (Ekim–Kasım 1444), hava/ışık/zemin, iki ordugâh, savaş sonrası ve efsaneler; 1444 yılı dosyasının mekân dosyası |
 | `konya.md` | Karaman/Konya: Selçuklu ve Karamanoğlu katmanları, Mevlânâ dergâhı, 1468 fethi, Mustafa 1468–74, **Cem 1474–81**, 1481 çıkışı; yollar ve iklim |
 | `trabzon.md` | Trabzon İmparatorluğu (1204–1461), 15 Ağustos 1461 teslimi, David Komnenos, nüfus nakli, **Alâeddin Ali'nin sancağı 1471–81 ⚙**; deniz yolu ve kış kesintisi |
-| `italya.md` | Otranto Boğazı'ndan Roma'ya coğrafya tablosu (Salento, Terra di Bari, Tavoliere, Ofanto–Cannae, Napoli, Garigliano, Colli Albani–Albano, Ponte Milvio); yol süreleri ve iklim; gerçek Otranto 1480–81; Napoli–Papalık siyaseti 1480–1520; sahne ayrıntıları; hikâye haritası |
+| `italya.md` | Otranto Boğazı'ndan Roma'ya coğrafya tablosu (Salento, Terra di Bari, Tavoliere, Ofanto–Cannae, Napoli, Garigliano, Colli Albani–Albano, Ponte Milvio); yol süreleri ve iklim; gerçek Otranto 1480–81; Napoli–Papalık siyaseti 1480–1520; mekân ayrıntıları; kurgu uygulamaları ayrı not dosyasında |
 
 `konya.md` ve `trabzon.md` 15 Ekim 2026'da açıldı; `diger-sancaklar-ve-savas-alanlari.md` §A kısa özet olarak kalır.

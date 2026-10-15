@@ -26,7 +26,7 @@
 | Haydar Çelebi, *Rûznâme* | | | | ● (1515–20) | **Günlük**; divan, av, idamlar, ölüm |
 | Selimnâmeler (Keşfî, Şükrî, Sücûdî, Celâlzâde, Hoca Sâdeddin) | | | ● (Selim'in isyanı) | ● | Selim kültü; Hasan Can'ın hatıraları (ölüm döşeği) |
 | Lutfi Paşa | | | ● | ● (Mısır'da) | Piramit sohbeti; vezirin gözü |
-| **Dukas** | ● | ● (1462'ye kadar) | | | Halil'in Bizans bağı; Küçük Ahmed'in katli (**Evrenosoğlu Ali Bey**); Midilli |
+| **Dukas** | ● | ● (1462'ye kadar) | | | Halil'in Bizans bağı; Küçük Ahmed'in katli (**Ali Bey**; Evrenosoğlu ile özdeşliği `[?]`); Midilli |
 | Chalkokondyles | ● | ● (1463'e kadar) | | | Varna (Yunan tarafı), Mora, Vlad'ın kazıkları, Trabzon |
 | Sphrantzes | ● | ● (1453; sonra Korfu) | | | Bizans sarayı; Ulubatlı Hasan; Konstantin |
 | Kritovulos (1467) | | ● | | | Fatih'e sunulmuş Rum tarihi; kuşatma; 1467 vebası; iskân |
