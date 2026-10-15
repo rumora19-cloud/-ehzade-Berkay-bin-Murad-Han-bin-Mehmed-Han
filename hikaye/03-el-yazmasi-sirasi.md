@@ -60,7 +60,7 @@ Kalıp yıl yıl `hikaye/02-bolum-plani.md` tablosunun **son sütununda** yazıl
 
 - **Sahne:** Süleyman'ın cülûsu; **Alâeddin Ali (65)** — 1453'ün çocuğu, 1481'in kardeşi, 1512'nin amcası — Cem'in oğlu Murad'ın ("Pierre") Roma'daki gölgesini düşünür: Süleyman'ın derdi.
 - **Yazılış:** Alâeddin Ali kendi defterine kaydeder; süs yoktur. 1444 defterinin son sözü değil, **son tanığın** sözüdür.
-- **Alâeddin Ali'nin ölüm yılı** hâlâ yazar kararı bekler (öneri: 1527).
+- **Alâeddin Ali’nin ölüm yılı:** 1527, kâtibin vekâleten çalışma tercihi (⚙); yazarın açık tarih onayı sayılmaz, geri alınabilir.
 
 ---
 

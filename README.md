@@ -53,7 +53,7 @@ Kapsanan dönem: **11 Kasım 1444** (Varna Zaferi'nin ertesi günü) — **1520*
 | Karakter dosyası (Ahvâl Defteri) | ✅ işlendi; tashih C1, C3–C6, C9–C12 yazar onayıyla uygulandı (`karakter/sehzade-berkay-ahval-defteri.md`, döküm `tashih-notlari.md` §H) |
 | Hikâye ana hattı (üç padişahlık kavis) | ✅ derlendi (`hikaye/00-ana-hat.md`) — ✔ yazar kararları / ⚙ kâtip kararları işaretli |
 | Yıl yıl plan (1444–1520, 77 yıl; kitap bölümlemesi kaldırıldı) | ✅ yazar kararı 15 Ekim 2026 (`hikaye/02-bolum-plani.md`) |
-| Yıl metinleri | ✎ 1444–1450 yazıldı (`hikaye/yillar/1444-saf-beni-gecti.md`, `1445-golge.md`, `1446-bucuk.md`, `1447-konak.md` — defter yaprağı, `1448-sofyadan-kosovaya.md`, `1449-anne.md` — kısa bölüm, `1450-dugun.md` — tam bölüm); sırada 1451 |
+| Yıl metinleri | ✎ 1444–1450 yazıldı (`hikaye/yillar/1444-saf-beni-gecti.md`, `1445-golge.md`, `1446-bucuk.md`, `1447-konak.md` — defter yaprağı, `1448-sofyadan-kosovaya.md`, `1449-anne.md` — kısa bölüm, `1450-dugun.md` — tam bölüm); 1451 taslağı: `hikaye/yillar/1451-vasiyet-ve-taht.md`; sırada 1448–1450 kalıp uzunlukları ve redaksiyon |
 | Kaynak dosyalarındaki 🎭 hikâye notları | ✅ nihai kurguya göre güncellendi (2026-10-15): Berkay 1451–81, II. Orhan 1481–1512, Selim 1512–20 |
 | Çatal noktaları (gerçek tarih → kurgu, yıl yıl) | ✅ ilk sürüm (`hikaye/01-catal-noktalari.md`) |
 | Kurgusal hanedan ve çevre dosyaları (Berkay soyu, Mehmed soyu, çevre kişiler) | ✅ derlendi (`karakter/`) |
@@ -61,3 +61,5 @@ Kapsanan dönem: **11 Kasım 1444** (Varna Zaferi'nin ertesi günü) — **1520*
 | Devir notu (yazar, 15 Ekim 2026) | ✅ işlendi: lâkap **Şâh-küş Şehzâde**; kurgu kişi yok (Tursun Bey / Has Yunus Bey / Hamza Bey / Vlad Țepeş); Hüma Sultan ✖, Gevherhan ✔; Orhan Manisa 1468–80; Meryem † 12 Şub 1499; kalıp sütunu; `hikaye/03-el-yazmasi-sirasi.md` |
 
 > Not: Bu repo bir **kurgu** projesidir. `kaynaklar/` altındaki her şey tarihî kayıtlara dayanır ve atıflıdır; `karakter/` ve `hikaye/` altındakiler kurgudur. İkisi hiçbir zaman karıştırılmaz.
+
+> **15 Ekim 2026 kalite notu:** 1448–1450 dosyaları sahne taslağıdır; kısa/tam bölüm kelime alt sınırları henüz sağlanmadı. 1451 kısa bölüm taslağı eklendi. Yeni yıllara geçmeden önce bu grubun redaksiyonu tamamlanacak.
