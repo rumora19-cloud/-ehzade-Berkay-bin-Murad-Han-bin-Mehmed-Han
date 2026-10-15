@@ -13,7 +13,7 @@
 | Ağu 1444 | Murad tahtı bırakır, Manisa'ya çekilir | Berkay Saruhan beyi, babasının gölgesinde (Y) | ★ |
 | 1444 yazı | — | **Murad'ın rüyası** (Bursa; Çelebi Mehmed sarığını Berkay'a koyar); yalnız Akşemseddin bilir (Y) | ★ |
 | 10 Kas 1444 | Varna; kralı Koca Hızır öldürür | Kralı yıkan oku Berkay atar; başı Koca Hızır alır | ✎ |
-| Nisan 1446 | Buçuktepe: hafif akçe isyanı; ulûfeye yarım akçe zam; tepe adını alır | **Aynen**; ocağın ağzında bir kısım "Sultan Murad", bir ağızdan "kral vuran!" (⚙); Kurtçu Doğan Ağa hesabı getiren ağa | ✔ ⚙ |
+| Nisan 1446 | Buçuktepe: hafif akçe isyanı; ulûfeye yarım akçe zam; tepe adını alır | **Aynen**; ocaktan “Sultan Murad” sesi gelir (⚙); Kurtçu Doğan Ağa hesabı getiren ağa | ✔ ⚙ |
 | 5 May – Ağu 1446 | Murad Manisa'dan çıkar, Bursa'da durur; 2 Ağu vasiyetnâme (üstü açık türbe, kullar azat) | **Aynen**; Berkay babasının yanında Bursa'da, vasiyeti kendi kâtibi Tursun yazar (⚙); Murad ona "kardeşine yazma" der (⚙) | ✔ ⚙ |
 | Ağu sonu – Eyl 1446 | Murad Edirne'de tahta; Mehmed lalalarıyla Manisa'ya | Aynen; taht teklifinin kâğıdını Mehmed kendi eliyle tamamlar `[R]`; **Manisa'da ikizler buluşur**; Mehmed Berkay'a 848 darbı akçesini verir (⚙) | ✔ ⚙ |
 | 1446 | Buçuktepe; Murad döner; Mehmed Manisa'ya | Aynı; **Berkay Amasya'ya (1446–51)** (Y) | ✔ ★ |
@@ -28,7 +28,7 @@
 | 1451 | Bizans Orhan Çelebi'yi salmakla tehdit eder | **Orhan Çelebi salınır**, Deliorman'da taraftar toplar; Lala yolunu keser; **kaçıp Kostantiniyye'ye döner** (Y) | ★ |
 | Mar 1451 | — | Berkay Edirne'ye varır (~5 Mart); **cülûs ⚙ 7 Mart 1451 Pazar**; 8. padişah | ★ |
 | Şub 1451 | Küçük Ahmed boğdurulur (Evrenosoğlu Ali Bey) | **Eceliyle ölür** (Y) | ✎ |
-| 1451 | Halil kalır; Karaman seferi; Bursa'da yeniçeri bahşişi; **Kurtçu Doğan ağalıktan alınır** | Aynı; serdar Mehmed; ⚙ Kurtçu Doğan sürülmez, Lala'nın ucuna akıncı beyi gider | ✔ ✎ |
+| 1451 | Halil kalır; Karaman seferi; Bursa'da yeniçeri bahşişi; **Kurtçu Doğan ağalıktan alınır** | Aynı; serdar Mehmed; ✔ Kurtçu Doğan düşkün olur; Akşemseddin'e sığınır, günahlarını anlar; daha sonra Fâtih Sultan Berkay Han onu affeder ve onun adamı olur. Akıncı beyliği yok; affın tarihi belirlenmedi | ✔ ✎ |
 
 ## B. 1452–1481 (K02)
 
@@ -61,7 +61,7 @@
 | 1474 | İşkodra I başarısız | Alınır (⚙) | ✎ |
 | 1475 | Vaslui 10 Oca yenilgi; Kefe 6 Haz; **Cem'in oğlu Murad doğar** | Aynı; ✔ **Vlad hapisten çıkar, Vaslui'de Stefan'ın yanındadır**; Murad doğar | ✔ |
 | **26 Tem 1476** | Akdere/Valea Albă: Fatih yeniçerilerin önüne bizzat atılır, Stefan yenilir ama kaçar | Aynı — **yalnız meydan savaşı; Berkay orduyla bizzat baştadır** (⚙) | ✔ |
-| Ara 1476 | Vlad öldürülür (Bükreş yakını; Basarab Laiotă ile savaşta ya da kendi adamlarınca `[T]`) | **✔ 31 Ara 1476 Salı (14 Ramazan 881): Kurtçu Doğan'ın akıncıları Vlad'ı Berkay'ın önüne sürer; Berkay kendi eliyle öldürür; başı İstanbul'a gelir — Lala'nın intikamı** (Y) | ★ |
+| Ara 1476 | Vlad öldürülür (Bükreş yakını; Basarab Laiotă ile savaşta ya da kendi adamlarınca `[T]`) | **✔ 31 Ara 1476 Salı (14 Ramazan 881): akıncılar Vlad'ı Berkay'ın önüne sürer; Berkay kendi eliyle öldürür; başı İstanbul'a gelir — Lala'nın intikamı** (Y) | ★ |
 | 1478 | Kruya; İşkodra II | Aynı | ✔ |
 | 25 Oca 1479 | Venedik barışı; Bellini (Eyl) | Aynı — Bellini Berkay'ı çizer | ✔ |
 | 13 Eki 1479 | Ekmekotlağı yenilgisi | Aynı (⚙) | ✔ |

@@ -2,3 +2,7 @@ Unselected files/
 *.tmp
 .DS_Store
 Thumbs.db
+
+# Yerel denetim betikleri
+__pycache__/
+*.py[cod]

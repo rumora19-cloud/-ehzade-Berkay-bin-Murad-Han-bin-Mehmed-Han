@@ -14,9 +14,9 @@
 | 1 | **1444 — Sâf Beni Geçti** | Varna ve ertesi; yılın ikinci sesi: **Kâtip Tursun'un Defteri** | `yillar/1444-saf-beni-gecti.md` + `karakter/sehzade-berkay-ahval-defteri.md` | tam bölüm |
 | 2 | **1445 — Gölge** | Manisa: Murad ve Akşemseddin; rüyanın ikinci kez anılışı | `yillar/1445-golge.md` | tam bölüm |
 | 3 | **1446 — Buçuk** | Buçuktepe, vasiyet, ikizlerin vedası, Amasya | `yillar/1446-bucuk.md` | tam bölüm |
-| 4–80 | **1447 … 1520** | 77 yılın kalanı; kalıp yıl yıl `02-bolum-plani.md`'nin son sütununda | `yillar/YYYY-*.md` | üç kalıp |
-| 81 | **Hâtime** | 30 Eylül 1520: Süleyman'ın cülûsu, son tanık **Alâeddin Ali (65)** — kendi defterine yazar | `yillar/1520-*.md` | kısa bölüm + defter yaprağı |
-| 82 | **Ekler** | Şecere, takvim, sözlük, tashih dökümü, kaynakça, teşekkür | `karakter/hanedan-berkay-soyu.md`; `kaynaklar/06-gunluk-hayat/takvim-ve-zaman.md`; `kaynaklar/07-sozluk/sozluk.md`; `karakter/tashih-notlari.md` | düzyazı |
+| 4–77 | **1447 … 1520** | 77 yıllık dizinin kalan 74 yılı; kalıp yıl yıl `02-bolum-plani.md`'nin son sütununda | `yillar/YYYY-*.md` | üç kalıp |
+| 78 | **Hâtime** | 30 Eylül 1520: Süleyman'ın cülûsu, son tanık **Alâeddin Ali (65)** — kendi defterine yazar | `yillar/1520-*.md` | kısa bölüm + defter yaprağı |
+| 79 | **Ekler** | Şecere, takvim, sözlük, tashih dökümü, kaynakça, teşekkür | `karakter/hanedan-berkay-soyu.md`; `kaynaklar/06-gunluk-hayat/takvim-ve-zaman.md`; `kaynaklar/07-sozluk/sozluk.md`; `karakter/tashih-notlari.md` | düzyazı |
 
 **Kitapta sıra yıldır:** epigraf → 1444 → 1445 → … → 1520. `kaynaklar/` hiçbir zaman kitaba girmez; o, kitabın **altındaki zemin**dir.
 
@@ -38,7 +38,7 @@
 - **Kimin kalemi:** Tursun Bey (Tûr-ı Sînâ) — Bursalı, Cebe Ali Bey'in yeğeni, 1444'te 18; Saruhan sancağının kâtibi.
 - **Nüsha:** 863 (Ocak 1459) Göynük'te, Akşemseddin hazretlerinin ağzından dinlenen zeyl ilhak olunarak temize çekilmiştir.
 - **Dokunulmaz iki yer:** Zeyl metni ve §XX'teki gönderilmemiş mektup (`KILAVUZ.md` §8–9).
-- **Yıl dosyasıyla ilişkisi:** `yillar/1444-saf-beni-gecti.md` Varna'yı **Mehmed'in gözünden** anlatır; defter aynı günlerin **Berkay'ın gözünden** kaydıdır. İkisi bir arada okunur; defter her zaman ikinci sestir.
+- **Yıl dosyasıyla ilişkisi:** `yillar/1444-saf-beni-gecti.md` Varna'yı **Berkay'ın gözünden** anlatır; defter aynı günlerin **Berkay'ın gözünden** kaydıdır. İkisi bir arada okunur; defter her zaman ikinci sestir.
 
 ---
 
@@ -60,7 +60,7 @@ Kalıp yıl yıl `hikaye/02-bolum-plani.md` tablosunun **son sütununda** yazıl
 
 - **Sahne:** Süleyman'ın cülûsu; **Alâeddin Ali (65)** — 1453'ün çocuğu, 1481'in kardeşi, 1512'nin amcası — Cem'in oğlu Murad'ın ("Pierre") Roma'daki gölgesini düşünür: Süleyman'ın derdi.
 - **Yazılış:** Alâeddin Ali kendi defterine kaydeder; süs yoktur. 1444 defterinin son sözü değil, **son tanığın** sözüdür.
-- **Alâeddin Ali’nin ölüm yılı:** 1527, kâtibin vekâleten çalışma tercihi (⚙); yazarın açık tarih onayı sayılmaz, geri alınabilir.
+- **Alâeddin Ali’nin ölüm yılı:** belirlenmedi; 1520'yi görür. 1527 yalnız kâtip önerisidir (⚙), kesin tarih olarak kullanılmaz.
 
 ---
 
