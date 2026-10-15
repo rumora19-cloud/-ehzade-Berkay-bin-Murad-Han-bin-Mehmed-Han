@@ -92,3 +92,9 @@ Kaynak dosyalarında, tarihî bir ayrıntının kurgu için kullanılabileceği 
 - **Tarih ve kurgu:** `[K]`, `[M]`, `[T]`, `[R]`, `[?]` tarihî iddianın kanıt durumudur. Uydurulmuş bir konuşma, hava, özel buluşma veya sahne eylemi `[T]` değil **⚙** olur. ✔ yazar kararı da gerçek tarih kanıtı değildir.
 - **Tamamlanma ölçütü:** kelime sayısında yalnız sahne metni sayılır; künye, kaynakça ve ⚑ tablosu sayılmaz. Sayısal sınırı geçmek tarihî doğruluk veya yazar onayı yerine geçmez.
 - **Teslim öncesi:** kararın kaynağı → ilgili bütün kayıtlar → yaş/menzil/takvim → kurum ve görev → anlatıcı bilgisi → kaynak/kurgu ayrımı → kalıp denetimi. Açık bulgular raporlanmadan “tamamlandı/temiz” denmez. Betik tarih uzmanının ve yazarın yerini tutmaz.
+
+## 12. Kaynak ayırma kayıtları
+
+- Temizlenen kaynak metninin önceki karışık nüshası `hikaye/notlar/kaynaktan-ayrilan/` altında köken yolu, başlangıç commit’i ve SHA-256 ile saklanır. Aktarım listesi `denetim/kaynak-ayirma-kaydi.json` içindedir.
+- Bu salt kayıt nüshaları güncel karar veya tarihî kaynak değildir. İçlerindeki eski adlar ve hatalar yalnız aktarımın izini korur; yeni sahneye dayanak yapılmaz, toplu ad değiştirmeyle düzeltilmez. Güncel kararlar ana hat/kişi dosyalarında tutulur.
+- Kaynak ayırmak ile tarihî iddiayı doğrulamak ayrı işlerdir. Bir kurgu sütununun taşınması kalan `[K]` etiketlerini kendiliğinden doğrulamaz. Görülmeyen kaynağa sayfa/alıntı/erişim tarihi eklenmez.

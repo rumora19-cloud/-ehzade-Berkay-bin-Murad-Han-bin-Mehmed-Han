@@ -1,0 +1,6 @@
+{
+  "path": "karakter/sehzade-berkay-ahval-defteri.md",
+  "sha256": "a7e2cdf94599afd7c79ff14524f0e09ca2a53dd46b4e9984be1a1e26f7d81518",
+  "verified_against_commit": "43f6a20d3d5fbe508cf5f0d014642e7d900fcb2b",
+  "note": "Salt okunur koruma kaydı. Yeni yazar onayı olmadan güncellenmez. Hash denetimi eski Git nesnesi olmayan sığ klonda da çalışır."
+}

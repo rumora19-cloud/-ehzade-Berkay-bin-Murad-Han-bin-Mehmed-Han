@@ -1,8 +1,10 @@
 # II. Murad'ın İkinci Saltanatı ve Mehmed'in Çocuk-Padişahlığı (1444–1451)
 
+> **Ayırma kaydı (15 Ekim 2026, grup 2):** Önceki karışık nüsha `../../hikaye/notlar/kaynaktan-ayrilan/01-ii-murad-ikinci-saltanat-1444-1451.md` dosyasında kayıpsız korunur; ayrılan parçalar `../../hikaye/notlar/kronoloji-hanedan-uygulamalari/01-ii-murad-ikinci-saltanat-1444-1451.md` içindedir. Bu işlem tarihî doğrulama veya yeni kurgu kararı değildir.
+
 > **Kapsam:** Haziran 1444 – Şubat 1451 · **Güvenilirlik:** yüksek (İnalcık'ın belge temelli kronolojisi esas) · **Son güncelleme:** 2026-10-14
 > **Ana kaynaklar:** H. İnalcık, "Murad II", DİA (https://islamansiklopedisi.org.tr/murad-ii); İnalcık, *Fatih Devri Üzerinde Tetkikler ve Vesikalar I* (TTK 1954); *Gazavât-ı Sultân Murâd* (nşr. İnalcık–Oğuz); Âşıkpaşazâde; Oruç; Neşrî; Dukas; Chalkokondyles; Imber, *The Crusade of Varna*.
-> Etiketler: `[K]` kesin · `[M]` muhtemel · `[T]` tartışmalı · `[R]` rivayet · 🎭 hikâye kancası
+> Etiketler: `[K]` kesin · `[M]` muhtemel · `[T]` tartışmalı · `[R]` rivayet
 
 ---
 
@@ -15,8 +17,6 @@
 - **Kasım 1443 – Ocak 1444 ("Uzun Sefer"):** Hunyadi (Osmanlı kaynaklarında **Yanko**), Kral Ladislas (I. Ulászló / III. Władysław) ve Sırp despotu Vılkoğlu (Đurađ Branković) Niş–Sofya üzerinden ilerler; **İzladi (Zlatitsa) geçidinde** durdurulur (Ara 1443); geri çekilirken Kunoviça'da Osmanlı artçısını yener, Çandarlı Halil'in kardeşi ve Murad'ın eniştesi **Mahmud Çelebi** esir düşer `[K]`.
 - Aynı aylarda **Karamanoğlu İbrahim Bey** (Murad'ın eniştesi) doğudan saldırır; **İskender Bey** (Kastriyota) Arnavutluk'ta isyan eder (Kas 1443).
 - Devlet iki cephe arasında sıkışmıştır; Çandarlı Halil barış yanlısı, uç beyleri ve Zağanos–Şehâbeddin gibi "şahinler" savaş yanlısıdır.
-
-🎭 *Murad'ın 1444'teki bütün kararları —barış, feragat, inziva— bu çifte yasın (Ali'nin ölümü + askerî bunalım) gölgesindedir. Karakter dosyasında Berkay, Ali'nin ölümüyle boşalan **Amasya'ya** 1443 sonunda tayin edilir: yas tutan babanın, ölen oğlunun sancağına gönderdiği öteki oğul.*
 
 ---
 
@@ -32,8 +32,6 @@
 | **Ağu 1444 (Cemâziyelevvel 848)** | **Mihalıç'ta feragat:** Murad kapıkulu ve beyler önünde oğlu **Mehmed** lehine tahttan çekilir; Bursa civarında zühd hayatına, sonra **Manisa**'ya. Mehmed 12 yaşında (doğ. 30 Mart 1432, Edirne). | İnalcık, *Fatih Devri* s. 35-37 `[K]` |
 
 **Neden çekildi?** İnalcık: büyük oğlunun ölümü, uç beylerinin muhalefeti, barışı sağladığına inanması; mizacı (duygusal, tasavvufa ve meclise düşkün). Çağdaş bütün kaynaklar onun **içki ve eğlenceye düşkünlüğünü** de kaydeder; feragat ile ibadete çekilme arasındaki tezat dikkat çekicidir. `[K]`
-
-🎭 *Feragat töreni (Mihalıç, Ağustos 1444): kapıkulunun önünde bir babanın tahtı on iki yaşındaki oğluna devredişi. Karakter dosyasına göre Berkay bu sırada Amasya'dadır ve haberi orada alır ("Kardeşimin yükü ağır. Allâh kolaylık versin."); annesi Hüma Hatun (ikizlerin ortak annesi) Manisa'ya, Murad'ın yanına gider. Murad'ın Mehmed'i Manisa'dan Edirne'ye alıp Berkay'ı Amasya'dan Manisa'ya getirtmesi aynı haftaların işidir.*
 
 ---
 
@@ -53,8 +51,6 @@
 - Edirne'de savunma hazırlığı; **Murad'a adam gönderilir**. "Kırgın hükümdar gelmek istemediyse de ısrar üzerine harekete geçti." (İnalcık) `[K]`
 - Murad kapıkulu olmadan, Anadolu askeriyle Boğaz'a gelir; **Cenevizlilerin gemileriyle** (Dukas: asker başına bir duka) **İstanbul Boğazı'ndan** (Anadoluhisarı–Rumeli yakası) geçer; Bizans engel olamaz. `[K]` Tarih: Ekim sonu 1444 `[M]`.
 - Edirne'de tartışma: Şehâbeddin ve Zağanos **Murad'ı Edirne'de bırakıp Mehmed'i ordunun başına** geçirmek ister; **Halil Paşa'nın ısrarıyla Murad başkumandan** olur. **Mehmed resmen padişah kalır**, Edirne'de bırakılır. `[K]`
-
-🎭 *Mehmed'in Varna'ya götürülmeyişi bir aşağılanmadır; babasına ve Halil'e karşı kininin tohumu burada atılır (1453'te Halil'i idam ettirecektir). Edirne'de kalan sarayda —çocuk padişah, kadınlar, bebekler, hizmetliler— savaş haberi beklenir.*
 
 ---
 
@@ -80,8 +76,6 @@
 - Turahan Bey (İzladi'deki ihmalinden dolayı Tokat'ta hapis) affedilip görevine iade edilir. `[K]`
 - Murad Edirne'ye döner; **kısa süre kalır**. Çandarlı ona "gerçek padişah" muamelesi yapar; fakat Murad, İstanbul'daki Orhan'a karşı Mehmed'in konumunu sarsmamak için **Manisa'ya çekilir**; **Aydın, Menteşe ve Saruhan** gelirleri ona tahsis edilir; Manisa'da "bir padişah gibi" yaşar. `[K]`
 
-🎭 *11 Kasım sabahı: ordugâhta yaralılar, esir pazarlığı, kesik başın bal fıçısına konuluşu, kâtiplerin beşâretnâme yazması, tatar (ulak) atlarının Edirne'ye koşması. Edirne'de haber ~2–3 gün sonra gelir: toplar atılır, şehir donanır. Bu "zafer gecesi" doğum/ilk sahne için güçlü bir fon.*
-
 ---
 
 ## 4. İki başlı devlet (Kasım 1444 – Ağustos 1446)
@@ -92,16 +86,14 @@
 - **1446 — Buçuktepe Vak'ası (Osmanlı'nın ilk yeniçeri ayaklanması):** Edirne'de **yeniçeri isyanı** patlak verir (görünüşe göre Halil Paşa'nın tahrikiyle). **Zâhirî sebep akçenin ayarının düşürülmesidir:** bu ilk tağşiş askeri ve piyasayı zarara sokmuş, **aylardır ulûfesini alamayan** ocak harekete geçmiştir. `[K]` (DİA) Sıra: ocak **Rumeli beylerbeyi Hadım Şehâbeddin Paşa'nın evini yağmalar**; paşa **genç sultanın sarayına sığınarak** canını zor kurtarır; isyancılar **şehrin doğusundaki tepeye** çekilir; isyan **yarım (buçuk) akçe zamla** yatışır ve tepe o günden sonra **Buçuktepe** olur; asker artık **genç padişahtan yüz çevirip babasının hükümdar olmasını** ister. `[K]` (DİA; Hoca Sâdeddin I, 375-387; Neşrî II, 647-657; Oruç 58-59; Takvimler s. 47; Giese anonim I, 70/205; Grekçe anonim s. 134-135)
 - **Buçuktepe'nin tertibi:** Vak'anın Mehmed'i tahttan uzaklaştırmak için **Çandarlı Halil tarafından tertiplendiğine dair kuvvetli deliller** vardır: hedef, doğrudan **Halil'in baş rakibi ve genç sultanın birinci adamı Şehâbeddin Paşa** olmuş; olay Mehmed'in tahtını tehlikeye düşürmüş ve Edirne'de **bir iktidar boşluğu** doğurmuştur. `[T]` (DİA'nın değerlendirmesi; İnalcık da Halil'in parmağını kabul eder) İsyancıların bir kısmının İstanbul'daki **Orhan'a gitme** tehdidi için bk. `03-kisiler/devlet-adamlari-1444-1451.md`; halkın yardımıyla bastırılması (K01 §4, önceki nüsha) `[M]`.
 - **Yer ve ad:** Bugün Edirne'de aynı adı taşıyan mahallenin biraz dışında kalan **Buçuktepe mevkiinde şehir mezarlığı** bulunmaktadır. `[K]` (DİA)
-- **Tarih:** 1446 ilkbahar/yaz `[M]`; gün ve ay kaynaklarda yok. Repo, 5 Mayıs 1446 (8 Safer 850) Manisa çıkışıyla nedensellik kurulabilsin diye hikâyede **23–27 Nisan 1446 (26–30 Muharrem 850)** tarihini kullanır (`hikaye/yillar/1446-bucuk.md`). 🎭 *23 Nisan = Rûz-ı Hızır, yani sefer mevsiminin açıldığı gün: ocak, yürümesi gereken gün yürümeyi reddeder.*
-- **Sonuç (DİA'nın hükmü):** Bu vak'ayla **asker ilk defa politikaya alet edilmiş**, bundan böyle yeniçerilerin nüfuzu sürekli artmıştır. `[K]` 🎭 *1451 Bursa bahşişi ve 1512 Selim'in cülûsu bu çizginin devamıdır; Berkay'ın 1451'de devralacağı miras.*
+- **Tarih:** 1446 ilkbahar/yaz `[M]`; gün ve ay kaynaklarda yok. Belirli gün aralığı tarihî kesinlik olarak verilmez.
+- **Sonuç (DİA'nın hükmü):** Bu vak'ayla **asker ilk defa politikaya alet edilmiş**, bundan böyle yeniçerilerin nüfuzu sürekli artmıştır. `[K]`
 - Bk. DİA "Buçuktepe Vak'ası" (A. Özcan): https://islamansiklopedisi.org.tr/bucuktepe-vakasi
 - Halil Paşa Murad'ı **gizlice** tahta çağırır. **5 May 1446 (8 Safer 850):** Murad Manisa'dan acele yola çıkar; sonra (belki Edirne isyanı yüzünden) **Bursa'ya** gelir. **2 Ağu 1446 (9 Cemâziyelevvel 850):** **vasiyetnâmesini** düzenletir (aşağıda). **Ağustos sonu:** oğlunun haberi olmaksızın Rumeli'ye geçip Edirne'ye ulaşır; **Mehmed'e tahttan babası lehine vazgeçtiği söylettirilir.** `[K]`
 - Mehmed **veliaht** sayılır; **Zağanos ve Şehâbeddin ile birlikte Manisa'ya** gönderilir (Zağanos bir süre Balıkesir'e sürgün `[M]`). `[K]`
 
 **Murad'ın vasiyetnâmesi (2 Ağu 1446)** — İnalcık, *Fatih Devri*, s. 206-207:
 > "Bursa'da merhum oğlum Ali yanındaki kabrin katında koyalar… Üzerime bir çâr dîvâr türbe yapalar, üstü açık ola ki üzerime yağmur yağa… Soyumdan sopumdan her kim ki ölecek olursa benim yanımda komayalar, katıma getirmeyeler." Ayrıca **bütün kullarını âzat eder.** `[K]`
-
-🎭 *Vasiyet metni, Murad'ın ölüme hazırlanan, oğlu Ali'nin yanına gömülmek isteyen bir baba portresidir. Üstü açık türbe ve "yanıma kimseyi koymayın" şartı — bir oğul için ağır bir cümle.*
 
 ---
 
@@ -124,13 +116,11 @@
 - **1450:** Murad'ın son oğlu **Küçük Ahmed** doğar (annesi: Candaroğlu İsfendiyar Bey'in kızı **Hatice Halime Hatun** `[M]`). Şubat 1451'de 8 aylık (Dukas). `[M]`
 - **Kış 1450 (Aralık):** **Edirne'de Mehmed'in düğünü**: gelin Dulkadıroğlu Süleyman Bey'in kızı **Sitti Hatun**; "muhteşem" üç aylık şenlik; gelin Edirne'ye Sarıca Paşa (Saruca) başkanlığında alayla getirilir. `[K]` (Neşrî, Âşıkpaşazâde)
 
-🎭 *1450 kışı Edirne'de düğün şenliği: cambazlar, nahıllar, at yarışları, vezirlerin hediyeleri, gelinin alayı. Aynı kış Murad'ın son hastalığı. Bir çocuk şehzadenin gözünden "şenlik → cenaze" geçişi.*
-
 ### Şubat 1451: Ölüm ve cülûs
 - **3 Şub 1451 (1 Muharrem 855):** Murad **Edirne'de ölür**; 48 yaşında. Sebep: av dönüşü/meclis sonrası ani hastalık (inme/apopleksi `[M]`). Neşrî'ye göre düğünden hemen sonra hastalanmıştır. `[K]`
 - **Ölüm gizlenir** (Oruç: 13–16 gün `[M]`); Çandarlı Halil, Manisa'ya **Mehmed'e** haberci gönderir ("Gelsin, tahtı ola"). Mehmed'in Gelibolu'ya at sürdüğü, "Beni seven ardımca gelsin" dediği rivayeti `[R]`.
 - **18 Şub 1451 (16 Muharrem 855):** Mehmed Edirne'ye girer; **cülûs**. Vezirler yol kenarında ağlayarak karşılar; Mehmed, Halil Paşa'yı yerinde bırakır ("Lala, otur yerine"), İshak Paşa'yı Anadolu beylerbeyi yapar, babasının cenazesini Bursa'ya götürmekle görevlendirir. `[K]` (Neşrî, Tursun Bey)
-- **Küçük Ahmed'in öldürülmesi:** Dukas'a göre cülûs günlerinde, Ahmed'in annesi padişahı tebrike geldiğinde Mehmed, Evrenosoğlu **Ali Bey**'i gönderip bebeği **hamamda boğdurur**; ardından Ali Bey'i idam ettirir; anneyi **İshak Paşa**'ya nikâhlar. `[M]` Osmanlı kronikleri suskundur; modern tarihçiler (İnalcık, Babinger, Emecen) olayı kabul eder; bir azınlık görüş reddeder `[T]`. Bk. `05-kurumlar/sehzadelik-sistemi.md` → Kardeş katli.
+- **Küçük Ahmed'in öldürülmesi:** Dukas'a göre cülûs günlerinde, Ahmed'in annesi padişahı tebrike geldiğinde Mehmed, **Ali Bey**'i (Evrenosoğlu ile özdeşliği `[?]`) gönderip bebeği **hamamda boğdurur**; ardından Ali Bey'i idam ettirir; anneyi **İshak Paşa**'ya nikâhlar. `[M]` Osmanlı kronikleri suskundur; modern tarihçiler (İnalcık, Babinger, Emecen) olayı kabul eder; bir azınlık görüş reddeder `[T]`. Bk. `05-kurumlar/sehzadelik-sistemi.md` → Kardeş katli.
 - **Mara Hatun** Sırbistan'a gönderilir (hediyeler, gelirler); babasının yanına döner; Mehmed onunla ömür boyu iyi ilişki sürdürür. `[K]`
 - Murad **Bursa Muradiye**'ye defnedilir; vasiyetine göre üstü açık türbe; Ali'nin yanı. `[K]`
 - **Bahar–yaz 1451:** Karamanoğlu İbrahim Bey Alâiye/Akşehir–Beyşehir'i alınca Mehmed Karaman seferine çıkar; barış; dönüşte **Bursa'da yeniçeriler bahşiş ister** ("padişahımızın ilk seferidir"), Mehmed verir ama ağaları (Kurtçu Doğan) azledip yeniçeri ocağını yeniden düzenler. `[K]` **Cülûs bahşişi** âdeti bu olayla yerleşir `[M]`.

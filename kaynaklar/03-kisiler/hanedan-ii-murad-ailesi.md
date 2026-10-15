@@ -1,4 +1,6 @@
-# Hanedan: II. Murad'ın Ailesi (Berkay'ın "gerçek" akrabaları)
+# Hanedan: II. Murad'ın ailesi
+
+> **Ayırma kaydı (15 Ekim 2026, grup 2):** Önceki karışık nüsha `../../hikaye/notlar/kaynaktan-ayrilan/hanedan-ii-murad-ailesi.md` dosyasında kayıpsız korunur; ayrılan parçalar `../../hikaye/notlar/kronoloji-hanedan-uygulamalari/hanedan-ii-murad-ailesi.md` içindedir. Bu işlem tarihî doğrulama veya yeni kurgu kararı değildir.
 
 > **Kapsam:** II. Murad'ın eşleri, çocukları, kardeşleri; Mehmed II'nin ilk ailesi · **Güvenilirlik:** karışık — padişahlar `[K]`, kadınlar ve küçük yaşta ölen çocuklar çoğu zaman `[M]/[?]` · **Son güncelleme:** 2026-10-14
 > **Ana kaynaklar:** İnalcık, "Murad II" (DİA); M. Çağatay Uluçay, *Padişahların Kadınları ve Kızları* (TTK 1980); A. D. Alderson, *The Structure of the Ottoman Dynasty* (Oxford 1956); Babinger, *Mehmed the Conqueror*; Dukas; Neşrî; Âşıkpaşazâde; Bursa Muradiye türbe kitâbeleri.
@@ -14,8 +16,6 @@
 - **Ölüm:** 3 Şub 1451 (1 Muharrem 855), Edirne; 48 yaşında. **Bursa Muradiye**'de üstü açık türbe. `[K]`
 - **Çağdaş portre:** İbn Tağrîberdî: cihaddan geri kalmaz ama eğlence ve içkiye düşkün; halka âdil, cömert, iyi huylu; çalgıcıları sever. Broquière (1433): kısa boylu, tıknaz, geniş yüzlü, kemerli burunlu, küçük gözlü, esmer, hafif sakallı (?) `[M]`; çok içer; av ve meclis düşkünü; "tebaası tarafından en çok itaat edilen hükümdar". Şükrullah ve Osmanlı kaynakları: **"Ebü'l-hayrât"** (hayrat babası), şiir ve mûsikî zevki, dervişlere düşkün, iki kez tahttan çekilecek kadar **dünyadan bezgin**. `[K]`
 - **Unvan/hitap:** "Sultan Murad Han bin Mehmed Han"; "Koca Murad" (sonraki gelenek); hitap: "Sultanım", "Hünkârım", "devletlü hünkâr". Kendi sadeliği: Mercimek Ahmed'e *Kâbusnâme*'yi "açık Türkçe" ile yeniden çevirtmesi (1432) meşhurdur. `[K]`
-
-🎭 *Berkay'ın babası: yas tutan, içen, şiir söyleyen, savaş haberinde her şeyi bırakıp atlayan, oğullarını Amasya'da kaybeden bir adam. Karakter dosyasına göre Berkay 1444'te 12–13 yaşındadır ve Varna'da babasının yanındadır; Murad'ın Varna sonrası Manisa'ya çekilmesi, Berkay'ın Saruhan beyliğiyle aynı şehre düşer — baba ile oğul 1444–46'da aynı çatı altındadır. Murad'ın son yedi yılı (1444–51) Berkay'ın 12–18 yaşıdır: babasını yetişkin gözüyle görür.*
 
 ## 2. Eşleri (bilinenler)
 
@@ -38,9 +38,7 @@ Not: Bazı popüler listelerde geçen "Tâcünnisâ", "Emine Hatun (Dulkadir)" g
 | **Mehmed (II. Mehmed, Fâtih)** | **30 Mar 1432 (27 Receb 835, Pazar; Miraç sabahı), Edirne** | 3 May 1481 | Murad'ın dördüncü oğlu. Geleneksel anlatıda (Babinger) 1434'te Amasya'ya gönderildiği, 1437'de 6 yaşında Amasya beyi olduğu, 1439'da Ali ile yer değiştirdiği söylenir — İnalcık ve Emecen **şüpheli** bulur `[T]`; kesin olan: Haz 1439 Edirne'de Ali ile sünnet düğünü; **bahar 1443'te Edirne'den Manisa'ya** (Saruhan) lalaları Kassabzâde Mahmud ve Nişancı İbrahim ile; 1444–46 ilk saltanat; 1446–51 Manisa; 1451 cülûs. Hocaları: Molla Gürânî, Molla Ayas, Akşemseddin (mânevî), Hocazâde, Molla Hüsrev, Sinan Paşa. |
 | **Orhan** | ? | küçük yaşta `[?]` | Adı Alderson'da |
 | **Hasan** | ? | küçük yaşta `[?]` | |
-| **Küçük Ahmed** | **1450** (Şubat 1451'de 8 aylık — Dukas) | **Şubat 1451, Edirne** | Mehmed'in cülûsunda **hamamda boğduruldu** (Evrenosoğlu Ali Bey); Osmanlı kaynakları suskun; modern tarihçiler kabul eder `[M]`. Bursa Muradiye'ye defin `[M]`. |
-
-> **Kurgu notu (güncel):** Berkay bu listeye **eklenen** bir oğuldur: karakter dosyasına göre **Mehmed'in ikizi** (Hüma Hatun'un oğlu; 27 Receb 835 / 30 Mar 1432, Edirne; yarım saat küçük). Listedeki sıraya göre Murad'ın beşinci oğlu olur. 1443 sonu–1444 yazı Amasya, 1444 yazından itibaren Saruhan beyi. 1451'de 18 yaşında — Küçük Ahmed'in kaderini paylaşmaması için hikâyede güçlü bir **neden** gerekir (bk. `05-kurumlar/sehzadelik-sistemi.md` §9). Bk. `karakter/sehzade-berkay-ahval-defteri.md` ve `karakter/tashih-notlari.md`.
+| **Küçük Ahmed** | **1450** (Şubat 1451'de 8 aylık — Dukas) | **Şubat 1451, Edirne** | Mehmed'in cülûsunda **hamamda boğduruldu** (Ali Bey; Evrenosoğlu ile özdeşliği `[?]`); Osmanlı kaynakları suskun; modern tarihçiler kabul eder `[M]`. Bursa Muradiye'ye defin `[M]`. |
 
 ## 4. Kızları (hepsi `[M]/[?]`; Uluçay–Alderson'dan doğrulanacak)
 
@@ -52,14 +50,12 @@ Not: Bazı popüler listelerde geçen "Tâcünnisâ", "Emine Hatun (Dulkadir)" g
 | **Şehzade Hatun** | **Sinan Bey** (Anadolu beylerbeyi?) `[?]` |
 | **Hafsa/İlaldı** adları | Bazı listelerde Murad'ın kızı, bazılarında **kız kardeşi** olarak geçer — karışıklık `[T]` |
 
-## 5. Kardeşleri (I. Mehmed'in çocukları) — Berkay'ın amca ve halaları
+## 5. Kardeşleri (I. Mehmed'in çocukları)
 
 - **Erkek:** **Mustafa Çelebi (Küçük Mustafa)** — 1422–23 isyanı (Bizans ve Karaman destekli), 1423'te İznik'te yakalanıp **boğduruldu**; **Yusuf** ve **Mahmud** — Çelebi Mehmed'in vasiyetine göre Bizans'a rehin verileceklerdi; Murad vermedi, **gözlerine mil çektirdi** (1421/22; Dukas) `[M]`, Bursa'da yaşadılar (Mahmud 1429 vebasında öldü `[M]`); **Ahmed** — babasının sağlığında öldü. `[K/M]`
 - **Kız kardeşler (7 kız):** **Selçuk Hatun** (ö. 1485; Anadolu Beylerbeyi **Karaca Paşa**'nın eşi — Karaca Varna'da şehit `[M]`; Bursa'da türbesi), **Hafsa Hatun** (Çandarlı İbrahim Paşa'nın oğlu **Mahmud Çelebi**'nin eşi — Mahmud 1444'te Macarlara esir düştü `[K]`), **İlaldı Hatun** (Karamanoğlu **İbrahim Bey**'in eşi `[M]` — bu yüzden İbrahim Bey Murad'ın "eniştesi"dir), **Sultan Hatun** (Candaroğlu **Kasım Bey** ile `[?]`), **Ayşe Hatun** (**Karaca Paşa**? / **Evrenosoğlu Îsâ Bey**? `[?]`), **Hatice**, **Fatma** `[?]`.
 
-🎭 *Hala kocaları = devletin en güçlü adamları: Çandarlı'nın kardeşi, Karamanoğlu, Anadolu beylerbeyi. Berkay'ın halaları, bir şehzadenin saray dışındaki koruma ağı olabilir.*
-
-## 6. Mehmed II'nin ilk ailesi (1444–1451 Berkay'la aynı çatı/aynı kuşak)
+## 6. Mehmed II'nin ilk ailesi (1444–1451)
 
 | Kişi | Not |
 |---|---|
@@ -76,8 +72,6 @@ Not: Bazı popüler listelerde geçen "Tâcünnisâ", "Emine Hatun (Dulkadir)" g
 ## 7. Bursa Muradiye: ailenin mezarlığı
 
 Muradiye Külliyesi (1426; cami, medrese, imaret, hamam) etrafında 12 türbe: **II. Murad** (üstü açık, toprak), **Hüma Hatun** (Hatuniye, 1449), **Şehzade Alâeddin Ali** (Murad'ın yanı), **Cem Sultan** (1499 nakil; türbe aslında Şehzade Mustafa için 1479'da yapıldı, Mustafa da burada), **Gülşah Hatun**, **Şirin Hatun**, **Mükrime Hatun** (Bayezid'in eşi), **Şehzade Ahmed** (II. Bayezid'in oğlu, 1513; Korkud ve Şehinşah de burada), **Şehzade Mahmud** (Bayezid'in oğlu, 1507, oğullarıyla), **Gülruh**, **Ebe Hatun**, **Saraylılar türbesi**. `[K]` — Bk. DİA "Muradiye Külliyesi" (Bursa).
-
-🎭 *Berkay'ın hayatı boyunca ailesinden ölen hemen herkes bu bahçeye gelir: annesi Hüma (1449), ağabeyi Ali (1443), babası (1451), kardeşi Küçük Ahmed (1451), yeğenleri Mustafa (1474) ve Cem (1499). Hikâyede Berkay'ın kendisi Muradiye'ye değil İslambol'a, ikizinin yanına gömülür (1481); 1520 epilogunda Muradiye'de dolaşan, varsa, Alâeddin Ali'dir (65).*
 
 ## 8. Doğrulanacaklar
 
