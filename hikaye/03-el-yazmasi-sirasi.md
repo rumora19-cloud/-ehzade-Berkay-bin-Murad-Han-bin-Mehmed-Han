@@ -66,7 +66,7 @@ Kalıp yıl yıl `hikaye/02-bolum-plani.md` tablosunun **son sütununda** yazıl
 
 ## 6. Ekler
 
-1. **Şecere:** `karakter/hanedan-berkay-soyu.md` (Berkay → Orhan → Selim) + `hanedan-mehmed-soyu.md` (Mehmed → Bayezid/Cem → …).
+1. **Şecere:** `karakter/hanedan-berkay-soyu.md` (Berkay → Orhan → Selim) + `../karakter/mehmed-soyu-alternatif.md` (Mehmed → Bayezid/Cem → …).
 2. **Takvim:** `kaynaklar/06-gunluk-hayat/takvim-ve-zaman.md` — 848–928 hicrî karşılıkları, 77 yılın yılbaşıları.
 3. **Sözlük:** `kaynaklar/07-sozluk/sozluk.md`.
 4. **Tashih dökümü:** `karakter/tashih-notlari.md` (§G eski ad, §H tashih uygulanması, **§I devir notu 15 Ekim 2026**).

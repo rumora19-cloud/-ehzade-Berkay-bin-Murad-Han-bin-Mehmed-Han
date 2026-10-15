@@ -1,5 +1,7 @@
 # I. Selim (Yavuz) Dönemi — 24 Nisan 1512 → 21/22 Eylül 1520
 
+> **Güvenilirlik:** derleme; iddia düzeyinde atıf denetimi sürüyor
+
 > **Ayırma kaydı (15 Ekim 2026, grup 2):** Önceki karışık nüsha `../../hikaye/notlar/kaynaktan-ayrilan/04-yavuz-selim-donemi-1512-1520.md` dosyasında kayıpsız korunur; ayrılan parçalar `../../hikaye/notlar/kronoloji-hanedan-uygulamalari/04-yavuz-selim-donemi-1512-1520.md` içindedir. Bu işlem tarihî doğrulama veya yeni kurgu kararı değildir.
 
 > **Kapsam:** I. Selim’in 1512–1520 saltanatına ilişkin tarihî kronoloji derlemesi. Alternatif soy ve anlatı kapanışı ayrılmıştır; kalan iddiaların atıf denetimi sürüyor.

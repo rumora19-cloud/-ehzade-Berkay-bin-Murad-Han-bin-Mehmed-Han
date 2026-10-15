@@ -1,5 +1,7 @@
 # Modern Araştırmalar (seçme, dönem sırasıyla)
 
+> **Kapsam:** Modern Araştırmalar (seçme, dönem sırasıyla) · **Güvenilirlik:** derleme; iddia düzeyinde atıf denetimi sürüyor · **Son güncelleme:** 2026-10-15
+
 > Kısa değerlendirmelerle; genişletilecek.
 
 ## Genel

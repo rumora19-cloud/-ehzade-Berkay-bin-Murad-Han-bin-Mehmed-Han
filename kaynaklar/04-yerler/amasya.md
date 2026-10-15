@@ -1,5 +1,7 @@
 # Amasya — "Şehzâdeler şehri", Rûm beylerbeyiliğinin merkezi
 
+> **Kapsam:** Amasya — "Şehzâdeler şehri", Rûm beylerbeyiliğinin merkezi · **Güvenilirlik:** derleme; iddia düzeyinde atıf denetimi sürüyor
+
 > Defterde Berkay 1443 – yaz 1444 arasında **Rûm (Amasya) beyi**dir (tashih C1: ağabeyi Alâeddin Ali'nin 1443 sonundaki ölümüyle boşalan sancak). Tarihte Amasya 1454–1481 **Bayezid'in**, 1481–1513 **Ahmed'in**, 1514–15 kışında **Selim'in** şehri; Selim 1470'te burada doğdu.
 > **Kaynaklar:** Hüseyin Hüsameddin, *Amasya Tarihi* (1327–35; sad. Ali Yılmaz – Mehmet Akkuş); İ. Hakkı Uzunçarşılı, *Kitabeler*; M. Z. Oral, *Amasya*; "Amasya", DİA (İ. Yüksel – M. Tuncel); Evliya Çelebi (geç); Şerefeddin Sabuncuoğlu'nun eserleri (Amasya dârüşşifâsı); Bayezid'in Amasya mektupları (TSMA); Emecen, *Yavuz Sultan Selim* (Trabzon–Amasya bölümleri); Mihrî Hatun Divanı. **Son güncelleme:** 2026-10-14
 
@@ -17,7 +19,7 @@
 | ★ Gök Medrese Camii | 1266–67 (Seyfeddin Torumtay) | Türbe |
 | ★ **Bimarhane** | 1308–09 | Tıp; Sabuncuoğlu Şerefeddin (ö. 1468'den sonra): *Cerrâhiyyetü'l-Hâniyye* (1465, resimli, Türkçe; **Fatih'e sunuldu**), *Mücerrebnâme* (1468); Amasya'da 14 yıl hekimlik 🎭 |
 | ★ Bayezid Paşa Camii | 1414–19 | Çelebi Mehmed'in veziri; **zaviyeli**; saraya yakın |
-| ★ **Yörgüç Paşa Camii** | 1428–30 | Yörgüç Paşa: II. Murad'ın lalası/Rûm beylerbeyi (ö. 1442?); Kızılkoca türbesi; türbede Yörgüç 🎭 (Murad'ın Amasya'daki adamı) |
+| ★ **Yörgüç Paşa Camii** | 1428–30 | Yörgüç Paşa: II. Murad'ın lalası/Rûm beylerbeyi (ö. 1442; DİA, Başar, “Yörgüç Paşa”, son biyografi paragrafı; erişim 15 Ekim 2026); Kızılkoca türbesi; türbede Yörgüç 🎭 (Murad'ın Amasya'daki adamı) |
 | ★ Pîr İlyas zaviyesi | 14–15. yy | Halvetiyye'nin Amasya kolu; Gümüşlüoğlu |
 | ★ Çilehane (Yakub Paşa tekkesi) | 1412 | Halvetî |
 | ★ Fethiye Camii | kilise → cami (Rum Mehmed? `[T]`) | |
@@ -68,3 +70,5 @@ Amasya–Tokat 2 gün (ipek yolu), –Sivas 5, –Çorum 2, –Merzifon 1, –Sa
 3. **1472 Tokat yağması:** Amasya'nın iki gün ötesi yanıyor; 1473 Otlukbeli'ne ordu Kazova'dan geçer.
 4. **1481 Mayıs:** Bayezid Amasya'dan İstanbul'a 14 günde (gerçek); hikâyede yola çıkar, Ankara–Beypazarı'nda Cem'in adamlarınca öldürülür (⚙); Berkay'ın Amasya hatırası yeğeniyle bağ.
 5. **1514–15 kışı:** Selim Amasya'da — dedesi Berkay'ın ilk sancağı, ninesi Meryem Hatun'un şehri; Dukakinzâde'nin kanı.
+
+> **Doğrudan kaynak kontrolü (15 Ekim 2026):** Fahameddin Başar, “Yörgüç Paşa”, DİA, https://islamansiklopedisi.org.tr/yorguc-pasa, ölüm paragrafı: 1442. Bu atıf, aşağıdaki/üstteki bütün derleme iddialarını doğrulamaz. “Biçeroğlu Hamza” ile denizci/elçi Hamza Bey’in özdeşliği `[?]`; aynı adlı kişilerin görevleri birleştirilmez. Ayrıntı: `../../denetim/2026-10-15-dogrudan-kaynak-kontrolu.md` §2.

@@ -1,5 +1,7 @@
 # Manisa (Saruhan sancağı) — Şehzâdeler sancağı, II. Murad'ın inzivası
 
+> **Kapsam:** Manisa (Saruhan sancağı) — Şehzâdeler sancağı, II. Murad'ın inzivası · **Güvenilirlik:** derleme; iddia düzeyinde atıf denetimi sürüyor
+
 > Defterde Berkay 1444 yazında **Saruhan beyi**dir; tarihte 1443–44 ve 1446–51'de Mehmed'in sancağı; Ağustos 1444 – Mayıs 1446 arasında (kesintiyle) **II. Murad'ın inziva yeri**. Bu üçlü çakışma hikâyenin ilk büyük düğümüdür (bk. `karakter/tashih-notlari.md` §F).
 > **Kaynaklar:** F. Emecen, *XVI. Asırda Manisa Kazâsı* (TTK 1989) ve "Manisa", DİA; Emecen, "Saruhanoğulları", DİA; Ç. Uluçay, *Manisa Ünlüleri*, *Saruhanoğulları ve Eserlerine Dair Vesikalar* (1940–46), "Manisa Sarayı" (Belleten); İ. Gökçen, *Manisa Tarihinde Vakıflar*; Âşıkpaşazâde; Neşrî; İnalcık, *Fatih Devri*. **Son güncelleme:** 2026-10-14
 

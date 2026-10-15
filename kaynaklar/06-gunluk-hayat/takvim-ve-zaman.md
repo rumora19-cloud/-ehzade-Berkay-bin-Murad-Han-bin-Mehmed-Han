@@ -1,4 +1,6 @@
 # Takvim ve zaman (848–927 / 1444–1521)
+
+> **Güvenilirlik:** derleme; iddia düzeyinde atıf denetimi sürüyor
 > **Ayırma kaydı (15 Ekim 2026):** Kurgu sütunları ve hikâye uygulamaları kaynak metninden ayrıldı. Önceki karışık nüsha kayıpsız olarak `../../hikaye/notlar/kaynaktan-ayrilan/takvim-ve-zaman.md` dosyasında saklıdır. Bu işlem kalan tarihî iddiaların bağımsız doğrulaması değildir; eski güvenilirlik etiketleri ayrıca denetlenmelidir.
 
 > **Kapsam:** Hesabî hicrî takvim, Jülyen tarihler ve dönem zaman algısı; kurgu yaş hesabı ayrı çalışma kaydındadır.

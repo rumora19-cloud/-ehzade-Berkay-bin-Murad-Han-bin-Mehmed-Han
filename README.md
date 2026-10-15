@@ -19,6 +19,9 @@ Kapsanan dönem: **11 Kasım 1444** (Varna Zaferi'nin ertesi günü) — **1520*
 ├── KILAVUZ.md                 ← yazım, tarih, atıf ve dosya kuralları
 ├── karakter/                  ← Berkay'ın "Ahvâl Defteri" (yazarın metni) + tashih notları
 ├── hikaye/                    ← bölümler, plan, sahne notları
+├── denetim/                   ← açık bulgular, kaynak fişleri, koruma özetleri
+├── scripts/                   ← salt okunur proje denetleyicisi
+├── tests/                     ← teknik ve metin regresyon testleri
 └── kaynaklar/                 ← TARİHÎ KAYNAK ARŞİVİ (hikâyenin omurgası)
     ├── 00-INDEX.md            ← kaynak haritası: hangi soru için hangi dosya
     ├── 01-kronoloji/          ← 1444–1520 yıl yıl, dönem dönem olaylar
@@ -37,33 +40,21 @@ Kapsanan dönem: **11 Kasım 1444** (Varna Zaferi'nin ertesi günü) — **1520*
 2. **Karakter dosyasını güncellerken:** Berkay'ın hayatındaki her kurgusal olay, aynı tarihteki gerçek olaylarla (`00-genel-zaman-cizelgesi`) çakıştırılır; çelişki varsa `karakter/` içindeki dosyaya "⚠ kronoloji notu" düşülür.
 3. **Yeni kaynak eklerken:** `KILAVUZ.md`'deki atıf biçimi kullanılır; telifli metinler özetlenir, telifsiz/erişilebilir metinlere bağlantı verilir.
 
-### Durum
+### Durum — 15 Ekim 2026 kritik denetimi
 
-| Alan | Durum |
+**Dosyanın varlığı tamamlanma veya yazar onayı değildir.** Ayrıntı: `denetim/2026-10-15-kritik-denetim-yaniti.md`.
+
+| Alan | Mevcut durum / açık iş |
 |---|---|
-| Telif | ✅ `LICENSE` (© 2026 rumora19-cloud — tüm hakları saklıdır); kök README'de telif satırı |
-| Kaynak kataloğu (birincil) | ✅ ilk sürüm |
-| Genel zaman çizelgesi 1444–1520 | ✅ ilk sürüm |
-| II. Murad ikinci saltanatı 1444–1451 (ayrıntılı) | ✅ ilk sürüm |
-| Fâtih dönemi 1451–1481 (ayrıntılı) | İlk sürüm; tarihî kayıtlar yerinde, eski §13 çalışma notlarına ayrıldı (`hikaye/notlar/kronoloji-hanedan-uygulamalari/`) |
-| II. Bayezid dönemi 1481–1512 (ayrıntılı) | ✅ ilk sürüm |
-| Yavuz dönemi 1512–1520 (ayrıntılı) | ✅ ilk sürüm |
-| Şehzadelik sistemi | ✅ ilk sürüm |
-| Hanedan (II. Murad ailesi) | ✅ ilk sürüm (doğrulanacak maddeler işaretli) |
-| Yerler (Edirne, Bursa, Manisa, Amasya, İstanbul, sancaklar, savaş alanları, yol süreleri; **Varna**; **İtalya 1480–1520**) | ✅ ilk sürüm (`varna.md`, `italya.md` 2026-10-15) |
-| Kurumlar (ordu; saray–divan–devlet; hitap kılavuzu; **hukuk: kanunnâme–kadı–kazasker–müftü–ceza**) | ✅ ilk sürüm (`hukuk-kanun-ve-kadi-1444-1520.md` 2026-10-15) |
-| Günlük hayat (takvim tablosu 1444–1521, para, tıp, kıyafet–yemek–meclis, dil–inanç) | ✅ ilk sürüm |
-| Hanedan ve kişiler 1451–1520; kaynak × dönem matrisi | ✅ ilk sürüm |
-| Karakter dosyası (Ahvâl Defteri) | ✅ işlendi; tashih C1, C3–C6, C9–C12 yazar onayıyla uygulandı (`karakter/sehzade-berkay-ahval-defteri.md`, döküm `tashih-notlari.md` §H) |
-| Hikâye ana hattı (üç padişahlık kavis) | ✅ derlendi (`hikaye/00-ana-hat.md`) — ✔ yazar kararları / ⚙ kâtip kararları işaretli |
-| Yıl yıl plan (1444–1520, 77 yıl; kitap bölümlemesi kaldırıldı) | ✅ yazar kararı 15 Ekim 2026 (`hikaye/02-bolum-plani.md`) |
-| Yıl metinleri | ✎ 1444–1450 yazıldı (`hikaye/yillar/1444-saf-beni-gecti.md`, `1445-golge.md`, `1446-bucuk.md`, `1447-konak.md` — defter yaprağı, `1448-sofyadan-kosovaya.md`, `1449-anne.md` — kısa bölüm, `1450-dugun.md` — tam bölüm); 1451 taslağı: `hikaye/yillar/1451-vasiyet-ve-taht.md`; sırada 1448–1450 kalıp uzunlukları ve redaksiyon |
-| Kaynak dosyalarındaki 🎭 hikâye notları | ✅ nihai kurguya göre güncellendi (2026-10-15): Berkay 1451–81, II. Orhan 1481–1512, Selim 1512–20 |
-| Çatal noktaları (gerçek tarih → kurgu, yıl yıl) | ✅ ilk sürüm (`hikaye/01-catal-noktalari.md`) |
-| Kurgusal hanedan ve çevre dosyaları (Berkay soyu, Mehmed soyu, çevre kişiler) | ✅ derlendi (`karakter/`) |
-| Karakter dosyasının tarihî tashihi | ✅ ilk sürüm (`karakter/tashih-notlari.md`); 15 Ekim 2026 devir notu işlendi (§I dökümü) |
-| Devir notu (yazar, 15 Ekim 2026) | ✅ işlendi: lâkap **Şâh-küş Şehzâde**; kurgu kişi yok (Tursun Bey / Has Yunus Bey / Hamza Bey / Vlad Țepeş); Hüma Sultan ✖, Gevherhan ✔; Orhan Manisa 1468–80; Meryem † 12 Şub 1499; kalıp sütunu; `hikaye/03-el-yazmasi-sirasi.md` |
+| Yıl planı | 77 satır; önceden boş 41 kalıp ⚙ kâtip önerisi olarak seçildi. Öneri dosyası: `hikaye/notlar/kalip-secimi-1444-1520.md`. Yazar onayı değildir. |
+| Sahne metinleri | 1444–1451: 8 yıl, 12.323 sahne kelimesi. 1447–1451 onaysız taslak; 69 yılın sahnesi yok. Yeni yıl yazımı duruyor. |
+| Kalıp açıkları | 1448 kısa: 430/900; 1449 kısa: 411/900; 1450 tam: 616/2000. Alt sınırlar sağlanmadı; kalıp düşürülmedi, dolgu olay eklenmedi. |
+| Kaynak arşivi | 39 Markdown dosyası; tamamında Kapsam/Güvenilirlik/Son güncelleme anahtarları var. Künye, iddiaların doğrulandığı anlamına gelmez. Kalan kurgu karışımları için ayırma işi açık. |
+| Kayıpsız ayırma | 11 eski nüsha, commit ve SHA-256 ile korunur. Eski nüshalar ve alıntı dökümleri güncel sahne kaynağı değildir. |
+| Kimlik ve tarih denetimi | Yörgüç, Hamza, Has Yunus, Ali ve Gevherhan için doğrudan modern dayanaklar kaydedildi; bütün görev/kimlik zincirleri doğrulanmış değil. `denetim/2026-10-15-dogrudan-kaynak-kontrolu.md`. |
+| Yazar defteri | SHA-256 koruması eşleşiyor; Zeyl/§XX dahil değiştirilmedi. Koruma kaydı, bütün tarihî iddiaların doğruluğunun belgesi değildir. |
+| Ana hat / çatal / kişi dosyaları | Mevcut çalışma derlemeleri; ✔ yalnız açık yazar kararı, ⚙ yalnız kâtip önerisi/kurgu. Tarihî biyografiyle eşitlenmez. |
+| Teknik denetim | Etkin dosya atıfları, künye, 77 kalıp, kayıt nüshasına yanlış sahne atfı, sınırlı hafta günü ve eski görev ifadeleri taranır. Test başarısı tarihî doğruluk onayı değildir. |
+| Telif | `LICENSE`: © 2026 rumora19-cloud — tüm hakları saklıdır. |
 
-> Not: Bu repo bir **kurgu** projesidir. `kaynaklar/` altındaki her şey tarihî kayıtlara dayanır ve atıflıdır; `karakter/` ve `hikaye/` altındakiler kurgudur. İkisi hiçbir zaman karıştırılmaz.
-
-> **15 Ekim 2026 kalite notu:** 1448–1450 dosyaları sahne taslağıdır; kısa/tam bölüm kelime alt sınırları henüz sağlanmadı. 1451 kısa bölüm taslağı eklendi. Yeni yıllara geçmeden önce bu grubun redaksiyonu tamamlanacak.
+> **Açık çalışma sırası:** Önce 1447–1451 taslaklarının yazarla yıl sırasına göre ele alınması, 1448–1450'nin dayanaklı redaksiyonu ve kalan kaynak/kimlik incelemeleri. Hiçbir yıl sırf sayıyı doldurmak için genişletilmez; önceki yıl onaylanmadan yenisine geçilmez.

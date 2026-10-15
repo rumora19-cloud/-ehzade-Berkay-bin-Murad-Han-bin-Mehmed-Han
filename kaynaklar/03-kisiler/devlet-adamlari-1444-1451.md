@@ -54,7 +54,7 @@
 | **Dayı Karaca Bey** | Rumeli beylerbeyi (1449–1456) | Varna'da Murad'ın çekilmesini önledi; **1456 Belgrad'da öldü** `[K]`; Bursa Hisar'da türbe |
 | **Kasım Paşa** | Rumeli beylerbeyi (1443) | İzladi'de uç beylerince yalnız bırakıldı |
 | **Turahan Bey** (ö. 1456) | Tesalya (Tırhala–Yenişehir) uç beyi | Mora akınları; İzladi ihmalinden Tokat'a hapis (1444), Varna sonrası affedildi `[K]`; oğlu **Ömer Bey** Atina'yı aldı (1456/58) |
-| **Evrenosoğlu Ali Bey** | Evrenosoğlu ailesinden uç beyi | Önceki derleme 1444 Arnavutluk ve 1462 Eflak seferleriyle ilişkilendirir. Kesin ölüm yılı gösterilmedi. Dukas’ın Küçük Ahmed anlatısındaki Ali Bey ile özdeşlik ve idam kaydı çözümlenmeden birlikte kullanılmaz. `[?]` Bk. `../../denetim/uc-kisi-kaynak-incelemesi.md`. |
+| **Evrenosoğlu Ali Bey** | Evrenosoğlu ailesinden uç beyi | DİA Başar, “Evrenosoğulları”, Ali ve Îsâ beyler paragrafı (https://islamansiklopedisi.org.tr/evrenosogullari; erişim 15 Ekim 2026): 1444 Arnavutluk ve 1462 Eflak seferleri, sonraki ölüm ve Yenice-i Vardar türbesi için modern dayanak `[M]`. Kesin ölüm yılı gösterilmedi. Dukas’ın Küçük Ahmed anlatısındaki Ali Bey ile özdeşlik ve idam kaydı çözümlenmeden birlikte kullanılmaz. `[?]` Bk. `../../denetim/uc-kisi-kaynak-incelemesi.md`. |
 | **Evrenosoğlu Îsâ Bey** | Arnavut-ili | Ali Bey'in kardeşi; İskender Bey'e karşı; **Varna'da sağ kolda** `[K]` (*Gazavât*) |
 | **İshakoğlu Îsâ Bey** (ö. 1470'ler) | Üsküp uç beyi | Bosna–Sırbistan akınları; Üsküp ve Saraybosna'da (Bosnasaray'ın kurucusu sayılır) hayratı |
 | **Mihaloğlu Ali Bey** (ö. 1507) | Niğbolu/Vidin uç beyi | 1460'lardan itibaren Eflak–Macar akınları; 1444–51'de henüz genç; "Gazi Ali Bey" |

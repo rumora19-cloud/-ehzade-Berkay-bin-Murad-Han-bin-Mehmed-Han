@@ -49,7 +49,16 @@ def scene_count(text: str) -> int:
 
 
 def stale_arc(text: str) -> list[str]:
-    return [phrase for phrase in STALE if phrase in text]
+    normalized = text.replace('’', "'")
+    found = [phrase for phrase in STALE if phrase in normalized]
+    for sentence in re.split(r'(?<=[.!?])\s+|\n', normalized):
+        if re.search(r'değil|yapılmaz|verilmez|olamaz|redded|yasak|geçersiz|yanlış', sentence, re.I):
+            continue
+        pattern = r"Kurtçu(?: Doğan)?[^.!?\n]{0,100}akıncı(?:ların kumandanı| beyi| kumandanı)[^.!?\n]{0,40}(?:oldu|atan|tayin|yapıl|yaptı)"
+        match = re.search(pattern, sentence, re.I)
+        if match and match[0] not in found:
+            found.append(match[0])
+    return found
 
 
 def migration_payload(archive: str) -> bytes:
@@ -106,6 +115,166 @@ def migration_findings(root: Path) -> list[tuple[str, str, str]]:
     return findings
 
 
+# Bu dizinler provenans kaydıdır; güncel sahne/kurgu kaynağı sayılmaz.
+RECORD_DIRS = ('hikaye/notlar/kaynaktan-ayrilan/',
+               'hikaye/notlar/kronoloji-hanedan-uygulamalari/')
+
+
+def is_record_path(relative: str) -> bool:
+    return any(relative.startswith(folder) for folder in RECORD_DIRS)
+
+
+def active_markdown(root: Path) -> list[Path]:
+    """Güncel metinler; eski denetim raporları ve aktarılan alıntılar hariç."""
+    files = [root / name for name in ('README.md', 'KILAVUZ.md') if (root / name).is_file()]
+    for folder in ('hikaye', 'karakter', 'kaynaklar'):
+        files.extend(p for p in (root / folder).rglob('*.md')
+                     if not is_record_path(p.relative_to(root).as_posix()))
+    return sorted(files)
+
+
+def prose_lines(text: str):
+    """Çitli örnek kodlardaki sahte dosya/tarihleri denetim dışı tutar."""
+    fence = None
+    for number, line in enumerate(text.splitlines(), 1):
+        match = re.match(r'^\s*(`{3,}|~{3,})', line)
+        if match:
+            token = match[1]
+            if fence is None:
+                fence = token
+            elif token[0] == fence[0] and len(token) >= len(fence):
+                fence = None
+            continue
+        if fence is None:
+            yield number, line
+
+
+def resolve_reference(root: Path, source: Path, name: str) -> tuple[Path | None, str]:
+    """Göreli/depo kökü/tekil kısa ad; belirsiz kısa adı rastgele seçmez."""
+    from urllib.parse import unquote
+    name = unquote(name.split('#', 1)[0])
+    if '*' in name or 'YYYY' in name:
+        return None, 'şablon atıf'
+    if '…' in name or '...' in name:
+        return None, 'kısaltılmış atıf'
+    paths = ((source.parent / name, root / name) if '/' not in name else
+             (source.parent / name, root / name, root / 'kaynaklar' / name,
+              root / 'hikaye' / name, root / 'karakter' / name))
+    for path in paths:
+        resolved = path.resolve()
+        if resolved.is_relative_to(root.resolve()) and resolved.is_file():
+            return resolved, ''
+    if '/' not in name:
+        matches = [p for p in active_markdown(root) if p.name == name]
+        if len(matches) == 1:
+            return matches[0].resolve(), ''
+        if len(matches) > 1:
+            return None, 'birden fazla kısa ad eşleşmesi'
+    return None, 'dosya bulunamadı'
+
+
+def reference_findings(root: Path) -> list[tuple[str, str, str]]:
+    findings = []
+    for path in active_markdown(root):
+        relative = path.relative_to(root).as_posix()
+        for number, line in prose_lines(path.read_text(encoding='utf-8')):
+            refs = [(m[1], m[2]) for m in re.finditer(
+                r'`([^`\n]+\.md(?:#[^`\s]+)?)`(?:\s*§(\d+))?', line)]
+            refs += [(m[1], None) for m in re.finditer(
+                r'\]\(([^)\s]+\.md(?:#[^)\s]+)?)\)', line)]
+            for name, section in dict.fromkeys(refs):
+                if re.match(r'^[a-zA-Z]+://', name):
+                    continue
+                target, reason = resolve_reference(root, path, name)
+                location = f'{relative}:{number}'
+                if reason == 'şablon atıf':
+                    continue  # açık dosya-adı şablonu; gerçek bir hedef vaadi değil
+                if target is None:
+                    level = 'ENGEL' if reason == 'dosya bulunamadı' else 'İNCELE'
+                    findings.append((level, location, f'Atıf {reason}: {name}'))
+                elif relative.startswith('hikaye/yillar/') and is_record_path(
+                        target.relative_to(root.resolve()).as_posix()):
+                    findings.append(('ENGEL', location, f'Salt kayıt nüshası sahne dayanağı olamaz: {name}'))
+                elif section and not re.search(rf'^#{{2,3}} {section}\.\s',
+                                               target.read_text(encoding='utf-8'), re.M):
+                    findings.append(('İNCELE', location, f'Bölüm atfı bulunamadı: {name} §{section}'))
+    return findings
+
+
+def source_metadata_missing(text: str) -> list[str]:
+    preamble = re.split(r'^## ', text, maxsplit=1, flags=re.M)[0]
+    return [field for field in ('Kapsam', 'Güvenilirlik', 'Son güncelleme')
+            if not re.search(rf'^> .*\*\*{field}:\*\*\s*\S', preamble, re.M)]
+
+
+def plan_templates(text: str) -> dict[int, str]:
+    return {int(m[1]): line.split('|')[-2].strip()
+            for line in text.splitlines()
+            if (m := re.match(r'^\| \*\*(\d{4})\*\* \|', line))}
+
+
+def provisional_templates(text: str) -> list[int]:
+    return [int(m[1]) for line in text.splitlines()
+            if (m := re.match(r'^\| \*\*(\d{4})\*\* \|', line)) and '⚙ kalıp önerisi' in line]
+
+
+def project_metrics(root: Path) -> dict:
+    text = (root / 'hikaye/02-bolum-plani.md').read_text(encoding='utf-8')
+    plan = plan_templates(text)
+    files = sorted((root / 'hikaye/yillar').glob('[0-9][0-9][0-9][0-9]-*.md'))
+    counts, errors = {}, {}
+    for path in files:
+        try:
+            counts[int(path.name[:4])] = scene_count(path.read_text(encoding='utf-8'))
+        except ValueError as exc:
+            errors[path.relative_to(root).as_posix()] = str(exc)
+    return {'planned_years': len(plan), 'written_years': len(files),
+            'scene_words': sum(counts.values()), 'scene_counts': counts,
+            'scene_errors': errors,
+            'missing_templates': [y for y, t in plan.items() if t not in LIMITS],
+            'provisional_templates': provisional_templates(text)}
+
+
+MONTHS = {'Ocak': 1, 'Şubat': 2, 'Mart': 3, 'Nisan': 4, 'Mayıs': 5, 'Haziran': 6,
+          'Temmuz': 7, 'Ağustos': 8, 'Eylül': 9, 'Ekim': 10, 'Kasım': 11, 'Aralık': 12}
+WEEKDAYS = ('Pazartesi', 'Salı', 'Çarşamba', 'Perşembe', 'Cuma', 'Cumartesi', 'Pazar')
+
+
+def weekday_findings(relative: str, text: str) -> list[tuple[str, str, str]]:
+    """Yalnız açık 'gün tam-ay yıl (isteğe bağlı hicrî) hafta-günü' biçimi.
+
+    Tarih aralığı/gece yarısı yorumu ve hicrî hilal gözlemi yapmaz; tanımadığı
+    biçimlerin doğruluğu hakkında sonuç üretmez. Takvim Jülyendir.
+    """
+    pattern = re.compile(
+        r'(?<![\d–/\-])(\d{1,2}) (' + '|'.join(MONTHS) + r') (1[45]\d{2})'
+        r'(?:\s*\([^\n)]*\))?[, \t]+(' + '|'.join(WEEKDAYS) + r')\b')
+    findings = []
+    for number, line in prose_lines(text):
+        for match in pattern.finditer(line.replace('**', '')):
+            day, month, year, weekday = match.groups()
+            y, m, d = int(year), MONTHS[month], int(day)
+            max_day = (31, 29 if y % 4 == 0 else 28, 31, 30, 31, 30,
+                       31, 31, 30, 31, 30, 31)[m - 1]
+            if not 1 <= d <= max_day:
+                findings.append(('ENGEL', f'{relative}:{number}', 'Geçersiz Jülyen tarih: ' + match[0]))
+            elif WEEKDAYS[julian_weekday(y, m, d)] != weekday:
+                findings.append(('İNCELE', f'{relative}:{number}',
+                                 f'Jülyen hafta günü uyuşmuyor: {match[0]}'))
+    return findings
+
+
+def completed_age(birth: tuple[int, int, int], event: tuple[int, int, int]) -> int:
+    """Aynı takvimde verilen kesin doğum/olay tarihinde tamamlanmış yaş.
+
+    Metinden doğum günü veya kamerî/şemsî türü tahmin etmez; girilen tarihin
+    tarihî doğruluğunu sınamaz. Ay/gün bilinmiyorsa kullanılmaz.
+    """
+    if event < birth:
+        raise ValueError('Olay doğumdan önce')
+    return event[0] - birth[0] - (event[1:] < birth[1:])
+
+
 def audit(root: Path = ROOT) -> list[tuple[str, str, str]]:
     findings: list[tuple[str, str, str]] = migration_findings(root) + author_findings(root)
     plan = (root / 'hikaye/02-bolum-plani.md').read_text(encoding='utf-8')
@@ -128,37 +297,34 @@ def audit(root: Path = ROOT) -> list[tuple[str, str, str]]:
                                  f'{template}: {n} sahne kelimesi; gerekli {low}–{high}.'))
         else:
             findings.append(('İNCELE', relative, 'Kalıp seçilmemiş veya tanınmıyor.'))
-        # Tam yol verilen atıflar kontrol edilir; kısaltılmış adlar ayrıca elle incelenir.
-        for line in text.splitlines():
-            if not line.startswith('> **Kaynak:**'):
-                continue
-            for m in re.finditer(r'`([^`]+\.md)`(?:\s*§(\d+))?', line):
-                name, section = m.groups()
-                if '/' not in name or '…' in name:
-                    continue
-                candidates = [root / name, path.parent / name]
-                target = next((q for q in candidates if q.is_file()), None)
-                if target is None:
-                    findings.append(('ENGEL', relative, f'Atıf dosyası yok: {name}'))
-                elif section and not re.search(
-                        rf'^#{{2,3}} {section}\.\s',
-                        target.read_text(encoding='utf-8'), re.M):
-                    findings.append(('İNCELE', relative,
-                                     f'Bölüm atfı bulunamadı: {name} §{section}'))
-    for folder in ('hikaye', 'karakter', 'kaynaklar'):
-        for path in sorted((root / folder).rglob('*.md')):
-            text = path.read_text(encoding='utf-8')
-            for phrase in stale_arc(text):
-                findings.append(('ENGEL', path.relative_to(root).as_posix(),
-                                 f'Eski Kurtçu Doğan seyri: {phrase}'))
+    findings.extend(reference_findings(root))
+    templates = plan_templates(plan)
+    missing = [str(y) for y, template in templates.items() if template not in LIMITS]
+    if missing:
+        findings.append(('İNCELE', 'hikaye/02-bolum-plani.md',
+                         f'{len(missing)}/{len(templates)} yılın kalıbı seçilmemiş: ' + ', '.join(missing)))
+    proposed = provisional_templates(plan)
+    if proposed:
+        findings.append(('İNCELE', 'hikaye/02-bolum-plani.md',
+                         f'{len(proposed)} kalıp kâtip önerisi; yazar onayı bekliyor.'))
+    for path in active_markdown(root):
+        relative = path.relative_to(root).as_posix()
+        text = path.read_text(encoding='utf-8')
+        findings.extend(weekday_findings(relative, text))
+        if relative.startswith('kaynaklar/'):
+            missing_fields = source_metadata_missing(text)
+            if missing_fields:
+                findings.append(('İNCELE', relative, 'Künye eksik: ' + ', '.join(missing_fields)))
+        for phrase in stale_arc(text):
+            findings.append(('ENGEL', relative, f'Eski Kurtçu Doğan seyri: {phrase}'))
     # Bir kanıt değil, aday tespitidir: aktarılacak kurgu parçalarını insan inceleyecek.
     for path in sorted((root / 'kaynaklar').rglob('*.md')):
         text = path.read_text(encoding='utf-8')
         matches = [(i, line) for i, line in enumerate(text.splitlines(), 1)
-                   if source_fiction_marker(line)]
+                   if re.search(r'Berkay|Meryem', line) and source_fiction_marker(line)]
         if matches:
             findings.append(('İNCELE', path.relative_to(root).as_posix(),
-                             f'Kaynak/kurgu ayrımı adayı: {len(matches)} satır; '
+                             f'Kurgu adı içeren ayırma adayı: {len(matches)} satır; '
                              'eşleşme tek başına tarihî hata kanıtı değildir.'))
     return findings
 
@@ -166,7 +332,10 @@ def audit(root: Path = ROOT) -> list[tuple[str, str, str]]:
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--strict', action='store_true')
+    parser.add_argument('--summary', action='store_true', help='77 yıllık plan ve sahne sayılarını da gösterir')
     args = parser.parse_args()
+    if args.summary:
+        print(json.dumps(project_metrics(ROOT), ensure_ascii=False, indent=2))
     findings = audit()
     for level, path, message in findings:
         print(f'[{level}] {path}: {message}')

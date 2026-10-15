@@ -1,5 +1,7 @@
 # Kaynak Haritası (INDEX)
 
+> **Kapsam:** Kaynak Haritası (INDEX) · **Güvenilirlik:** derleme; iddia düzeyinde atıf denetimi sürüyor · **Son güncelleme:** 2026-10-15
+
 > **Ayırma ilerlemesi — 11 dosya:** İlk iki kişi derlemesi, İtalya ve takvime beş kronoloji ve iki hanedan dosyası eklendi. Kayıpsızlık ve açık doğrulamalar: `../denetim/2026-10-15-kaynak-ayirma-2.md`; ilk grup raporu korunuyor. Diğer dosyalar için aşağıdaki arşiv uyarısı geçerlidir.
 
 > **Arşiv güvenilirliği uyarısı (15 Ekim 2026 denetimi):** Bu dizinde tarihî bilgilerle kurgu kancaları henüz tam ayrılmamıştır. Özellikle kişi tablolarındaki alternatif ölüm/görev kayıtları gerçek biyografi diye kullanılamaz. `KILAVUZ.md` §7'ye uygun ayırma işi açıktır; önceki “temizlendi” ifadesi arşivin tarihî doğrulamasının tamamlandığı anlamına gelmez. Bulgular: `../denetim/2026-10-15-proje-denetimi.md`.

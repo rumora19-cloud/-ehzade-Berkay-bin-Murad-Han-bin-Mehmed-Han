@@ -1,5 +1,7 @@
 # Kıyafet, yemek, sofra, meclis, av ve eğlence (1444–1520)
 
+> **Kapsam:** Kıyafet, yemek, sofra, meclis, av ve eğlence (1444–1520) · **Güvenilirlik:** derleme; iddia düzeyinde atıf denetimi sürüyor
+
 > Sahne yazarken "ne giyiyor, ne yiyor, ne içiyor, ne dinliyor, nasıl eğleniyor?" sorularının deposu.
 > **Kaynaklar:** Fatih Kanunnâmesi (teşrifat); **Fatih'in matbah defterleri (1469–73; Barkan neşri: saray mutfağı günlük alımları)**; Bursa sicilleri (tereke = miras listeleri: giysi ve eşya adları); Mehmed b. Mahmud Şirvânî, *Kitâbü't-Tabîh* (15. yy Türkçe yemek kitabı; Muhammed b. Hasan el-Bağdâdî'nin tercümesi + 77 Osmanlı tarifi; nşr. Argunşah–Çakır 2005); Gelibolulu Mustafa Âlî, *Mevâidü'n-Nefâis* (1587 — geç ama âdet anlatır); 1457, 1480 sünnet düğünleri anlatıları (Oruç, Neşrî, İbn Kemal); Bellini, Costanzo da Ferrara ve Topkapı albümlerindeki (Fatih albümü, H. 2153) resimler; Bertrandon de la Broquière; Menavino; Spandounes; Tezcan, *Osmanlı Sarayının Çocukları*; N. Atasoy, *Derviş Çeyizi*; S. Faroqhi, *Osmanlı Kültürü ve Gündelik Yaşam*; P. M. Işın, *Osmanlı Mutfak Sözlüğü* ve *Bountiful Empire*; H. Tezcan, *Atlaslar Atlası* (kumaş); Çetin, *Avcılık*; Yücel, *Osmanlı Okçuluğu*. **Son güncelleme:** 2026-10-14
 

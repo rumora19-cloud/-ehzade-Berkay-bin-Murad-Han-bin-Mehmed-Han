@@ -1,5 +1,7 @@
 # Günlük Hayat
 
+> **Kapsam:** Günlük Hayat · **Güvenilirlik:** derleme; iddia düzeyinde atıf denetimi sürüyor · **Son güncelleme:** 2026-10-15
+
 | Dosya | İçerik |
 |---|---|
 | `takvim-ve-zaman.md` | Hicrî aylar ve kandiller; ezanî saat; Hızır–Kasım mevsim takvimi; **848–927 (1444–1521) dönüşüm tablosu** (1 Muharrem, Ramazan, bayramlar, 27 Receb — eski hesaplar; hilâl ve olay tarihleri ayrıca doğrulanacak) |

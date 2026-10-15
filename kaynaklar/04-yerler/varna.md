@@ -1,5 +1,7 @@
 # Varna — şehir, göl, yayla ve 10 Kasım 1444 savaş alanı
 
+> **Kapsam:** Varna — şehir, göl, yayla ve 10 Kasım 1444 savaş alanı · **Güvenilirlik:** derleme; iddia düzeyinde atıf denetimi sürüyor
+
 > **Neden bu dosya:** Hikâyenin başladığı yer. Defter 11 Kasım 1444'te Varna ordugâhında yazılır; 1444 yılı dosyası (`hikaye/yillar/1444-saf-beni-gecti.md`) savaş gününü anlatır. Savaşın **akışı ve saf düzeni** `01-kronoloji/01-ii-murad-ikinci-saltanat-1444-1451.md` §3'tedir; burada **mekân** verilir: şehir, göl, yayla, yollar, hava, ordugâh ve ertesi gün.
 > **Kaynaklar:** İnalcık, "Murad II" (DİA); *Gazavât-ı Sultân Murâd* (nşr. İnalcık–Oğuz, TTK 1978); C. Imber, *The Crusade of Varna 1443–45* (2006 — Callimachus, Andreas de Palatio, Beheim, Dukas, Chalkokondyles çevirileri); J. Jefferson, *The Holy Wars of King Wladislas and Sultan Murad* (2012); M. Kiel, "Varna" (DİA); Jireček, *Das Fürstenthum Bulgarien* (topografya); Varna "Vladislav Varnençik" Park-Müzesi yayınları. **Son güncelleme:** 2026-10-15
 > **Etiketler:** `[K]` kesin · `[M]` muhtemel · `[T]` tartışmalı · `[R]` rivayet · 🎭 hikâye kancası.

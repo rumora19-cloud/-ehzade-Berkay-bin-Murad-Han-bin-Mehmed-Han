@@ -1,5 +1,7 @@
 # Trabzon — Komnenos payitahtından Osmanlı sancağına
 
+> **Kapsam:** Trabzon — Komnenos payitahtından Osmanlı sancağına · **Güvenilirlik:** derleme; iddia düzeyinde atıf denetimi sürüyor
+
 > **Hikâyede Trabzon:** 15 Ağustos 1461'de Fâtih'in şehri alması; ardından **Alâeddin Ali'nin sancağı** (1471–81 ⚙, yazar kararı 15 Ekim 2026 öncesi). Berkay'ın küçük oğlunun evi; hikâyede **Karadeniz'in ucundaki şehzâde**.
 > **Kaynaklar:** "Trabzon", DİA (F. Emecen); "Trabzon İmparatorluğu", DİA (A. Bryer çalışmaları); W. Miller, *Trebizond: The Last Greek Empire*; A. Bryer – D. Winfield, *The Byzantine Monuments and Topography of the Pontos*; Kritovulos; Tursun Bey; Âşıkpaşazâde; Neşrî. **Son güncelleme:** 2026-10-15
 

@@ -1,5 +1,7 @@
 # Âşıkpaşazâde — *Tevârîh-i Âl-i Osmân*
 
+> **Güvenilirlik:** derleme; iddia düzeyinde atıf denetimi sürüyor
+
 > **Tür:** Osmanlı Türkçesi kronik (gazi-derviş geleneği) · **Müellif:** Derviş Ahmed Âşıkî, "Âşıkpaşazâde" · **Yazılış:** 1484–1502 · **Kapsam:** kuruluş – 1484 (bazı nüshalar 1502)
 > **Bu dosya:** katalogdaki **A2** maddesinin derinleştirilmesi (`00-katalog.md` §A2). Sayfa atıfları neşre göre değiştiği için burada **olay → bölüm** eşlemesi tutulur.
 > **Son güncelleme:** 2026-10-15
@@ -42,7 +44,7 @@
 | Yıl | Anlattığı | Bizim kullanımımız |
 |---|---|---|
 | 1443–44 | İzladi, Segedin barışı, **Varna** | `yillar/1444-…`; yıl ikinci ses (defter) ile karşılaştırma |
-| **1446** | **Buçuktepe vak'ası** (yeniçeri ayaklanması, ulûfeye zam, Murad'ın dönüşü) | `kaynaklar/01-kronoloji/01-…1444-1451.md` §4; `04-yerler/edirne.md` §4 |
+| **1446** | **Buçuktepe vak'ası** (yeniçeri ayaklanması, ulûfeye zam, Murad'ın dönüşü) | `kaynaklar/01-kronoloji/01-ii-murad-ikinci-saltanat-1444-1451.md` §4; `04-yerler/edirne.md` §4 |
 | 1448 | II. Kosova | Berkay'ın ilk kol komutası (`01-catal-noktalari.md`) |
 | **1451** | Murad'ın ölümü, Mehmed'in gelişi | **Küçük Ahmed'in öldürülmesini anlatmaz** — o sahne için Dukas (bk. `dukas.md`) |
 | **1453** | Kuşatma ve fethin **ordu içi** görünüşü; gaziler, akıncılar, ganimet | "Yirmi beş gün" notu: `hikaye/notlar/1453-yirmi-bes-gun.md` |

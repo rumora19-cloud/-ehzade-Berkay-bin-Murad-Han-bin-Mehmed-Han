@@ -1,5 +1,7 @@
 # Para ve fiyatlar (1444–1520)
 
+> **Kapsam:** Para ve fiyatlar (1444–1520) · **Güvenilirlik:** derleme; iddia düzeyinde atıf denetimi sürüyor
+
 > "Bir akçe ne alır?" — diyalog ve sahne için ölçek. Rakamlar **Bursa kadı sicilleri (1455–)**, İstanbul narh kayıtları, vakfiyeler, mevâcib defterleri ve İnalcık–Pamuk çalışmalarından. Fiyatlar şehre ve yıla göre oynar; `[M]` olarak okuyun.
 > **Kaynaklar:** Ş. Pamuk, *Osmanlı İmparatorluğu'nda Paranın Tarihi* (2000) ve *İstanbul ve Diğer Kentlerde 500 Yıllık Fiyatlar ve Ücretler*; İnalcık, "Bursa XV. Asır…" (Belleten 1960), *Devlet-i Aliyye* I; Barkan, "XV. Asrın Sonunda Bazı Büyük Şehirlerde Eşya ve Yiyecek Fiyatları" (1942; **1502 narh defteri**); Ö. L. Barkan, *İstanbul Vakıfları Tahrir Defteri 1546*; Fatih'in vakfiyeleri; Promontorio; Sahillioğlu, "Osmanlı Para Tarihinde Dünya Para ve Maden Hareketlerinin Yeri". **Son güncelleme:** 2026-10-14
 

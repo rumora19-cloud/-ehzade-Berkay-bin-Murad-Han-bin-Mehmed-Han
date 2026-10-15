@@ -1,5 +1,7 @@
 # Dil, hitap, yazı ve inanç çevreleri (1444–1520)
 
+> **Kapsam:** Dil, hitap, yazı ve inanç çevreleri (1444–1520) · **Güvenilirlik:** derleme; iddia düzeyinde atıf denetimi sürüyor
+
 > Diyalog ve iç ses için: 15. yy Türkçesi nasıl tınlar, kim hangi dili konuşur, yazı nasıl yazılır; Berkay'ın etrafındaki tarikatlar ve "heterodoks" akımlar.
 > **Kaynaklar:** Âşıkpaşazâde, Oruç, Anonim (15. yy konuşma Türkçesinin en yakın örnekleri); *Dede Korkut* (Dresden nüshası, 15. yy); Yazıcıoğlu; Bedr-i Dilşâd *Muradnâme*; Fatih'in Türkçe mektupları ve fermanları (Lugal–Erzi, *Fatih Devrine Ait Münşeât Mecmuası*); *Tarama Sözlüğü* (TDK, 13–19. yy Türkçe); Timurtaş, *Eski Türkiye Türkçesi*; Ocak, *Osmanlı İmparatorluğu'nda Marjinal Sûfîlik: Kalenderîler*, *Zındıklar ve Mülhidler*, *Babaîler İsyanı*; Köprülü, *Türk Edebiyatında İlk Mutasavvıflar*; Kara, *Bursa'da Tarikatlar ve Tekkeler*; Öngören, *Osmanlılar'da Tasavvuf: 16. yy*; Yıldırım, *Hacı Bektaş Veli'den Balım Sultan'a*; İnalcık, "Dervish and Sultan" (Otman Baba); Babinger (Hurûfîler). **Son güncelleme:** 2026-10-14
 
