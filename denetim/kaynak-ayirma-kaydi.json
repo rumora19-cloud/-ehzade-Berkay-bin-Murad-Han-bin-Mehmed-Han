@@ -22,5 +22,61 @@
     "archive": "hikaye/notlar/kaynaktan-ayrilan/takvim-ve-zaman.md",
     "source_commit": "312d904e36ee6c982248ae3aa6d691a602bd7151",
     "sha256": "5c2d1769ed98a6b7fb6a3cf3f5e056bc1b9ba7ea464d233f107d4fecd9a25e5f"
+  },
+  {
+    "source": "kaynaklar/01-kronoloji/00-genel-zaman-cizelgesi-1444-1520.md",
+    "archive": "hikaye/notlar/kaynaktan-ayrilan/00-genel-zaman-cizelgesi-1444-1520.md",
+    "application_notes": "hikaye/notlar/kronoloji-hanedan-uygulamalari/00-genel-zaman-cizelgesi-1444-1520.md",
+    "source_commit": "22c2ef0c855ef09d98d8219709b367586182adec",
+    "sha256": "d121acba7891f35fdeb77d49f55e0ebf476d9736ad51d7e72df2b102c45e764f",
+    "batch": 2
+  },
+  {
+    "source": "kaynaklar/01-kronoloji/01-ii-murad-ikinci-saltanat-1444-1451.md",
+    "archive": "hikaye/notlar/kaynaktan-ayrilan/01-ii-murad-ikinci-saltanat-1444-1451.md",
+    "application_notes": "hikaye/notlar/kronoloji-hanedan-uygulamalari/01-ii-murad-ikinci-saltanat-1444-1451.md",
+    "source_commit": "22c2ef0c855ef09d98d8219709b367586182adec",
+    "sha256": "33d462167a434078b8ca95bd93eb3a65b738382785682d6753c93e828fc28075",
+    "batch": 2
+  },
+  {
+    "source": "kaynaklar/01-kronoloji/02-fatih-donemi-1451-1481.md",
+    "archive": "hikaye/notlar/kaynaktan-ayrilan/02-fatih-donemi-1451-1481.md",
+    "application_notes": "hikaye/notlar/kronoloji-hanedan-uygulamalari/02-fatih-donemi-1451-1481.md",
+    "source_commit": "22c2ef0c855ef09d98d8219709b367586182adec",
+    "sha256": "f073bc39e39032b81c10f005b987e13b9a6089e7c03309939a57a61abcc6b346",
+    "batch": 2
+  },
+  {
+    "source": "kaynaklar/01-kronoloji/03-ii-bayezid-donemi-1481-1512.md",
+    "archive": "hikaye/notlar/kaynaktan-ayrilan/03-ii-bayezid-donemi-1481-1512.md",
+    "application_notes": "hikaye/notlar/kronoloji-hanedan-uygulamalari/03-ii-bayezid-donemi-1481-1512.md",
+    "source_commit": "22c2ef0c855ef09d98d8219709b367586182adec",
+    "sha256": "217662420d2d5af6ee816f7af59ec6ba2fb666a5e1896dede92221759359b6d6",
+    "batch": 2
+  },
+  {
+    "source": "kaynaklar/01-kronoloji/04-yavuz-selim-donemi-1512-1520.md",
+    "archive": "hikaye/notlar/kaynaktan-ayrilan/04-yavuz-selim-donemi-1512-1520.md",
+    "application_notes": "hikaye/notlar/kronoloji-hanedan-uygulamalari/04-yavuz-selim-donemi-1512-1520.md",
+    "source_commit": "22c2ef0c855ef09d98d8219709b367586182adec",
+    "sha256": "8fcda446e7877e7e83203615ef2d31eb04ad15fc1e15bd28a5e07e162f6e3658",
+    "batch": 2
+  },
+  {
+    "source": "kaynaklar/03-kisiler/hanedan-ii-murad-ailesi.md",
+    "archive": "hikaye/notlar/kaynaktan-ayrilan/hanedan-ii-murad-ailesi.md",
+    "application_notes": "hikaye/notlar/kronoloji-hanedan-uygulamalari/hanedan-ii-murad-ailesi.md",
+    "source_commit": "22c2ef0c855ef09d98d8219709b367586182adec",
+    "sha256": "0531b2a490f051edcb208f5853aa096dbb98a73d59c85137b86e47849dcb2c2f",
+    "batch": 2
+  },
+  {
+    "source": "kaynaklar/03-kisiler/hanedan-1451-1520.md",
+    "archive": "hikaye/notlar/kaynaktan-ayrilan/hanedan-1451-1520.md",
+    "application_notes": "hikaye/notlar/kronoloji-hanedan-uygulamalari/hanedan-1451-1520.md",
+    "source_commit": "22c2ef0c855ef09d98d8219709b367586182adec",
+    "sha256": "ede60ca4b723b6eea23493af7492b903689dbdeeab5c2cc3f62ae849f1f332ba",
+    "batch": 2
   }
 ]

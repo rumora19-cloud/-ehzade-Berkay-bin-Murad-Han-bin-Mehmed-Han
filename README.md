@@ -1,6 +1,6 @@
 # Şehzâde Berkay bin Murad Han bin Mehmed Han
 
-> **Kaynak ayrımı — ilk grup:** İki kişi derlemesi, İtalya ve takvim dosyası işlendi. Aktarım ve açık doğrulamalar: `denetim/2026-10-15-kaynak-ayirma-1.md`. Eski notlar kayıpsız saklandı; yeni yıl yazılmadı.
+> **Kaynak ayrımı — iki grup / 11 dosya:** İlk dört derlemeye beş kronoloji ve iki hanedan tablosu eklendi. Kayıpsız aktarım ve açık işler: `denetim/2026-10-15-kaynak-ayirma-2.md` (ilk grup: `denetim/2026-10-15-kaynak-ayirma-1.md`). Yazar defteri ve yıl sahneleri değişmedi; arşivin tamamı henüz ayrılmış veya tarihî olarak doğrulanmış değildir.
 
 > **Denetim durumu:** Yeni yıl yazımı durduruldu. 1447–1451 dosyaları kâtip taslağıdır; dosyanın bulunması yazar onayı veya tamamlanma anlamına gelmez. Kurtçu Doğan'ın yanlış akıncı beyliği kaldırıldı. Açık sorunlar ve kontrol sonuçları: `denetim/2026-10-15-proje-denetimi.md`.
 
@@ -45,7 +45,7 @@ Kapsanan dönem: **11 Kasım 1444** (Varna Zaferi'nin ertesi günü) — **1520*
 | Kaynak kataloğu (birincil) | ✅ ilk sürüm |
 | Genel zaman çizelgesi 1444–1520 | ✅ ilk sürüm |
 | II. Murad ikinci saltanatı 1444–1451 (ayrıntılı) | ✅ ilk sürüm |
-| Fâtih dönemi 1451–1481 (ayrıntılı) | ✅ ilk sürüm (yıl yıl; §13 hikâye düğümleri) |
+| Fâtih dönemi 1451–1481 (ayrıntılı) | İlk sürüm; tarihî kayıtlar yerinde, eski §13 çalışma notlarına ayrıldı (`hikaye/notlar/kronoloji-hanedan-uygulamalari/`) |
 | II. Bayezid dönemi 1481–1512 (ayrıntılı) | ✅ ilk sürüm |
 | Yavuz dönemi 1512–1520 (ayrıntılı) | ✅ ilk sürüm |
 | Şehzadelik sistemi | ✅ ilk sürüm |

@@ -72,6 +72,17 @@ def author_findings(root: Path) -> list[tuple[str, str, str]]:
     return []
 
 
+def source_fiction_marker(text: str) -> bool:
+    """Kurgu adayı; yalnız açık dinî tasvir bağlamındaki tarihî Meryem istisna.
+
+    Bellini'nin resmiyle kurgu Meryem Hatun aynı kişi değildir. Başka Meryem
+    kullanımları inceleme dışında bırakılmaz; bu bir tarihî doğrulama değildir.
+    """
+    historical_context = "(Papa'nın mektubu, Bellini'nin Meryem resmi)"
+    masked = text.replace(historical_context, '(dinî tasvir bağlamı)')
+    return bool(re.search(r'Berkay|Meryem|⚙|🎭', masked))
+
+
 def migration_findings(root: Path) -> list[tuple[str, str, str]]:
     manifest = root / 'denetim/kaynak-ayirma-kaydi.json'
     if not manifest.is_file():
@@ -84,12 +95,14 @@ def migration_findings(root: Path) -> list[tuple[str, str, str]]:
                 raise ValueError('Saklanan nüsha SHA-256 ile uyuşmuyor')
         except (OSError, ValueError) as exc:
             findings.append(('ENGEL', row['archive'], str(exc)))
+        if row.get('application_notes') and not (root / row['application_notes']).is_file():
+            findings.append(('ENGEL', row['application_notes'], 'Ayrılan çalışma parçaları dosyası yok'))
         source = root / row['source']
         if not source.is_file():
             findings.append(('ENGEL', row['source'], 'Ayırma sonrası kaynak dosyası yok'))
-        elif re.search(r'Berkay|Meryem|⚙|🎭', source.read_text(encoding='utf-8')):
+        elif source_fiction_marker(source.read_text(encoding='utf-8')):
             findings.append(('ENGEL', row['source'],
-                             'Ayrılan ilk gruba kurgu adı/işareti geri dönmüş; elle inceleyin.'))
+                             'Ayrılmış kaynağa kurgu adı/işareti geri dönmüş; elle inceleyin.'))
     return findings
 
 
@@ -142,7 +155,7 @@ def audit(root: Path = ROOT) -> list[tuple[str, str, str]]:
     for path in sorted((root / 'kaynaklar').rglob('*.md')):
         text = path.read_text(encoding='utf-8')
         matches = [(i, line) for i, line in enumerate(text.splitlines(), 1)
-                   if re.search(r'Berkay|Meryem|⚙', line)]
+                   if source_fiction_marker(line)]
         if matches:
             findings.append(('İNCELE', path.relative_to(root).as_posix(),
                              f'Kaynak/kurgu ayrımı adayı: {len(matches)} satır; '

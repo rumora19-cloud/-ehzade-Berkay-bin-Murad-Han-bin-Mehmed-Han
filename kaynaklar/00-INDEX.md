@@ -1,10 +1,10 @@
 # Kaynak Haritası (INDEX)
 
-> **Ayırma ilerlemesi:** İlk iki kişi derlemesi, İtalya ve takvim dosyasında kurgu sütunları/uygulamaları ayrıldı. Kayıpsızlık ve açık doğrulamalar: `../denetim/2026-10-15-kaynak-ayirma-1.md`. Diğer dosyalar için aşağıdaki arşiv uyarısı geçerlidir.
+> **Ayırma ilerlemesi — 11 dosya:** İlk iki kişi derlemesi, İtalya ve takvime beş kronoloji ve iki hanedan dosyası eklendi. Kayıpsızlık ve açık doğrulamalar: `../denetim/2026-10-15-kaynak-ayirma-2.md`; ilk grup raporu korunuyor. Diğer dosyalar için aşağıdaki arşiv uyarısı geçerlidir.
 
 > **Arşiv güvenilirliği uyarısı (15 Ekim 2026 denetimi):** Bu dizinde tarihî bilgilerle kurgu kancaları henüz tam ayrılmamıştır. Özellikle kişi tablolarındaki alternatif ölüm/görev kayıtları gerçek biyografi diye kullanılamaz. `KILAVUZ.md` §7'ye uygun ayırma işi açıktır; önceki “temizlendi” ifadesi arşivin tarihî doğrulamasının tamamlandığı anlamına gelmez. Bulgular: `../denetim/2026-10-15-proje-denetimi.md`.
 
-> ⚠ **🎭 notları için tek ölçü:** kaynak dosyalarındaki hikâye kancaları `../hikaye/00-ana-hat.md`'ye göre yazılmıştır (Berkay padişah 1451–81, ö. 3 May 1481; II. Orhan 1481–1512; Selim 1512–20). Eski "ihtiyar amca" çerçevesinin kalıntıları 15 Ekim 2026'da temizlendi; bir kalıntı görülürse ana hat geçerlidir.
+> **Kalan çalışma notları için ölçü:** Henüz ayrılmamış kancalar güncel `../hikaye/00-ana-hat.md`, çatal kayıtları ve son yazar düzeltmeleriyle karşılaştırılmalıdır. “İhtiyar amca” gibi terk edilmiş varsayımların arşiv genelinde bütünüyle temizlendiği veya bütün eski kancaların onaylı olduğu ileri sürülmez.
 
 "Şu soruya cevap arıyorum → hangi dosyaya bakayım?" tablosu. Yeni dosya açıldıkça buraya satır eklenir.
 
@@ -29,7 +29,8 @@
 | Şehzade nasıl yetişir, sancağa nasıl çıkar, lala kimdir, kardeş katli | `05-kurumlar/sehzadelik-sistemi.md` |
 | Dönem terimleri (akçe, has, timar, kapıkulu, nişancı…) | `07-sozluk/sozluk.md` |
 | Bu yıl için hangi kaynağa bakayım? (kaynak × dönem matrisi; ilk bakılacaklar listesi) | `02-birincil-kaynaklar/01-kaynak-donem-matrisi.md` |
-| Fâtih'in, Bayezid'in, Selim'in eşleri ve çocukları (gerçek); hikâye kişileriyle yaş tablosu | `03-kisiler/hanedan-1451-1520.md` |
+| Fâtih'in, Bayezid'in, Selim'in eşleri ve çocukları (tarihî derleme) | `03-kisiler/hanedan-1451-1520.md` §1–3 |
+| Kaynaktan ayrılan kronoloji kancaları ve karışık kuşak/yaş tabloları (eski çalışma kayıtları; yeni karar değil) | `../hikaye/notlar/kronoloji-hanedan-uygulamalari/README.md` |
 | 1451–1520 vezirleri, ulemâ, şeyhler, sanatçılar, yabancı hükümdarlar (Mahmud Paşa, Gedik Ahmed, Ali Kuşçu, Vlad, Hunyadi, Mara Hatun…) | `03-kisiler/kisiler-1451-1520.md` |
 | Edirne'nin sarayları, mahalleleri, 1444'teki hâli | `04-yerler/edirne.md` |
 | Bursa (hanedan mezarlığı, Cem'in 18 günü), Manisa/Saruhan (sancak sarayı, kazalar), Amasya (şehzâde şehri, Halvetîler) | `04-yerler/bursa.md`, `04-yerler/manisa-saruhan.md`, `04-yerler/amasya.md` |
@@ -58,7 +59,7 @@ Yıl yıl olaylar. `00-genel` dosyası tüm dönemi kaba hatlarıyla verir; dön
 Dönemle çağdaş veya yakın metinler: Osmanlı kronikleri, gazavatnâmeler, selimnâmeler, takvimler, kanunnâmeler, vakfiyeler; Bizans tarihçileri; Batılı tanıklar, seyyahlar, elçi raporları; Memlük ve İran kaynakları. Her biri için: müellif, yazılış tarihi, kapsam, dil, neşirler, erişim, güvenilirlik, "hikâye için neye yarar".
 
 ### 03-kisiler
-Dosya başına bir grup (hanedan, vezirler, ulemâ, yabancı hükümdarlar). Her kişi: doğum-ölüm, görevler, karakter çizgileri (çağdaş tasvirler), Kurgu temasları kaynak biyografisinden ayrı tutulur; ilk iki kişi derlemesinin eski nüshaları ayırma kaydındadır.
+Dosya başına bir grup (hanedan, vezirler, ulemâ, yabancı hükümdarlar). Her kişi: doğum-ölüm, görevler, karakter çizgileri (çağdaş tasvirler), Kurgu temasları kaynak biyografisinden ayrı tutulur; ilk iki kişi derlemesi ile iki hanedan tablosunun eski nüshaları ayırma kaydındadır.
 
 ### 04-yerler
 Saray şehirleri ve sancak merkezleri: Edirne (1444–1453 payitaht), Bursa (türbeler, eski payitaht), Manisa (Saruhan sancağı, Murad'ın inzivası), Amasya (Rum beylerbeyliği, veliaht sancağı), İstanbul (1453 sonrası), Konya (Karaman), Trabzon, Kefe, Kütahya, Antalya; ayrıca savaş alanları (Varna, Kosova, Otlukbeli, Çaldıran).
