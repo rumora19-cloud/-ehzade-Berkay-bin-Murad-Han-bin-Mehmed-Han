@@ -96,4 +96,4 @@ II. Murad 1444 yazında gördüğü rüyayı 3 Şubat 1451'de ölürken vasiyete
 | Orhan'ın 1481 öncesi sancağı | **Manisa (Saruhan) 1468–80** — Mustafa Konya'ya geçince; Selim 10 Ekim 1470'te Manisa'da doğar. Üç sancak, üç şehzade: Bayezid Amasya, Cem Konya, Orhan Manisa | ✔ kesin |
 | Roma'nın fethi sayfada gösterilsin mi? | ✔ **Hayır** — hikâye 1520'de biter; Roma Süleyman'ındır ve hikâye dışıdır. Epilog (30 Eyl 1520, Alâeddin Ali'nin defteri) Roma'ya yalnız bakar: Papa'nın elindeki Murad "Pierre", Napoli'den görünen yol. Konstantiniyye'nin aynası olarak Roma **vaat** olarak kalır | Karar verildi; yazar isterse epilog sahnesi genişler |
 | Defter tashihi C1–C14 | §F varsayılanlarıyla uygulandı (C1, C3–C6, C9–C12 deftere işlendi; C2 `[T]`; C7–8, C13–14, §XX dokunulmadı) — döküm tashih §H | ✔ yapıldı |
-| Hâlâ açık (yalnız yazar) | Gevherhan'ın evliliği; Alâeddin Ali'nin ölüm yılı (⚙ 1520'yi görür) | ⚙ |
+| Açık kalan yok | Gevherhan'ın evliliği **gerçek tarihe bağlandı (1474)**; **Alâeddin Ali'nin ölümü 1527** kabul edildi (yazara vekâleten, 15 Eki 2026; ⚙ geri alınabilir). Hâtimenin (30 Eyl 1520) son tanığı 1520'yi görür | ✔ |

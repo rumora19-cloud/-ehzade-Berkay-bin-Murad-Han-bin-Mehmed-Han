@@ -6,7 +6,7 @@
 | `01-catal-noktalari.md` | Yıl yıl "gerçekte → bizde" tablosu (✔ aynı · ✎ değişti · ✖ silindi · ★ yeni); her satır `kaynaklar/01-kronoloji` dosyalarına bağlı. |
 | `02-bolum-plani.md` | ✔ **Yıl yıl plan 1444–1520:** 77 satır — hicrî yılbaşı, yaşlar, gerçek tarih, hikâye, göz, kaynak, durum, **kalıp** (tam bölüm / kısa bölüm / defter yaprağı 400–900 kelime). Kitap bölümlemesi kaldırıldı (yazar, 15 Ekim 2026); yıllar sırayla yazılır. |
 | `03-el-yazmasi-sirasi.md` | **El yazmasının sırası:** epigraf (ebced 848 — "Bir ok u bir kral") → 1444 defteri → "Kâtip Tursun'un Defteri" → 1445…1520 → hâtime (30 Eylül 1520) → ekler. Dosya düzeni ve cilt planı (`KILAVUZ.md` §10). |
-| `yillar/` | **Yıl metinleri.** Dosya adı: `YYYY-kisa-baslik.md`; her yıl künye ile başlar, "⚑ Çatal ve kâtip notları" tablosuyla biter. Yazılanlar: `1444-saf-beni-gecti.md` (Varna, 10 Kasım 1444; yılın ikinci sesi defter), `1445-golge.md` (Manisa: Murad ve Akşemseddin), `1446-bucuk.md` (Edirne–Bursa–Manisa–Amasya: Buçuktepe, vasiyet, ikizlerin vedası; göz: Mehmed). Sırada: 1447. |
+| `yillar/` | **Yıl metinleri.** Dosya adı: `YYYY-kisa-baslik.md`; her yıl künye ile başlar, "⚑ Çatal ve kâtip notları" tablosuyla biter. Yazılanlar: `1444-saf-beni-gecti.md` (Varna, 10 Kasım 1444; yılın ikinci sesi defter), `1445-golge.md` (Manisa: Murad ve Akşemseddin), `1446-bucuk.md` (Edirne–Bursa–Manisa–Amasya: Buçuktepe, vasiyet, ikizlerin vedası; göz: Mehmed), `1447-konak.md` (**defter yaprağı**: Amasya'da ilk tam yıl; göz: Berkay, Meryem), `1448-sofyadan-kosovaya.md` (**kısa bölüm**: Kocacık – Sofya – **II. Kosova**; göz: Lala, Berkay), `1449-anne.md` (**kısa bölüm**: Hüma Hatun'un ölümü, Muradiye; göz: Berkay), `1450-dugun.md` (**tam bölüm**: Amasya'da nikâh, Akçahisar'ın gölgesi; göz: Meryem, Berkay). Sırada: 1451. |
 | `notlar/` | Sahne araştırma notları, taslaklar. `1453-yirmi-bes-gun.md` — fethin 25 günü gün gün (yazar plan verisi, 15 Ekim 2026). |
 
 Kişiler: `../karakter/` — Berkay'ın defteri (+ Zeyl: Murad'ın rüyası), tashih, Berkay soyu, Mehmed soyu, çevre kişiler.
@@ -25,5 +25,5 @@ Kişiler: `../karakter/` — Berkay'ın defteri (+ Zeyl: Murad'ın rüyası), ta
 > **Kaynak:** kaynaklar/01-kronoloji/01-…md §8; 04-yerler/edirne.md; 06-gunluk-hayat/takvim-ve-zaman.md
 ```
 
-## Bekleyen yazar kararları
-Tek şey kaldı: **Alâeddin Ali'nin ölüm yılı** (öneri: 1527; `00-ana-hat.md` §7). Gevherhan'ın evliliği 15 Ekim 2026'da gerçek tarihe bağlandı (1474, Uğurlu Mehmed Mirza).
+## Yazar kararları
+Bekleyen karar kalmadı: Gevherhan'ın evliliği gerçek tarihe bağlandı (1474, Uğurlu Mehmed Mirza); **Alâeddin Ali'nin ölümü 1527** olarak kabul edildi (yazara vekâleten, 15 Ekim 2026 — geri alınabilir).
