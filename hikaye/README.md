@@ -14,6 +14,10 @@
 
 Kişiler: `../karakter/` — Berkay'ın defteri (+ Zeyl: Murad'ın rüyası), tashih, Berkay soyu, Mehmed soyu, çevre kişiler.
 
+## Aylık vekayinâme çalışması — 16 Ekim 2026
+
+Yazarın yeni kapsam talebi: **11 Kasım 1444 – 11 Kasım 1445** arasını ay ay, tarihî belge üslubunda; yalnız Berkay'ı değil devlet, savaşlar ve dönemin diğer gelişmelerini de kapsayarak yazmak. Talep kaydı, önerilen takvim bölünmesi ve kaynak/kurgu yöntemi: [`notlar/1444-1445-aylik-vekayiname.md`](notlar/1444-1445-aylik-vekayiname.md). Bu bir çalışma esasıdır; aylık metinler henüz yazılmadı, eski yıl dosyaları veya açık denetim işleri onaylanmış sayılmaz.
+
 ## Çalışma sırası (bölüm yazarken)
 1. `02-bolum-plani.md` satırı → `01-catal-noktalari.md` o yılın satırı → `kaynaklar/01-kronoloji` gerçek ayrıntı → `kaynaklar/06-gunluk-hayat/takvim-ve-zaman.md` gün/ay → `kaynaklar/05-kurumlar/saray-divan…` §7 hitap → `kaynaklar/04-yerler` mekân.
 2. Bölüm başına künye (aşağıda); bölüm sonuna "⚑ çatal" listesi; yeni sapma `01-catal-noktalari.md`'ye işlenir.

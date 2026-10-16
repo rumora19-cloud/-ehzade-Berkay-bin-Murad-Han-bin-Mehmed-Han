@@ -288,7 +288,7 @@ Berkay ile arasındaki ilişki yalnız baba-oğul değil, sultan ile yetiştiril
 
 ### Annesi Hüma Hatun
 
-Manisa sarayındadır; Varna haberini bekler. Berkay'ın sert kabuğu yalnız onun huzurunda yumuşar; elini öperken başını eğdiği o anda on üç yaşındaki gerçek çocuk yüzü ortaya çıkar. Hüma Hatun sağdır.
+Edirne Sarayı'nda Valide Hatun sıfatıyla bulunur; Varna haberini bekler. Berkay'ın sert kabuğu yalnız onun huzurunda yumuşar; elini öperken başını eğdiği o anda on üç yaşındaki gerçek çocuk yüzü ortaya çıkar. Hüma Hatun sağdır.
 
 ### Ağabeyi Şehzâde Alâeddin Ali Çelebi (geçen sene vefat etti)
 
@@ -647,7 +647,7 @@ Bunlar, on üç yaşındaki bir şehzâdenin elinde hazır bir sefer tedbiri de�
 | **Molla Gürânî, Akşemseddin** | Hocalar; Akşemseddin Murad'ın rüyasını bilen tek kişi. | İlim ve manevî rehber. |
 | **Hunyadi Yanoş** | Eflak tarafına çekildi. | Berkay'ın adını esirlerden duyacak. |
 | **Mara Hatun** | Manisa sarayında. | Üvey anne; Sırp ve Rumeli siyasetinin kulağı; Berkay'a mesafeli bir sıcaklıkla bakar. |
-| **Hüma Hatun** | Manisa sarayında; sağdır. | Berkay'ın yumuşak yanı; elini öpmeye eğildiğinde çocuk yüzü ortaya çıkar. |
+| **Hüma Hatun** | Edirne Sarayı'nda Valide Hatun sıfatıyla bulunur; sağdır. | Berkay'ın yumuşak yanı; elini öpmeye eğildiğinde çocuk yüzü ortaya çıkar. |
 
 ### Maiyetin kısa künyesi
 
