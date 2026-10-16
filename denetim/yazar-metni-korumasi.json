@@ -1,6 +1,12 @@
 {
   "path": "karakter/sehzade-berkay-ahval-defteri.md",
-  "sha256": "a7e2cdf94599afd7c79ff14524f0e09ca2a53dd46b4e9984be1a1e26f7d81518",
-  "verified_against_commit": "43f6a20d3d5fbe508cf5f0d014642e7d900fcb2b",
-  "note": "Salt okunur koruma kaydı. Yeni yazar onayı olmadan güncellenmez. Hash denetimi eski Git nesnesi olmayan sığ klonda da çalışır."
+  "sha256": "a89a6d9b30d34679e9f88c05ff10c0f2dc8b235970d7fdcbcb0e1d9980ef13e5",
+  "note": "İlk korunan nüshanın commit ve özeti saklandı. Güncel SHA-256, 16 Ekim 2026 açık yazar düzeltmesi sonrasındaki deftere aittir. Yeni yazar onayı olmadan güncellenmez.",
+  "previous_sha256": "a7e2cdf94599afd7c79ff14524f0e09ca2a53dd46b4e9984be1a1e26f7d81518",
+  "original_verified_against_commit": "43f6a20d3d5fbe508cf5f0d014642e7d900fcb2b",
+  "author_amendment": {
+    "date": "2026-10-16",
+    "scope": "Hüma Hatun'un §IX ve kişi tablosundaki iki Manisa kaydı: Edirne Sarayı'nda Valide Hatun sıfatıyla.",
+    "record": "karakter/tashih-notlari.md#j-hüma-hatunun-konumu--uygulandı-16-ekim-2026"
+  }
 }

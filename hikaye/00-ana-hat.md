@@ -20,6 +20,7 @@ II. Murad 1444 yazında gördüğü rüyayı 3 Şubat 1451'de ölürken vasiyete
 
 ### 2a. Çocukluk, sancak, rüya, aşk
 - d. 27 Receb 835 = **30 Mart 1432 Pazar**, Edirne; annesi Hüma Hatun; Mehmed'in ikizi (`karakter/sehzade-berkay-ahval-defteri.md`).
+- **✔ Yazar düzeltmesi (16 Ekim 2026):** 11 Kasım 1444 başlangıcında Hüma Hatun Manisa'da değil, **Edirne Sarayı'nda Valide Hatun sıfatıyla** bulunur. 1444–1445 aylık çalışmasında bu konum esas alınır; sonraki hareketleri ayrıca belirlenir. Bu kayıt tarihî doğrulama iddiası değildir.
 - 1434–43 Amasya'da büyür (defter; tashih C2 `[T]`); 1443 sonu – 1444 yazı **Amasya (Rûm) beyi**; 1444 yazı – 1446 **Manisa (Saruhan) beyi**, babası Murad'ın gölgesinde (✔).
 - **Rüya (✔; metin defterin Zeyl'inde):** 1444 yazı, Manisa. Murad kendini Bursa'da babası Çelebi Mehmed'in huzurunda görür; Çelebi Mehmed sarığını küçük Berkay'ın başına koyar: *"Bu koca çınar artık sana emânet oğul… Sabret, bekle — vakti geldiğinde bu emânet zaten senin olacaktır."* Yalnız **Akşemseddin** bilir; **Berkay hiç haberdar değildir.** Tabir iki türlü: taht mı, kardeşin kardeşe kıymaması mı — Murad hangisini kastettiğini bilmez.
 - **10 Kas 1444 Varna:** Kral Vladislav'ı yıkan ok Berkay'ın; Varna akşamı kazan başında **"kral vuran!"** nârası çıkar; ocağın dile ve deftere geçirdiği tek lâkap **"Şâh-küş Şehzâde"** olur — uzun resmî biçim: *«Yek tîr ile taht-ı Engürüs'ü bî-şâh koyan Şehzâde-i Şâh-küş Berkay bin Murad Han — tâle bekāhu»* (✔ "Çelebi" ve "Bahadır" kullanılmaz). Defter 11 Kas 1444. **Epigraf/ebced: «Bir ok u bir kral» = 848.**

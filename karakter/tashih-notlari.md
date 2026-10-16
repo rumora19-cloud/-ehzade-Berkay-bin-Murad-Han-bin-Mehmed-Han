@@ -271,3 +271,12 @@ Yazarın 15 Ekim 2026 tarihli devir notu on madde hâlinde işlendi. Defter metn
 | 10 | Zeyl başı | — | "**Zeyl — defterin aslında yoktur.** Fî evâhir-i Safer 863 (Ocak 1459) Göynük'te Akşemseddin hazretlerinin ağzından dinlenip kâtibi Tursun eliyle bu nüshaya ilhak olundu." |
 
 Dokunulmayanlar: §XX mektup metni ve hâşiyesi (F7), Zeyl'in rüya metni, yazar notu. Kişi kuralı ve diğer maddelerin dökümü: `KILAVUZ.md` §9–10; yıl dosyaları ve `hikaye/` dosyalarındaki değişiklikler kendi "⚑ Çatal ve kâtip notları" tablolarında işaretlidir.
+
+
+## J. Hüma Hatun'un konumu — ✔ uygulandı (16 Ekim 2026)
+
+- **Açık yazar düzeltmesi:** “hüma hatun manisa da değil edirne sarayı'nda valide hatun sıfatıyla orada”.
+- Ahvâl Defteri §IX “Annesi Hüma Hatun” paragrafı ve kişi tablosundaki Manisa kaydı, **Edirne Sarayı'nda Valide Hatun sıfatıyla bulunur** biçiminde düzeltildi. Varna haberini beklemesi ve paragrafın diğer ayrıntıları değiştirilmedi.
+- Bu karar 11 Kasım 1444 başlangıç durumuna ve 1444–1445 aylık çalışmasının ilgili kayıtlarına esas alınır; Edirne'den hiç ayrılmayacağına ilişkin yeni bir olay veya sonraki yıllar için ikamet kararı çıkarılmaz.
+- Bu bir **yazarın kurgu kararı kaydıdır**; ikametin ve unvanın bağımsız tarihî kaynaklarla doğrulandığı ileri sürülmez. Tarihî kaynak arşivi ve kayıpsız eski nüshalar değiştirilmedi. Eski aktarımlardaki Hüma'nın Murad'la Manisa'ya gittiği kurgu önerisi bu başlangıç kaydı için geçerli değildir.
+- Koruma kaydına önceki SHA-256 ve bu açık onayın kapsamı eklenerek yeni defter özeti kaydedildi; başka bir defter düzeltmesi yapılmadı.
